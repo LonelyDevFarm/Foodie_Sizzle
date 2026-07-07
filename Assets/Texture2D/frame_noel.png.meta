@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 62b04419b3ed34f4a94074464f0c9ccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5236936629762729606
+    second: frame_noel_0
+  - first:
+      213: 823200595750202034
+    second: frame_noel_1
+  - first:
+      213: -5924230328849962653
+    second: frame_noel_2
+  - first:
+      213: 6941933950357075496
+    second: frame_noel_3
+  - first:
+      213: -2946852138265441606
+    second: frame_noel_4
+  - first:
+      213: 5739692601397009224
+    second: frame_noel_5
+  - first:
+      213: 7420794807162524078
+    second: frame_noel_6
+  - first:
+      213: 4711806493333309985
+    second: frame_noel_7
+  - first:
+      213: 1392137372309992974
+    second: frame_noel_8
+  - first:
+      213: 6662374028624007625
+    second: frame_noel_9
+  - first:
+      213: -4754920133536331824
+    second: frame_noel_10
+  - first:
+      213: -4910703740729979171
+    second: frame_noel_11
+  - first:
+      213: -6917580025046250124
+    second: frame_noel_12
+  - first:
+      213: -7168710532748530299
+    second: frame_noel_13
+  - first:
+      213: 4980001668472404998
+    second: frame_noel_14
+  - first:
+      213: -1901941025068552542
+    second: frame_noel_15
+  - first:
+      213: -7441303549791124147
+    second: frame_noel_16
+  - first:
+      213: 7851455879182564026
+    second: frame_noel_17
+  - first:
+      213: 3955168443991120175
+    second: frame_noel_18
+  - first:
+      213: 6929973538260223733
+    second: frame_noel_19
+  - first:
+      213: 1519568716570831777
+    second: frame_noel_20
+  - first:
+      213: -4456568372372598592
+    second: frame_noel_21
+  - first:
+      213: 1739705976513611176
+    second: frame_noel_22
+  - first:
+      213: 8939156417038682533
+    second: frame_noel_23
+  - first:
+      213: -1836323497737496364
+    second: frame_noel_24
+  - first:
+      213: -6335631553034353649
+    second: frame_noel_25
+  - first:
+      213: 7801091853119180025
+    second: frame_noel_26
+  - first:
+      213: 4020027026560579312
+    second: frame_noel_27
+  - first:
+      213: -4622693269527649188
+    second: frame_noel_28
+  - first:
+      213: -4516147769707989114
+    second: frame_noel_29
+  - first:
+      213: -1257548297050559461
+    second: frame_noel_30
+  - first:
+      213: 1639148560703075214
+    second: frame_noel_31
+  - first:
+      213: -4345878072227924284
+    second: frame_noel_32
+  - first:
+      213: -9108142230458426090
+    second: frame_noel_33
+  - first:
+      213: -4658532326164098895
+    second: frame_noel_34
+  - first:
+      213: 980050090705055151
+    second: frame_noel_35
+  - first:
+      213: 8642250435016529911
+    second: frame_noel_36
+  - first:
+      213: -2450112023527301366
+    second: frame_noel_37
+  - first:
+      213: 1426715670198405034
+    second: frame_noel_38
+  - first:
+      213: -9111495371067318641
+    second: frame_noel_39
+  - first:
+      213: 7959341087400553528
+    second: frame_noel_40
+  - first:
+      213: 5379402855611053244
+    second: frame_noel_41
+  - first:
+      213: -7567956717893782669
+    second: frame_noel_42
+  - first:
+      213: 5310293481772194207
+    second: frame_noel_43
+  - first:
+      213: -6821629840275722560
+    second: frame_noel_44
+  - first:
+      213: 7995991199885766763
+    second: frame_noel_45
+  - first:
+      213: -3103324127820034535
+    second: frame_noel_46
+  - first:
+      213: 8803809362000444029
+    second: frame_noel_47
+  - first:
+      213: -3581335959564810385
+    second: frame_noel_48
+  - first:
+      213: -5926739426969907048
+    second: frame_noel_49
+  - first:
+      213: 2241957209682311819
+    second: frame_noel_50
+  - first:
+      213: 6698695107973975967
+    second: frame_noel_51
+  - first:
+      213: -2105357513138780695
+    second: frame_noel_52
+  - first:
+      213: 1384280900119195018
+    second: frame_noel_53
+  - first:
+      213: -2695958589010739702
+    second: frame_noel_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frame_noel_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 157
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d2c7b1e9a257b0800000000000000
+      internalID: -5236936629762729606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 180
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa49094989c6b00800000000000000
+      internalID: 823200595750202034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 235
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696d4167e7e8cda0800000000000000
+      internalID: -5924230328849962653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 220
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826f14dd524b65060800000000000000
+      internalID: 6941933950357075496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 246
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8615e79daa17d0800000000000000
+      internalID: -2946852138265441606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 146
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd432c20c77af40800000000000000
+      internalID: 5739692601397009224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 219
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea15cff5f85fbf660800000000000000
+      internalID: 7420794807162524078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 253
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac28d9a03b36140800000000000000
+      internalID: 4711806493333309985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 186
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063513709dd15310800000000000000
+      internalID: 1392137372309992974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 185
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11ce851e1857c50800000000000000
+      internalID: 6662374028624007625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 229
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c639c451230eb0800000000000000
+      internalID: -4754920133536331824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 214
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8b9047fca9dbb0800000000000000
+      internalID: -4910703740729979171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 205
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dc7cd3e91dfff90800000000000000
+      internalID: -6917580025046250124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 206
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d2ced70cf938c90800000000000000
+      internalID: -7168710532748530299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c762ed1258c1540800000000000000
+      internalID: 4980001668472404998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 187
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeeb01f6b2fa95e0800000000000000
+      internalID: -1901941025068552542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 169
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c8d0e8dd2bb890800000000000000
+      internalID: -7441303549791124147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 32
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3458f589f5fc60800000000000000
+      internalID: 7851455879182564026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 174
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29dce29eb493e630800000000000000
+      internalID: 3955168443991120175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 173
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f68bda67363c2060800000000000000
+      internalID: 6929973538260223733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 158
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab200b52b7961510800000000000000
+      internalID: 1519568716570831777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c09d7f5da61722c0800000000000000
+      internalID: -4456568372372598592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5c7b74e5da42810800000000000000
+      internalID: 1739705976513611176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 180
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a98e3d46634e0c70800000000000000
+      internalID: 8939156417038682533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 150
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d857a012811486e0800000000000000
+      internalID: -1836323497737496364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 148
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0481ad8ba05318a0800000000000000
+      internalID: -6335631553034353649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 149
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fccc5d55bb034c60800000000000000
+      internalID: 7801091853119180025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 145
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6fc9918410ac730800000000000000
+      internalID: 4020027026560579312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 165
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542734a6f4e8dfb0800000000000000
+      internalID: -4622693269527649188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687f161f78b6351c0800000000000000
+      internalID: -4516147769707989114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 98
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c67629c7a4c8ee0800000000000000
+      internalID: -1257548297050559461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83bcce6eec6fb610800000000000000
+      internalID: 1639148560703075214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6f1b33be650b3c0800000000000000
+      internalID: -4345878072227924284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 158
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d9acdf5e0699180800000000000000
+      internalID: -9108142230458426090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 149
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b090540881995fb0800000000000000
+      internalID: -4658532326164098895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 107
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad609e6d56d99d00800000000000000
+      internalID: 980050090705055151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f710276bf07fe770800000000000000
+      internalID: 8642250435016529911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fddb988147ffdd0800000000000000
+      internalID: -2450112023527301366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 133
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c8adc756bcc310800000000000000
+      internalID: 1426715670198405034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 118
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9aea1c377d8180800000000000000
+      internalID: -9111495371067318641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 117
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c6ea07c82457e60800000000000000
+      internalID: 7959341087400553528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 116
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb43b68556a77aa40800000000000000
+      internalID: 5379402855611053244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_42
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 108
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f86a367739f690800000000000000
+      internalID: -7567956717893782669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_43
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 102
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f999a1a59c3f1b940800000000000000
+      internalID: 5310293481772194207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_44
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 101
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce29258dc3b451a0800000000000000
+      internalID: -6821629840275722560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 111
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603758b1a777fe60800000000000000
+      internalID: 7995991199885766763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e436ad527cee4d0800000000000000
+      internalID: -3103324127820034535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 81
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a7b4c58f96d2a70800000000000000
+      internalID: 8803809362000444029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 87
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f678ec46be98c4ec0800000000000000
+      internalID: -3581335959564810385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_49
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 78
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890182374edffbda0800000000000000
+      internalID: -5926739426969907048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_50
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 41
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a7dbc24380d1f10800000000000000
+      internalID: 2241957209682311819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8f61a5bb86fc50800000000000000
+      internalID: 6698695107973975967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_52
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 32
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c9281f7448c2e0800000000000000
+      internalID: -2105357513138780695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 34
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d66f8f424f53310800000000000000
+      internalID: 1384280900119195018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_noel_54
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef9d472f7069ad0800000000000000
+      internalID: -2695958589010739702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frame_noel_0: -5236936629762729606
+      frame_noel_1: 823200595750202034
+      frame_noel_10: -4754920133536331824
+      frame_noel_11: -4910703740729979171
+      frame_noel_12: -6917580025046250124
+      frame_noel_13: -7168710532748530299
+      frame_noel_14: 4980001668472404998
+      frame_noel_15: -1901941025068552542
+      frame_noel_16: -7441303549791124147
+      frame_noel_17: 7851455879182564026
+      frame_noel_18: 3955168443991120175
+      frame_noel_19: 6929973538260223733
+      frame_noel_2: -5924230328849962653
+      frame_noel_20: 1519568716570831777
+      frame_noel_21: -4456568372372598592
+      frame_noel_22: 1739705976513611176
+      frame_noel_23: 8939156417038682533
+      frame_noel_24: -1836323497737496364
+      frame_noel_25: -6335631553034353649
+      frame_noel_26: 7801091853119180025
+      frame_noel_27: 4020027026560579312
+      frame_noel_28: -4622693269527649188
+      frame_noel_29: -4516147769707989114
+      frame_noel_3: 6941933950357075496
+      frame_noel_30: -1257548297050559461
+      frame_noel_31: 1639148560703075214
+      frame_noel_32: -4345878072227924284
+      frame_noel_33: -9108142230458426090
+      frame_noel_34: -4658532326164098895
+      frame_noel_35: 980050090705055151
+      frame_noel_36: 8642250435016529911
+      frame_noel_37: -2450112023527301366
+      frame_noel_38: 1426715670198405034
+      frame_noel_39: -9111495371067318641
+      frame_noel_4: -2946852138265441606
+      frame_noel_40: 7959341087400553528
+      frame_noel_41: 5379402855611053244
+      frame_noel_42: -7567956717893782669
+      frame_noel_43: 5310293481772194207
+      frame_noel_44: -6821629840275722560
+      frame_noel_45: 7995991199885766763
+      frame_noel_46: -3103324127820034535
+      frame_noel_47: 8803809362000444029
+      frame_noel_48: -3581335959564810385
+      frame_noel_49: -5926739426969907048
+      frame_noel_5: 5739692601397009224
+      frame_noel_50: 2241957209682311819
+      frame_noel_51: 6698695107973975967
+      frame_noel_52: -2105357513138780695
+      frame_noel_53: 1384280900119195018
+      frame_noel_54: -2695958589010739702
+      frame_noel_6: 7420794807162524078
+      frame_noel_7: 4711806493333309985
+      frame_noel_8: 1392137372309992974
+      frame_noel_9: 6662374028624007625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

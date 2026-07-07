@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 2e3b910a8a86c414fac1113136d08b62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3094638478031232764
+    second: blackfriday4_0
+  - first:
+      213: -2765385265285090929
+    second: blackfriday4_1
+  - first:
+      213: -1485531286076335739
+    second: blackfriday4_2
+  - first:
+      213: -4586077249797477740
+    second: blackfriday4_3
+  - first:
+      213: -7733904081591103009
+    second: blackfriday4_4
+  - first:
+      213: -3723367299734288463
+    second: blackfriday4_5
+  - first:
+      213: 2017404856627273903
+    second: blackfriday4_6
+  - first:
+      213: 7041091350513510469
+    second: blackfriday4_7
+  - first:
+      213: 6974714734587223326
+    second: blackfriday4_8
+  - first:
+      213: -940145677106042182
+    second: blackfriday4_9
+  - first:
+      213: 8573343134888316243
+    second: blackfriday4_10
+  - first:
+      213: 5881088480636178328
+    second: blackfriday4_11
+  - first:
+      213: 3404491282962930767
+    second: blackfriday4_12
+  - first:
+      213: -7614459311024523707
+    second: blackfriday4_13
+  - first:
+      213: -4877616002269715349
+    second: blackfriday4_14
+  - first:
+      213: 5042848196914629925
+    second: blackfriday4_15
+  - first:
+      213: 4809157651312092850
+    second: blackfriday4_16
+  - first:
+      213: 3813460817421248497
+    second: blackfriday4_17
+  - first:
+      213: 4011244066179724971
+    second: blackfriday4_18
+  - first:
+      213: -2040166606889087350
+    second: blackfriday4_19
+  - first:
+      213: -5037997983015284110
+    second: blackfriday4_20
+  - first:
+      213: 2913857602592585921
+    second: blackfriday4_21
+  - first:
+      213: 2832439655703860488
+    second: blackfriday4_22
+  - first:
+      213: -8131308238554301038
+    second: blackfriday4_23
+  - first:
+      213: 2892460282337427386
+    second: blackfriday4_24
+  - first:
+      213: 6582708366853242233
+    second: blackfriday4_25
+  - first:
+      213: 1766745109012605463
+    second: blackfriday4_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blackfriday4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 113
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe9e47bc4d52fa20800000000000000
+      internalID: 3094638478031232764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 467
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81359bb0c06f99d0800000000000000
+      internalID: -2765385265285090929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 468
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d0be7a25526be0800000000000000
+      internalID: -1485531286076335739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 467
+        width: 130
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a22551a0bfa50c0800000000000000
+      internalID: -4586077249797477740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 467
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd191d9b637aba490800000000000000
+      internalID: -7733904081591103009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 464
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7480b0b21f35cc0800000000000000
+      internalID: -3723367299734288463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 511
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0aa6747034ffb10800000000000000
+      internalID: 2017404856627273903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 419
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ee6a274bf6b160800000000000000
+      internalID: 7041091350513510469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 427
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d11c4f81a2bc060800000000000000
+      internalID: 6974714734587223326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 351
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa9fedc7ee3f2f0800000000000000
+      internalID: -940145677106042182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 338
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d4d8c5822aaf670800000000000000
+      internalID: 8573343134888316243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 465
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f06f450d2dd9150800000000000000
+      internalID: 5881088480636178328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 464
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c5be9b8ce2f3f20800000000000000
+      internalID: 3404491282962930767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 311
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b7b98991045690800000000000000
+      internalID: -7614459311024523707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 331
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e3f1b61a3f4cb0800000000000000
+      internalID: -4877616002269715349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 222
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dc05987bbcbf540800000000000000
+      internalID: 5042848196914629925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 235
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b62f43676f8db240800000000000000
+      internalID: 4809157651312092850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7a34ba8622ce430800000000000000
+      internalID: 3813460817421248497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba63908c93dcaa730800000000000000
+      internalID: 4011244066179724971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 115
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e03c1c74fdfa3e0800000000000000
+      internalID: -2040166606889087350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 115
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725d33e68f651ab0800000000000000
+      internalID: -5037997983015284110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 111
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83a902d0a107820800000000000000
+      internalID: 2913857602592585921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80555f52cd8de4720800000000000000
+      internalID: 2832439655703860488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d73c11d3ac72f80800000000000000
+      internalID: -8131308238554301038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff5a74d45142820800000000000000
+      internalID: 2892460282337427386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d774a026a7a5b50800000000000000
+      internalID: 6582708366853242233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackfriday4_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aea57e05db48810800000000000000
+      internalID: 1766745109012605463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blackfriday4_0: 3094638478031232764
+      blackfriday4_1: -2765385265285090929
+      blackfriday4_10: 8573343134888316243
+      blackfriday4_11: 5881088480636178328
+      blackfriday4_12: 3404491282962930767
+      blackfriday4_13: -7614459311024523707
+      blackfriday4_14: -4877616002269715349
+      blackfriday4_15: 5042848196914629925
+      blackfriday4_16: 4809157651312092850
+      blackfriday4_17: 3813460817421248497
+      blackfriday4_18: 4011244066179724971
+      blackfriday4_19: -2040166606889087350
+      blackfriday4_2: -1485531286076335739
+      blackfriday4_20: -5037997983015284110
+      blackfriday4_21: 2913857602592585921
+      blackfriday4_22: 2832439655703860488
+      blackfriday4_23: -8131308238554301038
+      blackfriday4_24: 2892460282337427386
+      blackfriday4_25: 6582708366853242233
+      blackfriday4_26: 1766745109012605463
+      blackfriday4_3: -4586077249797477740
+      blackfriday4_4: -7733904081591103009
+      blackfriday4_5: -3723367299734288463
+      blackfriday4_6: 2017404856627273903
+      blackfriday4_7: 7041091350513510469
+      blackfriday4_8: 6974714734587223326
+      blackfriday4_9: -940145677106042182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

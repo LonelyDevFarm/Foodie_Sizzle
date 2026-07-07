@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 44ea874723d80a741ab3e4706d51c4c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5193953234656426125
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_0
+  - first:
+      213: 3795468502252974126
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_1
+  - first:
+      213: 3300604547023961201
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_2
+  - first:
+      213: -8453974131554525847
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_3
+  - first:
+      213: 2381814964633035857
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_4
+  - first:
+      213: 1696562308556566302
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_5
+  - first:
+      213: -3258741127885514832
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_6
+  - first:
+      213: 6101433000170304217
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_7
+  - first:
+      213: -7060919749902675261
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_8
+  - first:
+      213: -1230437881916444710
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_9
+  - first:
+      213: -8779724450775066177
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_10
+  - first:
+      213: -8951138613073061089
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_11
+  - first:
+      213: -8245784026318221935
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_12
+  - first:
+      213: 5454729199906645166
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_13
+  - first:
+      213: 3478208331648729230
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_14
+  - first:
+      213: -218415027850531785
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_15
+  - first:
+      213: 1600487856742930785
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_16
+  - first:
+      213: -7647884551034191530
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_17
+  - first:
+      213: 1344915869268169614
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_18
+  - first:
+      213: -8899613747729424595
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_19
+  - first:
+      213: -7518717607549349396
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_20
+  - first:
+      213: 7630693403293480037
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_21
+  - first:
+      213: 5348250714379192495
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_22
+  - first:
+      213: -2562164576565909451
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_23
+  - first:
+      213: 2823773150944203867
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_24
+  - first:
+      213: 459723427957668011
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_25
+  - first:
+      213: 4938197652814602711
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_26
+  - first:
+      213: 8282401554733238975
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_27
+  - first:
+      213: -19646791213654068
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_28
+  - first:
+      213: 2721522666401101227
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_29
+  - first:
+      213: -3379925300549065846
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_30
+  - first:
+      213: 980432786829417333
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_31
+  - first:
+      213: 6184188337087690394
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_32
+  - first:
+      213: -4670612130638590658
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_33
+  - first:
+      213: 7102802074440171393
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_34
+  - first:
+      213: -8235425809014754334
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_35
+  - first:
+      213: -6414995285573217960
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_36
+  - first:
+      213: 2525397856873453802
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_37
+  - first:
+      213: -1696285619771341018
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_38
+  - first:
+      213: 5534385616582514853
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_39
+  - first:
+      213: -4667686267074889102
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_40
+  - first:
+      213: -4982549346342265152
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_41
+  - first:
+      213: 9074177741410093785
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_42
+  - first:
+      213: -8120240930096064227
+    second: sactx-0-4096x4096-Crunch-CapyLift-8132215d_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3822
+        width: 798
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37700544d0f5be7b0800000000000000
+      internalID: -5193953234656426125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 3857
+        width: 171
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f8f85e763ca430800000000000000
+      internalID: 3795468502252974126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 3784
+        width: 314
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf661295a1ecd20800000000000000
+      internalID: 3300604547023961201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_3
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3956
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd95481537daa80800000000000000
+      internalID: -8453974131554525847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_4
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3413
+        width: 249
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15469a74718ed0120800000000000000
+      internalID: 2381814964633035857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3823
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fa4dc4e666b8710800000000000000
+      internalID: 1696562308556566302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_6
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3632
+        width: 264
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79d61b530a6c2d0800000000000000
+      internalID: -3258741127885514832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 3828
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d23ff3acf4aca450800000000000000
+      internalID: 6101433000170304217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_8
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3783
+        width: 335
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d287d5e2920e90800000000000000
+      internalID: -7060919749902675261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3746
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfaf2af34b9ceee0800000000000000
+      internalID: -1230437881916444710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3726
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99db50127282680800000000000000
+      internalID: -8779724450775066177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_11
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3780
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b5f784bda27c380800000000000000
+      internalID: -8951138613073061089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3634
+        width: 109
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d46b8bd17119d80800000000000000
+      internalID: -8245784026318221935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2641
+        width: 1278
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e2629e4713bb40800000000000000
+      internalID: 5454729199906645166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3428
+        width: 845
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800abe9c04154030800000000000000
+      internalID: 3478208331648729230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2907
+        width: 919
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cac5b70b808fcf0800000000000000
+      internalID: -218415027850531785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2511
+        width: 556
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691d78d933163610800000000000000
+      internalID: 1600487856742930785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 1445
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651c86465814dd590800000000000000
+      internalID: -7647884551034191530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_18
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2570
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83d3808bd91aa210800000000000000
+      internalID: 1344915869268169614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_19
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2530
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9768d2783e7480800000000000000
+      internalID: -8899613747729424595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_20
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2195
+        width: 260
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1db8bfb2628a790800000000000000
+      internalID: -7518717607549349396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_21
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2190
+        width: 180
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564793d983ba5e960800000000000000
+      internalID: 7630693403293480037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_22
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2058
+        width: 180
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80d4040bdc83a40800000000000000
+      internalID: 5348250714379192495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1347
+        width: 894
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53823bd74ec517cd0800000000000000
+      internalID: -2562164576565909451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_24
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1787
+        width: 318
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54905448be003720800000000000000
+      internalID: 2823773150944203867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_25
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1488
+        width: 197
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba87752a504416600800000000000000
+      internalID: 459723427957668011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_26
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1971
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1aeaef990088440800000000000000
+      internalID: 4938197652814602711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1347
+        width: 691
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba840df45001f270800000000000000
+      internalID: 8282401554733238975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_28
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1095
+        width: 421
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfdbb4f8533abff0800000000000000
+      internalID: -19646791213654068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_29
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1489
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f203227ac4c520800000000000000
+      internalID: 2721522666401101227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 947
+        height: 1347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83ea65c8d71811d0800000000000000
+      internalID: -3379925300549065846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_31
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 560
+        width: 522
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b1d11dc623b9d00800000000000000
+      internalID: 980432786829417333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_32
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 0
+        width: 1201
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96b9300786a2d550800000000000000
+      internalID: 6184188337087690394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 699
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d08ad5307ae2fb0800000000000000
+      internalID: -4670612130638590658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_34
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 691
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ff9ecbad8329260800000000000000
+      internalID: 7102802074440171393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_35
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 717
+        width: 400
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3779f1cd3e5bd80800000000000000
+      internalID: -8235425809014754334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_36
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 612
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8515a9f96cb59f6a0800000000000000
+      internalID: -6414995285573217960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_37
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 536
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8997f78f30c0320800000000000000
+      internalID: 2525397856873453802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_38
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 673
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6270de357359578e0800000000000000
+      internalID: -1696285619771341018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_39
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 540
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a89e6655661ecc40800000000000000
+      internalID: 5534385616582514853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_40
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 0
+        width: 424
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3800121c093fb0800000000000000
+      internalID: -4667686267074889102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_41
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 0
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1a67a4cd6adab0800000000000000
+      internalID: -4982549346342265152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_42
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 243
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da41892494fded70800000000000000
+      internalID: 9074177741410093785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CapyLift-8132215d_43
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19590f95eb1f4f80800000000000000
+      internalID: -8120240930096064227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_0: -5193953234656426125
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_1: 3795468502252974126
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_10: -8779724450775066177
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_11: -8951138613073061089
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_12: -8245784026318221935
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_13: 5454729199906645166
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_14: 3478208331648729230
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_15: -218415027850531785
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_16: 1600487856742930785
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_17: -7647884551034191530
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_18: 1344915869268169614
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_19: -8899613747729424595
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_2: 3300604547023961201
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_20: -7518717607549349396
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_21: 7630693403293480037
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_22: 5348250714379192495
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_23: -2562164576565909451
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_24: 2823773150944203867
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_25: 459723427957668011
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_26: 4938197652814602711
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_27: 8282401554733238975
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_28: -19646791213654068
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_29: 2721522666401101227
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_3: -8453974131554525847
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_30: -3379925300549065846
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_31: 980432786829417333
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_32: 6184188337087690394
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_33: -4670612130638590658
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_34: 7102802074440171393
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_35: -8235425809014754334
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_36: -6414995285573217960
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_37: 2525397856873453802
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_38: -1696285619771341018
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_39: 5534385616582514853
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_4: 2381814964633035857
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_40: -4667686267074889102
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_41: -4982549346342265152
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_42: 9074177741410093785
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_43: -8120240930096064227
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_5: 1696562308556566302
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_6: -3258741127885514832
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_7: 6101433000170304217
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_8: -7060919749902675261
+      sactx-0-4096x4096-Crunch-CapyLift-8132215d_9: -1230437881916444710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

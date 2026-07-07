@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9ab3b48fd309b8f42bb4335744b97492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4897310738788536775
+    second: ava_noel_0
+  - first:
+      213: -2812813115277772583
+    second: ava_noel_1
+  - first:
+      213: -6558881370248757924
+    second: ava_noel_2
+  - first:
+      213: -3961227167533367352
+    second: ava_noel_3
+  - first:
+      213: 7643862574374442594
+    second: ava_noel_4
+  - first:
+      213: 6462885429998513565
+    second: ava_noel_5
+  - first:
+      213: -855813909968338338
+    second: ava_noel_6
+  - first:
+      213: 5335461942551462906
+    second: ava_noel_7
+  - first:
+      213: 348298267596759968
+    second: ava_noel_8
+  - first:
+      213: 6170027869624686575
+    second: ava_noel_9
+  - first:
+      213: -678582629184652643
+    second: ava_noel_10
+  - first:
+      213: -6075540662660924764
+    second: ava_noel_11
+  - first:
+      213: -3296932293196907985
+    second: ava_noel_12
+  - first:
+      213: 3454752391814877284
+    second: ava_noel_13
+  - first:
+      213: 9222624387814315632
+    second: ava_noel_14
+  - first:
+      213: -5440176565903269738
+    second: ava_noel_15
+  - first:
+      213: -218451755511364825
+    second: ava_noel_16
+  - first:
+      213: 5451731548033966382
+    second: ava_noel_17
+  - first:
+      213: 6104713740400039279
+    second: ava_noel_18
+  - first:
+      213: -5373106764556311834
+    second: ava_noel_19
+  - first:
+      213: 7741316806054742636
+    second: ava_noel_20
+  - first:
+      213: -6107509296374635368
+    second: ava_noel_21
+  - first:
+      213: 6064947938428078590
+    second: ava_noel_22
+  - first:
+      213: -52079526225683088
+    second: ava_noel_23
+  - first:
+      213: 1128101974454530922
+    second: ava_noel_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ava_noel_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 334
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eadc384d1490cb0800000000000000
+      internalID: -4897310738788536775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 240
+        width: 149
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8fe44ef51e6f8d0800000000000000
+      internalID: -2812813115277772583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 241
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d356ae42c2af4a0800000000000000
+      internalID: -6558881370248757924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 290
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cffb8ce0e4e609c0800000000000000
+      internalID: -3961227167533367352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 290
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266dd713384741a60800000000000000
+      internalID: 7643862574374442594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 170
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9deb178e08c0b950800000000000000
+      internalID: 6462885429998513565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 296
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52cf7e78c98f14f0800000000000000
+      internalID: -855813909968338338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 298
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af345664e5e5b0a40800000000000000
+      internalID: 5335461942551462906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_8
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 296
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32df3dd6765d400800000000000000
+      internalID: 348298267596759968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 296
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe75d3f38a750a550800000000000000
+      internalID: 6170027869624686575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 296
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab2bca1b03596f0800000000000000
+      internalID: -678582629184652643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 240
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa77a7f4f75faba0800000000000000
+      internalID: -6075540662660924764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_12
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 170
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2afb771c81fe32d0800000000000000
+      internalID: -3296932293196907985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 278
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4609e0d0ffeb1ff20800000000000000
+      internalID: 3454752391814877284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 179
+        width: 48
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d68464085dff70800000000000000
+      internalID: 9222624387814315632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_15
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 279
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6906ee19c3c9084b0800000000000000
+      internalID: -5440176565903269738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 247
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7234f282947e7fcf0800000000000000
+      internalID: -218451755511364825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 228
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ea5b55f078ab40800000000000000
+      internalID: 5451731548033966382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 245
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659dff7dcc48b450800000000000000
+      internalID: 6104713740400039279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 180
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e26f569dd3ee65b0800000000000000
+      internalID: -5373106764556311834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_20
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2
+        width: 185
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a87aeae9eae6b60800000000000000
+      internalID: 7741316806054742636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 146
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a13767a4cd3ba0800000000000000
+      internalID: -6107509296374635368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 129
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef94e3b34060b2450800000000000000
+      internalID: 6064947938428078590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_23
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 129
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5f3362f9f64ff0800000000000000
+      internalID: -52079526225683088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ava_noel_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6377c1d4c2d7af00800000000000000
+      internalID: 1128101974454530922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ava_noel_0: -4897310738788536775
+      ava_noel_1: -2812813115277772583
+      ava_noel_10: -678582629184652643
+      ava_noel_11: -6075540662660924764
+      ava_noel_12: -3296932293196907985
+      ava_noel_13: 3454752391814877284
+      ava_noel_14: 9222624387814315632
+      ava_noel_15: -5440176565903269738
+      ava_noel_16: -218451755511364825
+      ava_noel_17: 5451731548033966382
+      ava_noel_18: 6104713740400039279
+      ava_noel_19: -5373106764556311834
+      ava_noel_2: -6558881370248757924
+      ava_noel_20: 7741316806054742636
+      ava_noel_21: -6107509296374635368
+      ava_noel_22: 6064947938428078590
+      ava_noel_23: -52079526225683088
+      ava_noel_24: 1128101974454530922
+      ava_noel_3: -3961227167533367352
+      ava_noel_4: 7643862574374442594
+      ava_noel_5: 6462885429998513565
+      ava_noel_6: -855813909968338338
+      ava_noel_7: 5335461942551462906
+      ava_noel_8: 348298267596759968
+      ava_noel_9: 6170027869624686575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

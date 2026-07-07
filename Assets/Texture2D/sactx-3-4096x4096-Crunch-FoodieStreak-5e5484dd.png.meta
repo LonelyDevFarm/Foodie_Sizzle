@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 23394c5018e1dc443964263d89a5299a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 448210308694959043
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_0
+  - first:
+      213: -1185874085216938746
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_1
+  - first:
+      213: -812502341518136795
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_2
+  - first:
+      213: -9126568480865455220
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_3
+  - first:
+      213: -5451989017158845660
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_4
+  - first:
+      213: 657522600113129130
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_5
+  - first:
+      213: 2886903109781951406
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_6
+  - first:
+      213: 7065561794618888555
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_7
+  - first:
+      213: -5825582506478994995
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_8
+  - first:
+      213: 5926790223356973530
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_9
+  - first:
+      213: -6527364214942322677
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_10
+  - first:
+      213: 3873362637879881432
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_11
+  - first:
+      213: -8563083499117328387
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_12
+  - first:
+      213: 1497854962742234515
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_13
+  - first:
+      213: 4540640831926753361
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_14
+  - first:
+      213: -65788311650181396
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_15
+  - first:
+      213: 4887080071086761807
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_16
+  - first:
+      213: -3880108088950110145
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_17
+  - first:
+      213: 4090125189444215074
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_18
+  - first:
+      213: 2609122319522562102
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_19
+  - first:
+      213: -6256811014100719722
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_20
+  - first:
+      213: -7279215357270637030
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_21
+  - first:
+      213: 7315797836418106478
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_22
+  - first:
+      213: 2027770224336299132
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_23
+  - first:
+      213: -4572481402621359501
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_24
+  - first:
+      213: 4030298241661684494
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_25
+  - first:
+      213: -8894025020426338521
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_26
+  - first:
+      213: 8710419754917451866
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_27
+  - first:
+      213: 7968753209539637294
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_28
+  - first:
+      213: 379687513809040442
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_29
+  - first:
+      213: 5294253488763568099
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_30
+  - first:
+      213: -5571861198512814940
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_31
+  - first:
+      213: -6728456045530767277
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_32
+  - first:
+      213: -1924640031549313653
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_33
+  - first:
+      213: 6751357275512876764
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_34
+  - first:
+      213: 8194439112126772196
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_35
+  - first:
+      213: -2099522936418005610
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_36
+  - first:
+      213: 6677987259878861010
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_37
+  - first:
+      213: 2415407030805340716
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_38
+  - first:
+      213: -2232606392281219925
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_39
+  - first:
+      213: 7333658080786013999
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_40
+  - first:
+      213: 3641862588360204865
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_41
+  - first:
+      213: -1594279660361417434
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_42
+  - first:
+      213: 6663976486439809143
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_43
+  - first:
+      213: 2109870245423150403
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_44
+  - first:
+      213: -7823895325166738611
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_45
+  - first:
+      213: -4754020003971188518
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_46
+  - first:
+      213: -7082774372569636995
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_47
+  - first:
+      213: 977746306859461321
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_48
+  - first:
+      213: 6816879353973055503
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_49
+  - first:
+      213: -1937908434382165760
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_50
+  - first:
+      213: 6400646226553504168
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_51
+  - first:
+      213: 6718549056795108350
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_52
+  - first:
+      213: 8120345145771858940
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_53
+  - first:
+      213: -165988912030226191
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_54
+  - first:
+      213: 946778257219942207
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_55
+  - first:
+      213: 7011229652328819174
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_56
+  - first:
+      213: -1246676642847624587
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_57
+  - first:
+      213: -6489400848666145909
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_58
+  - first:
+      213: 6054806383536417380
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_59
+  - first:
+      213: 6189981125332836520
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_60
+  - first:
+      213: -6363202537885632525
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_61
+  - first:
+      213: -7001819143972467238
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_62
+  - first:
+      213: -431240561808671427
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_63
+  - first:
+      213: 1034875512177567578
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_64
+  - first:
+      213: -3773405847888085165
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_65
+  - first:
+      213: 5709913398495564361
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_66
+  - first:
+      213: -8184491343914330863
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_67
+  - first:
+      213: 517028771395385207
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_68
+  - first:
+      213: 6228842266950132748
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_69
+  - first:
+      213: -8787644163336896811
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_70
+  - first:
+      213: 9098952851554388881
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_71
+  - first:
+      213: 9053234556962838591
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_72
+  - first:
+      213: -6715729041345697453
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_73
+  - first:
+      213: 7560742427533949739
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_74
+  - first:
+      213: -7829729200884624382
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_75
+  - first:
+      213: 7977610390121685125
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_76
+  - first:
+      213: 3127452400442722988
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_77
+  - first:
+      213: -8848253363776992863
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_78
+  - first:
+      213: -8767508517403051858
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_79
+  - first:
+      213: 6053553248563450017
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_80
+  - first:
+      213: -8188237907373095592
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_81
+  - first:
+      213: 2343490527138575169
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_82
+  - first:
+      213: -8625003012587878417
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_83
+  - first:
+      213: 7664341407245589275
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_84
+  - first:
+      213: 8984082443075655756
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_85
+  - first:
+      213: 5204227435370143621
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_86
+  - first:
+      213: -6162085982123849619
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_87
+  - first:
+      213: 6685717328168861451
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_88
+  - first:
+      213: 2683092476616539603
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_89
+  - first:
+      213: -3670142880460454347
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_90
+  - first:
+      213: 2427202396769912806
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_91
+  - first:
+      213: -285732314380299309
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_92
+  - first:
+      213: -4236131433077680187
+    second: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4007
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36e6aa6ec583600800000000000000
+      internalID: 448210308694959043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3863
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059d427dcdea8fe0800000000000000
+      internalID: -1185874085216938746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3863
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a63aadc6969b4f0800000000000000
+      internalID: -812502341518136795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3963
+        width: 147
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83fcbf325ae75180800000000000000
+      internalID: -9126568480865455220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3631
+        width: 380
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b7ae0ffd4a654b0800000000000000
+      internalID: -5451989017158845660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3968
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6c883325dff1900800000000000000
+      internalID: 657522600113129130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3918
+        width: 285
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea316873517501820800000000000000
+      internalID: 2886903109781951406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_7
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3921
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6194da640bed0260800000000000000
+      internalID: 7065561794618888555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_8
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 3966
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9f69b539f572fa0800000000000000
+      internalID: -5825582506478994995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_9
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3750
+        width: 247
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad153718e40304250800000000000000
+      internalID: 5926790223356973530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_10
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3906
+        width: 486
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0034c874d42a65a0800000000000000
+      internalID: -6527364214942322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_11
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3243
+        width: 1048
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea9151cc2f0c530800000000000000
+      internalID: 3873362637879881432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_12
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 3748
+        width: 578
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df74a1d3de0d92980800000000000000
+      internalID: -8563083499117328387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_13
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3990
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d8e43172379c410800000000000000
+      internalID: 1497854962742234515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_14
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 4003
+        width: 404
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d0af77c8930f30800000000000000
+      internalID: 4540640831926753361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_15
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3834
+        width: 139
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceed7bd01e5461ff0800000000000000
+      internalID: -65788311650181396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_16
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 3991
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47640a8e6562d340800000000000000
+      internalID: 4887080071086761807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_17
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 3739
+        width: 304
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3842043046172ac0800000000000000
+      internalID: -3880108088950110145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3687
+        width: 206
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22123bb703b03c830800000000000000
+      internalID: 4090125189444215074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2843
+        width: 1857
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6308fa60de6753420800000000000000
+      internalID: 2609122319522562102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3687
+        width: 90
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69766cd58875b29a0800000000000000
+      internalID: -6256811014100719722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3752
+        width: 481
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c05213380bfa90800000000000000
+      internalID: -7279215357270637030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_22
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3753
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c5481f5fe68560800000000000000
+      internalID: 7315797836418106478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_23
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 3640
+        width: 296
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74eda38646142c10800000000000000
+      internalID: 2027770224336299132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_24
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2036
+        width: 1222
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8caee3684b80c0800000000000000
+      internalID: -4572481402621359501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_25
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 3743
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4029b5ee7ee730800000000000000
+      internalID: 4030298241661684494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_26
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 3493
+        width: 625
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3d02dd53129480800000000000000
+      internalID: -8894025020426338521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_27
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2684
+        width: 1371
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5856680e90a1e870800000000000000
+      internalID: 8710419754917451866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_28
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2895
+        width: 329
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203d55e2d2b69e60800000000000000
+      internalID: 7968753209539637294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_29
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2897
+        width: 387
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343d3a38cbe44500800000000000000
+      internalID: 379687513809040442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_30
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 3200
+        width: 139
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efff947f77f87940800000000000000
+      internalID: 5294253488763568099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2474
+        width: 1084
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a48cdcc2c5cca2b0800000000000000
+      internalID: -5571861198512814940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_32
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2378
+        width: 849
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3502f4f10e8bf92a0800000000000000
+      internalID: -6728456045530767277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_33
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2776
+        width: 1087
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da107a61e4a45e0800000000000000
+      internalID: -1924640031549313653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_34
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2771
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea1befba3a1bd50800000000000000
+      internalID: 6751357275512876764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_35
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1639
+        width: 846
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e332ebd4fe78b170800000000000000
+      internalID: 8194439112126772196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_36
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1840
+        width: 808
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d0509530ffcd2e0800000000000000
+      internalID: -2099522936418005610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_37
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2602
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e9a7080afcac50800000000000000
+      internalID: 6677987259878861010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2081
+        width: 438
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22222ba5ef358120800000000000000
+      internalID: 2415407030805340716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1987
+        width: 417
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacbfc8a0503401e0800000000000000
+      internalID: -2232606392281219925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2404
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5c694b2366c560800000000000000
+      internalID: 7333658080786013999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2403
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142aefb8abe7a8230800000000000000
+      internalID: 3641862588360204865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2403
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df683881bffd9e0800000000000000
+      internalID: -1594279660361417434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_43
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1783
+        width: 230
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770fcc1ae433b7c50800000000000000
+      internalID: 6663976486439809143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_44
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2244
+        width: 266
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345fc944fc3c74d10800000000000000
+      internalID: 2109870245423150403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2298
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e89f87a0fb6390800000000000000
+      internalID: -7823895325166738611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_46
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 2318
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad832388ef3560eb0800000000000000
+      internalID: -4754020003971188518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_47
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1987
+        width: 707
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1fbafb3ee4bd90800000000000000
+      internalID: -7082774372569636995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_48
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2274
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caeec4f517a19d00800000000000000
+      internalID: 977746306859461321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_49
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2243
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f002242b7ab6a9e50800000000000000
+      internalID: 6816879353973055503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1683
+        width: 440
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009ea61eb8a2b15e0800000000000000
+      internalID: -1937908434382165760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 754
+        width: 1106
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a18aaab4d9a3d850800000000000000
+      internalID: 6400646226553504168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_52
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1987
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ee4055c41d3d50800000000000000
+      internalID: 6718549056795108350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_53
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1848
+        width: 383
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9c4bf2e241b070800000000000000
+      internalID: 8120345145771858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_54
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 1692
+        width: 295
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e8c5c6f942bdf0800000000000000
+      internalID: -165988912030226191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_55
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 1940
+        width: 237
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3778a60fc1a32d00800000000000000
+      internalID: 946778257219942207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_56
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 603
+        width: 493
+        height: 1608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9aeb1c834ec4160800000000000000
+      internalID: 7011229652328819174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1761
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727a41d23ae2bee0800000000000000
+      internalID: -1246676642847624587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_58
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1416
+        width: 295
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc22a7f4401f5a0800000000000000
+      internalID: -6489400848666145909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_59
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1371
+        width: 480
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aa47a735ef60450800000000000000
+      internalID: 6054806383536417380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_60
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1670
+        width: 375
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a026dd990b37e550800000000000000
+      internalID: 6189981125332836520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 819
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77677610d51b7a0800000000000000
+      internalID: -6363202537885632525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_62
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1295
+        width: 547
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addcdf5f59a84de90800000000000000
+      internalID: -7001819143972467238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_63
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 1587
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d77ac6efce30af0800000000000000
+      internalID: -431240561808671427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_64
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1301
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57281a9bcd9c5e00800000000000000
+      internalID: 1034875512177567578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_65
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1477
+        width: 189
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fbf3baf5b22abc0800000000000000
+      internalID: -3773405847888085165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_66
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 172
+        width: 271
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425297cbffad3f40800000000000000
+      internalID: 5709913398495564361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_67
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 1267
+        width: 408
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1151aba6c78da6e80800000000000000
+      internalID: -8184491343914330863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_68
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 899
+        width: 1562
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777bda1adeadc2700800000000000000
+      internalID: 517028771395385207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_69
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1301
+        width: 255
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04608b3a0b417650800000000000000
+      internalID: 6228842266950132748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_70
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 921
+        width: 1088
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def4cf31340c0680800000000000000
+      internalID: -8787644163336896811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_71
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 346
+        width: 363
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4de00969f54e70800000000000000
+      internalID: 9098952851554388881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_72
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 843
+        width: 425
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f389f0c0ddc83ad70800000000000000
+      internalID: 9053234556962838591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1370
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359a0d2b400fcc2a0800000000000000
+      internalID: -6715729041345697453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_74
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 438
+        width: 504
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb267ed272de860800000000000000
+      internalID: 7560742427533949739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_75
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 783
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204d4c586c6375390800000000000000
+      internalID: -7829729200884624382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_76
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 0
+        width: 286
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802ba3f16a26be60800000000000000
+      internalID: 7977610390121685125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_77
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 734
+        width: 389
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac4546361f66b20800000000000000
+      internalID: 3127452400442722988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_78
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 172
+        width: 269
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ca691270b43580800000000000000
+      internalID: -8848253363776992863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_79
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 567
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8baf6a47d835680800000000000000
+      internalID: -8767508517403051858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_80
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 308
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a059814b9a820450800000000000000
+      internalID: 6053553248563450017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_81
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 344
+        width: 498
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85583a2a1098d5e80800000000000000
+      internalID: -8188237907373095592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_82
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 177
+        width: 407
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437694d730c58020800000000000000
+      internalID: 2343490527138575169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_83
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe786001575dd4880800000000000000
+      internalID: -8625003012587878417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_84
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 0
+        width: 378
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bd03807e53d5a60800000000000000
+      internalID: 7664341407245589275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_85
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 306
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48195cd16fddac70800000000000000
+      internalID: 8984082443075655756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_86
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 246
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f549f7741293840800000000000000
+      internalID: 5204227435370143621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_87
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 193
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680818827fdb7aa0800000000000000
+      internalID: -6162085982123849619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_88
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 0
+        width: 283
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fbd2ecc7078cc50800000000000000
+      internalID: 6685717328168861451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_89
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 521
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd704054624c3520800000000000000
+      internalID: 2683092476616539603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_90
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 88
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c937de78011dc0800000000000000
+      internalID: -3670142880460454347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_91
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 45
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7827158b72fa120800000000000000
+      internalID: 2427202396769912806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_92
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 58
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3138459ffd80cf0800000000000000
+      internalID: -285732314380299309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_93
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 50
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7d985d7ec3635c0800000000000000
+      internalID: -4236131433077680187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_0: 448210308694959043
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_1: -1185874085216938746
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_10: -6527364214942322677
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_11: 3873362637879881432
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_12: -8563083499117328387
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_13: 1497854962742234515
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_14: 4540640831926753361
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_15: -65788311650181396
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_16: 4887080071086761807
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_17: -3880108088950110145
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_18: 4090125189444215074
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_19: 2609122319522562102
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_2: -812502341518136795
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_20: -6256811014100719722
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_21: -7279215357270637030
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_22: 7315797836418106478
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_23: 2027770224336299132
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_24: -4572481402621359501
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_25: 4030298241661684494
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_26: -8894025020426338521
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_27: 8710419754917451866
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_28: 7968753209539637294
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_29: 379687513809040442
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_3: -9126568480865455220
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_30: 5294253488763568099
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_31: -5571861198512814940
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_32: -6728456045530767277
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_33: -1924640031549313653
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_34: 6751357275512876764
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_35: 8194439112126772196
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_36: -2099522936418005610
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_37: 6677987259878861010
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_38: 2415407030805340716
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_39: -2232606392281219925
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_4: -5451989017158845660
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_40: 7333658080786013999
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_41: 3641862588360204865
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_42: -1594279660361417434
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_43: 6663976486439809143
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_44: 2109870245423150403
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_45: -7823895325166738611
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_46: -4754020003971188518
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_47: -7082774372569636995
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_48: 977746306859461321
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_49: 6816879353973055503
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_5: 657522600113129130
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_50: -1937908434382165760
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_51: 6400646226553504168
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_52: 6718549056795108350
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_53: 8120345145771858940
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_54: -165988912030226191
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_55: 946778257219942207
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_56: 7011229652328819174
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_57: -1246676642847624587
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_58: -6489400848666145909
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_59: 6054806383536417380
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_6: 2886903109781951406
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_60: 6189981125332836520
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_61: -6363202537885632525
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_62: -7001819143972467238
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_63: -431240561808671427
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_64: 1034875512177567578
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_65: -3773405847888085165
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_66: 5709913398495564361
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_67: -8184491343914330863
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_68: 517028771395385207
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_69: 6228842266950132748
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_7: 7065561794618888555
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_70: -8787644163336896811
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_71: 9098952851554388881
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_72: 9053234556962838591
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_73: -6715729041345697453
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_74: 7560742427533949739
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_75: -7829729200884624382
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_76: 7977610390121685125
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_77: 3127452400442722988
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_78: -8848253363776992863
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_79: -8767508517403051858
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_8: -5825582506478994995
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_80: 6053553248563450017
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_81: -8188237907373095592
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_82: 2343490527138575169
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_83: -8625003012587878417
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_84: 7664341407245589275
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_85: 8984082443075655756
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_86: 5204227435370143621
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_87: -6162085982123849619
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_88: 6685717328168861451
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_89: 2683092476616539603
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_9: 5926790223356973530
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_90: -3670142880460454347
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_91: 2427202396769912806
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_92: -285732314380299309
+      sactx-3-4096x4096-Crunch-FoodieStreak-5e5484dd_93: -4236131433077680187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

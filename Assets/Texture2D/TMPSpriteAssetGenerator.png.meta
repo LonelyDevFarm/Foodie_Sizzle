@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 378069848daeede4a8ceafd3b45198ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -802352144140874096
+    second: TMPSpriteAssetGenerator_0
+  - first:
+      213: -8920871789216301178
+    second: TMPSpriteAssetGenerator_1
+  - first:
+      213: -8880566050815898637
+    second: TMPSpriteAssetGenerator_2
+  - first:
+      213: 5155865994235777973
+    second: TMPSpriteAssetGenerator_3
+  - first:
+      213: 5746080664590789695
+    second: TMPSpriteAssetGenerator_4
+  - first:
+      213: 2620729841865011329
+    second: TMPSpriteAssetGenerator_5
+  - first:
+      213: 7997774325519086099
+    second: TMPSpriteAssetGenerator_6
+  - first:
+      213: -7903470065630138690
+    second: TMPSpriteAssetGenerator_7
+  - first:
+      213: 6388921833324229133
+    second: TMPSpriteAssetGenerator_8
+  - first:
+      213: 1028399584792126407
+    second: TMPSpriteAssetGenerator_9
+  - first:
+      213: -739070773540489186
+    second: TMPSpriteAssetGenerator_10
+  - first:
+      213: 1250576286849266126
+    second: TMPSpriteAssetGenerator_11
+  - first:
+      213: -3619098263440775818
+    second: TMPSpriteAssetGenerator_12
+  - first:
+      213: -4194396660795669509
+    second: TMPSpriteAssetGenerator_13
+  - first:
+      213: 3103744384291753384
+    second: TMPSpriteAssetGenerator_14
+  - first:
+      213: -2752294257548828965
+    second: TMPSpriteAssetGenerator_15
+  - first:
+      213: 6950863500848854234
+    second: TMPSpriteAssetGenerator_16
+  - first:
+      213: 7433875213236964795
+    second: TMPSpriteAssetGenerator_17
+  - first:
+      213: 9115586821146923342
+    second: TMPSpriteAssetGenerator_18
+  - first:
+      213: -8462513542198108961
+    second: TMPSpriteAssetGenerator_19
+  - first:
+      213: -620641260657816102
+    second: TMPSpriteAssetGenerator_20
+  - first:
+      213: -789387878977588498
+    second: TMPSpriteAssetGenerator_21
+  - first:
+      213: -2032103385191533128
+    second: TMPSpriteAssetGenerator_22
+  - first:
+      213: -3974390449548298230
+    second: TMPSpriteAssetGenerator_23
+  - first:
+      213: -3321282637914848181
+    second: TMPSpriteAssetGenerator_24
+  - first:
+      213: -4483867622095748926
+    second: TMPSpriteAssetGenerator_25
+  - first:
+      213: 8856330533011120513
+    second: TMPSpriteAssetGenerator_26
+  - first:
+      213: -6030228153106158234
+    second: TMPSpriteAssetGenerator_27
+  - first:
+      213: 1240774910680757143
+    second: TMPSpriteAssetGenerator_28
+  - first:
+      213: 5370605435671433955
+    second: TMPSpriteAssetGenerator_29
+  - first:
+      213: 2372892904835943586
+    second: TMPSpriteAssetGenerator_30
+  - first:
+      213: 2219441233474914867
+    second: TMPSpriteAssetGenerator_31
+  - first:
+      213: -7945897021497438241
+    second: TMPSpriteAssetGenerator_32
+  - first:
+      213: 7487935945056195455
+    second: TMPSpriteAssetGenerator_33
+  - first:
+      213: 3140839988944016572
+    second: TMPSpriteAssetGenerator_34
+  - first:
+      213: 6455388314501614598
+    second: TMPSpriteAssetGenerator_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1547
+        width: 446
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec5b7d9f87dd4f0800000000000000
+      internalID: -802352144140874096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1568
+        width: 503
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f75fc5f52b23480800000000000000
+      internalID: -8920871789216301178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_2
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1548
+        width: 448
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb89b06a34e1c480800000000000000
+      internalID: -8880566050815898637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_3
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1557
+        width: 513
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b390f70ec05d8740800000000000000
+      internalID: 5155865994235777973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1062
+        width: 482
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cacaf9bed2ebf40800000000000000
+      internalID: 5746080664590789695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1035
+        width: 408
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18031ace7e3be5420800000000000000
+      internalID: 2620729841865011329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_6
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1070
+        width: 497
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312fd42006dcdfe60800000000000000
+      internalID: 7997774325519086099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_7
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1034
+        width: 436
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeae2589db315290800000000000000
+      internalID: -7903470065630138690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 503
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023705be820aa850800000000000000
+      internalID: 6388921833324229133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 519
+        width: 469
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3a1b249fb954e00800000000000000
+      internalID: 1028399584792126407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 547
+        width: 446
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18fe371c0b4eb5f0800000000000000
+      internalID: -739070773540489186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_11
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 513
+        width: 464
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17d2ec180fa5110800000000000000
+      internalID: 1250576286849266126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_12
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 502
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6752160ed4166cdc0800000000000000
+      internalID: -3619098263440775818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 509
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3803ab5728ac5c0800000000000000
+      internalID: -4194396660795669509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc25bb217b21b20800000000000000
+      internalID: 3103744384291753384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 449
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde547d74f2edc9d0800000000000000
+      internalID: -2752294257548828965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 5
+        width: 447
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4f25ad68d667060800000000000000
+      internalID: 6950863500848854234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 353
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd029dbe1e6a2760800000000000000
+      internalID: 7433875213236964795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 58
+        width: 380
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d1b9dae1118e70800000000000000
+      internalID: 9115586821146923342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_19
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 347
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc595a05cc1f8a80800000000000000
+      internalID: -8462513542198108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_20
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 151
+        width: 468
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add4a8dcf0a0367f0800000000000000
+      internalID: -620641260657816102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 328
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ba8b08e78b05f0800000000000000
+      internalID: -789387878977588498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_22
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 192
+        width: 7
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b53acadcb48cc3e0800000000000000
+      internalID: -2032103385191533128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_23
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 235
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f7ff71f028d8c0800000000000000
+      internalID: -3974390449548298230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_24
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 195
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44c968a90f68e1d0800000000000000
+      internalID: -3321282637914848181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_25
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c08b1d772a16c1c0800000000000000
+      internalID: -4483867622095748926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_26
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 95
+        width: 513
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e29962b108ea70800000000000000
+      internalID: 8856330533011120513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2c8bb173505ca0800000000000000
+      internalID: -6030228153106158234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f755153e183110800000000000000
+      internalID: 1240774910680757143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 28
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e25af56039388a40800000000000000
+      internalID: 5370605435671433955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 40
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac8aca56853ee020800000000000000
+      internalID: 2372892904835943586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_31
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a8021fa0a0dce10800000000000000
+      internalID: 2219441233474914867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_32
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf8fc312c08ab190800000000000000
+      internalID: -7945897021497438241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_33
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 28
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7314f9b11e7ae760800000000000000
+      internalID: 7487935945056195455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_34
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4995d3451869b20800000000000000
+      internalID: 3140839988944016572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TMPSpriteAssetGenerator_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c831d4875269950800000000000000
+      internalID: 6455388314501614598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TMPSpriteAssetGenerator_0: -802352144140874096
+      TMPSpriteAssetGenerator_1: -8920871789216301178
+      TMPSpriteAssetGenerator_10: -739070773540489186
+      TMPSpriteAssetGenerator_11: 1250576286849266126
+      TMPSpriteAssetGenerator_12: -3619098263440775818
+      TMPSpriteAssetGenerator_13: -4194396660795669509
+      TMPSpriteAssetGenerator_14: 3103744384291753384
+      TMPSpriteAssetGenerator_15: -2752294257548828965
+      TMPSpriteAssetGenerator_16: 6950863500848854234
+      TMPSpriteAssetGenerator_17: 7433875213236964795
+      TMPSpriteAssetGenerator_18: 9115586821146923342
+      TMPSpriteAssetGenerator_19: -8462513542198108961
+      TMPSpriteAssetGenerator_2: -8880566050815898637
+      TMPSpriteAssetGenerator_20: -620641260657816102
+      TMPSpriteAssetGenerator_21: -789387878977588498
+      TMPSpriteAssetGenerator_22: -2032103385191533128
+      TMPSpriteAssetGenerator_23: -3974390449548298230
+      TMPSpriteAssetGenerator_24: -3321282637914848181
+      TMPSpriteAssetGenerator_25: -4483867622095748926
+      TMPSpriteAssetGenerator_26: 8856330533011120513
+      TMPSpriteAssetGenerator_27: -6030228153106158234
+      TMPSpriteAssetGenerator_28: 1240774910680757143
+      TMPSpriteAssetGenerator_29: 5370605435671433955
+      TMPSpriteAssetGenerator_3: 5155865994235777973
+      TMPSpriteAssetGenerator_30: 2372892904835943586
+      TMPSpriteAssetGenerator_31: 2219441233474914867
+      TMPSpriteAssetGenerator_32: -7945897021497438241
+      TMPSpriteAssetGenerator_33: 7487935945056195455
+      TMPSpriteAssetGenerator_34: 3140839988944016572
+      TMPSpriteAssetGenerator_35: 6455388314501614598
+      TMPSpriteAssetGenerator_4: 5746080664590789695
+      TMPSpriteAssetGenerator_5: 2620729841865011329
+      TMPSpriteAssetGenerator_6: 7997774325519086099
+      TMPSpriteAssetGenerator_7: -7903470065630138690
+      TMPSpriteAssetGenerator_8: 6388921833324229133
+      TMPSpriteAssetGenerator_9: 1028399584792126407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

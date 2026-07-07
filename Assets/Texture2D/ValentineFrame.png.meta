@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cc55abd78bb195c45aa8ebac74fab550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7558804238964542274
+    second: ValentineFrame_0
+  - first:
+      213: 6417050655043901687
+    second: ValentineFrame_1
+  - first:
+      213: -7581428308513291108
+    second: ValentineFrame_2
+  - first:
+      213: 8353152182518900619
+    second: ValentineFrame_3
+  - first:
+      213: -1655532713901796377
+    second: ValentineFrame_4
+  - first:
+      213: 2099921861289888445
+    second: ValentineFrame_5
+  - first:
+      213: -5507181556961826917
+    second: ValentineFrame_6
+  - first:
+      213: 3206033066733605157
+    second: ValentineFrame_7
+  - first:
+      213: 5438847787785250291
+    second: ValentineFrame_8
+  - first:
+      213: 5388228224580739637
+    second: ValentineFrame_9
+  - first:
+      213: 908520418918242635
+    second: ValentineFrame_10
+  - first:
+      213: -2650875793236355184
+    second: ValentineFrame_11
+  - first:
+      213: 4612026651358414021
+    second: ValentineFrame_12
+  - first:
+      213: -990173706074951625
+    second: ValentineFrame_13
+  - first:
+      213: 698795176445304535
+    second: ValentineFrame_14
+  - first:
+      213: -8414115061457071042
+    second: ValentineFrame_15
+  - first:
+      213: -899262982862639950
+    second: ValentineFrame_16
+  - first:
+      213: 7260748725988207130
+    second: ValentineFrame_17
+  - first:
+      213: -580195127505091286
+    second: ValentineFrame_18
+  - first:
+      213: -8074972126127144908
+    second: ValentineFrame_19
+  - first:
+      213: -6215628980850446720
+    second: ValentineFrame_20
+  - first:
+      213: -1412026544289569576
+    second: ValentineFrame_21
+  - first:
+      213: -6356636432420378557
+    second: ValentineFrame_22
+  - first:
+      213: 6800587773105478924
+    second: ValentineFrame_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ValentineFrame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 69
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc236386446e860800000000000000
+      internalID: 7558804238964542274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 486
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8549f5291fd0950800000000000000
+      internalID: 6417050655043901687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 426
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9489fc1f1b59c690800000000000000
+      internalID: -7581428308513291108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 486
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8761d137ab5ce370800000000000000
+      internalID: 8353152182518900619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 482
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e358d1a4cd5609e0800000000000000
+      internalID: -1655532713901796377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 444
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbac2469ecb642d10800000000000000
+      internalID: 2099921861289888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 444
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9725bf5d8f8293b0800000000000000
+      internalID: -5507181556961826917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 444
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52110d0861e1e7c20800000000000000
+      internalID: 3206033066733605157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 354
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5eb5a2f3baa7b40800000000000000
+      internalID: 5438847787785250291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326edea505d6ca40800000000000000
+      internalID: 5388228224580739637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 354
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499fc8e186bb9c00800000000000000
+      internalID: 908520418918242635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 386
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971770d282363bd0800000000000000
+      internalID: -2650875793236355184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 260
+        width: 122
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44ad8cdc5310040800000000000000
+      internalID: 4612026651358414021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 334
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730787fa2423242f0800000000000000
+      internalID: -990173706074951625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 308
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de57c6b28e92b900800000000000000
+      internalID: 698795176445304535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 314
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3456967eee0b3b80800000000000000
+      internalID: -8414115061457071042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 314
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc60d2e41d2583f0800000000000000
+      internalID: -899262982862639950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 312
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa5e74f7c53c460800000000000000
+      internalID: 7260748725988207130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 297
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2585a40b9bb2f7f0800000000000000
+      internalID: -580195127505091286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c20362afefef80800000000000000
+      internalID: -8074972126127144908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 272
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e29ccaf56adb9a0800000000000000
+      internalID: -6215628980850446720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 259
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a236d659776ce0800000000000000
+      internalID: -1412026544289569576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 266
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e647f7d0b8c7a0800000000000000
+      internalID: -6356636432420378557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ValentineFrame_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 276
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d11df6c8a806e50800000000000000
+      internalID: 6800587773105478924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ValentineFrame_0: 7558804238964542274
+      ValentineFrame_1: 6417050655043901687
+      ValentineFrame_10: 908520418918242635
+      ValentineFrame_11: -2650875793236355184
+      ValentineFrame_12: 4612026651358414021
+      ValentineFrame_13: -990173706074951625
+      ValentineFrame_14: 698795176445304535
+      ValentineFrame_15: -8414115061457071042
+      ValentineFrame_16: -899262982862639950
+      ValentineFrame_17: 7260748725988207130
+      ValentineFrame_18: -580195127505091286
+      ValentineFrame_19: -8074972126127144908
+      ValentineFrame_2: -7581428308513291108
+      ValentineFrame_20: -6215628980850446720
+      ValentineFrame_21: -1412026544289569576
+      ValentineFrame_22: -6356636432420378557
+      ValentineFrame_23: 6800587773105478924
+      ValentineFrame_3: 8353152182518900619
+      ValentineFrame_4: -1655532713901796377
+      ValentineFrame_5: 2099921861289888445
+      ValentineFrame_6: -5507181556961826917
+      ValentineFrame_7: 3206033066733605157
+      ValentineFrame_8: 5438847787785250291
+      ValentineFrame_9: 5388228224580739637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

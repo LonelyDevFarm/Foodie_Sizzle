@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 1612f4f77bc08f542a078fb7a8e378e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7541517290022444294
+    second: Pacifico-Regular Atlas_0
+  - first:
+      213: -6911765980285032002
+    second: Pacifico-Regular Atlas_1
+  - first:
+      213: -5465846574284981244
+    second: Pacifico-Regular Atlas_2
+  - first:
+      213: -2703639037204293989
+    second: Pacifico-Regular Atlas_3
+  - first:
+      213: -861784117840182134
+    second: Pacifico-Regular Atlas_4
+  - first:
+      213: -4796839057200931073
+    second: Pacifico-Regular Atlas_5
+  - first:
+      213: 3264430006662470705
+    second: Pacifico-Regular Atlas_6
+  - first:
+      213: -415081585273187824
+    second: Pacifico-Regular Atlas_7
+  - first:
+      213: 285095155043073399
+    second: Pacifico-Regular Atlas_8
+  - first:
+      213: 2213175698621526646
+    second: Pacifico-Regular Atlas_9
+  - first:
+      213: 2177300495668474374
+    second: Pacifico-Regular Atlas_10
+  - first:
+      213: -4230111984981930754
+    second: Pacifico-Regular Atlas_11
+  - first:
+      213: 8150718628506187267
+    second: Pacifico-Regular Atlas_12
+  - first:
+      213: 2576072162446680702
+    second: Pacifico-Regular Atlas_13
+  - first:
+      213: -3899656825408778547
+    second: Pacifico-Regular Atlas_14
+  - first:
+      213: -5065184186461692984
+    second: Pacifico-Regular Atlas_15
+  - first:
+      213: 1603347812119487309
+    second: Pacifico-Regular Atlas_16
+  - first:
+      213: 8559063109328321945
+    second: Pacifico-Regular Atlas_17
+  - first:
+      213: 4635514835525365308
+    second: Pacifico-Regular Atlas_18
+  - first:
+      213: -1333306756369975658
+    second: Pacifico-Regular Atlas_19
+  - first:
+      213: 8885312082035715070
+    second: Pacifico-Regular Atlas_20
+  - first:
+      213: -3682038529095605855
+    second: Pacifico-Regular Atlas_21
+  - first:
+      213: -3208889254816950230
+    second: Pacifico-Regular Atlas_22
+  - first:
+      213: 2557148925894458684
+    second: Pacifico-Regular Atlas_23
+  - first:
+      213: 4313147931164946439
+    second: Pacifico-Regular Atlas_24
+  - first:
+      213: 5307539026322807577
+    second: Pacifico-Regular Atlas_25
+  - first:
+      213: 9141135114813798755
+    second: Pacifico-Regular Atlas_26
+  - first:
+      213: -4129034162860282650
+    second: Pacifico-Regular Atlas_27
+  - first:
+      213: -4729101583070898374
+    second: Pacifico-Regular Atlas_28
+  - first:
+      213: 1353909538531925800
+    second: Pacifico-Regular Atlas_29
+  - first:
+      213: -3694129757152616548
+    second: Pacifico-Regular Atlas_30
+  - first:
+      213: -5979296773549208148
+    second: Pacifico-Regular Atlas_31
+  - first:
+      213: 6409291726754073103
+    second: Pacifico-Regular Atlas_32
+  - first:
+      213: -2498770474912687815
+    second: Pacifico-Regular Atlas_33
+  - first:
+      213: -2693322321745762950
+    second: Pacifico-Regular Atlas_34
+  - first:
+      213: -2560705758288388644
+    second: Pacifico-Regular Atlas_35
+  - first:
+      213: 5138949990943822818
+    second: Pacifico-Regular Atlas_36
+  - first:
+      213: 5235610023375732194
+    second: Pacifico-Regular Atlas_37
+  - first:
+      213: -2802234494280263368
+    second: Pacifico-Regular Atlas_38
+  - first:
+      213: -2832288819966670577
+    second: Pacifico-Regular Atlas_39
+  - first:
+      213: 5148352772846899471
+    second: Pacifico-Regular Atlas_40
+  - first:
+      213: 7455798604229892512
+    second: Pacifico-Regular Atlas_41
+  - first:
+      213: -3814361417683771376
+    second: Pacifico-Regular Atlas_42
+  - first:
+      213: -2473463794907862223
+    second: Pacifico-Regular Atlas_43
+  - first:
+      213: -7246730473336436696
+    second: Pacifico-Regular Atlas_44
+  - first:
+      213: -2061113473833913175
+    second: Pacifico-Regular Atlas_45
+  - first:
+      213: -4951033450711552815
+    second: Pacifico-Regular Atlas_46
+  - first:
+      213: 1674046061674231999
+    second: Pacifico-Regular Atlas_47
+  - first:
+      213: 7840479806131267958
+    second: Pacifico-Regular Atlas_48
+  - first:
+      213: 413364605989542307
+    second: Pacifico-Regular Atlas_49
+  - first:
+      213: -2734616306537557939
+    second: Pacifico-Regular Atlas_50
+  - first:
+      213: 4054988023143886898
+    second: Pacifico-Regular Atlas_51
+  - first:
+      213: 2756205723424973274
+    second: Pacifico-Regular Atlas_52
+  - first:
+      213: 1681272378502704491
+    second: Pacifico-Regular Atlas_53
+  - first:
+      213: -2768885245473506169
+    second: Pacifico-Regular Atlas_54
+  - first:
+      213: 7371065084375960737
+    second: Pacifico-Regular Atlas_55
+  - first:
+      213: 5777519112564229654
+    second: Pacifico-Regular Atlas_56
+  - first:
+      213: 7634141057839893748
+    second: Pacifico-Regular Atlas_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2eebc3bf5275790800000000000000
+      internalID: -7541517290022444294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92b7606797410a0800000000000000
+      internalID: -6911765980285032002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c35feff796524b0800000000000000
+      internalID: -5465846574284981244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 389
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b961f82ce9eba7ad0800000000000000
+      internalID: -2703639037204293989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84001729e35a04f0800000000000000
+      internalID: -861784117840182134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe91deca443e6db0800000000000000
+      internalID: -4796839057200931073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 362
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1e3d9bc59d4d20800000000000000
+      internalID: 3264430006662470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0125cf45f755d3af0800000000000000
+      internalID: -415081585273187824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 267
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df683788cd4f300800000000000000
+      internalID: 285095155043073399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 292
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672fcdd6297c6be10800000000000000
+      internalID: 2213175698621526646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 249
+        width: 98
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f995d343573e10800000000000000
+      internalID: 2177300495668474374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 292
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc870fcf8f9b45c0800000000000000
+      internalID: -4230111984981930754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3063544886b2d1170800000000000000
+      internalID: 8150718628506187267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 219
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72286eabfb00c320800000000000000
+      internalID: 2576072162446680702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 170
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce059f47c2a1e9c0800000000000000
+      internalID: -3899656825408778547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 267
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb5604a1d9d4b9b0800000000000000
+      internalID: -5065184186461692984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 195
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4328c8175c304610800000000000000
+      internalID: 1603347812119487309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 268
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d3aa1dc86e7c670800000000000000
+      internalID: 8559063109328321945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 171
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eea82de28a45040800000000000000
+      internalID: 4635514835525365308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 179
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69670f9b1942f7de0800000000000000
+      internalID: -1333306756369975658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 179
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba9302348fe4b70800000000000000
+      internalID: 8885312082035715070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 187
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a164ff4775c6ecc0800000000000000
+      internalID: -3682038529095605855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 134
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285113693cb773d0800000000000000
+      internalID: -3208889254816950230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 134
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df5b55661dc7320800000000000000
+      internalID: 2557148925894458684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 158
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003cccf0316bdb30800000000000000
+      internalID: 4313147931164946439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 73
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b5e77bf9a28a940800000000000000
+      internalID: 5307539026322807577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 178
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369735284f5dbde70800000000000000
+      internalID: 9141135114813798755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 187
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca2413e49b2b6c0800000000000000
+      internalID: -4129034162860282650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 124
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3752528a2bde5eb0800000000000000
+      internalID: -4729101583070898374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f553e4d8d0ac210800000000000000
+      internalID: 1353909538531925800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd7b6ee80dbbcc0800000000000000
+      internalID: -3694129757152616548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 37
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc5fd9345450da0800000000000000
+      internalID: -5979296773549208148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 73
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac60b1ed062f850800000000000000
+      internalID: 6409291726754073103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 101
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939589bfd75925dd0800000000000000
+      internalID: -2498770474912687815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 95
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75a6b24e956f9ad0800000000000000
+      internalID: -2693322321745762950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 73
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd5ce61eab867cd0800000000000000
+      internalID: -2560705758288388644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 74
+        width: 138
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e314b81ac7315740800000000000000
+      internalID: 5138949990943822818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 74
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf8c9a39f98a840800000000000000
+      internalID: 5235610023375732194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 73
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839141703967c19d0800000000000000
+      internalID: -2802234494280263368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 73
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0983980350b1b8d0800000000000000
+      internalID: -2832288819966670577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 73
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01dfebd19f927740800000000000000
+      internalID: 5148352772846899471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 62
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9d9f9f351587760800000000000000
+      internalID: 7455798604229892512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e00eff7aa01bc0800000000000000
+      internalID: -3814361417683771376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2ab398cd7cadd0800000000000000
+      internalID: -2473463794907862223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82888c187017e6b90800000000000000
+      internalID: -7246730473336436696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bb5e37347563e0800000000000000
+      internalID: -2061113473833913175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce24bee456a4bb0800000000000000
+      internalID: -4951033450711552815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8fbbb06086b3710800000000000000
+      internalID: 1674046061674231999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e311d7dafecc60800000000000000
+      internalID: 7840479806131267958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d9b64be09cb500800000000000000
+      internalID: 413364605989542307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4096d335f0bc0ad0800000000000000
+      internalID: -2734616306537557939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23074ff6f16364830800000000000000
+      internalID: 4054988023143886898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1e4a0a082004620800000000000000
+      internalID: 2756205723424973274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d645b0254155710800000000000000
+      internalID: 1681272378502704491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3bb71a81f299d0800000000000000
+      internalID: -2768885245473506169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac838204a84b4660800000000000000
+      internalID: 7371065084375960737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616cb63b50fdd2050800000000000000
+      internalID: 5777519112564229654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacifico-Regular Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc85cd38dae1f960800000000000000
+      internalID: 7634141057839893748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pacifico-Regular Atlas_0: -7541517290022444294
+      Pacifico-Regular Atlas_1: -6911765980285032002
+      Pacifico-Regular Atlas_10: 2177300495668474374
+      Pacifico-Regular Atlas_11: -4230111984981930754
+      Pacifico-Regular Atlas_12: 8150718628506187267
+      Pacifico-Regular Atlas_13: 2576072162446680702
+      Pacifico-Regular Atlas_14: -3899656825408778547
+      Pacifico-Regular Atlas_15: -5065184186461692984
+      Pacifico-Regular Atlas_16: 1603347812119487309
+      Pacifico-Regular Atlas_17: 8559063109328321945
+      Pacifico-Regular Atlas_18: 4635514835525365308
+      Pacifico-Regular Atlas_19: -1333306756369975658
+      Pacifico-Regular Atlas_2: -5465846574284981244
+      Pacifico-Regular Atlas_20: 8885312082035715070
+      Pacifico-Regular Atlas_21: -3682038529095605855
+      Pacifico-Regular Atlas_22: -3208889254816950230
+      Pacifico-Regular Atlas_23: 2557148925894458684
+      Pacifico-Regular Atlas_24: 4313147931164946439
+      Pacifico-Regular Atlas_25: 5307539026322807577
+      Pacifico-Regular Atlas_26: 9141135114813798755
+      Pacifico-Regular Atlas_27: -4129034162860282650
+      Pacifico-Regular Atlas_28: -4729101583070898374
+      Pacifico-Regular Atlas_29: 1353909538531925800
+      Pacifico-Regular Atlas_3: -2703639037204293989
+      Pacifico-Regular Atlas_30: -3694129757152616548
+      Pacifico-Regular Atlas_31: -5979296773549208148
+      Pacifico-Regular Atlas_32: 6409291726754073103
+      Pacifico-Regular Atlas_33: -2498770474912687815
+      Pacifico-Regular Atlas_34: -2693322321745762950
+      Pacifico-Regular Atlas_35: -2560705758288388644
+      Pacifico-Regular Atlas_36: 5138949990943822818
+      Pacifico-Regular Atlas_37: 5235610023375732194
+      Pacifico-Regular Atlas_38: -2802234494280263368
+      Pacifico-Regular Atlas_39: -2832288819966670577
+      Pacifico-Regular Atlas_4: -861784117840182134
+      Pacifico-Regular Atlas_40: 5148352772846899471
+      Pacifico-Regular Atlas_41: 7455798604229892512
+      Pacifico-Regular Atlas_42: -3814361417683771376
+      Pacifico-Regular Atlas_43: -2473463794907862223
+      Pacifico-Regular Atlas_44: -7246730473336436696
+      Pacifico-Regular Atlas_45: -2061113473833913175
+      Pacifico-Regular Atlas_46: -4951033450711552815
+      Pacifico-Regular Atlas_47: 1674046061674231999
+      Pacifico-Regular Atlas_48: 7840479806131267958
+      Pacifico-Regular Atlas_49: 413364605989542307
+      Pacifico-Regular Atlas_5: -4796839057200931073
+      Pacifico-Regular Atlas_50: -2734616306537557939
+      Pacifico-Regular Atlas_51: 4054988023143886898
+      Pacifico-Regular Atlas_52: 2756205723424973274
+      Pacifico-Regular Atlas_53: 1681272378502704491
+      Pacifico-Regular Atlas_54: -2768885245473506169
+      Pacifico-Regular Atlas_55: 7371065084375960737
+      Pacifico-Regular Atlas_56: 5777519112564229654
+      Pacifico-Regular Atlas_57: 7634141057839893748
+      Pacifico-Regular Atlas_6: 3264430006662470705
+      Pacifico-Regular Atlas_7: -415081585273187824
+      Pacifico-Regular Atlas_8: 285095155043073399
+      Pacifico-Regular Atlas_9: 2213175698621526646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

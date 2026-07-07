@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 34540e97edb4432429a77f3696e87de9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8976921182177291068
+    second: Time_booster_0
+  - first:
+      213: -2107829139822436061
+    second: Time_booster_1
+  - first:
+      213: -9094243520148293415
+    second: Time_booster_2
+  - first:
+      213: 1267686636235757533
+    second: Time_booster_3
+  - first:
+      213: 6979570403555563441
+    second: Time_booster_4
+  - first:
+      213: 3104302247549065117
+    second: Time_booster_5
+  - first:
+      213: 5744319856329878511
+    second: Time_booster_6
+  - first:
+      213: 6843006657460317382
+    second: Time_booster_7
+  - first:
+      213: 3954315098984007351
+    second: Time_booster_8
+  - first:
+      213: 6312952116936167184
+    second: Time_booster_9
+  - first:
+      213: 7798607922642528310
+    second: Time_booster_10
+  - first:
+      213: 5883676174746670714
+    second: Time_booster_11
+  - first:
+      213: -7203725897267170498
+    second: Time_booster_12
+  - first:
+      213: -6929971210636511164
+    second: Time_booster_13
+  - first:
+      213: -2216077365616148812
+    second: Time_booster_14
+  - first:
+      213: 957560884102893359
+    second: Time_booster_15
+  - first:
+      213: -2126494697775085570
+    second: Time_booster_16
+  - first:
+      213: -3157163797034869128
+    second: Time_booster_17
+  - first:
+      213: 1713608358719988334
+    second: Time_booster_18
+  - first:
+      213: 936856664095276577
+    second: Time_booster_19
+  - first:
+      213: 3465084387933560669
+    second: Time_booster_20
+  - first:
+      213: -94862690100695766
+    second: Time_booster_21
+  - first:
+      213: -241076626821398458
+    second: Time_booster_22
+  - first:
+      213: -3494150954512731611
+    second: Time_booster_23
+  - first:
+      213: 1051955618446331384
+    second: Time_booster_24
+  - first:
+      213: 2862726832844340108
+    second: Time_booster_25
+  - first:
+      213: -5841769267707673075
+    second: Time_booster_26
+  - first:
+      213: -7659537535780062171
+    second: Time_booster_27
+  - first:
+      213: -4782674040584831573
+    second: Time_booster_28
+  - first:
+      213: -3088718383409870644
+    second: Time_booster_29
+  - first:
+      213: -8041222542672357314
+    second: Time_booster_30
+  - first:
+      213: 3150081155587835412
+    second: Time_booster_31
+  - first:
+      213: -3303704050494690202
+    second: Time_booster_32
+  - first:
+      213: -1494466627463272164
+    second: Time_booster_33
+  - first:
+      213: -7284653105954342114
+    second: Time_booster_34
+  - first:
+      213: 5562546396720494770
+    second: Time_booster_35
+  - first:
+      213: 1440643192214027739
+    second: Time_booster_36
+  - first:
+      213: 3227058147271278725
+    second: Time_booster_37
+  - first:
+      213: -6200639554106053409
+    second: Time_booster_38
+  - first:
+      213: 1814826762049760466
+    second: Time_booster_39
+  - first:
+      213: 2588678069731722107
+    second: Time_booster_40
+  - first:
+      213: 2243090917924122050
+    second: Time_booster_41
+  - first:
+      213: -4000793948941772574
+    second: Time_booster_42
+  - first:
+      213: 1521472128791805198
+    second: Time_booster_43
+  - first:
+      213: 8719180651874639155
+    second: Time_booster_44
+  - first:
+      213: -2644668274138945770
+    second: Time_booster_45
+  - first:
+      213: -6012771366711583004
+    second: Time_booster_46
+  - first:
+      213: -3576235916161826763
+    second: Time_booster_47
+  - first:
+      213: -578796376593130991
+    second: Time_booster_48
+  - first:
+      213: 826136572904785047
+    second: Time_booster_49
+  - first:
+      213: 8922234169135713167
+    second: Time_booster_50
+  - first:
+      213: -7321186151622716555
+    second: Time_booster_51
+  - first:
+      213: 6557026294216691772
+    second: Time_booster_52
+  - first:
+      213: -3085570411274955424
+    second: Time_booster_53
+  - first:
+      213: -5536872025848627198
+    second: Time_booster_54
+  - first:
+      213: -1409146575048248532
+    second: Time_booster_55
+  - first:
+      213: 8109099996577747003
+    second: Time_booster_56
+  - first:
+      213: 5359063169434853065
+    second: Time_booster_57
+  - first:
+      213: -198906968848364763
+    second: Time_booster_58
+  - first:
+      213: 892389178861721239
+    second: Time_booster_59
+  - first:
+      213: 882002642462830331
+    second: Time_booster_60
+  - first:
+      213: -6314736502102169333
+    second: Time_booster_61
+  - first:
+      213: -8035688026978436466
+    second: Time_booster_62
+  - first:
+      213: -2440577610252953338
+    second: Time_booster_63
+  - first:
+      213: -4277478678636483610
+    second: Time_booster_64
+  - first:
+      213: 8818367302973949268
+    second: Time_booster_65
+  - first:
+      213: -4222730246408032336
+    second: Time_booster_66
+  - first:
+      213: -5437363182337912463
+    second: Time_booster_67
+  - first:
+      213: 5538867105976002612
+    second: Time_booster_68
+  - first:
+      213: 2350321830178888096
+    second: Time_booster_69
+  - first:
+      213: 1884806185187536206
+    second: Time_booster_70
+  - first:
+      213: -7122834736654995813
+    second: Time_booster_71
+  - first:
+      213: -2109600192526608168
+    second: Time_booster_72
+  - first:
+      213: -5400327992674578782
+    second: Time_booster_73
+  - first:
+      213: -1305323506928619219
+    second: Time_booster_74
+  - first:
+      213: -3765137604352488022
+    second: Time_booster_75
+  - first:
+      213: -1745759648545264505
+    second: Time_booster_76
+  - first:
+      213: 7288846290535970353
+    second: Time_booster_77
+  - first:
+      213: -5068889605923676048
+    second: Time_booster_78
+  - first:
+      213: -6722115117175766777
+    second: Time_booster_79
+  - first:
+      213: 7048723624881525573
+    second: Time_booster_80
+  - first:
+      213: -957648502280740992
+    second: Time_booster_81
+  - first:
+      213: 1922974159247567320
+    second: Time_booster_82
+  - first:
+      213: 5501986698359390943
+    second: Time_booster_83
+  - first:
+      213: -6143174133090732973
+    second: Time_booster_84
+  - first:
+      213: -5258693837777562336
+    second: Time_booster_85
+  - first:
+      213: 8444811676141511700
+    second: Time_booster_86
+  - first:
+      213: -317804739249467966
+    second: Time_booster_87
+  - first:
+      213: 548140341861176314
+    second: Time_booster_88
+  - first:
+      213: -5893590176682377850
+    second: Time_booster_89
+  - first:
+      213: 6620116506428184380
+    second: Time_booster_90
+  - first:
+      213: 1694889145444787323
+    second: Time_booster_91
+  - first:
+      213: 2553113033831812478
+    second: Time_booster_92
+  - first:
+      213: 5300837919233842471
+    second: Time_booster_93
+  - first:
+      213: -2855617306027576308
+    second: Time_booster_94
+  - first:
+      213: -903989074550190991
+    second: Time_booster_95
+  - first:
+      213: -3422994433452122392
+    second: Time_booster_96
+  - first:
+      213: 2263811792474686265
+    second: Time_booster_97
+  - first:
+      213: 5351187621778641883
+    second: Time_booster_98
+  - first:
+      213: -6255329546939676388
+    second: Time_booster_99
+  - first:
+      213: -2130294360596851791
+    second: Time_booster_100
+  - first:
+      213: 3101345747705245822
+    second: Time_booster_101
+  - first:
+      213: -9059473013534663835
+    second: Time_booster_102
+  - first:
+      213: 8439653009961070376
+    second: Time_booster_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Time_booster_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1250
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c494af1fb19b6380800000000000000
+      internalID: -8976921182177291068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1241
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321aaa9a09c7fb2e0800000000000000
+      internalID: -2107829139822436061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_2
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1241
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8b9a8a3b1cac180800000000000000
+      internalID: -9094243520148293415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1133
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd79757774ab79110800000000000000
+      internalID: 1267686636235757533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1147
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b752cc7d4a6cd060800000000000000
+      internalID: 6979570403555563441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1138
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97db946272b41b20800000000000000
+      internalID: 3104302247549065117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febe3c0897ce7bf40800000000000000
+      internalID: 5744319856329878511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1134
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc2e859c4e37fe50800000000000000
+      internalID: 6843006657460317382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1065
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6c7e4b1ac80e630800000000000000
+      internalID: 3954315098984007351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1058
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fc70eb08c1c9750800000000000000
+      internalID: 6312952116936167184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_10
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1024
+        width: 254
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638a7ab36983a3c60800000000000000
+      internalID: 7798607922642528310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_11
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1023
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a765431de4407a150800000000000000
+      internalID: 5883676174746670714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_12
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1071
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33bb12a679370c90800000000000000
+      internalID: -7203725897267170498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1025
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b35686ebc3df90800000000000000
+      internalID: -6929971210636511164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1015
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be7aa39069ee31e0800000000000000
+      internalID: -2216077365616148812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1015
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f03cbfc80f94d00800000000000000
+      internalID: 957560884102893359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1006
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74d5ac65c2d72e0800000000000000
+      internalID: -2126494697775085570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1014
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e530401408f24d0800000000000000
+      internalID: -3157163797034869128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1005
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6225a129b5f7c710800000000000000
+      internalID: 1713608358719988334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 982
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3bdc1c22600d00800000000000000
+      internalID: 936856664095276577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_20
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 985
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f188b54e3761030800000000000000
+      internalID: 3465084387933560669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d2c1ec2eafeaef0800000000000000
+      internalID: -94862690100695766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 934
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64049aec51687acf0800000000000000
+      internalID: -241076626821398458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 887
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223dac3838428fc0800000000000000
+      internalID: -3494150954512731611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 765
+        width: 159
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd48fcbf0c499e00800000000000000
+      internalID: 1051955618446331384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_25
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 983
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b7aa813e27ab720800000000000000
+      internalID: 2862726832844340108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068d725dcdddeea0800000000000000
+      internalID: -5841769267707673075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 895
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cfe04713bd3b590800000000000000
+      internalID: -7659537535780062171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 935
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad757ebc4780adb0800000000000000
+      internalID: -4782674040584831573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_29
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 933
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c2a9befaa225d0800000000000000
+      internalID: -3088718383409870644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 887
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e389620a3b6d76090800000000000000
+      internalID: -8041222542672357314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 889
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41607740f1657bb20800000000000000
+      internalID: 3150081155587835412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 865
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cae3b7ba2e622d0800000000000000
+      internalID: -3303704050494690202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_33
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 862
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1920653586924be0800000000000000
+      internalID: -1494466627463272164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_34
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 861
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b35ab8896b7ea90800000000000000
+      internalID: -7284653105954342114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 765
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87727e972223d40800000000000000
+      internalID: 5562546396720494770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 780
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7008b9513ef310800000000000000
+      internalID: 1440643192214027739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 770
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58082a98940d8cc20800000000000000
+      internalID: 3227058147271278725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 763
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca54d8d27e2f9a0800000000000000
+      internalID: -6200639554106053409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 775
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc29d0235f8f2910800000000000000
+      internalID: 1814826762049760466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_40
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 765
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7304303df4dce320800000000000000
+      internalID: 2588678069731722107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 763
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda5c13e4f012f10800000000000000
+      internalID: 2243090917924122050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 776
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81bcdb9135a78c0800000000000000
+      internalID: -4000793948941772574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 766
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dfa4c07da5d1510800000000000000
+      internalID: 1521472128791805198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_44
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 747
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d527f4b90c00970800000000000000
+      internalID: 8719180651874639155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_45
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 747
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617e33b77304c4bd0800000000000000
+      internalID: -2644668274138945770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_46
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 745
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee148b8c485e8ca0800000000000000
+      internalID: -6012771366711583004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 723
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5304e28c168ae5ec0800000000000000
+      internalID: -3576235916161826763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 714
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a12e713c3b7f7f0800000000000000
+      internalID: -578796376593130991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 721
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c2f306d6077b00800000000000000
+      internalID: 826136572904785047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 711
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bcf2e64b422db70800000000000000
+      internalID: 8922234169135713167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_51
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 709
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d4020cfbe56a90800000000000000
+      internalID: -7321186151622716555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_52
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 677
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c309ea98cac3ffa50800000000000000
+      internalID: 6557026294216691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_53
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 707
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065108a1f0add25d0800000000000000
+      internalID: -3085570411274955424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_54
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 488
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ce746a341923b0800000000000000
+      internalID: -5536872025848627198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_55
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 611
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237acde7a4b17ce0800000000000000
+      internalID: -1409146575048248532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 663
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b305328ab7f498070800000000000000
+      internalID: 8109099996577747003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 658
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1b0f1f873f5a40800000000000000
+      internalID: 5359063169434853065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_58
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 656
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b817a6a275d3df0800000000000000
+      internalID: -198906968848364763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969477ea37626c00800000000000000
+      internalID: 892389178861721239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 594
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee3f2fab08d3c00800000000000000
+      internalID: 882002642462830331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 591
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09e106bb9c8d58a0800000000000000
+      internalID: -6314736502102169333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 465
+        width: 226
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a371a70508b7090800000000000000
+      internalID: -8035688026978436466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 559
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d91e1893512ed0800000000000000
+      internalID: -2440577610252953338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_64
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 586
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba0990ec753a4c0800000000000000
+      internalID: -4277478678636483610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 481
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4558ea02752216a70800000000000000
+      internalID: 8818367302973949268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2d80c639d565c0800000000000000
+      internalID: -4222730246408032336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 477
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17116f97efa9a84b0800000000000000
+      internalID: -5437363182337912463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 467
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438abc569420edc40800000000000000
+      internalID: 5538867105976002612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 463
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a998a380450e9020800000000000000
+      internalID: 2350321830178888096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 478
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4def824d3d282a10800000000000000
+      internalID: 1884806185187536206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_71
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 468
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eaddf9b8b962d90800000000000000
+      internalID: -7122834736654995813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_72
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 462
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81b525dc139b2e0800000000000000
+      internalID: -2109600192526608168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_73
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 467
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae88068d4e2e05b0800000000000000
+      internalID: -5400327992674578782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_74
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 459
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217d84bf2f82ede0800000000000000
+      internalID: -1305323506928619219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_75
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 449
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadca122c4b8fbbc0800000000000000
+      internalID: -3765137604352488022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_76
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 436
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78caf3d59d0d5c7e0800000000000000
+      internalID: -1745759648545264505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 416
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f1d1551f272560800000000000000
+      internalID: 7288846290535970353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_78
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 107
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ef3172cfa7a9b0800000000000000
+      internalID: -5068889605923676048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_79
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 287
+        width: 212
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701847d8aef36b2a0800000000000000
+      internalID: -6722115117175766777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_80
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 287
+        width: 106
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54397f48ac812d160800000000000000
+      internalID: 7048723624881525573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_81
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 399
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f1fd1d2cfb5b2f0800000000000000
+      internalID: -957648502280740992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_82
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 221
+        width: 169
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e43a3fc6cfaa10800000000000000
+      internalID: 1922974159247567320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_83
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 349
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2c2aa50cbfa5c40800000000000000
+      internalID: 5501986698359390943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_84
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 247
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35432c38caf0fbaa0800000000000000
+      internalID: -6143174133090732973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_85
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 242
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259bb8f0dd5507b0800000000000000
+      internalID: -5258693837777562336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_86
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 189
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4146c771a7ff13570800000000000000
+      internalID: 8444811676141511700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_87
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 209
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8911064ee69bf0800000000000000
+      internalID: -317804739249467966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_88
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 196
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af352bb9cb26b9700800000000000000
+      internalID: 548140341861176314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_89
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 156
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7d1bb5f2c53ea0800000000000000
+      internalID: -5893590176682377850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_90
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 95
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371a5143e06fdb50800000000000000
+      internalID: 6620116506428184380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_91
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 159
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e6e7a2b4758710800000000000000
+      internalID: 1694889145444787323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_92
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 126
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d07fcf6ca7e6320800000000000000
+      internalID: 2553113033831812478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_93
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 127
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d9ad3a00c509940800000000000000
+      internalID: 5300837919233842471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_94
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 14
+        width: 177
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b4cb903fce58d0800000000000000
+      internalID: -2855617306027576308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_95
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0a9ae9b26473f0800000000000000
+      internalID: -903989074550190991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_96
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 78
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee52f5d2b41f70d0800000000000000
+      internalID: -3422994433452122392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_97
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 78
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334bc0c4dcaa6f10800000000000000
+      internalID: 2263811792474686265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_98
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 7
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3559a4acc334a40800000000000000
+      internalID: 5351187621778641883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_99
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19c7a15bea9039a0800000000000000
+      internalID: -6255329546939676388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_100
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35b99d09caf62e0800000000000000
+      internalID: -2130294360596851791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_101
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 21
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b3a1a6813a0b20800000000000000
+      internalID: 3101345747705245822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_102
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b57081b49464280800000000000000
+      internalID: -9059473013534663835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Time_booster_103
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 3
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f294682bbaf1570800000000000000
+      internalID: 8439653009961070376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Time_booster_0: -8976921182177291068
+      Time_booster_1: -2107829139822436061
+      Time_booster_10: 7798607922642528310
+      Time_booster_100: -2130294360596851791
+      Time_booster_101: 3101345747705245822
+      Time_booster_102: -9059473013534663835
+      Time_booster_103: 8439653009961070376
+      Time_booster_11: 5883676174746670714
+      Time_booster_12: -7203725897267170498
+      Time_booster_13: -6929971210636511164
+      Time_booster_14: -2216077365616148812
+      Time_booster_15: 957560884102893359
+      Time_booster_16: -2126494697775085570
+      Time_booster_17: -3157163797034869128
+      Time_booster_18: 1713608358719988334
+      Time_booster_19: 936856664095276577
+      Time_booster_2: -9094243520148293415
+      Time_booster_20: 3465084387933560669
+      Time_booster_21: -94862690100695766
+      Time_booster_22: -241076626821398458
+      Time_booster_23: -3494150954512731611
+      Time_booster_24: 1051955618446331384
+      Time_booster_25: 2862726832844340108
+      Time_booster_26: -5841769267707673075
+      Time_booster_27: -7659537535780062171
+      Time_booster_28: -4782674040584831573
+      Time_booster_29: -3088718383409870644
+      Time_booster_3: 1267686636235757533
+      Time_booster_30: -8041222542672357314
+      Time_booster_31: 3150081155587835412
+      Time_booster_32: -3303704050494690202
+      Time_booster_33: -1494466627463272164
+      Time_booster_34: -7284653105954342114
+      Time_booster_35: 5562546396720494770
+      Time_booster_36: 1440643192214027739
+      Time_booster_37: 3227058147271278725
+      Time_booster_38: -6200639554106053409
+      Time_booster_39: 1814826762049760466
+      Time_booster_4: 6979570403555563441
+      Time_booster_40: 2588678069731722107
+      Time_booster_41: 2243090917924122050
+      Time_booster_42: -4000793948941772574
+      Time_booster_43: 1521472128791805198
+      Time_booster_44: 8719180651874639155
+      Time_booster_45: -2644668274138945770
+      Time_booster_46: -6012771366711583004
+      Time_booster_47: -3576235916161826763
+      Time_booster_48: -578796376593130991
+      Time_booster_49: 826136572904785047
+      Time_booster_5: 3104302247549065117
+      Time_booster_50: 8922234169135713167
+      Time_booster_51: -7321186151622716555
+      Time_booster_52: 6557026294216691772
+      Time_booster_53: -3085570411274955424
+      Time_booster_54: -5536872025848627198
+      Time_booster_55: -1409146575048248532
+      Time_booster_56: 8109099996577747003
+      Time_booster_57: 5359063169434853065
+      Time_booster_58: -198906968848364763
+      Time_booster_59: 892389178861721239
+      Time_booster_6: 5744319856329878511
+      Time_booster_60: 882002642462830331
+      Time_booster_61: -6314736502102169333
+      Time_booster_62: -8035688026978436466
+      Time_booster_63: -2440577610252953338
+      Time_booster_64: -4277478678636483610
+      Time_booster_65: 8818367302973949268
+      Time_booster_66: -4222730246408032336
+      Time_booster_67: -5437363182337912463
+      Time_booster_68: 5538867105976002612
+      Time_booster_69: 2350321830178888096
+      Time_booster_7: 6843006657460317382
+      Time_booster_70: 1884806185187536206
+      Time_booster_71: -7122834736654995813
+      Time_booster_72: -2109600192526608168
+      Time_booster_73: -5400327992674578782
+      Time_booster_74: -1305323506928619219
+      Time_booster_75: -3765137604352488022
+      Time_booster_76: -1745759648545264505
+      Time_booster_77: 7288846290535970353
+      Time_booster_78: -5068889605923676048
+      Time_booster_79: -6722115117175766777
+      Time_booster_8: 3954315098984007351
+      Time_booster_80: 7048723624881525573
+      Time_booster_81: -957648502280740992
+      Time_booster_82: 1922974159247567320
+      Time_booster_83: 5501986698359390943
+      Time_booster_84: -6143174133090732973
+      Time_booster_85: -5258693837777562336
+      Time_booster_86: 8444811676141511700
+      Time_booster_87: -317804739249467966
+      Time_booster_88: 548140341861176314
+      Time_booster_89: -5893590176682377850
+      Time_booster_9: 6312952116936167184
+      Time_booster_90: 6620116506428184380
+      Time_booster_91: 1694889145444787323
+      Time_booster_92: 2553113033831812478
+      Time_booster_93: 5300837919233842471
+      Time_booster_94: -2855617306027576308
+      Time_booster_95: -903989074550190991
+      Time_booster_96: -3422994433452122392
+      Time_booster_97: 2263811792474686265
+      Time_booster_98: 5351187621778641883
+      Time_booster_99: -6255329546939676388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 291a8001851348e45bf33ecbf13f610e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6841553551083826271
+    second: brick_booster_0
+  - first:
+      213: 4105836341711031165
+    second: brick_booster_1
+  - first:
+      213: -3254744755650714414
+    second: brick_booster_2
+  - first:
+      213: -2339729026829041610
+    second: brick_booster_3
+  - first:
+      213: 7778742840153474293
+    second: brick_booster_4
+  - first:
+      213: 7795435803740364940
+    second: brick_booster_5
+  - first:
+      213: 7810426108727341425
+    second: brick_booster_6
+  - first:
+      213: 1148248956973286716
+    second: brick_booster_7
+  - first:
+      213: -4271221258548856556
+    second: brick_booster_8
+  - first:
+      213: -1432070105943803642
+    second: brick_booster_9
+  - first:
+      213: 1529371169493386471
+    second: brick_booster_10
+  - first:
+      213: 4009615676194151187
+    second: brick_booster_11
+  - first:
+      213: -5809948218648725506
+    second: brick_booster_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brick_booster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 281
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce924e4b412fe50800000000000000
+      internalID: 6841553551083826271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b439d266cdaf830800000000000000
+      internalID: 4105836341711031165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 469
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4afdc93e2d4d2d0800000000000000
+      internalID: -3254744755650714414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 459
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304f25b8dc978fd0800000000000000
+      internalID: -2339729026829041610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 459
+        width: 66
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4067a4665a3fb60800000000000000
+      internalID: 7778742840153474293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 271
+        width: 207
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806e4fbf83fe2c60800000000000000
+      internalID: 7795435803740364940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 423
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171312b1a25346c60800000000000000
+      internalID: 7810426108727341425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 390
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c350b1ab7566fef00800000000000000
+      internalID: 1148248956973286716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 390
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419391f25e299b4c0800000000000000
+      internalID: -4271221258548856556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60973c973d3402ce0800000000000000
+      internalID: -1432070105943803642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 297
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e48067c9fa693510800000000000000
+      internalID: 1529371169493386471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 261
+        width: 93
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bd361b63405a730800000000000000
+      internalID: 4009615676194151187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick_booster_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 261
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef77708a0eaee5fa0800000000000000
+      internalID: -5809948218648725506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brick_booster_0: 6841553551083826271
+      brick_booster_1: 4105836341711031165
+      brick_booster_10: 1529371169493386471
+      brick_booster_11: 4009615676194151187
+      brick_booster_12: -5809948218648725506
+      brick_booster_2: -3254744755650714414
+      brick_booster_3: -2339729026829041610
+      brick_booster_4: 7778742840153474293
+      brick_booster_5: 7795435803740364940
+      brick_booster_6: 7810426108727341425
+      brick_booster_7: 1148248956973286716
+      brick_booster_8: -4271221258548856556
+      brick_booster_9: -1432070105943803642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

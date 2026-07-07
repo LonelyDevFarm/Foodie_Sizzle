@@ -1,0 +1,3159 @@
+fileFormatVersion: 2
+guid: a3918218261e24a438c7654ad218424d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7484477955935802474
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_0
+  - first:
+      213: 4638748521282094485
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_1
+  - first:
+      213: 5956542606595323376
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_2
+  - first:
+      213: -531230387077686248
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_3
+  - first:
+      213: -5958528655246609707
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_4
+  - first:
+      213: -6054441099868334889
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_5
+  - first:
+      213: -2069821521746374951
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_6
+  - first:
+      213: 7682948074569483099
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_7
+  - first:
+      213: 3031459480762637731
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_8
+  - first:
+      213: 1372235042277284232
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_9
+  - first:
+      213: -4180663374073670142
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_10
+  - first:
+      213: 2563664023033621553
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_11
+  - first:
+      213: -4819021007134845336
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_12
+  - first:
+      213: -4320058672383167430
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_13
+  - first:
+      213: 2115021730564222195
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_14
+  - first:
+      213: 775269742803761624
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_15
+  - first:
+      213: 3386125962874594498
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_16
+  - first:
+      213: 6091625489507396551
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_17
+  - first:
+      213: 7255601880979541936
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_18
+  - first:
+      213: 2397221858440624710
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_19
+  - first:
+      213: -2894633778602851678
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_20
+  - first:
+      213: -1295778057642917463
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_21
+  - first:
+      213: 8339878629239953303
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_22
+  - first:
+      213: -1543103529997342030
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_23
+  - first:
+      213: -2459436098517533298
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_24
+  - first:
+      213: -8285354314823834590
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_25
+  - first:
+      213: -7878007735365425592
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_26
+  - first:
+      213: -3952295455568423805
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_27
+  - first:
+      213: 794438727800900194
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_28
+  - first:
+      213: -1021487187962232887
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_29
+  - first:
+      213: 7040205809358512013
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_30
+  - first:
+      213: 7494795317617719607
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_31
+  - first:
+      213: -7685221474733451206
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_32
+  - first:
+      213: 633717132798970168
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_33
+  - first:
+      213: 7652190732511091053
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_34
+  - first:
+      213: 8151108227368518131
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_35
+  - first:
+      213: 3569261054820490094
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_36
+  - first:
+      213: -2833452658462276492
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_37
+  - first:
+      213: 874280055774410285
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_38
+  - first:
+      213: 1928506310235309846
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_39
+  - first:
+      213: 5145053007647397682
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_40
+  - first:
+      213: -7764937537277384180
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_41
+  - first:
+      213: 2597777040128719755
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_42
+  - first:
+      213: 4783377794308844956
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_43
+  - first:
+      213: -3009188504863457954
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_44
+  - first:
+      213: 1759298234509263997
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_45
+  - first:
+      213: -8894586551895514577
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_46
+  - first:
+      213: -6043869885476890455
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_47
+  - first:
+      213: -8703456605929892622
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_48
+  - first:
+      213: -7664047618902231218
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_49
+  - first:
+      213: -4635631374002917381
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_50
+  - first:
+      213: -6350651411084381187
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_51
+  - first:
+      213: 7173457590036882166
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_52
+  - first:
+      213: 7403469900697438344
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_53
+  - first:
+      213: 1678299353929785858
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_54
+  - first:
+      213: -6627109269635190003
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_55
+  - first:
+      213: 8219243077693895068
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_56
+  - first:
+      213: 1610266490944060126
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_57
+  - first:
+      213: -2984240748164758918
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_58
+  - first:
+      213: -239682682472677630
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_59
+  - first:
+      213: 359155672607543402
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_60
+  - first:
+      213: -538474174937591635
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_61
+  - first:
+      213: 1875068013409488213
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_62
+  - first:
+      213: 3501731857861165548
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_63
+  - first:
+      213: 7354570127145117036
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_64
+  - first:
+      213: -5595239283632622068
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_65
+  - first:
+      213: -3656747430516450395
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_66
+  - first:
+      213: 7402640571471025092
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_67
+  - first:
+      213: 1120790763014851175
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_68
+  - first:
+      213: 1169577103432778531
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_69
+  - first:
+      213: 4233395740245506352
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_70
+  - first:
+      213: -497848109499748592
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_71
+  - first:
+      213: -8919785129923442647
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_72
+  - first:
+      213: -5400754724485483553
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_73
+  - first:
+      213: -5147517776823028527
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_74
+  - first:
+      213: -1032453310578120055
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_75
+  - first:
+      213: 6992696303284072208
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_76
+  - first:
+      213: -2354166760357653015
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_77
+  - first:
+      213: -104731859530168181
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_78
+  - first:
+      213: -2888817399184689824
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_79
+  - first:
+      213: -3839390601418476751
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_80
+  - first:
+      213: 32685593628341816
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_81
+  - first:
+      213: -4562771739404432065
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_82
+  - first:
+      213: 5626669776138324946
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_83
+  - first:
+      213: -1902036742015102222
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_84
+  - first:
+      213: 6724312834586262629
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_85
+  - first:
+      213: 4196240832919877779
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_86
+  - first:
+      213: 212188091618992877
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_87
+  - first:
+      213: 8338034642284299545
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_88
+  - first:
+      213: 9040440636557155
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_89
+  - first:
+      213: -1835652370073955432
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_90
+  - first:
+      213: 7822488652324976666
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_91
+  - first:
+      213: 6129170293204868857
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_92
+  - first:
+      213: -551473096544137786
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_93
+  - first:
+      213: -5109282628606685697
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_94
+  - first:
+      213: 4811125088248434312
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_95
+  - first:
+      213: 2509324010651987997
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_96
+  - first:
+      213: -6041862225810333795
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_97
+  - first:
+      213: -1049676619271839319
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_98
+  - first:
+      213: -8042083921536406658
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_99
+  - first:
+      213: -5758408042622321452
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_100
+  - first:
+      213: -4389392944837065236
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_101
+  - first:
+      213: -3447148739131037474
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_102
+  - first:
+      213: -5785347244244977932
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_103
+  - first:
+      213: -3423355483189026420
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_104
+  - first:
+      213: 5886114591530244752
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_105
+  - first:
+      213: 6509890298698804201
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_106
+  - first:
+      213: -4101059091661303929
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_107
+  - first:
+      213: -6744430863808789584
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_108
+  - first:
+      213: 760496467937464123
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_109
+  - first:
+      213: 1411595640997500230
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_110
+  - first:
+      213: 8404162143869634042
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_111
+  - first:
+      213: 651353978372682265
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_112
+  - first:
+      213: 9167749078772774548
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_113
+  - first:
+      213: -7646780323253436016
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_114
+  - first:
+      213: -6767225294762286394
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_115
+  - first:
+      213: 5208029816266219141
+    second: sactx-0-2048x2048-Crunch-Skewer-467c83a6_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1716
+        width: 76
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649bc4eb053ed760800000000000000
+      internalID: 7484477955935802474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1713
+        width: 77
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5954365f335206040800000000000000
+      internalID: 4638748521282094485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1718
+        width: 78
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f79b01f3e9a250800000000000000
+      internalID: 5956542606595323376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1495
+        width: 70
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c575c07c0b0a8f0800000000000000
+      internalID: -531230387077686248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1584
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d23a08f1cd0f4da0800000000000000
+      internalID: -5958528655246609707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1505
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d492d0c5ed4afba0800000000000000
+      internalID: -6054441099868334889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1500
+        width: 84
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de49d7da448643e0800000000000000
+      internalID: -2069821521746374951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1285
+        width: 75
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b534c7c51905f9a60800000000000000
+      internalID: 7682948074569483099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1292
+        width: 59
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add8dd1658e11a20800000000000000
+      internalID: 3031459480762637731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1283
+        width: 62
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d74320882b0310800000000000000
+      internalID: 1372235042277284232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1279
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065ad6bfcc4bf5c0800000000000000
+      internalID: -4180663374073670142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1289
+        width: 70
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c2e5898d6f39320800000000000000
+      internalID: 2563664023033621553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1281
+        width: 79
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86615902de56f1db0800000000000000
+      internalID: -4819021007134845336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1290
+        width: 72
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3471cfa6811c04c0800000000000000
+      internalID: -4320058672383167430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1375
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc238ede011a5d10800000000000000
+      internalID: 2115021730564222195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1287
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93de839bf42ca00800000000000000
+      internalID: 775269742803761624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1079
+        width: 79
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c42edd6f9fedfe20800000000000000
+      internalID: 3386125962874594498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1074
+        width: 72
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbadce9b1dc98450800000000000000
+      internalID: 6091625489507396551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1080
+        width: 56
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf017b087311b460800000000000000
+      internalID: 7255601880979541936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1079
+        width: 68
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab7284494a44120800000000000000
+      internalID: 2397221858440624710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1071
+        width: 78
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2c78f2ae134d7d0800000000000000
+      internalID: -2894633778602851678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1162
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c27ec8b8740ee0800000000000000
+      internalID: -1295778057642917463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1076
+        width: 76
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79718bd3d633db370800000000000000
+      internalID: 8339878629239953303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1077
+        width: 36
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6bd2e38bc59ae0800000000000000
+      internalID: -1543103529997342030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1074
+        width: 54
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df61826e35eddd0800000000000000
+      internalID: -2459436098517533298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_25
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1066
+        width: 66
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ecaaf522840d80800000000000000
+      internalID: -8285354314823834590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_26
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1073
+        width: 80
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a3c344b1bba290800000000000000
+      internalID: -7878007735365425592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_27
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1059
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384147b2930a629c0800000000000000
+      internalID: -3952295455568423805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1076
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac26650d9660b00800000000000000
+      internalID: 794438727800900194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 866
+        width: 82
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cff5ea80d2f2d1f0800000000000000
+      internalID: -1021487187962232887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 859
+        width: 74
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f947c02e5d3b160800000000000000
+      internalID: 7040205809358512013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 863
+        width: 77
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7397ddad1acd20860800000000000000
+      internalID: 7494795317617719607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 860
+        width: 74
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381f4a69cb985590800000000000000
+      internalID: -7685221474733451206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 862
+        width: 71
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839cf8cef5a6bc800800000000000000
+      internalID: 633717132798970168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_34
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 871
+        width: 73
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d691cdc9dea023a60800000000000000
+      internalID: 7652190732511091053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_35
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 864
+        width: 84
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f180121fbd8e1170800000000000000
+      internalID: 8151108227368518131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_36
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 868
+        width: 76
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1633c400988130800000000000000
+      internalID: 3569261054820490094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 857
+        width: 55
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744874c1dd8da8d0800000000000000
+      internalID: -2833452658462276492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_38
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 860
+        width: 79
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2674ae1411122c00800000000000000
+      internalID: 874280055774410285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_39
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 861
+        width: 68
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cca0854e63ca10800000000000000
+      internalID: 1928506310235309846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_40
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 845
+        width: 82
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d0676376e66740800000000000000
+      internalID: 5145053007647397682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 666
+        width: 81
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a2c7343766d3490800000000000000
+      internalID: -7764937537277384180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 655
+        width: 81
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb98254782d0420800000000000000
+      internalID: 2597777040128719755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 648
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d2540b2c8f16240800000000000000
+      internalID: 4783377794308844956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 652
+        width: 76
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dbc698ff63d36d0800000000000000
+      internalID: -3009188504863457954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 644
+        width: 52
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7485e15c684a6810800000000000000
+      internalID: 1759298234509263997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 68
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222d4618a4109480800000000000000
+      internalID: -8894586551895514577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_47
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 647
+        width: 75
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a818776c5cdf1ca0800000000000000
+      internalID: -6043869885476890455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_48
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 648
+        width: 68
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4958d645c173780800000000000000
+      internalID: -8703456605929892622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_49
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 651
+        width: 73
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4777a5eb45d3a590800000000000000
+      internalID: -7664047618902231218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_50
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 652
+        width: 68
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff66e273ddeaafb0800000000000000
+      internalID: -4635631374002917381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_51
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 649
+        width: 69
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37bf55034fdd7a0800000000000000
+      internalID: -6350651411084381187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_52
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 645
+        width: 77
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f26a79ebad3d8360800000000000000
+      internalID: 7173457590036882166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_53
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 650
+        width: 70
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880e5046a86eb660800000000000000
+      internalID: 7403469900697438344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_54
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 651
+        width: 81
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a0c1de548a4710800000000000000
+      internalID: 1678299353929785858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_55
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 648
+        width: 83
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0332bf2b37c704a0800000000000000
+      internalID: -6627109269635190003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_56
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 654
+        width: 87
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917880280e901270800000000000000
+      internalID: 8219243077693895068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_57
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 651
+        width: 58
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda7f6a87d0d85610800000000000000
+      internalID: 1610266490944060126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_58
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 737
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c469c9d8d596d0800000000000000
+      internalID: -2984240748164758918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_59
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 740
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f3764ced97cacf0800000000000000
+      internalID: -239682682472677630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_60
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 656
+        width: 68
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d6dc6e2afbf400800000000000000
+      internalID: 359155672607543402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_61
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 655
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09f124794f688f0800000000000000
+      internalID: -538474174937591635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_62
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 658
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d48f47c64950a10800000000000000
+      internalID: 1875068013409488213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 86
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1cb7e5296a89030800000000000000
+      internalID: 3501731857861165548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 437
+        width: 80
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652f20809ea01660800000000000000
+      internalID: 7354570127145117036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 433
+        width: 64
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0634c13487b952b0800000000000000
+      internalID: -5595239283632622068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 71
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9eb2169f904dc0800000000000000
+      internalID: -3656747430516450395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_67
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 442
+        width: 74
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3dc6ef0667bb660800000000000000
+      internalID: 7402640571471025092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 446
+        width: 68
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0a01c249dd8f00800000000000000
+      internalID: 1120790763014851175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_69
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 440
+        width: 69
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3238a8bcd2c2b3010800000000000000
+      internalID: 1169577103432778531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_70
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 445
+        width: 62
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0393cfa0ffa00ca30800000000000000
+      internalID: 4233395740245506352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_71
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 435
+        width: 69
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fea2938c94719f0800000000000000
+      internalID: -497848109499748592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_72
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 432
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9280a12feae863480800000000000000
+      internalID: -8919785129923442647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_73
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 446
+        width: 83
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b708413aac05b0800000000000000
+      internalID: -5400754724485483553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_74
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 432
+        width: 79
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4747dcad75098b0800000000000000
+      internalID: -5147517776823028527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_75
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 441
+        width: 62
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa0d72f2dfba1f0800000000000000
+      internalID: -1032453310578120055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_76
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 443
+        width: 46
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2f6b2d3c0b0160800000000000000
+      internalID: 6992696303284072208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_77
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 443
+        width: 73
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e599daedc1545fd0800000000000000
+      internalID: -2354166760357653015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_78
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 436
+        width: 79
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c90cbdeaeb8ef0800000000000000
+      internalID: -104731859530168181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_79
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 442
+        width: 81
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f0ac81ebd8e7d0800000000000000
+      internalID: -2888817399184689824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 226
+        width: 70
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1337a78079eb7bac0800000000000000
+      internalID: -3839390601418476751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 65
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367d7dcf5f147000800000000000000
+      internalID: 32685593628341816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_82
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 231
+        width: 65
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8b911747cda0c0800000000000000
+      internalID: -4562771739404432065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_83
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 232
+        width: 62
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbc62b9952f51e40800000000000000
+      internalID: 5626669776138324946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_84
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 230
+        width: 60
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d27a19ab9a95e0800000000000000
+      internalID: -1902036742015102222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 226
+        width: 59
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3d1865ee815d50800000000000000
+      internalID: 6724312834586262629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_86
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 227
+        width: 69
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398bd2e0eca0c3a30800000000000000
+      internalID: 4196240832919877779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_87
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 226
+        width: 79
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2a482f1f7d1f200800000000000000
+      internalID: 212188091618992877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_88
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 231
+        width: 87
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c1429456a6b370800000000000000
+      internalID: 8338034642284299545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_89
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 229
+        width: 78
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36741cc9b3e102000800000000000000
+      internalID: 9040440636557155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_90
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 228
+        width: 56
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89353a625e37686e0800000000000000
+      internalID: -1835652370073955432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_91
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 234
+        width: 70
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18ba55ebff0f8c60800000000000000
+      internalID: 7822488652324976666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_92
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 224
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe5a5e68ef2f0550800000000000000
+      internalID: 6129170293204868857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_93
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 235
+        width: 68
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd4d49f326c858f0800000000000000
+      internalID: -551473096544137786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_94
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 228
+        width: 87
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd03d8f48e2819b0800000000000000
+      internalID: -5109282628606685697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_95
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 226
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e840ff6cc84c240800000000000000
+      internalID: 4811125088248434312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10354984e8e2d220800000000000000
+      internalID: 2509324010651987997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 82
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f59b8115ef62ca0800000000000000
+      internalID: -6041862225810333795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 17
+        width: 77
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1e44b1dacce61f0800000000000000
+      internalID: -1049676619271839319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_99
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 17
+        width: 73
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b21fa3847c46090800000000000000
+      internalID: -8042083921536406658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_100
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 17
+        width: 55
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7eb305660610b0800000000000000
+      internalID: -5758408042622321452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 27
+        width: 81
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce581676f5eb513c0800000000000000
+      internalID: -4389392944837065236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_102
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 18
+        width: 61
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8a82c4c744920d0800000000000000
+      internalID: -3447148739131037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_103
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 20
+        width: 74
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f63e7c555156bfa0800000000000000
+      internalID: -5785347244244977932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_104
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 22
+        width: 80
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81e1a4635ccd70d0800000000000000
+      internalID: -3423355483189026420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_105
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 23
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5767f80eafa150800000000000000
+      internalID: 5886114591530244752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_106
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 25
+        width: 72
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb24bc5cb6c75a50800000000000000
+      internalID: 6509890298698804201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_107
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 21
+        width: 64
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f44a60c7c1617c0800000000000000
+      internalID: -4101059091661303929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_108
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 18
+        width: 58
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b30f76ecd7f662a0800000000000000
+      internalID: -6744430863808789584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_109
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 15
+        width: 72
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0a502283dd8a00800000000000000
+      internalID: 760496467937464123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_110
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 17
+        width: 79
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645552ca1cef69310800000000000000
+      internalID: 1411595640997500230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_111
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 13
+        width: 80
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5822451f491a470800000000000000
+      internalID: 8404162143869634042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_112
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 18
+        width: 67
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f0f70ef21a0900800000000000000
+      internalID: 651353978372682265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_113
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 21
+        width: 61
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967a2ed6336a3f70800000000000000
+      internalID: 9167749078772774548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_114
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 17
+        width: 47
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09148057fcd21e590800000000000000
+      internalID: -7646780323253436016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_115
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 104
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2e7aed27cf512a0800000000000000
+      internalID: -6767225294762286394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-Skewer-467c83a6_116
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 17
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ed03a4683a64840800000000000000
+      internalID: 5208029816266219141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_0: 7484477955935802474
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_1: 4638748521282094485
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_10: -4180663374073670142
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_100: -5758408042622321452
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_101: -4389392944837065236
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_102: -3447148739131037474
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_103: -5785347244244977932
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_104: -3423355483189026420
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_105: 5886114591530244752
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_106: 6509890298698804201
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_107: -4101059091661303929
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_108: -6744430863808789584
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_109: 760496467937464123
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_11: 2563664023033621553
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_110: 1411595640997500230
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_111: 8404162143869634042
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_112: 651353978372682265
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_113: 9167749078772774548
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_114: -7646780323253436016
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_115: -6767225294762286394
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_116: 5208029816266219141
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_12: -4819021007134845336
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_13: -4320058672383167430
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_14: 2115021730564222195
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_15: 775269742803761624
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_16: 3386125962874594498
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_17: 6091625489507396551
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_18: 7255601880979541936
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_19: 2397221858440624710
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_2: 5956542606595323376
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_20: -2894633778602851678
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_21: -1295778057642917463
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_22: 8339878629239953303
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_23: -1543103529997342030
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_24: -2459436098517533298
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_25: -8285354314823834590
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_26: -7878007735365425592
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_27: -3952295455568423805
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_28: 794438727800900194
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_29: -1021487187962232887
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_3: -531230387077686248
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_30: 7040205809358512013
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_31: 7494795317617719607
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_32: -7685221474733451206
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_33: 633717132798970168
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_34: 7652190732511091053
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_35: 8151108227368518131
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_36: 3569261054820490094
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_37: -2833452658462276492
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_38: 874280055774410285
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_39: 1928506310235309846
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_4: -5958528655246609707
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_40: 5145053007647397682
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_41: -7764937537277384180
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_42: 2597777040128719755
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_43: 4783377794308844956
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_44: -3009188504863457954
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_45: 1759298234509263997
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_46: -8894586551895514577
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_47: -6043869885476890455
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_48: -8703456605929892622
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_49: -7664047618902231218
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_5: -6054441099868334889
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_50: -4635631374002917381
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_51: -6350651411084381187
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_52: 7173457590036882166
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_53: 7403469900697438344
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_54: 1678299353929785858
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_55: -6627109269635190003
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_56: 8219243077693895068
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_57: 1610266490944060126
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_58: -2984240748164758918
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_59: -239682682472677630
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_6: -2069821521746374951
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_60: 359155672607543402
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_61: -538474174937591635
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_62: 1875068013409488213
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_63: 3501731857861165548
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_64: 7354570127145117036
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_65: -5595239283632622068
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_66: -3656747430516450395
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_67: 7402640571471025092
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_68: 1120790763014851175
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_69: 1169577103432778531
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_7: 7682948074569483099
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_70: 4233395740245506352
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_71: -497848109499748592
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_72: -8919785129923442647
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_73: -5400754724485483553
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_74: -5147517776823028527
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_75: -1032453310578120055
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_76: 6992696303284072208
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_77: -2354166760357653015
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_78: -104731859530168181
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_79: -2888817399184689824
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_8: 3031459480762637731
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_80: -3839390601418476751
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_81: 32685593628341816
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_82: -4562771739404432065
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_83: 5626669776138324946
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_84: -1902036742015102222
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_85: 6724312834586262629
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_86: 4196240832919877779
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_87: 212188091618992877
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_88: 8338034642284299545
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_89: 9040440636557155
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_9: 1372235042277284232
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_90: -1835652370073955432
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_91: 7822488652324976666
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_92: 6129170293204868857
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_93: -551473096544137786
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_94: -5109282628606685697
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_95: 4811125088248434312
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_96: 2509324010651987997
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_97: -6041862225810333795
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_98: -1049676619271839319
+      sactx-0-2048x2048-Crunch-Skewer-467c83a6_99: -8042083921536406658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

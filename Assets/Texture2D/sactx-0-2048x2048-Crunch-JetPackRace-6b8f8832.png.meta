@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 7035158e170cfc5488cb506ec7ed95ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5856870364571708878
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_0
+  - first:
+      213: -4189007083774288903
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_1
+  - first:
+      213: -8968299037864762038
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_2
+  - first:
+      213: -7364334236037237126
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_3
+  - first:
+      213: -4046352566343662999
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_4
+  - first:
+      213: 4865083271521338178
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_5
+  - first:
+      213: 569094312186466705
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_6
+  - first:
+      213: -6830994772487616007
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_7
+  - first:
+      213: 6673499142919394367
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_8
+  - first:
+      213: 8215439255834043759
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_9
+  - first:
+      213: 462730108526647953
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_10
+  - first:
+      213: 3015968897096264574
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_11
+  - first:
+      213: -1371439646663088241
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_12
+  - first:
+      213: 8989006244968364726
+    second: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1645
+        width: 133
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd2fc7c098c74150800000000000000
+      internalID: 5856870364571708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1645
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd90a6048add5c0800000000000000
+      internalID: -4189007083774288903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1645
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45e7988a833a8380800000000000000
+      internalID: -8968299037864762038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 774
+        width: 980
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b0cdb701acc990800000000000000
+      internalID: -7364334236037237126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 170
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962881787c778d7c0800000000000000
+      internalID: -4046352566343662999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1560
+        width: 171
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24389b9857f348340800000000000000
+      internalID: 4865083271521338178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 496
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d1910344d5e700800000000000000
+      internalID: 569094312186466705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 815
+        width: 810
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f94353527e6331a0800000000000000
+      internalID: -6830994772487616007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1135
+        width: 217
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34959edc180d9c50800000000000000
+      internalID: 6673499142919394367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 348
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65a9c5d97a130270800000000000000
+      internalID: 8215439255834043759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1135
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19adb910592fb6600800000000000000
+      internalID: 462730108526647953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 894
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bac0d8bbfdad920800000000000000
+      internalID: 3015968897096264574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 763
+        width: 130
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8762c558eaa7fce0800000000000000
+      internalID: -1371439646663088241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 1087
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7b13dd8d5fbc70800000000000000
+      internalID: 8989006244968364726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_0: 5856870364571708878
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_1: -4189007083774288903
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_10: 462730108526647953
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_11: 3015968897096264574
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_12: -1371439646663088241
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_13: 8989006244968364726
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_2: -8968299037864762038
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_3: -7364334236037237126
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_4: -4046352566343662999
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_5: 4865083271521338178
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_6: 569094312186466705
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_7: -6830994772487616007
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_8: 6673499142919394367
+      sactx-0-2048x2048-Crunch-JetPackRace-6b8f8832_9: 8215439255834043759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

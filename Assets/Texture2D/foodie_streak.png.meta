@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: bba96b38ae462054aa48b480b9e2e2ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5942518713913631910
+    second: foodie_streak_0
+  - first:
+      213: 807802723531046079
+    second: foodie_streak_1
+  - first:
+      213: 2639313902355484970
+    second: foodie_streak_2
+  - first:
+      213: 1204894075050122582
+    second: foodie_streak_3
+  - first:
+      213: 8038895958807784880
+    second: foodie_streak_4
+  - first:
+      213: -690409373076094821
+    second: foodie_streak_5
+  - first:
+      213: -3647552089339955174
+    second: foodie_streak_6
+  - first:
+      213: -1102759350150144486
+    second: foodie_streak_7
+  - first:
+      213: 2692710332179113664
+    second: foodie_streak_8
+  - first:
+      213: -1778924616515112573
+    second: foodie_streak_9
+  - first:
+      213: -7527236576784087834
+    second: foodie_streak_10
+  - first:
+      213: 4757852787937578676
+    second: foodie_streak_11
+  - first:
+      213: -3600107912552345665
+    second: foodie_streak_12
+  - first:
+      213: -1250450389243655974
+    second: foodie_streak_13
+  - first:
+      213: 3625888331894422929
+    second: foodie_streak_14
+  - first:
+      213: -6546319063762950898
+    second: foodie_streak_15
+  - first:
+      213: -7977213703557762983
+    second: foodie_streak_16
+  - first:
+      213: 673583956190040253
+    second: foodie_streak_17
+  - first:
+      213: 8955514717959061225
+    second: foodie_streak_18
+  - first:
+      213: 7989535442092167379
+    second: foodie_streak_19
+  - first:
+      213: -9104376521429145577
+    second: foodie_streak_20
+  - first:
+      213: 3514002453141551535
+    second: foodie_streak_21
+  - first:
+      213: -2695998529731091011
+    second: foodie_streak_22
+  - first:
+      213: 4334144331064849546
+    second: foodie_streak_23
+  - first:
+      213: -5661601311573933721
+    second: foodie_streak_24
+  - first:
+      213: 8871005034471385192
+    second: foodie_streak_25
+  - first:
+      213: -4277805007587370360
+    second: foodie_streak_26
+  - first:
+      213: 6575042405632796764
+    second: foodie_streak_27
+  - first:
+      213: -8073660851633990427
+    second: foodie_streak_28
+  - first:
+      213: 8285395175707275097
+    second: foodie_streak_29
+  - first:
+      213: -3213374646758331107
+    second: foodie_streak_30
+  - first:
+      213: -7117656149216301242
+    second: foodie_streak_31
+  - first:
+      213: -131982797885105774
+    second: foodie_streak_32
+  - first:
+      213: 1348345861790504776
+    second: foodie_streak_33
+  - first:
+      213: 6504575190739008997
+    second: foodie_streak_34
+  - first:
+      213: 6658417837914782972
+    second: foodie_streak_35
+  - first:
+      213: 1485398913405386576
+    second: foodie_streak_36
+  - first:
+      213: -88216990762399992
+    second: foodie_streak_37
+  - first:
+      213: -8674700885660359765
+    second: foodie_streak_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foodie_streak_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4eee51941187250800000000000000
+      internalID: 5942518713913631910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc39a01c44e53b00800000000000000
+      internalID: 807802723531046079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 397
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2116a0b20ab0a420800000000000000
+      internalID: 2639313902355484970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 396
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd55707c4a8b010800000000000000
+      internalID: 1204894075050122582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdaf0b5845ef8f60800000000000000
+      internalID: 8038895958807784880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 393
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900338455c2b66f0800000000000000
+      internalID: -690409373076094821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 392
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18782743ba416dc0800000000000000
+      internalID: -3647552089339955174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 393
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e5f85b63632b0f0800000000000000
+      internalID: -1102759350150144486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 389
+        width: 105
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c66f80d7cd6e5520800000000000000
+      internalID: 2692710332179113664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 389
+        width: 81
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813b668c7dff47e0800000000000000
+      internalID: -1778924616515112573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_10
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 389
+        width: 95
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e40574e632e98790800000000000000
+      internalID: -7527236576784087834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_11
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 389
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0f9607e9470240800000000000000
+      internalID: 4757852787937578676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_12
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 386
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8e3f7de8d90ec0800000000000000
+      internalID: -3600107912552345665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_13
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 386
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad802e30ff185aee0800000000000000
+      internalID: -1250450389243655974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 382
+        width: 86
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dfcc12a3eb15230800000000000000
+      internalID: 3625888331894422929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_15
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 382
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05aa02de7dc625a0800000000000000
+      internalID: -6546319063762950898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_16
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 439
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bf06d66e3b4190800000000000000
+      internalID: -7977213703557762983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_17
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 389
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db01c131a0d095900800000000000000
+      internalID: 673583956190040253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 194
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee7bb80031684c70800000000000000
+      internalID: 8955514717959061225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 199
+        width: 193
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d01c4a772880ee60800000000000000
+      internalID: 7989535442092167379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 198
+        width: 191
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7182fc27ac1c6a180800000000000000
+      internalID: -9104376521429145577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 198
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97a57fc9e34c030800000000000000
+      internalID: 3514002453141551535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 198
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db527680f93e59ad0800000000000000
+      internalID: -2695998529731091011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_23
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 195
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b46a4e49f52c30800000000000000
+      internalID: 4334144331064849546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_24
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 195
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76100c38a93fd61b0800000000000000
+      internalID: -5661601311573933721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_25
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 191
+        width: 191
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686e5804142c1b70800000000000000
+      internalID: 8871005034471385192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_26
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 193
+        width: 194
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1e58a20f22a4c0800000000000000
+      internalID: -4277805007587370360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_27
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 305
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c586fda5b3e3f3b50800000000000000
+      internalID: 6575042405632796764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 194
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d0654b3894ff80800000000000000
+      internalID: -8073660851633990427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 192
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f64cfa303abf270800000000000000
+      internalID: 8285395175707275097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 192
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d29b1b8ccc763d0800000000000000
+      internalID: -3213374646758331107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 192
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f66987171093d90800000000000000
+      internalID: -7117656149216301242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_32
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1
+        width: 191
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999897385a1b2ef0800000000000000
+      internalID: -131982797885105774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_33
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1
+        width: 192
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847146eda6946b210800000000000000
+      internalID: 1348345861790504776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_34
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1
+        width: 191
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed31da5ca4e44a50800000000000000
+      internalID: 6504575190739008997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_35
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1
+        width: 195
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf80beeb3776c50800000000000000
+      internalID: 6658417837914782972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_36
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1
+        width: 193
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f774711723d9410800000000000000
+      internalID: 1485398913405386576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_37
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 155
+        width: 66
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80704724d1796cef0800000000000000
+      internalID: -88216990762399992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foodie_streak_38
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a27941854d9780800000000000000
+      internalID: -8674700885660359765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      foodie_streak_0: 5942518713913631910
+      foodie_streak_1: 807802723531046079
+      foodie_streak_10: -7527236576784087834
+      foodie_streak_11: 4757852787937578676
+      foodie_streak_12: -3600107912552345665
+      foodie_streak_13: -1250450389243655974
+      foodie_streak_14: 3625888331894422929
+      foodie_streak_15: -6546319063762950898
+      foodie_streak_16: -7977213703557762983
+      foodie_streak_17: 673583956190040253
+      foodie_streak_18: 8955514717959061225
+      foodie_streak_19: 7989535442092167379
+      foodie_streak_2: 2639313902355484970
+      foodie_streak_20: -9104376521429145577
+      foodie_streak_21: 3514002453141551535
+      foodie_streak_22: -2695998529731091011
+      foodie_streak_23: 4334144331064849546
+      foodie_streak_24: -5661601311573933721
+      foodie_streak_25: 8871005034471385192
+      foodie_streak_26: -4277805007587370360
+      foodie_streak_27: 6575042405632796764
+      foodie_streak_28: -8073660851633990427
+      foodie_streak_29: 8285395175707275097
+      foodie_streak_3: 1204894075050122582
+      foodie_streak_30: -3213374646758331107
+      foodie_streak_31: -7117656149216301242
+      foodie_streak_32: -131982797885105774
+      foodie_streak_33: 1348345861790504776
+      foodie_streak_34: 6504575190739008997
+      foodie_streak_35: 6658417837914782972
+      foodie_streak_36: 1485398913405386576
+      foodie_streak_37: -88216990762399992
+      foodie_streak_38: -8674700885660359765
+      foodie_streak_4: 8038895958807784880
+      foodie_streak_5: -690409373076094821
+      foodie_streak_6: -3647552089339955174
+      foodie_streak_7: -1102759350150144486
+      foodie_streak_8: 2692710332179113664
+      foodie_streak_9: -1778924616515112573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

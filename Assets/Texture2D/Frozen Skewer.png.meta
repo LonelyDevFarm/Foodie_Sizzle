@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 75973c29623fbcc429d4230970389df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7989102546902212238
+    second: Frozen Skewer_0
+  - first:
+      213: 5490306219065382506
+    second: Frozen Skewer_1
+  - first:
+      213: -3869058081677981598
+    second: Frozen Skewer_2
+  - first:
+      213: -5677504883704792352
+    second: Frozen Skewer_3
+  - first:
+      213: 5881036005289873690
+    second: Frozen Skewer_4
+  - first:
+      213: 2142783445313709346
+    second: Frozen Skewer_5
+  - first:
+      213: -4005609187097839263
+    second: Frozen Skewer_6
+  - first:
+      213: -2378872968619822462
+    second: Frozen Skewer_7
+  - first:
+      213: 2097182941383906421
+    second: Frozen Skewer_8
+  - first:
+      213: -1951529601114990218
+    second: Frozen Skewer_9
+  - first:
+      213: 3066380798668212468
+    second: Frozen Skewer_10
+  - first:
+      213: -6060710990963461379
+    second: Frozen Skewer_11
+  - first:
+      213: -4957903297791930759
+    second: Frozen Skewer_12
+  - first:
+      213: -4259871565763014545
+    second: Frozen Skewer_13
+  - first:
+      213: -2102692035086831020
+    second: Frozen Skewer_14
+  - first:
+      213: 8316918508065570667
+    second: Frozen Skewer_15
+  - first:
+      213: -8469932749107896189
+    second: Frozen Skewer_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frozen Skewer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5646307efede60800000000000000
+      internalID: 7989102546902212238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 542
+        width: 178
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669287da6c713c40800000000000000
+      internalID: 5490306219065382506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 409
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268ca328c285e4ac0800000000000000
+      internalID: -3869058081677981598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 535
+        width: 205
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eafa3493637531b0800000000000000
+      internalID: -5677504883704792352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 459
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11d5967613ad9150800000000000000
+      internalID: 5881036005289873690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 459
+        width: 173
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e288c032bcbd10800000000000000
+      internalID: 2142783445313709346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 261
+        width: 280
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169fdfdbaa73968c0800000000000000
+      internalID: -4005609187097839263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f2ab83ab8cfed0800000000000000
+      internalID: -2378872968619822462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574523a16c0ba1d10800000000000000
+      internalID: 2097182941383906421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 409
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67991ecda26cae4e0800000000000000
+      internalID: -1951529601114990218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 409
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f882ba0719fd8a20800000000000000
+      internalID: 3066380798668212468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 409
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df23159f67704eba0800000000000000
+      internalID: -6060710990963461379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 271
+        width: 170
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ecf50083df13bb0800000000000000
+      internalID: -4957903297791930759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6098e57165e1e4c0800000000000000
+      internalID: -4259871565763014545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 261
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4523b901cbcb1d2e0800000000000000
+      internalID: -2102692035086831020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 317
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fbe137151ab6370800000000000000
+      internalID: 8316918508065570667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen Skewer_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 297
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380e9f15a01c47a80800000000000000
+      internalID: -8469932749107896189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frozen Skewer_0: 7989102546902212238
+      Frozen Skewer_1: 5490306219065382506
+      Frozen Skewer_10: 3066380798668212468
+      Frozen Skewer_11: -6060710990963461379
+      Frozen Skewer_12: -4957903297791930759
+      Frozen Skewer_13: -4259871565763014545
+      Frozen Skewer_14: -2102692035086831020
+      Frozen Skewer_15: 8316918508065570667
+      Frozen Skewer_16: -8469932749107896189
+      Frozen Skewer_2: -3869058081677981598
+      Frozen Skewer_3: -5677504883704792352
+      Frozen Skewer_4: 5881036005289873690
+      Frozen Skewer_5: 2142783445313709346
+      Frozen Skewer_6: -4005609187097839263
+      Frozen Skewer_7: -2378872968619822462
+      Frozen Skewer_8: 2097182941383906421
+      Frozen Skewer_9: -1951529601114990218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

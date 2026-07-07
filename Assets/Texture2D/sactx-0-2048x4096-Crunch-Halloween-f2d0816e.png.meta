@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 2146b256c3fe2164fa317701bdf290d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1711249984038041676
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_0
+  - first:
+      213: 2495163214049706563
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_1
+  - first:
+      213: -919018128865168533
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_2
+  - first:
+      213: 1885643283095878302
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_3
+  - first:
+      213: -7834048890714747836
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_4
+  - first:
+      213: -3718076984541332675
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_5
+  - first:
+      213: 4719016148127166782
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_6
+  - first:
+      213: 2222388053465943325
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_7
+  - first:
+      213: 1286258586283581698
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_8
+  - first:
+      213: -2872685517740017146
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_9
+  - first:
+      213: -4594328709647654887
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_10
+  - first:
+      213: -7676749743331491545
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_11
+  - first:
+      213: 8425740498117685473
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_12
+  - first:
+      213: 6240750469467661540
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_13
+  - first:
+      213: 2366902959785235544
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_14
+  - first:
+      213: 2068608381379935860
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_15
+  - first:
+      213: -1836346833873272245
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_16
+  - first:
+      213: 7487202519602219630
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_17
+  - first:
+      213: 8885172050362294947
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_18
+  - first:
+      213: -2620307871608030908
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_19
+  - first:
+      213: 7548585433227900288
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_20
+  - first:
+      213: 7130652333193087011
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_21
+  - first:
+      213: 1699065082252761227
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_22
+  - first:
+      213: 861329438696663029
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_23
+  - first:
+      213: 5032940294016507435
+    second: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3698
+        width: 213
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b70583c43b6048e0800000000000000
+      internalID: -1711249984038041676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3739
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3420e0629b990a220800000000000000
+      internalID: 2495163214049706563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3697
+        width: 207
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f8d681edfe33f0800000000000000
+      internalID: -919018128865168533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3539
+        width: 502
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af70e43962b2a10800000000000000
+      internalID: 1885643283095878302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3697
+        width: 184
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c87eb5a0ed74390800000000000000
+      internalID: -7834048890714747836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_5
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 3697
+        width: 196
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbbd88eacb66cc0800000000000000
+      internalID: -3718076984541332675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3332
+        width: 389
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b37e2f205d7140800000000000000
+      internalID: 4719016148127166782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 664
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc8efe82287de10800000000000000
+      internalID: 2222388053465943325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2452
+        width: 1293
+        height: 1150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201aabc8e55b9d110800000000000000
+      internalID: 1286258586283581698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2759
+        width: 661
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a72b3edbb2228d0800000000000000
+      internalID: -2872685517740017146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2347
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a210616aad30c0800000000000000
+      internalID: -4594328709647654887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2359
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c72718c4b67590800000000000000
+      internalID: -7676749743331491545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_12
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2260
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07def675e3ee470800000000000000
+      internalID: 8425740498117685473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1868
+        width: 380
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e870bc799b9650800000000000000
+      internalID: 6240750469467661540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2127
+        width: 325
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d1d793bde8d020800000000000000
+      internalID: 2366902959785235544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 665
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47efb87ec5c25bc10800000000000000
+      internalID: 2068608381379935860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_16
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 984
+        width: 547
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420292b84cf386e0800000000000000
+      internalID: -1836346833873272245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_17
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1777
+        width: 158
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6acc4ec503e7e760800000000000000
+      internalID: 7487202519602219630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1879
+        width: 147
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e21677e87e4b70800000000000000
+      internalID: 8885172050362294947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951
+        width: 1094
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b4aeafdbc2abd0800000000000000
+      internalID: -2620307871608030908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_20
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 687
+        width: 1043
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085bc381576f1c860800000000000000
+      internalID: 7548585433227900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_21
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 983
+        width: 285
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c8c8648a25f260800000000000000
+      internalID: 7130652333193087011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 758
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8812f5b0ba449710800000000000000
+      internalID: 1699065082252761227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_23
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 596
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e91c9f8e04fb00800000000000000
+      internalID: 861329438696663029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-Halloween-f2d0816e_24
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2
+        width: 587
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9a90288898d540800000000000000
+      internalID: 5032940294016507435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_0: -1711249984038041676
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_1: 2495163214049706563
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_10: -4594328709647654887
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_11: -7676749743331491545
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_12: 8425740498117685473
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_13: 6240750469467661540
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_14: 2366902959785235544
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_15: 2068608381379935860
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_16: -1836346833873272245
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_17: 7487202519602219630
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_18: 8885172050362294947
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_19: -2620307871608030908
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_2: -919018128865168533
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_20: 7548585433227900288
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_21: 7130652333193087011
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_22: 1699065082252761227
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_23: 861329438696663029
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_24: 5032940294016507435
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_3: 1885643283095878302
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_4: -7834048890714747836
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_5: -3718076984541332675
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_6: 4719016148127166782
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_7: 2222388053465943325
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_8: 1286258586283581698
+      sactx-0-2048x4096-Crunch-Halloween-f2d0816e_9: -2872685517740017146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

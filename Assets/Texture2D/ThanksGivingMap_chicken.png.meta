@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: bd9e66546bd48e6488a00df8b453b889
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1092616700186917782
+    second: ThanksGivingMap_chicken_0
+  - first:
+      213: 3411903962952119728
+    second: ThanksGivingMap_chicken_1
+  - first:
+      213: -8411471248858711358
+    second: ThanksGivingMap_chicken_2
+  - first:
+      213: 341115722034307661
+    second: ThanksGivingMap_chicken_3
+  - first:
+      213: 2677949381235713771
+    second: ThanksGivingMap_chicken_4
+  - first:
+      213: -1074859991115417511
+    second: ThanksGivingMap_chicken_5
+  - first:
+      213: 1298365349982106791
+    second: ThanksGivingMap_chicken_6
+  - first:
+      213: -7811409704426990751
+    second: ThanksGivingMap_chicken_7
+  - first:
+      213: -6418291494662441608
+    second: ThanksGivingMap_chicken_8
+  - first:
+      213: -4159004103777350734
+    second: ThanksGivingMap_chicken_9
+  - first:
+      213: 1293226923928879176
+    second: ThanksGivingMap_chicken_10
+  - first:
+      213: -7408291905375066844
+    second: ThanksGivingMap_chicken_11
+  - first:
+      213: -4105272200051702492
+    second: ThanksGivingMap_chicken_12
+  - first:
+      213: 1164420376401473173
+    second: ThanksGivingMap_chicken_13
+  - first:
+      213: -1096183854862623263
+    second: ThanksGivingMap_chicken_14
+  - first:
+      213: -6315508985878968639
+    second: ThanksGivingMap_chicken_15
+  - first:
+      213: 8028774657620019329
+    second: ThanksGivingMap_chicken_16
+  - first:
+      213: 3525542675864871636
+    second: ThanksGivingMap_chicken_17
+  - first:
+      213: -7208185786290752861
+    second: ThanksGivingMap_chicken_18
+  - first:
+      213: -4315920609822027511
+    second: ThanksGivingMap_chicken_19
+  - first:
+      213: -3995016296303427328
+    second: ThanksGivingMap_chicken_20
+  - first:
+      213: 6488925356977425015
+    second: ThanksGivingMap_chicken_21
+  - first:
+      213: 1431064503012650629
+    second: ThanksGivingMap_chicken_22
+  - first:
+      213: -8307243093386509639
+    second: ThanksGivingMap_chicken_23
+  - first:
+      213: 3504801780926376509
+    second: ThanksGivingMap_chicken_24
+  - first:
+      213: -465838175441225985
+    second: ThanksGivingMap_chicken_25
+  - first:
+      213: 574732825945700687
+    second: ThanksGivingMap_chicken_26
+  - first:
+      213: -8065060440857538467
+    second: ThanksGivingMap_chicken_27
+  - first:
+      213: 6330974448496369106
+    second: ThanksGivingMap_chicken_28
+  - first:
+      213: -2729750613009099337
+    second: ThanksGivingMap_chicken_29
+  - first:
+      213: -1097179005845094563
+    second: ThanksGivingMap_chicken_30
+  - first:
+      213: -39214424504590755
+    second: ThanksGivingMap_chicken_31
+  - first:
+      213: 2260215228769738302
+    second: ThanksGivingMap_chicken_32
+  - first:
+      213: 3248898356474566713
+    second: ThanksGivingMap_chicken_33
+  - first:
+      213: -3538233341926682913
+    second: ThanksGivingMap_chicken_34
+  - first:
+      213: -812547204341278504
+    second: ThanksGivingMap_chicken_35
+  - first:
+      213: 8623315198097039417
+    second: ThanksGivingMap_chicken_36
+  - first:
+      213: -3090553627091211550
+    second: ThanksGivingMap_chicken_37
+  - first:
+      213: -4808295653163346468
+    second: ThanksGivingMap_chicken_38
+  - first:
+      213: 6823211416438212892
+    second: ThanksGivingMap_chicken_39
+  - first:
+      213: -7554828609756169406
+    second: ThanksGivingMap_chicken_40
+  - first:
+      213: 5537258435456841352
+    second: ThanksGivingMap_chicken_41
+  - first:
+      213: 2572296827721853609
+    second: ThanksGivingMap_chicken_42
+  - first:
+      213: 430471126548247285
+    second: ThanksGivingMap_chicken_43
+  - first:
+      213: 4297156845694846401
+    second: ThanksGivingMap_chicken_44
+  - first:
+      213: 8907325815577535249
+    second: ThanksGivingMap_chicken_45
+  - first:
+      213: 5499970760772139247
+    second: ThanksGivingMap_chicken_46
+  - first:
+      213: 7809702465122952842
+    second: ThanksGivingMap_chicken_47
+  - first:
+      213: 6777859132173295263
+    second: ThanksGivingMap_chicken_48
+  - first:
+      213: -7847275223806257815
+    second: ThanksGivingMap_chicken_49
+  - first:
+      213: -8176706401628657079
+    second: ThanksGivingMap_chicken_50
+  - first:
+      213: 5555626272771222672
+    second: ThanksGivingMap_chicken_51
+  - first:
+      213: 2588262412590635432
+    second: ThanksGivingMap_chicken_52
+  - first:
+      213: -2487028404254909978
+    second: ThanksGivingMap_chicken_53
+  - first:
+      213: 4890026349625453618
+    second: ThanksGivingMap_chicken_54
+  - first:
+      213: -6553452595140385636
+    second: ThanksGivingMap_chicken_55
+  - first:
+      213: 2468861029000317070
+    second: ThanksGivingMap_chicken_56
+  - first:
+      213: -997987589086343350
+    second: ThanksGivingMap_chicken_57
+  - first:
+      213: -6637295344848089046
+    second: ThanksGivingMap_chicken_58
+  - first:
+      213: -1187283290316056317
+    second: ThanksGivingMap_chicken_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 36
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6403bd66ee36d0f0800000000000000
+      internalID: -1092616700186917782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 485
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53287c394895f20800000000000000
+      internalID: 3411903962952119728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 528
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7d5d0773744b80800000000000000
+      internalID: -8411471248858711358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 438
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e72f11f2ebb400800000000000000
+      internalID: 341115722034307661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 486
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6280b16ccf92520800000000000000
+      internalID: 2677949381235713771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 497
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958394e68845511f0800000000000000
+      internalID: -1074859991115417511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 501
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4fb522868b40210800000000000000
+      internalID: 1298365349982106791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 437
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163179ca24c489390800000000000000
+      internalID: -7811409704426990751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 460
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875fbb324e5ade6a0800000000000000
+      internalID: -6418291494662441608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb85fe8dcf3846c0800000000000000
+      internalID: -4159004103777350734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 460
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84080c6190772f110800000000000000
+      internalID: 1293226923928879176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_11
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 460
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a7bb43c5703990800000000000000
+      internalID: -7408291905375066844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 438
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425c1a94fa42707c0800000000000000
+      internalID: -4105272200051702492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 465
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee2a8b92ad82010800000000000000
+      internalID: 1164420376401473173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 453
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1562879299c0f0800000000000000
+      internalID: -1096183854862623263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 428
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c685e0d90eca58a0800000000000000
+      internalID: -6315508985878968639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 337
+        width: 126
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18889194300fb6f60800000000000000
+      internalID: 8028774657620019329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 394
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2e763726e3de030800000000000000
+      internalID: 3525542675864871636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 393
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2be1dc73167fb90800000000000000
+      internalID: -7208185786290752861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 428
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90155c47215ca14c0800000000000000
+      internalID: -4315920609822027511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 392
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00100f258d9de88c0800000000000000
+      internalID: -3995016296303427328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 406
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a0aac7b3b4d0a50800000000000000
+      internalID: 6488925356977425015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 395
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6db855992cd310800000000000000
+      internalID: 1431064503012650629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b241e39b6eb6bc80800000000000000
+      internalID: -8307243093386509639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 415
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae54886ae83a030800000000000000
+      internalID: 3504801780926376509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 342
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff67206c5a20989f0800000000000000
+      internalID: -465838175441225985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 351
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49ff3bc57cd9f700800000000000000
+      internalID: 574732825945700687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 320
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5091a27246231090800000000000000
+      internalID: -8065060440857538467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 319
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd53bcc7b32cd750800000000000000
+      internalID: 6330974448496369106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 370
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b51032c74afd1ad0800000000000000
+      internalID: -2729750613009099337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f369dd18906c0f0800000000000000
+      internalID: -1097179005845094563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 325
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e155d40bea47ff0800000000000000
+      internalID: -39214424504590755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9fb286c5ed5f10800000000000000
+      internalID: 2260215228769738302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 322
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938540187d7661d20800000000000000
+      internalID: 3248898356474566713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 231
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde440a958ba5eec0800000000000000
+      internalID: -3538233341926682913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 252
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8500a6f9049b4f0800000000000000
+      internalID: -812547204341278504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 296
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9302dc00c7b2ca770800000000000000
+      internalID: 8623315198097039417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_37
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 226
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaeee1c9d52c15d0800000000000000
+      internalID: -3090553627091211550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 218
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d4223490854db0800000000000000
+      internalID: -4808295653163346468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c198030e1aae0be50800000000000000
+      internalID: 6823211416438212892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 234
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7688186bd72790800000000000000
+      internalID: -7554828609756169406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 234
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b0fa953b48dc40800000000000000
+      internalID: 5537258435456841352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_42
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 187
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa9311652a2b320800000000000000
+      internalID: 2572296827721853609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f278f7753759f500800000000000000
+      internalID: 430471126548247285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 228
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c587c3426192ab30800000000000000
+      internalID: 4297156845694846401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 115
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1136a20e2ad2d9b70800000000000000
+      internalID: 8907325815577535249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 118
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8bbde4442d35c40800000000000000
+      internalID: 5499970760772139247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_47
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a866523b303a16c60800000000000000
+      internalID: 7809702465122952842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 189
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e93d658facf0e50800000000000000
+      internalID: 6777859132173295263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 178
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965dd46b2c0e81390800000000000000
+      internalID: -7847275223806257815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 100
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae24a89d0868e80800000000000000
+      internalID: -8176706401628657079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 117
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c2b5df8ac891d40800000000000000
+      internalID: 5555626272771222672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d5f773fa5be320800000000000000
+      internalID: 2588262412590635432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 118
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9541ad7dc4c7dd0800000000000000
+      internalID: -2487028404254909978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca9b77e0ddcd340800000000000000
+      internalID: 4890026349625453618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94ab4e16957d05a0800000000000000
+      internalID: -6553452595140385636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888e597608234220800000000000000
+      internalID: 2468861029000317070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8246439f6622f0800000000000000
+      internalID: -997987589086343350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 8
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20d9fcbc0793e3a0800000000000000
+      internalID: -6637295344848089046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_chicken_59
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30954f0532ce58fe0800000000000000
+      internalID: -1187283290316056317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThanksGivingMap_chicken_0: -1092616700186917782
+      ThanksGivingMap_chicken_1: 3411903962952119728
+      ThanksGivingMap_chicken_10: 1293226923928879176
+      ThanksGivingMap_chicken_11: -7408291905375066844
+      ThanksGivingMap_chicken_12: -4105272200051702492
+      ThanksGivingMap_chicken_13: 1164420376401473173
+      ThanksGivingMap_chicken_14: -1096183854862623263
+      ThanksGivingMap_chicken_15: -6315508985878968639
+      ThanksGivingMap_chicken_16: 8028774657620019329
+      ThanksGivingMap_chicken_17: 3525542675864871636
+      ThanksGivingMap_chicken_18: -7208185786290752861
+      ThanksGivingMap_chicken_19: -4315920609822027511
+      ThanksGivingMap_chicken_2: -8411471248858711358
+      ThanksGivingMap_chicken_20: -3995016296303427328
+      ThanksGivingMap_chicken_21: 6488925356977425015
+      ThanksGivingMap_chicken_22: 1431064503012650629
+      ThanksGivingMap_chicken_23: -8307243093386509639
+      ThanksGivingMap_chicken_24: 3504801780926376509
+      ThanksGivingMap_chicken_25: -465838175441225985
+      ThanksGivingMap_chicken_26: 574732825945700687
+      ThanksGivingMap_chicken_27: -8065060440857538467
+      ThanksGivingMap_chicken_28: 6330974448496369106
+      ThanksGivingMap_chicken_29: -2729750613009099337
+      ThanksGivingMap_chicken_3: 341115722034307661
+      ThanksGivingMap_chicken_30: -1097179005845094563
+      ThanksGivingMap_chicken_31: -39214424504590755
+      ThanksGivingMap_chicken_32: 2260215228769738302
+      ThanksGivingMap_chicken_33: 3248898356474566713
+      ThanksGivingMap_chicken_34: -3538233341926682913
+      ThanksGivingMap_chicken_35: -812547204341278504
+      ThanksGivingMap_chicken_36: 8623315198097039417
+      ThanksGivingMap_chicken_37: -3090553627091211550
+      ThanksGivingMap_chicken_38: -4808295653163346468
+      ThanksGivingMap_chicken_39: 6823211416438212892
+      ThanksGivingMap_chicken_4: 2677949381235713771
+      ThanksGivingMap_chicken_40: -7554828609756169406
+      ThanksGivingMap_chicken_41: 5537258435456841352
+      ThanksGivingMap_chicken_42: 2572296827721853609
+      ThanksGivingMap_chicken_43: 430471126548247285
+      ThanksGivingMap_chicken_44: 4297156845694846401
+      ThanksGivingMap_chicken_45: 8907325815577535249
+      ThanksGivingMap_chicken_46: 5499970760772139247
+      ThanksGivingMap_chicken_47: 7809702465122952842
+      ThanksGivingMap_chicken_48: 6777859132173295263
+      ThanksGivingMap_chicken_49: -7847275223806257815
+      ThanksGivingMap_chicken_5: -1074859991115417511
+      ThanksGivingMap_chicken_50: -8176706401628657079
+      ThanksGivingMap_chicken_51: 5555626272771222672
+      ThanksGivingMap_chicken_52: 2588262412590635432
+      ThanksGivingMap_chicken_53: -2487028404254909978
+      ThanksGivingMap_chicken_54: 4890026349625453618
+      ThanksGivingMap_chicken_55: -6553452595140385636
+      ThanksGivingMap_chicken_56: 2468861029000317070
+      ThanksGivingMap_chicken_57: -997987589086343350
+      ThanksGivingMap_chicken_58: -6637295344848089046
+      ThanksGivingMap_chicken_59: -1187283290316056317
+      ThanksGivingMap_chicken_6: 1298365349982106791
+      ThanksGivingMap_chicken_7: -7811409704426990751
+      ThanksGivingMap_chicken_8: -6418291494662441608
+      ThanksGivingMap_chicken_9: -4159004103777350734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

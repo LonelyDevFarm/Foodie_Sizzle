@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: f7c8e0fc4504b5b47bc1858ed8aff47b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7181899099325685873
+    second: SheeperDiXe_0
+  - first:
+      213: 6361012554576229136
+    second: SheeperDiXe_1
+  - first:
+      213: 2199611803855259390
+    second: SheeperDiXe_2
+  - first:
+      213: -3155965193376575140
+    second: SheeperDiXe_3
+  - first:
+      213: -8141090420191821211
+    second: SheeperDiXe_4
+  - first:
+      213: 8820587352669143356
+    second: SheeperDiXe_5
+  - first:
+      213: -6096768001799166659
+    second: SheeperDiXe_6
+  - first:
+      213: -7279304066815440212
+    second: SheeperDiXe_7
+  - first:
+      213: 9042147494083684976
+    second: SheeperDiXe_8
+  - first:
+      213: -4229019334869948271
+    second: SheeperDiXe_9
+  - first:
+      213: 2236732756082525420
+    second: SheeperDiXe_10
+  - first:
+      213: -4926066720591587480
+    second: SheeperDiXe_11
+  - first:
+      213: -5381626268104354017
+    second: SheeperDiXe_12
+  - first:
+      213: 7136037407329229566
+    second: SheeperDiXe_13
+  - first:
+      213: 4000719091578192242
+    second: SheeperDiXe_14
+  - first:
+      213: -1078288082744143599
+    second: SheeperDiXe_15
+  - first:
+      213: 7794993284803838096
+    second: SheeperDiXe_16
+  - first:
+      213: -8451064901533601935
+    second: SheeperDiXe_17
+  - first:
+      213: -8736922213764838137
+    second: SheeperDiXe_18
+  - first:
+      213: 6271769691157736709
+    second: SheeperDiXe_19
+  - first:
+      213: -3968903067407419058
+    second: SheeperDiXe_20
+  - first:
+      213: 7951543461945713856
+    second: SheeperDiXe_21
+  - first:
+      213: 1916852832353390263
+    second: SheeperDiXe_22
+  - first:
+      213: -4328730740398434187
+    second: SheeperDiXe_23
+  - first:
+      213: -2758978401472654213
+    second: SheeperDiXe_24
+  - first:
+      213: 4254136111305938486
+    second: SheeperDiXe_25
+  - first:
+      213: 4567894527663844452
+    second: SheeperDiXe_26
+  - first:
+      213: -7201684208192950396
+    second: SheeperDiXe_27
+  - first:
+      213: 3755916443209134122
+    second: SheeperDiXe_28
+  - first:
+      213: 7899626467030184724
+    second: SheeperDiXe_29
+  - first:
+      213: -5342989503762851445
+    second: SheeperDiXe_30
+  - first:
+      213: -5290389850958245561
+    second: SheeperDiXe_31
+  - first:
+      213: 7761828629402544398
+    second: SheeperDiXe_32
+  - first:
+      213: 573954542384013439
+    second: SheeperDiXe_33
+  - first:
+      213: -7784281207595436677
+    second: SheeperDiXe_34
+  - first:
+      213: -2699453034548839671
+    second: SheeperDiXe_35
+  - first:
+      213: -3752313250023730690
+    second: SheeperDiXe_36
+  - first:
+      213: 4984311454063580979
+    second: SheeperDiXe_37
+  - first:
+      213: -3563509557309225920
+    second: SheeperDiXe_38
+  - first:
+      213: -7526473781559706936
+    second: SheeperDiXe_39
+  - first:
+      213: 1384245743362341968
+    second: SheeperDiXe_40
+  - first:
+      213: 4237671270029696206
+    second: SheeperDiXe_41
+  - first:
+      213: -6617536311747590097
+    second: SheeperDiXe_42
+  - first:
+      213: -1502937257415658732
+    second: SheeperDiXe_43
+  - first:
+      213: -2554965463336005732
+    second: SheeperDiXe_44
+  - first:
+      213: 4095673995430933167
+    second: SheeperDiXe_45
+  - first:
+      213: -6398504999498592477
+    second: SheeperDiXe_46
+  - first:
+      213: 7039096051483343792
+    second: SheeperDiXe_47
+  - first:
+      213: 3702472780549178494
+    second: SheeperDiXe_48
+  - first:
+      213: 8169303648751002261
+    second: SheeperDiXe_49
+  - first:
+      213: -7629815561541524419
+    second: SheeperDiXe_50
+  - first:
+      213: 6624377582061497251
+    second: SheeperDiXe_51
+  - first:
+      213: -901551053380185030
+    second: SheeperDiXe_52
+  - first:
+      213: -3977864737858244301
+    second: SheeperDiXe_53
+  - first:
+      213: -6824313177904339997
+    second: SheeperDiXe_54
+  - first:
+      213: 3378991243026937882
+    second: SheeperDiXe_55
+  - first:
+      213: 8552478338819311614
+    second: SheeperDiXe_56
+  - first:
+      213: 2032646845905954161
+    second: SheeperDiXe_57
+  - first:
+      213: 7748123159993862204
+    second: SheeperDiXe_58
+  - first:
+      213: -2786659018168642951
+    second: SheeperDiXe_59
+  - first:
+      213: 35049250503906044
+    second: SheeperDiXe_60
+  - first:
+      213: -3245776032203904050
+    second: SheeperDiXe_61
+  - first:
+      213: 5795220230602411773
+    second: SheeperDiXe_62
+  - first:
+      213: 1104077401873950885
+    second: SheeperDiXe_63
+  - first:
+      213: 4724002192184583711
+    second: SheeperDiXe_64
+  - first:
+      213: -9195310799401673423
+    second: SheeperDiXe_65
+  - first:
+      213: 8205630404919596827
+    second: SheeperDiXe_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheeperDiXe_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 643
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1706104fd2b3ba360800000000000000
+      internalID: 7181899099325685873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 712
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f05f573bd64850800000000000000
+      internalID: 6361012554576229136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 699
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef68c841847968e10800000000000000
+      internalID: 2199611803855259390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 713
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51da4da062c334d0800000000000000
+      internalID: -3155965193376575140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 700
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562812c6569050f80800000000000000
+      internalID: -8141090420191821211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 717
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c52ab675096a70800000000000000
+      internalID: 8820587352669143356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 699
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35eaceedcde36ba0800000000000000
+      internalID: -6096768001799166659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 714
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac865c487bafa90800000000000000
+      internalID: -7279304066815440212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 687
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aeb8f0d392c7d70800000000000000
+      internalID: 9042147494083684976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 696
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19861dc32518f45c0800000000000000
+      internalID: -4229019334869948271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 695
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce487c747987a0f10800000000000000
+      internalID: 2236732756082525420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 643
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d343ca6813abb0800000000000000
+      internalID: -4926066720591587480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 661
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f179ab71c6f9055b0800000000000000
+      internalID: -5381626268104354017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 692
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa12cfa63c480360800000000000000
+      internalID: 7136037407329229566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 698
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27144ab21d8658730800000000000000
+      internalID: 4000719091578192242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_15
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 680
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1119f76a3b62901f0800000000000000
+      internalID: -1078288082744143599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_16
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 655
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c947c7116d2c60800000000000000
+      internalID: 7794993284803838096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 668
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f615a6f39c7ba80800000000000000
+      internalID: -8451064901533601935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 663
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc35a698730c680800000000000000
+      internalID: -8736922213764838137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 663
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50da48a0e4dc90750800000000000000
+      internalID: 6271769691157736709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 663
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f83730bf9be8c0800000000000000
+      internalID: -3968903067407419058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 669
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4aa5946ae895e60800000000000000
+      internalID: 7951543461945713856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 667
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be002fbe770a9a10800000000000000
+      internalID: 1916852832353390263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 611
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dc3283524de3c0800000000000000
+      internalID: -4328730740398434187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_24
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 643
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b745f35f2c326b9d0800000000000000
+      internalID: -2758978401472654213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 610
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6365d8cf04ab90b30800000000000000
+      internalID: 4254136111305938486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 609
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46caad40fdb646f30800000000000000
+      internalID: 4567894527663844452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 651
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f6e1a6e5a7e0c90800000000000000
+      internalID: -7201684208192950396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20778bfa12bf1430800000000000000
+      internalID: 3755916443209134122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 606
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413bb91fa6c11ad60800000000000000
+      internalID: 7899626467030184724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_30
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 602
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89139dca53e9d5b0800000000000000
+      internalID: -5342989503762851445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 171
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7415d42d572c496b0800000000000000
+      internalID: -5290389850958245561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 633
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09eef6b30e87bb60800000000000000
+      internalID: 7761828629402544398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 621
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7065088d9817f700800000000000000
+      internalID: 573954542384013439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_34
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 591
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75768d0c7da8f390800000000000000
+      internalID: -7784281207595436677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 487
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bbdd374cd998ad0800000000000000
+      internalID: -2699453034548839671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 609
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1185ecafa1debc0800000000000000
+      internalID: -3752313250023730690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 553
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337de550cd4db2540800000000000000
+      internalID: 4984311454063580979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 487
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044cfda10fedb8ec0800000000000000
+      internalID: -3563509557309225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 554
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cab7def8f79c8790800000000000000
+      internalID: -7526473781559706936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_40
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 540
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c75f66b24d53310800000000000000
+      internalID: 1384245743362341968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 539
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9ff4619b3fca30800000000000000
+      internalID: 4237671270029696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 321
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28490229c9c924a0800000000000000
+      internalID: -6617536311747590097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 451
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133a0cf68e742be0800000000000000
+      internalID: -1502937257415658732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_44
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 451
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4778a270fa8cd0800000000000000
+      internalID: -2554965463336005732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_45
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 451
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2377d8cc1c6d830800000000000000
+      internalID: 4095673995430933167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 478
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f435b8a91f337a0800000000000000
+      internalID: -6398504999498592477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 244
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbf4886094efa160800000000000000
+      internalID: 7039096051483343792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 163
+        width: 172
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cf2b9063d16330800000000000000
+      internalID: 3702472780549178494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_49
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 327
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5922b1eb2623f5170800000000000000
+      internalID: 8169303648751002261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 417
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e198db237d1690800000000000000
+      internalID: -7629815561541524419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_51
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 327
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab26dc30548eeb50800000000000000
+      internalID: 6624377582061497251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 245
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a341564f71c0d73f0800000000000000
+      internalID: -901551053380185030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 157
+        width: 173
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3313867b819cbc8c0800000000000000
+      internalID: -3977864737858244301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_54
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 287
+        width: 84
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3aefa425b2b41a0800000000000000
+      internalID: -6824313177904339997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 164
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b6c302a694ee20800000000000000
+      internalID: 3378991243026937882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_56
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 256
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef74c867cb180b670800000000000000
+      internalID: 8552478338819311614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ea047989653c10800000000000000
+      internalID: 2032646845905954161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_58
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 236
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38496376fcd68b60800000000000000
+      internalID: 7748123159993862204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 208
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725be7236cc359d0800000000000000
+      internalID: -2786659018168642951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_60
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 217
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2dded8b158c7000800000000000000
+      internalID: 35049250503906044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_61
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb620445efa4f2d0800000000000000
+      internalID: -3245776032203904050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_62
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 157
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec6386812cc6050800000000000000
+      internalID: 5795220230602411773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 245
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ab3f1c88725f00800000000000000
+      internalID: 1104077401873950885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 245
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16245707f60f8140800000000000000
+      internalID: 4724002192184583711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_65
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 89
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d995afb81b36080800000000000000
+      internalID: -9195310799401673423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheeperDiXe_66
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b179063c06140e170800000000000000
+      internalID: 8205630404919596827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SheeperDiXe_0: 7181899099325685873
+      SheeperDiXe_1: 6361012554576229136
+      SheeperDiXe_10: 2236732756082525420
+      SheeperDiXe_11: -4926066720591587480
+      SheeperDiXe_12: -5381626268104354017
+      SheeperDiXe_13: 7136037407329229566
+      SheeperDiXe_14: 4000719091578192242
+      SheeperDiXe_15: -1078288082744143599
+      SheeperDiXe_16: 7794993284803838096
+      SheeperDiXe_17: -8451064901533601935
+      SheeperDiXe_18: -8736922213764838137
+      SheeperDiXe_19: 6271769691157736709
+      SheeperDiXe_2: 2199611803855259390
+      SheeperDiXe_20: -3968903067407419058
+      SheeperDiXe_21: 7951543461945713856
+      SheeperDiXe_22: 1916852832353390263
+      SheeperDiXe_23: -4328730740398434187
+      SheeperDiXe_24: -2758978401472654213
+      SheeperDiXe_25: 4254136111305938486
+      SheeperDiXe_26: 4567894527663844452
+      SheeperDiXe_27: -7201684208192950396
+      SheeperDiXe_28: 3755916443209134122
+      SheeperDiXe_29: 7899626467030184724
+      SheeperDiXe_3: -3155965193376575140
+      SheeperDiXe_30: -5342989503762851445
+      SheeperDiXe_31: -5290389850958245561
+      SheeperDiXe_32: 7761828629402544398
+      SheeperDiXe_33: 573954542384013439
+      SheeperDiXe_34: -7784281207595436677
+      SheeperDiXe_35: -2699453034548839671
+      SheeperDiXe_36: -3752313250023730690
+      SheeperDiXe_37: 4984311454063580979
+      SheeperDiXe_38: -3563509557309225920
+      SheeperDiXe_39: -7526473781559706936
+      SheeperDiXe_4: -8141090420191821211
+      SheeperDiXe_40: 1384245743362341968
+      SheeperDiXe_41: 4237671270029696206
+      SheeperDiXe_42: -6617536311747590097
+      SheeperDiXe_43: -1502937257415658732
+      SheeperDiXe_44: -2554965463336005732
+      SheeperDiXe_45: 4095673995430933167
+      SheeperDiXe_46: -6398504999498592477
+      SheeperDiXe_47: 7039096051483343792
+      SheeperDiXe_48: 3702472780549178494
+      SheeperDiXe_49: 8169303648751002261
+      SheeperDiXe_5: 8820587352669143356
+      SheeperDiXe_50: -7629815561541524419
+      SheeperDiXe_51: 6624377582061497251
+      SheeperDiXe_52: -901551053380185030
+      SheeperDiXe_53: -3977864737858244301
+      SheeperDiXe_54: -6824313177904339997
+      SheeperDiXe_55: 3378991243026937882
+      SheeperDiXe_56: 8552478338819311614
+      SheeperDiXe_57: 2032646845905954161
+      SheeperDiXe_58: 7748123159993862204
+      SheeperDiXe_59: -2786659018168642951
+      SheeperDiXe_6: -6096768001799166659
+      SheeperDiXe_60: 35049250503906044
+      SheeperDiXe_61: -3245776032203904050
+      SheeperDiXe_62: 5795220230602411773
+      SheeperDiXe_63: 1104077401873950885
+      SheeperDiXe_64: 4724002192184583711
+      SheeperDiXe_65: -9195310799401673423
+      SheeperDiXe_66: 8205630404919596827
+      SheeperDiXe_7: -7279304066815440212
+      SheeperDiXe_8: 9042147494083684976
+      SheeperDiXe_9: -4229019334869948271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

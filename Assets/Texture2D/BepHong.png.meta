@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b0abd86fa79e2cf4ab2937df0281e3d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5173436357224406975
+    second: BepHong_0
+  - first:
+      213: 8404244941627891159
+    second: BepHong_1
+  - first:
+      213: -3761056164424822994
+    second: BepHong_2
+  - first:
+      213: 4764240457220850405
+    second: BepHong_3
+  - first:
+      213: -4686027661280644247
+    second: BepHong_4
+  - first:
+      213: 1712802336214818963
+    second: BepHong_5
+  - first:
+      213: 8156872632140227845
+    second: BepHong_6
+  - first:
+      213: 4370420422981254763
+    second: BepHong_7
+  - first:
+      213: 6228706941684508630
+    second: BepHong_8
+  - first:
+      213: 2821910033801464174
+    second: BepHong_9
+  - first:
+      213: -4786711177084493452
+    second: BepHong_10
+  - first:
+      213: 8209874166045847512
+    second: BepHong_11
+  - first:
+      213: -2500436973573112241
+    second: BepHong_12
+  - first:
+      213: 1357157814988783416
+    second: BepHong_13
+  - first:
+      213: -6060731315270734118
+    second: BepHong_14
+  - first:
+      213: 7703313058723302921
+    second: BepHong_15
+  - first:
+      213: -4288171406400597927
+    second: BepHong_16
+  - first:
+      213: 3232280172149549481
+    second: BepHong_17
+  - first:
+      213: 8366507875389673728
+    second: BepHong_18
+  - first:
+      213: 7471325755762743705
+    second: BepHong_19
+  - first:
+      213: -8663823419925156656
+    second: BepHong_20
+  - first:
+      213: -1065224014703242162
+    second: BepHong_21
+  - first:
+      213: -226926451949610768
+    second: BepHong_22
+  - first:
+      213: 2469677388330360825
+    second: BepHong_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BepHong_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 198
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1406c8b0b034438b0800000000000000
+      internalID: -5173436357224406975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 321
+        width: 198
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd9a1f2f30e1a470800000000000000
+      internalID: 8404244941627891159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 316
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4a2b685b0ecbc0800000000000000
+      internalID: -3761056164424822994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 315
+        width: 192
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2813d247bfd1240800000000000000
+      internalID: 4764240457220850405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 298
+        width: 271
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96376b17ba2e7feb0800000000000000
+      internalID: -4686027661280644247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_5
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 283
+        width: 138
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3902b8466a815c710800000000000000
+      internalID: 1712802336214818963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_6
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 272
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e2d42178033170800000000000000
+      internalID: 8156872632140227845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_7
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 385
+        width: 110
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef8ee183ad6ac30800000000000000
+      internalID: 4370420422981254763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_8
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 199
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76d1d56ffc07650800000000000000
+      internalID: 6228706941684508630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_9
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 357
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c8d08930792720800000000000000
+      internalID: 2821910033801464174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 500
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ac77ab8f229db0800000000000000
+      internalID: -4786711177084493452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 318
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa1d56e055fe170800000000000000
+      internalID: 8209874166045847512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_12
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 281
+        width: 173
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efbe602d9ac4dd0800000000000000
+      internalID: -2500436973573112241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 260
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f3d8a97d795d210800000000000000
+      internalID: 1357157814988783416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1
+        width: 198
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea33adaf4f3eba0800000000000000
+      internalID: -6060731315270734118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1
+        width: 107
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e84dab96aa7ea60800000000000000
+      internalID: 7703313058723302921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_16
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1
+        width: 108
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950518953da5d74c0800000000000000
+      internalID: -4288171406400597927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_17
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1
+        width: 76
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92383f0bd5bdc20800000000000000
+      internalID: 3232280172149549481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_18
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 218
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011c13c59ecb1470800000000000000
+      internalID: 8366507875389673728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 157
+        width: 160
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991779a03b7fa760800000000000000
+      internalID: 7471325755762743705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_20
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1
+        width: 108
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dca6a2a08ae3c780800000000000000
+      internalID: -8663823419925156656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1
+        width: 63
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d56507609731f0800000000000000
+      internalID: -1065224014703242162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_22
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 81
+        width: 164
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f85761289bc9dcf0800000000000000
+      internalID: -226926451949610768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BepHong_23
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 0
+        width: 165
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffde31ff7e064220800000000000000
+      internalID: 2469677388330360825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BepHong_0: -5173436357224406975
+      BepHong_1: 8404244941627891159
+      BepHong_10: -4786711177084493452
+      BepHong_11: 8209874166045847512
+      BepHong_12: -2500436973573112241
+      BepHong_13: 1357157814988783416
+      BepHong_14: -6060731315270734118
+      BepHong_15: 7703313058723302921
+      BepHong_16: -4288171406400597927
+      BepHong_17: 3232280172149549481
+      BepHong_18: 8366507875389673728
+      BepHong_19: 7471325755762743705
+      BepHong_2: -3761056164424822994
+      BepHong_20: -8663823419925156656
+      BepHong_21: -1065224014703242162
+      BepHong_22: -226926451949610768
+      BepHong_23: 2469677388330360825
+      BepHong_3: 4764240457220850405
+      BepHong_4: -4686027661280644247
+      BepHong_5: 1712802336214818963
+      BepHong_6: 8156872632140227845
+      BepHong_7: 4370420422981254763
+      BepHong_8: 6228706941684508630
+      BepHong_9: 2821910033801464174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

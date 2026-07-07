@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5c532b3c3d275d248aed8cdb6c9f18e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 697672364248380866
+    second: santa_ava_0
+  - first:
+      213: -4183787785265306522
+    second: santa_ava_1
+  - first:
+      213: 7692042323745100165
+    second: santa_ava_2
+  - first:
+      213: 584834627164943860
+    second: santa_ava_3
+  - first:
+      213: 7162309604194220545
+    second: santa_ava_4
+  - first:
+      213: -120514474800780446
+    second: santa_ava_5
+  - first:
+      213: -7002313112461481770
+    second: santa_ava_6
+  - first:
+      213: 212549906379902919
+    second: santa_ava_7
+  - first:
+      213: -3962810249150420485
+    second: santa_ava_8
+  - first:
+      213: 2397163896950421182
+    second: santa_ava_9
+  - first:
+      213: 4831611172413606057
+    second: santa_ava_10
+  - first:
+      213: 485142507002788035
+    second: santa_ava_11
+  - first:
+      213: 6784607514972235701
+    second: santa_ava_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: santa_ava_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 227
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b1a0a151aea900800000000000000
+      internalID: 697672364248380866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 175
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664a4ab0d2330f5c0800000000000000
+      internalID: -4183787785265306522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 174
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d8104dbf9fba60800000000000000
+      internalID: 7692042323745100165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b38caeffbd1800800000000000000
+      internalID: 584834627164943860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 166
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7d5133a2a56360800000000000000
+      internalID: 7162309604194220545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 124
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26be43349b8d35ef0800000000000000
+      internalID: -120514474800780446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 128
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d86ca5f259c2de90800000000000000
+      internalID: -7002313112461481770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 136
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf01d2830123f200800000000000000
+      internalID: 212549906379902919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ac1303154109c0800000000000000
+      internalID: -3962810249150420485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 136
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6fe121ddf644120800000000000000
+      internalID: 2397163896950421182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 136
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8858823c45d0340800000000000000
+      internalID: 4831611172413606057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f75b2a829bb600800000000000000
+      internalID: 485142507002788035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santa_ava_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ad56a694c72e50800000000000000
+      internalID: 6784607514972235701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      santa_ava_0: 697672364248380866
+      santa_ava_1: -4183787785265306522
+      santa_ava_10: 4831611172413606057
+      santa_ava_11: 485142507002788035
+      santa_ava_12: 6784607514972235701
+      santa_ava_2: 7692042323745100165
+      santa_ava_3: 584834627164943860
+      santa_ava_4: 7162309604194220545
+      santa_ava_5: -120514474800780446
+      santa_ava_6: -7002313112461481770
+      santa_ava_7: 212549906379902919
+      santa_ava_8: -3962810249150420485
+      santa_ava_9: 2397163896950421182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

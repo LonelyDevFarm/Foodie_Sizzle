@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: ca1b74e85f34beb4c9d33b1ae665965a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9192642898557610516
+    second: Springs_collection_03_0
+  - first:
+      213: 3080695167128120521
+    second: Springs_collection_03_1
+  - first:
+      213: 2115568767269164751
+    second: Springs_collection_03_2
+  - first:
+      213: 1033171145531045211
+    second: Springs_collection_03_3
+  - first:
+      213: -7692974111121265054
+    second: Springs_collection_03_4
+  - first:
+      213: 7194991744396125780
+    second: Springs_collection_03_5
+  - first:
+      213: 4090549397898528777
+    second: Springs_collection_03_6
+  - first:
+      213: 1484102952702963036
+    second: Springs_collection_03_7
+  - first:
+      213: -6543544181212999154
+    second: Springs_collection_03_8
+  - first:
+      213: -9165826886796306824
+    second: Springs_collection_03_9
+  - first:
+      213: -879859582129404713
+    second: Springs_collection_03_10
+  - first:
+      213: -2636037522440038489
+    second: Springs_collection_03_11
+  - first:
+      213: -3756018105025174515
+    second: Springs_collection_03_12
+  - first:
+      213: -4584553118130901467
+    second: Springs_collection_03_13
+  - first:
+      213: -4836322614898396300
+    second: Springs_collection_03_14
+  - first:
+      213: -1570646487934032042
+    second: Springs_collection_03_15
+  - first:
+      213: -7223216377197187391
+    second: Springs_collection_03_16
+  - first:
+      213: -2697613420030475504
+    second: Springs_collection_03_17
+  - first:
+      213: 5025156136687931463
+    second: Springs_collection_03_18
+  - first:
+      213: 9185666288527978285
+    second: Springs_collection_03_19
+  - first:
+      213: -1148204277555616800
+    second: Springs_collection_03_20
+  - first:
+      213: 5114724011527323520
+    second: Springs_collection_03_21
+  - first:
+      213: -4282192039630969190
+    second: Springs_collection_03_22
+  - first:
+      213: -6699328063033455290
+    second: Springs_collection_03_23
+  - first:
+      213: 3684630723656528518
+    second: Springs_collection_03_24
+  - first:
+      213: 5718040336505222335
+    second: Springs_collection_03_25
+  - first:
+      213: -8878013075140724515
+    second: Springs_collection_03_26
+  - first:
+      213: -5896514868129712535
+    second: Springs_collection_03_27
+  - first:
+      213: -2786918465670601715
+    second: Springs_collection_03_28
+  - first:
+      213: 6093472154196306099
+    second: Springs_collection_03_29
+  - first:
+      213: -1681730690611769422
+    second: Springs_collection_03_30
+  - first:
+      213: -4931777796575796263
+    second: Springs_collection_03_31
+  - first:
+      213: -9180560243443215647
+    second: Springs_collection_03_32
+  - first:
+      213: 1537128769698090572
+    second: Springs_collection_03_33
+  - first:
+      213: 530504696842900395
+    second: Springs_collection_03_34
+  - first:
+      213: -6928598508082157214
+    second: Springs_collection_03_35
+  - first:
+      213: 3029863836510287539
+    second: Springs_collection_03_36
+  - first:
+      213: 1799748375557543141
+    second: Springs_collection_03_37
+  - first:
+      213: -4842004264800130997
+    second: Springs_collection_03_38
+  - first:
+      213: -7918926692715869663
+    second: Springs_collection_03_39
+  - first:
+      213: -6681040426108197918
+    second: Springs_collection_03_40
+  - first:
+      213: 380859358327500275
+    second: Springs_collection_03_41
+  - first:
+      213: -8432085440482232418
+    second: Springs_collection_03_42
+  - first:
+      213: -285204175345068022
+    second: Springs_collection_03_43
+  - first:
+      213: -1172431334719552542
+    second: Springs_collection_03_44
+  - first:
+      213: 3547869222491433888
+    second: Springs_collection_03_45
+  - first:
+      213: -4501172172529096116
+    second: Springs_collection_03_46
+  - first:
+      213: -8047240355807528673
+    second: Springs_collection_03_47
+  - first:
+      213: 1827580243096303092
+    second: Springs_collection_03_48
+  - first:
+      213: -5493663047868557752
+    second: Springs_collection_03_49
+  - first:
+      213: 6819315331418462228
+    second: Springs_collection_03_50
+  - first:
+      213: -398323398406222291
+    second: Springs_collection_03_51
+  - first:
+      213: -5248280830242112313
+    second: Springs_collection_03_52
+  - first:
+      213: -1920365647149656790
+    second: Springs_collection_03_53
+  - first:
+      213: -7875786748092599942
+    second: Springs_collection_03_54
+  - first:
+      213: -1967798966488746369
+    second: Springs_collection_03_55
+  - first:
+      213: -3997825396139628759
+    second: Springs_collection_03_56
+  - first:
+      213: -3861610037705318116
+    second: Springs_collection_03_57
+  - first:
+      213: 4320551274807365364
+    second: Springs_collection_03_58
+  - first:
+      213: -6565478371394929663
+    second: Springs_collection_03_59
+  - first:
+      213: -6883100255763344111
+    second: Springs_collection_03_60
+  - first:
+      213: 5154893136851681968
+    second: Springs_collection_03_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Springs_collection_03_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d47c0dfb2d6080800000000000000
+      internalID: -9192642898557610516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 286
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2fe9aee3d0ca20800000000000000
+      internalID: 3080695167128120521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 200
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65df6c5920c5d10800000000000000
+      internalID: 2115568767269164751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2
+        width: 152
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55bf81deaf865e00800000000000000
+      internalID: 1033171145531045211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 200
+        width: 133
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e27581ec01d3590800000000000000
+      internalID: -7692974111121265054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 181
+        width: 152
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456699eeedeb9d360800000000000000
+      internalID: 7194991744396125780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 172
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080ee5310d84c830800000000000000
+      internalID: 4090549397898528777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 167
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de7f9b5c7989410800000000000000
+      internalID: 1484102952702963036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_8
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 163
+        width: 24
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0299b28c39a035a0800000000000000
+      internalID: -6543544181212999154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 164
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87618c352017cc080800000000000000
+      internalID: -9165826886796306824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 180
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d404fa2f5c1ac3f0800000000000000
+      internalID: -879859582129404713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 125
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a75c54f6d9ea6bd0800000000000000
+      internalID: -2636037522440038489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3
+        width: 50
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04e9080f61ffdbc0800000000000000
+      internalID: -3756018105025174515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 129
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee5e3aa356060c0800000000000000
+      internalID: -4584553118130901467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_14
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 172
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fac7a43ee1ecb0800000000000000
+      internalID: -4836322614898396300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_15
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 125
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6572af24751f33ae0800000000000000
+      internalID: -1570646487934032042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 163
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea065a9faf1cb90800000000000000
+      internalID: -7223216377197187391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 157
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c1c513e6209ad0800000000000000
+      internalID: -2697613420030475504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_18
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 94
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409824c1e0fcb540800000000000000
+      internalID: 5025156136687931463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 88
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fadf852da0a7f70800000000000000
+      internalID: 9185666288527978285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 78
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a6b20b42c010f0800000000000000
+      internalID: -1148204277555616800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_21
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 98
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f3f37b3662bf640800000000000000
+      internalID: 5114724011527323520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 102
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a966ac927099294c0800000000000000
+      internalID: -4282192039630969190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_23
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 122
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc5190f943703a0800000000000000
+      internalID: -6699328063033455290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 108
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b9040f10722330800000000000000
+      internalID: 3684630723656528518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_25
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 110
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4bfbcf36f8a5f40800000000000000
+      internalID: 5718040336505222335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_26
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 122
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b6f85526fac480800000000000000
+      internalID: -8878013075140724515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_27
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 101
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b150f7fe5b2ea0800000000000000
+      internalID: -5896514868129712535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_28
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 122
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042ab3db60e259d0800000000000000
+      internalID: -2786918465670601715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 122
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ea9fb3ac509450800000000000000
+      internalID: 6093472154196306099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_30
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 99
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf863ad8da49a8e0800000000000000
+      internalID: -1681730690611769422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_31
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 121
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3e0f3493ece8bb0800000000000000
+      internalID: -4931777796575796263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_32
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e25e7a6919189080800000000000000
+      internalID: -9180560243443215647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e43e3d87af45510800000000000000
+      internalID: 1537128769698090572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_34
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 16
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba35ff6063bbc5700800000000000000
+      internalID: 530504696842900395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_35
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 96
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269267ebd5ca8df90800000000000000
+      internalID: -6928598508082157214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 96
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b67ffc3b1d3c0a20800000000000000
+      internalID: 3029863836510287539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_37
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 15
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49132bc9df9f810800000000000000
+      internalID: 1799748375557543141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_38
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 78
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4869a376cebdccb0800000000000000
+      internalID: -4842004264800130997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_39
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 32
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12acf4611225a1290800000000000000
+      internalID: -7918926692715869663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_40
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ebcf412d2843a0800000000000000
+      internalID: -6681040426108197918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_41
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 48
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd6e7a8195194500800000000000000
+      internalID: 380859358327500275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_42
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 25
+        width: 18
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97305c87f63bfa80800000000000000
+      internalID: -8432085440482232418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_43
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 21
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0859184050ca0cf0800000000000000
+      internalID: -285204175345068022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_44
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30182b9efaabfe0800000000000000
+      internalID: -1172431334719552542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_45
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 12
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aba42ca2409c3130800000000000000
+      internalID: 3547869222491433888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_46
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 54
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa78fd1cf9881c0800000000000000
+      internalID: -4501172172529096116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_47
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 30
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1977e15885725090800000000000000
+      internalID: -8047240355807528673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 23
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f6445c8edc5910800000000000000
+      internalID: 1827580243096303092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_49
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846da1c809692c3b0800000000000000
+      internalID: -5493663047868557752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_50
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4189294e92313ae50800000000000000
+      internalID: 6819315331418462228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_51
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e4544cafed87af0800000000000000
+      internalID: -398323398406222291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_52
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3de7346c5a27b0800000000000000
+      internalID: -5248280830242112313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_53
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2518c25e9d7955e0800000000000000
+      internalID: -1920365647149656790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_54
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7136392ea593b290800000000000000
+      internalID: -7875786748092599942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_55
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76be0d0449f0b4e0800000000000000
+      internalID: -1967798966488746369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_56
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ef0dcbfed488c0800000000000000
+      internalID: -3997825396139628759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_57
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ed71612ec86ac0800000000000000
+      internalID: -3861610037705318116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_58
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe01c04e7ea5fb30800000000000000
+      internalID: 4320551274807365364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_59
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cbe74e43cb2e4a0800000000000000
+      internalID: -6565478371394929663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_60
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11553dd19c05a70a0800000000000000
+      internalID: -6883100255763344111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springs_collection_03_61
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 0
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c4250ffbd98740800000000000000
+      internalID: 5154893136851681968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Springs_collection_03_0: -9192642898557610516
+      Springs_collection_03_1: 3080695167128120521
+      Springs_collection_03_10: -879859582129404713
+      Springs_collection_03_11: -2636037522440038489
+      Springs_collection_03_12: -3756018105025174515
+      Springs_collection_03_13: -4584553118130901467
+      Springs_collection_03_14: -4836322614898396300
+      Springs_collection_03_15: -1570646487934032042
+      Springs_collection_03_16: -7223216377197187391
+      Springs_collection_03_17: -2697613420030475504
+      Springs_collection_03_18: 5025156136687931463
+      Springs_collection_03_19: 9185666288527978285
+      Springs_collection_03_2: 2115568767269164751
+      Springs_collection_03_20: -1148204277555616800
+      Springs_collection_03_21: 5114724011527323520
+      Springs_collection_03_22: -4282192039630969190
+      Springs_collection_03_23: -6699328063033455290
+      Springs_collection_03_24: 3684630723656528518
+      Springs_collection_03_25: 5718040336505222335
+      Springs_collection_03_26: -8878013075140724515
+      Springs_collection_03_27: -5896514868129712535
+      Springs_collection_03_28: -2786918465670601715
+      Springs_collection_03_29: 6093472154196306099
+      Springs_collection_03_3: 1033171145531045211
+      Springs_collection_03_30: -1681730690611769422
+      Springs_collection_03_31: -4931777796575796263
+      Springs_collection_03_32: -9180560243443215647
+      Springs_collection_03_33: 1537128769698090572
+      Springs_collection_03_34: 530504696842900395
+      Springs_collection_03_35: -6928598508082157214
+      Springs_collection_03_36: 3029863836510287539
+      Springs_collection_03_37: 1799748375557543141
+      Springs_collection_03_38: -4842004264800130997
+      Springs_collection_03_39: -7918926692715869663
+      Springs_collection_03_4: -7692974111121265054
+      Springs_collection_03_40: -6681040426108197918
+      Springs_collection_03_41: 380859358327500275
+      Springs_collection_03_42: -8432085440482232418
+      Springs_collection_03_43: -285204175345068022
+      Springs_collection_03_44: -1172431334719552542
+      Springs_collection_03_45: 3547869222491433888
+      Springs_collection_03_46: -4501172172529096116
+      Springs_collection_03_47: -8047240355807528673
+      Springs_collection_03_48: 1827580243096303092
+      Springs_collection_03_49: -5493663047868557752
+      Springs_collection_03_5: 7194991744396125780
+      Springs_collection_03_50: 6819315331418462228
+      Springs_collection_03_51: -398323398406222291
+      Springs_collection_03_52: -5248280830242112313
+      Springs_collection_03_53: -1920365647149656790
+      Springs_collection_03_54: -7875786748092599942
+      Springs_collection_03_55: -1967798966488746369
+      Springs_collection_03_56: -3997825396139628759
+      Springs_collection_03_57: -3861610037705318116
+      Springs_collection_03_58: 4320551274807365364
+      Springs_collection_03_59: -6565478371394929663
+      Springs_collection_03_6: 4090549397898528777
+      Springs_collection_03_60: -6883100255763344111
+      Springs_collection_03_61: 5154893136851681968
+      Springs_collection_03_7: 1484102952702963036
+      Springs_collection_03_8: -6543544181212999154
+      Springs_collection_03_9: -9165826886796306824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

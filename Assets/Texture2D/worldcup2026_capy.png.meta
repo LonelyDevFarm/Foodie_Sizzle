@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: c3cfc92f0567ef642a9f7955ef868683
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1897572197396335218
+    second: worldcup2026_capy_0
+  - first:
+      213: -1479575259357144765
+    second: worldcup2026_capy_1
+  - first:
+      213: 3816078195827364213
+    second: worldcup2026_capy_2
+  - first:
+      213: 7539922971508316301
+    second: worldcup2026_capy_3
+  - first:
+      213: -2384802798146113993
+    second: worldcup2026_capy_4
+  - first:
+      213: 1833428223746180159
+    second: worldcup2026_capy_5
+  - first:
+      213: -6434857327187103010
+    second: worldcup2026_capy_6
+  - first:
+      213: -6529682812170603260
+    second: worldcup2026_capy_7
+  - first:
+      213: 5839880419239753115
+    second: worldcup2026_capy_8
+  - first:
+      213: -4498551218125585522
+    second: worldcup2026_capy_9
+  - first:
+      213: 3336897780176793816
+    second: worldcup2026_capy_10
+  - first:
+      213: -6993776036533281791
+    second: worldcup2026_capy_11
+  - first:
+      213: -8209762247132728224
+    second: worldcup2026_capy_12
+  - first:
+      213: 3043539271560393643
+    second: worldcup2026_capy_13
+  - first:
+      213: 2730257797078019708
+    second: worldcup2026_capy_14
+  - first:
+      213: 5348991585932515535
+    second: worldcup2026_capy_15
+  - first:
+      213: 63405170045538650
+    second: worldcup2026_capy_16
+  - first:
+      213: -990573735718145077
+    second: worldcup2026_capy_17
+  - first:
+      213: -3723198609137062425
+    second: worldcup2026_capy_18
+  - first:
+      213: -2883331989407869
+    second: worldcup2026_capy_19
+  - first:
+      213: -8103533283850513234
+    second: worldcup2026_capy_20
+  - first:
+      213: 1687497162743536831
+    second: worldcup2026_capy_21
+  - first:
+      213: -8650770916706824384
+    second: worldcup2026_capy_22
+  - first:
+      213: 717936936496099680
+    second: worldcup2026_capy_23
+  - first:
+      213: 2749109790551377192
+    second: worldcup2026_capy_24
+  - first:
+      213: 4482333303249108501
+    second: worldcup2026_capy_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: worldcup2026_capy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 775
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b886e3287aa5e0800000000000000
+      internalID: -1897572197396335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 815
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3499f87042e777be0800000000000000
+      internalID: -1479575259357144765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 847
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571576196ee65f430800000000000000
+      internalID: 3816078195827364213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 800
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d889f8e8eff23a860800000000000000
+      internalID: 7539922971508316301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 792
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea4258d7a77eed0800000000000000
+      internalID: -2384802798146113993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 737
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34019d6145a17910800000000000000
+      internalID: 1833428223746180159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 620
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed271b0ba5bc2b6a0800000000000000
+      internalID: -6434857327187103010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 775
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f89cf318e165a0800000000000000
+      internalID: -6529682812170603260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 688
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957b8fdc4c6b0150800000000000000
+      internalID: 5839880419239753115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 688
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8349bf508fe191c0800000000000000
+      internalID: -4498551218125585522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03a37f9da0f4e20800000000000000
+      internalID: 3336897780176793816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 537
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c5bc7dfbd11fe90800000000000000
+      internalID: -6993776036533281791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 585
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064bd31cbb0111e80800000000000000
+      internalID: -8209762247132728224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 488
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3fe4597d2dc3a20800000000000000
+      internalID: 3043539271560393643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 328
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e631c3003d3e520800000000000000
+      internalID: 2730257797078019708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 323
+        width: 64
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc89f0ad18f6b3a40800000000000000
+      internalID: 5348991585932515535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 176
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dc7d8aa241e000800000000000000
+      internalID: 63405170045538650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 253
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc330b68f66c042f0800000000000000
+      internalID: -990573735718145077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 184
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed2822679a845cc0800000000000000
+      internalID: -3723198609137062425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 216
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3877005ff91c5fff0800000000000000
+      internalID: -2883331989407869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 108
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea41986a9677a8f80800000000000000
+      internalID: -8103533283850513234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 77
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcdec09ab13b6710800000000000000
+      internalID: 1687497162743536831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc86c5fa942f780800000000000000
+      internalID: -8650770916706824384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 40
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617bf607df96f900800000000000000
+      internalID: 717936936496099680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250d520accc62620800000000000000
+      internalID: 2749109790551377192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worldcup2026_capy_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 18
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef0111462743e30800000000000000
+      internalID: 4482333303249108501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      worldcup2026_capy_0: -1897572197396335218
+      worldcup2026_capy_1: -1479575259357144765
+      worldcup2026_capy_10: 3336897780176793816
+      worldcup2026_capy_11: -6993776036533281791
+      worldcup2026_capy_12: -8209762247132728224
+      worldcup2026_capy_13: 3043539271560393643
+      worldcup2026_capy_14: 2730257797078019708
+      worldcup2026_capy_15: 5348991585932515535
+      worldcup2026_capy_16: 63405170045538650
+      worldcup2026_capy_17: -990573735718145077
+      worldcup2026_capy_18: -3723198609137062425
+      worldcup2026_capy_19: -2883331989407869
+      worldcup2026_capy_2: 3816078195827364213
+      worldcup2026_capy_20: -8103533283850513234
+      worldcup2026_capy_21: 1687497162743536831
+      worldcup2026_capy_22: -8650770916706824384
+      worldcup2026_capy_23: 717936936496099680
+      worldcup2026_capy_24: 2749109790551377192
+      worldcup2026_capy_25: 4482333303249108501
+      worldcup2026_capy_3: 7539922971508316301
+      worldcup2026_capy_4: -2384802798146113993
+      worldcup2026_capy_5: 1833428223746180159
+      worldcup2026_capy_6: -6434857327187103010
+      worldcup2026_capy_7: -6529682812170603260
+      worldcup2026_capy_8: 5839880419239753115
+      worldcup2026_capy_9: -4498551218125585522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

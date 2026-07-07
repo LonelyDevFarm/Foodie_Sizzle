@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 6d2e56a435d60d546b3a334da0c538f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6269699750191576007
+    second: IconHomeVLT_0
+  - first:
+      213: -1356215088360964282
+    second: IconHomeVLT_1
+  - first:
+      213: 5516795271920174625
+    second: IconHomeVLT_2
+  - first:
+      213: 8845314820780255779
+    second: IconHomeVLT_3
+  - first:
+      213: -343507229283829378
+    second: IconHomeVLT_4
+  - first:
+      213: 5901471698513242837
+    second: IconHomeVLT_5
+  - first:
+      213: -8745676834813142719
+    second: IconHomeVLT_6
+  - first:
+      213: 5968469670510083886
+    second: IconHomeVLT_7
+  - first:
+      213: 1294368225054704997
+    second: IconHomeVLT_8
+  - first:
+      213: 2979166049020358041
+    second: IconHomeVLT_9
+  - first:
+      213: 5914568330658188242
+    second: IconHomeVLT_10
+  - first:
+      213: 3731099510509418163
+    second: IconHomeVLT_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconHomeVLT_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 300
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3368a54b2720750800000000000000
+      internalID: 6269699750191576007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 313
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f383b0091cd2de0800000000000000
+      internalID: -1356215088360964282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264b5112189f8c40800000000000000
+      internalID: 5516795271920174625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aea1b07fed0ca70800000000000000
+      internalID: 8845314820780255779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 290
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7932c4befd9b3bf0800000000000000
+      internalID: -343507229283829378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 256
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da27e11e3d36e150800000000000000
+      internalID: 5901471698513242837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149999c514d11a680800000000000000
+      internalID: -8745676834813142719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 244
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f32730b8344d250800000000000000
+      internalID: 5968469670510083886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 212
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56540f6fa0586f110800000000000000
+      internalID: 1294368225054704997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 212
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d23cebcbf185920800000000000000
+      internalID: 2979166049020358041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db08ac5f84c41250800000000000000
+      internalID: 5914568330658188242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconHomeVLT_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63c819c3787c330800000000000000
+      internalID: 3731099510509418163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IconHomeVLT_0: 6269699750191576007
+      IconHomeVLT_1: -1356215088360964282
+      IconHomeVLT_10: 5914568330658188242
+      IconHomeVLT_11: 3731099510509418163
+      IconHomeVLT_2: 5516795271920174625
+      IconHomeVLT_3: 8845314820780255779
+      IconHomeVLT_4: -343507229283829378
+      IconHomeVLT_5: 5901471698513242837
+      IconHomeVLT_6: -8745676834813142719
+      IconHomeVLT_7: 5968469670510083886
+      IconHomeVLT_8: 1294368225054704997
+      IconHomeVLT_9: 2979166049020358041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

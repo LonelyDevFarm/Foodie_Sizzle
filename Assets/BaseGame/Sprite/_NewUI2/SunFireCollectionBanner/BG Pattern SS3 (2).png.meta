@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: c7d447d2b433d7642ab350fe5bdee788
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4069028651516374628
+    second: BG Pattern SS3 (2)_0
+  - first:
+      213: 6357060035017838416
+    second: BG Pattern SS3 (2)_1
+  - first:
+      213: 6175741064631794785
+    second: BG Pattern SS3 (2)_2
+  - first:
+      213: 3622013392542358446
+    second: BG Pattern SS3 (2)_3
+  - first:
+      213: -8704653943651731740
+    second: BG Pattern SS3 (2)_4
+  - first:
+      213: 646322228145042037
+    second: BG Pattern SS3 (2)_5
+  - first:
+      213: 8695681846980167941
+    second: BG Pattern SS3 (2)_6
+  - first:
+      213: -8323019177515903455
+    second: BG Pattern SS3 (2)_7
+  - first:
+      213: -657030729888763375
+    second: BG Pattern SS3 (2)_8
+  - first:
+      213: 7518141176525622201
+    second: BG Pattern SS3 (2)_9
+  - first:
+      213: 6009376651486127669
+    second: BG Pattern SS3 (2)_10
+  - first:
+      213: 278494743236310577
+    second: BG Pattern SS3 (2)_11
+  - first:
+      213: -6805126123933887567
+    second: BG Pattern SS3 (2)_12
+  - first:
+      213: 4133321853166252359
+    second: BG Pattern SS3 (2)_13
+  - first:
+      213: 75754302707031004
+    second: BG Pattern SS3 (2)_14
+  - first:
+      213: 1187023527338226399
+    second: BG Pattern SS3 (2)_15
+  - first:
+      213: 417923425628864260
+    second: BG Pattern SS3 (2)_16
+  - first:
+      213: 9184428618270057302
+    second: BG Pattern SS3 (2)_17
+  - first:
+      213: -4695162413867129257
+    second: BG Pattern SS3 (2)_18
+  - first:
+      213: -7201832305256872549
+    second: BG Pattern SS3 (2)_19
+  - first:
+      213: 2301481870756901166
+    second: BG Pattern SS3 (2)_20
+  - first:
+      213: -8323432354817204209
+    second: BG Pattern SS3 (2)_21
+  - first:
+      213: 2244953126298102551
+    second: BG Pattern SS3 (2)_22
+  - first:
+      213: -5451452449083556816
+    second: BG Pattern SS3 (2)_23
+  - first:
+      213: -3476183758997166415
+    second: BG Pattern SS3 (2)_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e258afff7187830800000000000000
+      internalID: 4069028651516374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 246
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0213bb60d83850800000000000000
+      internalID: 6357060035017838416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cbb2e17c3a4b550800000000000000
+      internalID: 6175741064631794785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd1328df9f34230800000000000000
+      internalID: 3622013392542358446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e67fe38b5bd23780800000000000000
+      internalID: -8704653943651731740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 210
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572360364a238f800800000000000000
+      internalID: 646322228145042037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c01171944da870800000000000000
+      internalID: 8695681846980167941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 193
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269661c722be7c80800000000000000
+      internalID: -8323019177515903455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 152
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f6724802c1e6f0800000000000000
+      internalID: -657030729888763375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 171
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0c06319dc55860800000000000000
+      internalID: 7518141176525622201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 152
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5366b59b938956350800000000000000
+      internalID: 6009376651486127669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f9625e796dd300800000000000000
+      internalID: 278494743236310577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3903b68d55f81a0800000000000000
+      internalID: -6805126123933887567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 115
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741755083528c5930800000000000000
+      internalID: 4133321853166252359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5f0f03222d0100800000000000000
+      internalID: 75754302707031004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2b607eb97297010800000000000000
+      internalID: 1187023527338226399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f3cef2423ccc500800000000000000
+      internalID: 417923425628864260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6532be8ca25a57f70800000000000000
+      internalID: 9184428618270057302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7562fae19ae67deb0800000000000000
+      internalID: -4695162413867129257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954b31eca3fd0c90800000000000000
+      internalID: -7201832305256872549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 42
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e217773519180ff10800000000000000
+      internalID: 2301481870756901166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a02b6f5a3d7c80800000000000000
+      internalID: -8323432354817204209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba66e59fca72f10800000000000000
+      internalID: 2244953126298102551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf07e61ec8854b0800000000000000
+      internalID: -5451452449083556816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG Pattern SS3 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6edfee94d12cfc0800000000000000
+      internalID: -3476183758997166415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG Pattern SS3 (2)_0: 4069028651516374628
+      BG Pattern SS3 (2)_1: 6357060035017838416
+      BG Pattern SS3 (2)_10: 6009376651486127669
+      BG Pattern SS3 (2)_11: 278494743236310577
+      BG Pattern SS3 (2)_12: -6805126123933887567
+      BG Pattern SS3 (2)_13: 4133321853166252359
+      BG Pattern SS3 (2)_14: 75754302707031004
+      BG Pattern SS3 (2)_15: 1187023527338226399
+      BG Pattern SS3 (2)_16: 417923425628864260
+      BG Pattern SS3 (2)_17: 9184428618270057302
+      BG Pattern SS3 (2)_18: -4695162413867129257
+      BG Pattern SS3 (2)_19: -7201832305256872549
+      BG Pattern SS3 (2)_2: 6175741064631794785
+      BG Pattern SS3 (2)_20: 2301481870756901166
+      BG Pattern SS3 (2)_21: -8323432354817204209
+      BG Pattern SS3 (2)_22: 2244953126298102551
+      BG Pattern SS3 (2)_23: -5451452449083556816
+      BG Pattern SS3 (2)_24: -3476183758997166415
+      BG Pattern SS3 (2)_3: 3622013392542358446
+      BG Pattern SS3 (2)_4: -8704653943651731740
+      BG Pattern SS3 (2)_5: 646322228145042037
+      BG Pattern SS3 (2)_6: 8695681846980167941
+      BG Pattern SS3 (2)_7: -8323019177515903455
+      BG Pattern SS3 (2)_8: -657030729888763375
+      BG Pattern SS3 (2)_9: 7518141176525622201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

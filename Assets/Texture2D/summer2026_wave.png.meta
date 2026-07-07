@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 8da7572625e1f2945923dee8de6b9e1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7055026698928843108
+    second: summer2026_wave_0
+  - first:
+      213: 4661552553726763490
+    second: summer2026_wave_1
+  - first:
+      213: -8147078808771966891
+    second: summer2026_wave_2
+  - first:
+      213: 7061954796032228400
+    second: summer2026_wave_3
+  - first:
+      213: -4468145938663340751
+    second: summer2026_wave_4
+  - first:
+      213: -6068799032498217707
+    second: summer2026_wave_5
+  - first:
+      213: 852195606531112439
+    second: summer2026_wave_6
+  - first:
+      213: -1921092784927742624
+    second: summer2026_wave_7
+  - first:
+      213: -4454866496624619969
+    second: summer2026_wave_8
+  - first:
+      213: -3038148517266918072
+    second: summer2026_wave_9
+  - first:
+      213: 7338481976785822492
+    second: summer2026_wave_10
+  - first:
+      213: -8895700497854505301
+    second: summer2026_wave_11
+  - first:
+      213: -7067623167255264339
+    second: summer2026_wave_12
+  - first:
+      213: 4398320429557906094
+    second: summer2026_wave_13
+  - first:
+      213: -3593167218167022632
+    second: summer2026_wave_14
+  - first:
+      213: 6165086294067469443
+    second: summer2026_wave_15
+  - first:
+      213: 8848347664325552973
+    second: summer2026_wave_16
+  - first:
+      213: 8833567139154308926
+    second: summer2026_wave_17
+  - first:
+      213: 275380367645479272
+    second: summer2026_wave_18
+  - first:
+      213: 2837965226848183459
+    second: summer2026_wave_19
+  - first:
+      213: -1644956351305111366
+    second: summer2026_wave_20
+  - first:
+      213: -462378714085566572
+    second: summer2026_wave_21
+  - first:
+      213: -1543819048183819836
+    second: summer2026_wave_22
+  - first:
+      213: -4993539455542091542
+    second: summer2026_wave_23
+  - first:
+      213: -7797210920778941402
+    second: summer2026_wave_24
+  - first:
+      213: 7727438802044954329
+    second: summer2026_wave_25
+  - first:
+      213: -4529762737505595299
+    second: summer2026_wave_26
+  - first:
+      213: 3835155483581397058
+    second: summer2026_wave_27
+  - first:
+      213: 6124181472649900947
+    second: summer2026_wave_28
+  - first:
+      213: -3504687347290565535
+    second: summer2026_wave_29
+  - first:
+      213: -2851269310376290734
+    second: summer2026_wave_30
+  - first:
+      213: -882247246480707276
+    second: summer2026_wave_31
+  - first:
+      213: -5318894043007298051
+    second: summer2026_wave_32
+  - first:
+      213: 2301633804090047053
+    second: summer2026_wave_33
+  - first:
+      213: 1717100964421794733
+    second: summer2026_wave_34
+  - first:
+      213: 4593919514910202931
+    second: summer2026_wave_35
+  - first:
+      213: 1237077556731124843
+    second: summer2026_wave_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: summer2026_wave_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c961371b892871e90800000000000000
+      internalID: -7055026698928843108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 150
+        width: 54
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1e2b2895921b040800000000000000
+      internalID: 4661552553726763490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 154
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c80e0df2cfee80800000000000000
+      internalID: -8147078808771966891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 189
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cfd5d987a110260800000000000000
+      internalID: 7061954796032228400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 197
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1350e5921f4fdf1c0800000000000000
+      internalID: -4468145938663340751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 188
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d95be0f6b47cba0800000000000000
+      internalID: -6068799032498217707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 258
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd7f66936b93db00800000000000000
+      internalID: 852195606531112439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 255
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065e0dd5a48e655e0800000000000000
+      internalID: -1921092784927742624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e86e236822d22c0800000000000000
+      internalID: -4454866496624619969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 215
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845fc65350456d5d0800000000000000
+      internalID: -3038148517266918072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 231
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13ece81a7687d560800000000000000
+      internalID: 7338481976785822492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 222
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baedd15578f1c8480800000000000000
+      internalID: -8895700497854505301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 230
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3cd6ddc22caed90800000000000000
+      internalID: -7067623167255264339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 188
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa742c9029f90d30800000000000000
+      internalID: 4398320429557906094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 190
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db7396d371822ec0800000000000000
+      internalID: -3593167218167022632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c55870259ce8550800000000000000
+      internalID: 6165086294067469443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 176
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2845f155abca70800000000000000
+      internalID: 8848347664325552973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 167
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2bd4c282279a70800000000000000
+      internalID: 8833567139154308926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86110af3cf852d300800000000000000
+      internalID: 275380367645479272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 139
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4623f665a726720800000000000000
+      internalID: 2837965226848183459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 167
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8af61f9e0fb29e0800000000000000
+      internalID: -1644956351305111366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 128
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975a33620d4599f0800000000000000
+      internalID: -462378714085566572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1958351c0439ae0800000000000000
+      internalID: -1543819048183819836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae02484725263bab0800000000000000
+      internalID: -4993539455542091542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 98
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cbc2c9afdbac390800000000000000
+      internalID: -7797210920778941402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 102
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a57316a06d3b60800000000000000
+      internalID: 7727438802044954329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 128
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509d2a3acc0321c0800000000000000
+      internalID: -4529762737505595299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 123
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248b241c795393530800000000000000
+      internalID: 3835155483581397058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 107
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39373512a967df450800000000000000
+      internalID: 6124181472649900947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 49
+        width: 125
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16490ff1d69dc5fc0800000000000000
+      internalID: -3504687347290565535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565c0c3ba14e68d0800000000000000
+      internalID: -2851269310376290734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 70
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431737dbdc0a1c3f0800000000000000
+      internalID: -882247246480707276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 52
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5db907c0e7f26b0800000000000000
+      internalID: -5318894043007298051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a71df00cb01ff10800000000000000
+      internalID: 2301633804090047053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab77d3ca3e54d710800000000000000
+      internalID: 1717100964421794733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_35
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c15fc8571e0cf30800000000000000
+      internalID: 4593919514910202931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_wave_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1198cb7bfa2110800000000000000
+      internalID: 1237077556731124843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      summer2026_wave_0: -7055026698928843108
+      summer2026_wave_1: 4661552553726763490
+      summer2026_wave_10: 7338481976785822492
+      summer2026_wave_11: -8895700497854505301
+      summer2026_wave_12: -7067623167255264339
+      summer2026_wave_13: 4398320429557906094
+      summer2026_wave_14: -3593167218167022632
+      summer2026_wave_15: 6165086294067469443
+      summer2026_wave_16: 8848347664325552973
+      summer2026_wave_17: 8833567139154308926
+      summer2026_wave_18: 275380367645479272
+      summer2026_wave_19: 2837965226848183459
+      summer2026_wave_2: -8147078808771966891
+      summer2026_wave_20: -1644956351305111366
+      summer2026_wave_21: -462378714085566572
+      summer2026_wave_22: -1543819048183819836
+      summer2026_wave_23: -4993539455542091542
+      summer2026_wave_24: -7797210920778941402
+      summer2026_wave_25: 7727438802044954329
+      summer2026_wave_26: -4529762737505595299
+      summer2026_wave_27: 3835155483581397058
+      summer2026_wave_28: 6124181472649900947
+      summer2026_wave_29: -3504687347290565535
+      summer2026_wave_3: 7061954796032228400
+      summer2026_wave_30: -2851269310376290734
+      summer2026_wave_31: -882247246480707276
+      summer2026_wave_32: -5318894043007298051
+      summer2026_wave_33: 2301633804090047053
+      summer2026_wave_34: 1717100964421794733
+      summer2026_wave_35: 4593919514910202931
+      summer2026_wave_36: 1237077556731124843
+      summer2026_wave_4: -4468145938663340751
+      summer2026_wave_5: -6068799032498217707
+      summer2026_wave_6: 852195606531112439
+      summer2026_wave_7: -1921092784927742624
+      summer2026_wave_8: -4454866496624619969
+      summer2026_wave_9: -3038148517266918072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

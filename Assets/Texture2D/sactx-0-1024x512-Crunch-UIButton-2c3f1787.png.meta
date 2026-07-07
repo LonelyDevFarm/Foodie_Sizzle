@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: b9244b1787398c749886d01c8165e89f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -163161735844019975
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_0
+  - first:
+      213: 8190929146832101153
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_1
+  - first:
+      213: 2243495750006585819
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_2
+  - first:
+      213: 1021989283298882368
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_3
+  - first:
+      213: 7252340829644713932
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_4
+  - first:
+      213: -8245977168085139040
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_5
+  - first:
+      213: 149681155572411275
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_6
+  - first:
+      213: 4721328139679019292
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_7
+  - first:
+      213: 4021023480524318872
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_8
+  - first:
+      213: 7142203489064913502
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_9
+  - first:
+      213: -4869279277369645032
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_10
+  - first:
+      213: -608115524739346661
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_11
+  - first:
+      213: 455226114986912310
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_12
+  - first:
+      213: 4472765945281606472
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_13
+  - first:
+      213: -3543065785783149638
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_14
+  - first:
+      213: 1817480590197201545
+    second: sactx-0-1024x512-Crunch-UIButton-2c3f1787_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 327
+        width: 151
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c41604455cbdf0800000000000000
+      internalID: -163161735844019975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 155
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f125169a60ca170800000000000000
+      internalID: 8190929146832101153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 326
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bd328f7f722f10800000000000000
+      internalID: 2243495750006585819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 162
+        width: 151
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433943a6d5de2e00800000000000000
+      internalID: 1021989283298882368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 324
+        width: 160
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfe80d5f8d75a460800000000000000
+      internalID: 7252340829644713932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 164
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cd466477609d80800000000000000
+      internalID: -8245977168085139040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba67bc736c31200800000000000000
+      internalID: 149681155572411275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 162
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11bf99ade6858140800000000000000
+      internalID: 4721328139679019292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 84
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898282e1d8b8dc730800000000000000
+      internalID: 4021023480524318872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a05477b343e1360800000000000000
+      internalID: 7142203489064913502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 59
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8182638bb48dc6cb0800000000000000
+      internalID: -4869279277369645032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc285f62a8f87f0800000000000000
+      internalID: -608115524739346661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 59
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aa64c5db9415600800000000000000
+      internalID: 455226114986912310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 26
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84379f3fde4721e30800000000000000
+      internalID: 4472765945281606472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1e86907084dec0800000000000000
+      internalID: -3543065785783149638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x512-Crunch-UIButton-2c3f1787_15
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a1fd4a7fcf83910800000000000000
+      internalID: 1817480590197201545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_0: -163161735844019975
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_1: 8190929146832101153
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_10: -4869279277369645032
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_11: -608115524739346661
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_12: 455226114986912310
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_13: 4472765945281606472
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_14: -3543065785783149638
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_15: 1817480590197201545
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_2: 2243495750006585819
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_3: 1021989283298882368
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_4: 7252340829644713932
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_5: -8245977168085139040
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_6: 149681155572411275
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_7: 4721328139679019292
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_8: 4021023480524318872
+      sactx-0-1024x512-Crunch-UIButton-2c3f1787_9: 7142203489064913502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

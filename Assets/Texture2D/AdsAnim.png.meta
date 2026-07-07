@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 73cbd32e4ec295f47832dfb832446720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6045029210063119212
+    second: AdsAnim_0
+  - first:
+      213: 5020375647380087671
+    second: AdsAnim_1
+  - first:
+      213: 1919954057037655236
+    second: AdsAnim_2
+  - first:
+      213: -62876982963510752
+    second: AdsAnim_3
+  - first:
+      213: 8568306353673641486
+    second: AdsAnim_4
+  - first:
+      213: -8418027536331848512
+    second: AdsAnim_5
+  - first:
+      213: 4979414342148899911
+    second: AdsAnim_6
+  - first:
+      213: -2943692101597357807
+    second: AdsAnim_7
+  - first:
+      213: -2997622102273472307
+    second: AdsAnim_8
+  - first:
+      213: 2768340573141893803
+    second: AdsAnim_9
+  - first:
+      213: -2667213226320490775
+    second: AdsAnim_10
+  - first:
+      213: 6124973666779079370
+    second: AdsAnim_11
+  - first:
+      213: -6145077924547269135
+    second: AdsAnim_12
+  - first:
+      213: -5880315568332821017
+    second: AdsAnim_13
+  - first:
+      213: -6896395544243076770
+    second: AdsAnim_14
+  - first:
+      213: 7381222745788106642
+    second: AdsAnim_15
+  - first:
+      213: 6003494836088203792
+    second: AdsAnim_16
+  - first:
+      213: 5186515754072621810
+    second: AdsAnim_17
+  - first:
+      213: 5380561955168125309
+    second: AdsAnim_18
+  - first:
+      213: -8863200651848467121
+    second: AdsAnim_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AdsAnim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 107
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd35d16fdbb1ca0800000000000000
+      internalID: -6045029210063119212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 834
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ac1d5d05fba540800000000000000
+      internalID: 5020375647380087671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_2
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 834
+        width: 130
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccacc2ea0c05aa10800000000000000
+      internalID: 1919954057037655236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 590
+        width: 397
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02269e597bd902ff0800000000000000
+      internalID: -62876982963510752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_4
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 691
+        width: 472
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e90795b3db8e670800000000000000
+      internalID: 8568306353673641486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_5
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 844
+        width: 247
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4cb7b6e882d2b80800000000000000
+      internalID: -8418027536331848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_6
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 843
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744454d46fe6a1540800000000000000
+      internalID: 4979414342148899911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 877
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199a2441a7e527d0800000000000000
+      internalID: -2943692101597357807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8412f749e4666d0800000000000000
+      internalID: -2997622102273472307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 740
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28c6f751f1b6620800000000000000
+      internalID: 2768340573141893803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 742
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee81f0c3b72cfad0800000000000000
+      internalID: -2667213226320490775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 741
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22df23917400550800000000000000
+      internalID: 6124973666779079370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_12
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 691
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde3468f2c48baa0800000000000000
+      internalID: -6145077924547269135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_13
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 692
+        width: 141
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda256552ce46ea0800000000000000
+      internalID: -5880315568332821017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_14
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 784
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e510eca8ac41b40a0800000000000000
+      internalID: -6896395544243076770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_15
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 692
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cbbadafe5f6660800000000000000
+      internalID: 7381222745788106642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3
+        width: 689
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aedebdeb2b05350800000000000000
+      internalID: 6003494836088203792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_17
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 590
+        width: 127
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2477759943af740800000000000000
+      internalID: 5186515754072621810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 590
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7107cd37989baa40800000000000000
+      internalID: 5380561955168125309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdsAnim_19
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3
+        width: 587
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dbf8567f59ff480800000000000000
+      internalID: -8863200651848467121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AdsAnim_0: -6045029210063119212
+      AdsAnim_1: 5020375647380087671
+      AdsAnim_10: -2667213226320490775
+      AdsAnim_11: 6124973666779079370
+      AdsAnim_12: -6145077924547269135
+      AdsAnim_13: -5880315568332821017
+      AdsAnim_14: -6896395544243076770
+      AdsAnim_15: 7381222745788106642
+      AdsAnim_16: 6003494836088203792
+      AdsAnim_17: 5186515754072621810
+      AdsAnim_18: 5380561955168125309
+      AdsAnim_19: -8863200651848467121
+      AdsAnim_2: 1919954057037655236
+      AdsAnim_3: -62876982963510752
+      AdsAnim_4: 8568306353673641486
+      AdsAnim_5: -8418027536331848512
+      AdsAnim_6: 4979414342148899911
+      AdsAnim_7: -2943692101597357807
+      AdsAnim_8: -2997622102273472307
+      AdsAnim_9: 2768340573141893803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

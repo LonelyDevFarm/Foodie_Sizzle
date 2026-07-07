@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2d77c8403b21d40428916914fd400c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5525484752924930660
+    second: Capy_baloon_0
+  - first:
+      213: 1975212870043614059
+    second: Capy_baloon_1
+  - first:
+      213: -8837564556436089965
+    second: Capy_baloon_2
+  - first:
+      213: -1463501857954302470
+    second: Capy_baloon_3
+  - first:
+      213: 9135674804883383480
+    second: Capy_baloon_4
+  - first:
+      213: -311577553413287461
+    second: Capy_baloon_5
+  - first:
+      213: 8131004028774853722
+    second: Capy_baloon_6
+  - first:
+      213: 3802836874413337658
+    second: Capy_baloon_7
+  - first:
+      213: 5195198598428705866
+    second: Capy_baloon_8
+  - first:
+      213: 3590717545046580853
+    second: Capy_baloon_9
+  - first:
+      213: -8057342174705938928
+    second: Capy_baloon_10
+  - first:
+      213: -3046607657572698807
+    second: Capy_baloon_11
+  - first:
+      213: 8294091023482737237
+    second: Capy_baloon_12
+  - first:
+      213: -3108063031930022054
+    second: Capy_baloon_13
+  - first:
+      213: 5274943474994672338
+    second: Capy_baloon_14
+  - first:
+      213: 719866041283653055
+    second: Capy_baloon_15
+  - first:
+      213: 3896222373051537538
+    second: Capy_baloon_16
+  - first:
+      213: 2894102373588168365
+    second: Capy_baloon_17
+  - first:
+      213: 789774182645718219
+    second: Capy_baloon_18
+  - first:
+      213: -6659313518012322061
+    second: Capy_baloon_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capy_baloon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4627de58b177eac40800000000000000
+      internalID: 5525484752924930660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bbab2e3ad596b10800000000000000
+      internalID: 1975212870043614059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 275
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935b0efbd9aa5580800000000000000
+      internalID: -8837564556436089965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 263
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5728c60d890bbe0800000000000000
+      internalID: -1463501857954302470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 233
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b46f8805df68ce70800000000000000
+      internalID: 9135674804883383480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_5
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1d0d0bddd0dabf0800000000000000
+      internalID: -311577553413287461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 239
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c2562951127d070800000000000000
+      internalID: 8131004028774853722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 140
+        width: 144
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce92e2df366c430800000000000000
+      internalID: 3802836874413337658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 184
+        width: 160
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4443f4999d091840800000000000000
+      internalID: 5195198598428705866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9341359ac4d130800000000000000
+      internalID: 3590717545046580853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e01e25bf19e2090800000000000000
+      internalID: -8057342174705938928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 434
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f4602a7648b5d0800000000000000
+      internalID: -3046607657572698807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 173
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d17587d78a1370800000000000000
+      internalID: 8294091023482737237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 173
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579942c321fdd4d0800000000000000
+      internalID: -3108063031930022054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27255842d543940800000000000000
+      internalID: 5274943474994672338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1
+        width: 153
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd249cb95a7df900800000000000000
+      internalID: 719866041283653055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 101
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2889aafea99221630800000000000000
+      internalID: 3896222373051537538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 53
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae665176cae92820800000000000000
+      internalID: 2894102373588168365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 160
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc5f594f67d5fa00800000000000000
+      internalID: 789774182645718219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capy_baloon_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2bee43ad5593a0800000000000000
+      internalID: -6659313518012322061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capy_baloon_0: 5525484752924930660
+      Capy_baloon_1: 1975212870043614059
+      Capy_baloon_10: -8057342174705938928
+      Capy_baloon_11: -3046607657572698807
+      Capy_baloon_12: 8294091023482737237
+      Capy_baloon_13: -3108063031930022054
+      Capy_baloon_14: 5274943474994672338
+      Capy_baloon_15: 719866041283653055
+      Capy_baloon_16: 3896222373051537538
+      Capy_baloon_17: 2894102373588168365
+      Capy_baloon_18: 789774182645718219
+      Capy_baloon_19: -6659313518012322061
+      Capy_baloon_2: -8837564556436089965
+      Capy_baloon_3: -1463501857954302470
+      Capy_baloon_4: 9135674804883383480
+      Capy_baloon_5: -311577553413287461
+      Capy_baloon_6: 8131004028774853722
+      Capy_baloon_7: 3802836874413337658
+      Capy_baloon_8: 5195198598428705866
+      Capy_baloon_9: 3590717545046580853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

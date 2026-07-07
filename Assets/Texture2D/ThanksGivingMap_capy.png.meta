@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 923171cd1ff641f4395887bc652dec15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4075967584408561728
+    second: ThanksGivingMap_capy_0
+  - first:
+      213: -3097414238027181633
+    second: ThanksGivingMap_capy_1
+  - first:
+      213: 6141406655096448951
+    second: ThanksGivingMap_capy_2
+  - first:
+      213: 6548487319310643938
+    second: ThanksGivingMap_capy_3
+  - first:
+      213: -1791387251177792849
+    second: ThanksGivingMap_capy_4
+  - first:
+      213: -5388851049022913206
+    second: ThanksGivingMap_capy_5
+  - first:
+      213: -6905784713101940796
+    second: ThanksGivingMap_capy_6
+  - first:
+      213: 3316796846983330547
+    second: ThanksGivingMap_capy_7
+  - first:
+      213: 7814601681352446329
+    second: ThanksGivingMap_capy_8
+  - first:
+      213: -3374430359031714615
+    second: ThanksGivingMap_capy_9
+  - first:
+      213: 8256786509943336847
+    second: ThanksGivingMap_capy_10
+  - first:
+      213: -911175554168240193
+    second: ThanksGivingMap_capy_11
+  - first:
+      213: -4110646553118653802
+    second: ThanksGivingMap_capy_12
+  - first:
+      213: -4541913372121260174
+    second: ThanksGivingMap_capy_13
+  - first:
+      213: -7013549855822504167
+    second: ThanksGivingMap_capy_14
+  - first:
+      213: 303820970648550933
+    second: ThanksGivingMap_capy_15
+  - first:
+      213: -8387233273302921905
+    second: ThanksGivingMap_capy_16
+  - first:
+      213: -1355812036058912365
+    second: ThanksGivingMap_capy_17
+  - first:
+      213: -3335536319942538706
+    second: ThanksGivingMap_capy_18
+  - first:
+      213: 5528394089543238641
+    second: ThanksGivingMap_capy_19
+  - first:
+      213: -2974263037556928572
+    second: ThanksGivingMap_capy_20
+  - first:
+      213: 1409277586679784119
+    second: ThanksGivingMap_capy_21
+  - first:
+      213: -8927492557771196069
+    second: ThanksGivingMap_capy_22
+  - first:
+      213: -678250299108888379
+    second: ThanksGivingMap_capy_23
+  - first:
+      213: -5571989629131010275
+    second: ThanksGivingMap_capy_24
+  - first:
+      213: -8380935433630466041
+    second: ThanksGivingMap_capy_25
+  - first:
+      213: 1627954680547035542
+    second: ThanksGivingMap_capy_26
+  - first:
+      213: -6413870083206713620
+    second: ThanksGivingMap_capy_27
+  - first:
+      213: -1603125045283772537
+    second: ThanksGivingMap_capy_28
+  - first:
+      213: -3408244873630017930
+    second: ThanksGivingMap_capy_29
+  - first:
+      213: -7503586652767613236
+    second: ThanksGivingMap_capy_30
+  - first:
+      213: -1749263501848084675
+    second: ThanksGivingMap_capy_31
+  - first:
+      213: 6275889205818943185
+    second: ThanksGivingMap_capy_32
+  - first:
+      213: -7253262491753729902
+    second: ThanksGivingMap_capy_33
+  - first:
+      213: 4271239420582046569
+    second: ThanksGivingMap_capy_34
+  - first:
+      213: -6987326834392782530
+    second: ThanksGivingMap_capy_35
+  - first:
+      213: -8590140054077365653
+    second: ThanksGivingMap_capy_36
+  - first:
+      213: 8863039601518682982
+    second: ThanksGivingMap_capy_37
+  - first:
+      213: 2267429741738935308
+    second: ThanksGivingMap_capy_38
+  - first:
+      213: -5168833393067096637
+    second: ThanksGivingMap_capy_39
+  - first:
+      213: 6973423300379736027
+    second: ThanksGivingMap_capy_40
+  - first:
+      213: -5478158234389087307
+    second: ThanksGivingMap_capy_41
+  - first:
+      213: -5707634454877620831
+    second: ThanksGivingMap_capy_42
+  - first:
+      213: 1425362082056989057
+    second: ThanksGivingMap_capy_43
+  - first:
+      213: -6218322011110160003
+    second: ThanksGivingMap_capy_44
+  - first:
+      213: -3601357539729817220
+    second: ThanksGivingMap_capy_45
+  - first:
+      213: 6894045019666683115
+    second: ThanksGivingMap_capy_46
+  - first:
+      213: 1605725513955324893
+    second: ThanksGivingMap_capy_47
+  - first:
+      213: 7195645766159512470
+    second: ThanksGivingMap_capy_48
+  - first:
+      213: 5715592578184410010
+    second: ThanksGivingMap_capy_49
+  - first:
+      213: -2664409299717081005
+    second: ThanksGivingMap_capy_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7125fc3114f67c0800000000000000
+      internalID: -4075967584408561728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 233
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1172c4926c305d0800000000000000
+      internalID: -3097414238027181633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 194
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76e3270d8aa3550800000000000000
+      internalID: 6141406655096448951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 156
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e239a38586e0ea50800000000000000
+      internalID: 6548487319310643938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 151
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa526649c6b327e0800000000000000
+      internalID: -1791387251177792849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 150
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a458f73b584f635b0800000000000000
+      internalID: -5388851049022913206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 149
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76c305469b920a0800000000000000
+      internalID: -6905784713101940796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_7
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 143
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab390c821a70e20800000000000000
+      internalID: 3316796846983330547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 259
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971de2e53da037c60800000000000000
+      internalID: 7814601681352446329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 145
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccee9a877d9b21d0800000000000000
+      internalID: -3374430359031714615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 243
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe86f959ff59270800000000000000
+      internalID: 8256786509943336847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_11
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 207
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb748cd39aada53f0800000000000000
+      internalID: -911175554168240193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 120
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cd243dbc04f6c0800000000000000
+      internalID: -4110646553118653802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_13
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 231
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f9d162ad1e7f0c0800000000000000
+      internalID: -4541913372121260174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_14
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 190
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1535c09ddaae90800000000000000
+      internalID: -7013549855822504167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_15
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 202
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e32d62093673400800000000000000
+      internalID: 303820970648550933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 206
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d417086cf8a9b80800000000000000
+      internalID: -8387233273302921905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 146
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3996288f2203f2de0800000000000000
+      internalID: -1355812036058912365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 36
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a4962b36bc5b1d0800000000000000
+      internalID: -3335536319942538706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3089d322dc8bc40800000000000000
+      internalID: 5528394089543238641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf48d1968b49b6d0800000000000000
+      internalID: -2974263037556928572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 119
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e7f79f72ce8310800000000000000
+      internalID: 1409277586679784119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 144
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59ba1f81dc2b1480800000000000000
+      internalID: -8927492557771196069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_23
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 147
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ffcc42fe5696f0800000000000000
+      internalID: -678250299108888379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 119
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4c7734f05ca2b0800000000000000
+      internalID: -5571989629131010275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 134
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700c8f090afe0bb80800000000000000
+      internalID: -8380935433630466041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_26
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c07c1828a79610800000000000000
+      internalID: 1627954680547035542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_27
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 90
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee65f6342b5df6a0800000000000000
+      internalID: -6413870083206713620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872459d34e80c9e0800000000000000
+      internalID: -1603125045283772537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_29
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 121
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769cb7585b73b0d0800000000000000
+      internalID: -3408244873630017930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_30
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 115
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce8c6ce1b7edd790800000000000000
+      internalID: -7503586652767613236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 71
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff9c1fc1e59b7e0800000000000000
+      internalID: -1749263501848084675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6eb8a4bff681750800000000000000
+      internalID: 6275889205818943185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_33
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 106
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ba54713c375b90800000000000000
+      internalID: -7253262491753729902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b207e7f9d764b30800000000000000
+      internalID: 4271239420582046569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_35
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 52
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a67ab347080f90800000000000000
+      internalID: -6987326834392782530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 78
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622dd12221b9c880800000000000000
+      internalID: -8590140054077365653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_37
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 87
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663adb62f87dffa70800000000000000
+      internalID: 8863039601518682982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 47
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0441853657877f10800000000000000
+      internalID: 2267429741738935308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_39
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 63
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c50f072a6d9448b0800000000000000
+      internalID: -5168833393067096637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_40
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 54
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f09f7b8396c060800000000000000
+      internalID: 6973423300379736027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_41
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 63
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb7bdf3c1ca9f3b0800000000000000
+      internalID: -5478158234389087307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a53d3124b86ac0b0800000000000000
+      internalID: -5707634454877620831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_43
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18961510347e7c310800000000000000
+      internalID: 1425362082056989057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_44
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7949c4b31514b9a0800000000000000
+      internalID: -6218322011110160003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_45
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ca3ff568650ec0800000000000000
+      internalID: -3601357539729817220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_46
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 46
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be498ce4b619caf50800000000000000
+      internalID: 6894045019666683115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_47
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3b612f8dea84610800000000000000
+      internalID: 1605725513955324893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_48
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933b7d33b11cd360800000000000000
+      internalID: 7195645766159512470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_49
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 7
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937a87da2dd15f40800000000000000
+      internalID: 5715592578184410010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_capy_50
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bd1acbdd160bd0800000000000000
+      internalID: -2664409299717081005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThanksGivingMap_capy_0: -4075967584408561728
+      ThanksGivingMap_capy_1: -3097414238027181633
+      ThanksGivingMap_capy_10: 8256786509943336847
+      ThanksGivingMap_capy_11: -911175554168240193
+      ThanksGivingMap_capy_12: -4110646553118653802
+      ThanksGivingMap_capy_13: -4541913372121260174
+      ThanksGivingMap_capy_14: -7013549855822504167
+      ThanksGivingMap_capy_15: 303820970648550933
+      ThanksGivingMap_capy_16: -8387233273302921905
+      ThanksGivingMap_capy_17: -1355812036058912365
+      ThanksGivingMap_capy_18: -3335536319942538706
+      ThanksGivingMap_capy_19: 5528394089543238641
+      ThanksGivingMap_capy_2: 6141406655096448951
+      ThanksGivingMap_capy_20: -2974263037556928572
+      ThanksGivingMap_capy_21: 1409277586679784119
+      ThanksGivingMap_capy_22: -8927492557771196069
+      ThanksGivingMap_capy_23: -678250299108888379
+      ThanksGivingMap_capy_24: -5571989629131010275
+      ThanksGivingMap_capy_25: -8380935433630466041
+      ThanksGivingMap_capy_26: 1627954680547035542
+      ThanksGivingMap_capy_27: -6413870083206713620
+      ThanksGivingMap_capy_28: -1603125045283772537
+      ThanksGivingMap_capy_29: -3408244873630017930
+      ThanksGivingMap_capy_3: 6548487319310643938
+      ThanksGivingMap_capy_30: -7503586652767613236
+      ThanksGivingMap_capy_31: -1749263501848084675
+      ThanksGivingMap_capy_32: 6275889205818943185
+      ThanksGivingMap_capy_33: -7253262491753729902
+      ThanksGivingMap_capy_34: 4271239420582046569
+      ThanksGivingMap_capy_35: -6987326834392782530
+      ThanksGivingMap_capy_36: -8590140054077365653
+      ThanksGivingMap_capy_37: 8863039601518682982
+      ThanksGivingMap_capy_38: 2267429741738935308
+      ThanksGivingMap_capy_39: -5168833393067096637
+      ThanksGivingMap_capy_4: -1791387251177792849
+      ThanksGivingMap_capy_40: 6973423300379736027
+      ThanksGivingMap_capy_41: -5478158234389087307
+      ThanksGivingMap_capy_42: -5707634454877620831
+      ThanksGivingMap_capy_43: 1425362082056989057
+      ThanksGivingMap_capy_44: -6218322011110160003
+      ThanksGivingMap_capy_45: -3601357539729817220
+      ThanksGivingMap_capy_46: 6894045019666683115
+      ThanksGivingMap_capy_47: 1605725513955324893
+      ThanksGivingMap_capy_48: 7195645766159512470
+      ThanksGivingMap_capy_49: 5715592578184410010
+      ThanksGivingMap_capy_5: -5388851049022913206
+      ThanksGivingMap_capy_50: -2664409299717081005
+      ThanksGivingMap_capy_6: -6905784713101940796
+      ThanksGivingMap_capy_7: 3316796846983330547
+      ThanksGivingMap_capy_8: 7814601681352446329
+      ThanksGivingMap_capy_9: -3374430359031714615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

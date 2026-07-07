@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 98b6ff38756ef2d409b5f3606623f264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5046859551128498413
+    second: NoelHomeAnim_treeR_0
+  - first:
+      213: 4229810840767563861
+    second: NoelHomeAnim_treeR_1
+  - first:
+      213: 7667994660574317071
+    second: NoelHomeAnim_treeR_2
+  - first:
+      213: 9109537840968436816
+    second: NoelHomeAnim_treeR_3
+  - first:
+      213: 3410401397474722518
+    second: NoelHomeAnim_treeR_4
+  - first:
+      213: 2829650065288140026
+    second: NoelHomeAnim_treeR_5
+  - first:
+      213: -7264073894611256869
+    second: NoelHomeAnim_treeR_6
+  - first:
+      213: 3675961275602542562
+    second: NoelHomeAnim_treeR_7
+  - first:
+      213: 7916336267837412417
+    second: NoelHomeAnim_treeR_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 513
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc2b74af3f5f9b0800000000000000
+      internalID: -5046859551128498413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3
+        width: 333
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580c079c8e43ba30800000000000000
+      internalID: 4229810840767563861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_2
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 178
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0acf1b54803a6a60800000000000000
+      internalID: 7667994660574317071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c07e6e6649b6e70800000000000000
+      internalID: 9109537840968436816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 178
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d20afd700e245f20800000000000000
+      internalID: 3410401397474722518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 178
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af419240ebfe44720800000000000000
+      internalID: 2829650065288140026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_6
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 118
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f1819743d03b90800000000000000
+      internalID: -7264073894611256869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_7
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 118
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef9168dd43a30330800000000000000
+      internalID: 3675961275602542562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_treeR_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1449dfe94e97cdd60800000000000000
+      internalID: 7916336267837412417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoelHomeAnim_treeR_0: -5046859551128498413
+      NoelHomeAnim_treeR_1: 4229810840767563861
+      NoelHomeAnim_treeR_2: 7667994660574317071
+      NoelHomeAnim_treeR_3: 9109537840968436816
+      NoelHomeAnim_treeR_4: 3410401397474722518
+      NoelHomeAnim_treeR_5: 2829650065288140026
+      NoelHomeAnim_treeR_6: -7264073894611256869
+      NoelHomeAnim_treeR_7: 3675961275602542562
+      NoelHomeAnim_treeR_8: 7916336267837412417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

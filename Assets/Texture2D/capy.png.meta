@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f09f702c5636fa343955fc667f861f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3149610612175073690
+    second: capy_0
+  - first:
+      213: -4486293893866785760
+    second: capy_1
+  - first:
+      213: 4313385718354220299
+    second: capy_2
+  - first:
+      213: 4465258012071342156
+    second: capy_3
+  - first:
+      213: 8114897859764423936
+    second: capy_4
+  - first:
+      213: 8161225610992221029
+    second: capy_5
+  - first:
+      213: -7912401905911943419
+    second: capy_6
+  - first:
+      213: -3911869383940168970
+    second: capy_7
+  - first:
+      213: -7096037574950125620
+    second: capy_8
+  - first:
+      213: -4224592237098179831
+    second: capy_9
+  - first:
+      213: -9209485519359272154
+    second: capy_10
+  - first:
+      213: -7749027698618436682
+    second: capy_11
+  - first:
+      213: 9086979822367319808
+    second: capy_12
+  - first:
+      213: -7337128706241509614
+    second: capy_13
+  - first:
+      213: 7446091881875038625
+    second: capy_14
+  - first:
+      213: -9000111087555011703
+    second: capy_15
+  - first:
+      213: -6127897390843621292
+    second: capy_16
+  - first:
+      213: -2665882930244925481
+    second: capy_17
+  - first:
+      213: 3505545740456910498
+    second: capy_18
+  - first:
+      213: 2012190854526253854
+    second: capy_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 446
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91fe771a2aa5bb20800000000000000
+      internalID: 3149610612175073690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 465
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f012197b7db1c0800000000000000
+      internalID: -4486293893866785760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 505
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b051fb125793cdb30800000000000000
+      internalID: 4313385718354220299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 465
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40baf70188c7fd30800000000000000
+      internalID: 4465258012071342156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 374
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d06dfdb98ed9070800000000000000
+      internalID: 8114897859764423936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf203047f724170800000000000000
+      internalID: 8161225610992221029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50faef56360813290800000000000000
+      internalID: -7912401905911943419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 411
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f22582758f36b9c0800000000000000
+      internalID: -3911869383940168970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 374
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff5480c6fc58d90800000000000000
+      internalID: -7096037574950125620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903e3e24ebb3f55c0800000000000000
+      internalID: -4224592237098179831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 275
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b9c7ec6b5513080800000000000000
+      internalID: -9209485519359272154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 286
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b37f2d3d5ce57490800000000000000
+      internalID: -7749027698618436682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 111
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a859e0007b1e70800000000000000
+      internalID: 9086979822367319808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 168
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174721c0584d2a90800000000000000
+      internalID: -7337128706241509614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 275
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e4109d15d55760800000000000000
+      internalID: 7446091881875038625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9a3786ae291380800000000000000
+      internalID: -9000111087555011703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 179
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45019be3ac555faa0800000000000000
+      internalID: -6127897390843621292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 81
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d749f17991e00bd0800000000000000
+      internalID: -2665882930244925481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 41
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae51db174336a030800000000000000
+      internalID: 3505545740456910498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capy_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb350dbecbceb10800000000000000
+      internalID: 2012190854526253854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capy_0: 3149610612175073690
+      capy_1: -4486293893866785760
+      capy_10: -9209485519359272154
+      capy_11: -7749027698618436682
+      capy_12: 9086979822367319808
+      capy_13: -7337128706241509614
+      capy_14: 7446091881875038625
+      capy_15: -9000111087555011703
+      capy_16: -6127897390843621292
+      capy_17: -2665882930244925481
+      capy_18: 3505545740456910498
+      capy_19: 2012190854526253854
+      capy_2: 4313385718354220299
+      capy_3: 4465258012071342156
+      capy_4: 8114897859764423936
+      capy_5: 8161225610992221029
+      capy_6: -7912401905911943419
+      capy_7: -3911869383940168970
+      capy_8: -7096037574950125620
+      capy_9: -4224592237098179831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

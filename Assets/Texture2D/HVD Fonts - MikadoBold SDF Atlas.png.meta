@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: 14ade7adfd09aa346af455aacb858cd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6542490852195884611
+    second: HVD Fonts - MikadoBold SDF Atlas_0
+  - first:
+      213: -689735371781585683
+    second: HVD Fonts - MikadoBold SDF Atlas_1
+  - first:
+      213: 510480159426826670
+    second: HVD Fonts - MikadoBold SDF Atlas_2
+  - first:
+      213: 5471819671764819027
+    second: HVD Fonts - MikadoBold SDF Atlas_3
+  - first:
+      213: -714372612657287512
+    second: HVD Fonts - MikadoBold SDF Atlas_4
+  - first:
+      213: 4749076852107629788
+    second: HVD Fonts - MikadoBold SDF Atlas_5
+  - first:
+      213: 8420879876704771768
+    second: HVD Fonts - MikadoBold SDF Atlas_6
+  - first:
+      213: 4716553827411466676
+    second: HVD Fonts - MikadoBold SDF Atlas_7
+  - first:
+      213: 6543844182460135459
+    second: HVD Fonts - MikadoBold SDF Atlas_8
+  - first:
+      213: 8845691544478689638
+    second: HVD Fonts - MikadoBold SDF Atlas_9
+  - first:
+      213: -7179846305535785940
+    second: HVD Fonts - MikadoBold SDF Atlas_10
+  - first:
+      213: 7576905385862646380
+    second: HVD Fonts - MikadoBold SDF Atlas_11
+  - first:
+      213: 3486461409367791048
+    second: HVD Fonts - MikadoBold SDF Atlas_12
+  - first:
+      213: -6622371649520726507
+    second: HVD Fonts - MikadoBold SDF Atlas_13
+  - first:
+      213: 3116350677142052357
+    second: HVD Fonts - MikadoBold SDF Atlas_14
+  - first:
+      213: 457267720041575637
+    second: HVD Fonts - MikadoBold SDF Atlas_15
+  - first:
+      213: 3437217587266713045
+    second: HVD Fonts - MikadoBold SDF Atlas_16
+  - first:
+      213: -153244011266726602
+    second: HVD Fonts - MikadoBold SDF Atlas_17
+  - first:
+      213: -1711742761509995599
+    second: HVD Fonts - MikadoBold SDF Atlas_18
+  - first:
+      213: -9020330577192412031
+    second: HVD Fonts - MikadoBold SDF Atlas_19
+  - first:
+      213: 1630511687506273328
+    second: HVD Fonts - MikadoBold SDF Atlas_20
+  - first:
+      213: 5373826870584747246
+    second: HVD Fonts - MikadoBold SDF Atlas_21
+  - first:
+      213: 8616547657683970780
+    second: HVD Fonts - MikadoBold SDF Atlas_22
+  - first:
+      213: 7362939975532364003
+    second: HVD Fonts - MikadoBold SDF Atlas_23
+  - first:
+      213: 3270296210102606898
+    second: HVD Fonts - MikadoBold SDF Atlas_24
+  - first:
+      213: -1072863414180177652
+    second: HVD Fonts - MikadoBold SDF Atlas_25
+  - first:
+      213: -8352455930078351179
+    second: HVD Fonts - MikadoBold SDF Atlas_26
+  - first:
+      213: -2768620535182595513
+    second: HVD Fonts - MikadoBold SDF Atlas_27
+  - first:
+      213: -5732642685736447322
+    second: HVD Fonts - MikadoBold SDF Atlas_28
+  - first:
+      213: -8851697940442968455
+    second: HVD Fonts - MikadoBold SDF Atlas_29
+  - first:
+      213: 3706651414018531332
+    second: HVD Fonts - MikadoBold SDF Atlas_30
+  - first:
+      213: -1350850566676324520
+    second: HVD Fonts - MikadoBold SDF Atlas_31
+  - first:
+      213: 9211730518501077434
+    second: HVD Fonts - MikadoBold SDF Atlas_32
+  - first:
+      213: -6841190871862385273
+    second: HVD Fonts - MikadoBold SDF Atlas_33
+  - first:
+      213: 5047141919147384323
+    second: HVD Fonts - MikadoBold SDF Atlas_34
+  - first:
+      213: -7796592969862161195
+    second: HVD Fonts - MikadoBold SDF Atlas_35
+  - first:
+      213: 5512466492576117715
+    second: HVD Fonts - MikadoBold SDF Atlas_36
+  - first:
+      213: -8143521527276648149
+    second: HVD Fonts - MikadoBold SDF Atlas_37
+  - first:
+      213: 3280619497259067619
+    second: HVD Fonts - MikadoBold SDF Atlas_38
+  - first:
+      213: -4573090914793164143
+    second: HVD Fonts - MikadoBold SDF Atlas_39
+  - first:
+      213: 7546434070922998611
+    second: HVD Fonts - MikadoBold SDF Atlas_40
+  - first:
+      213: 1286596316852286242
+    second: HVD Fonts - MikadoBold SDF Atlas_41
+  - first:
+      213: -7769712367614049481
+    second: HVD Fonts - MikadoBold SDF Atlas_42
+  - first:
+      213: -5146053460152597053
+    second: HVD Fonts - MikadoBold SDF Atlas_43
+  - first:
+      213: 2100736036101051421
+    second: HVD Fonts - MikadoBold SDF Atlas_44
+  - first:
+      213: -3284473920546467167
+    second: HVD Fonts - MikadoBold SDF Atlas_45
+  - first:
+      213: -1826273713481358945
+    second: HVD Fonts - MikadoBold SDF Atlas_46
+  - first:
+      213: 7272648750467993490
+    second: HVD Fonts - MikadoBold SDF Atlas_47
+  - first:
+      213: 250200785663088030
+    second: HVD Fonts - MikadoBold SDF Atlas_48
+  - first:
+      213: 7867605076184800074
+    second: HVD Fonts - MikadoBold SDF Atlas_49
+  - first:
+      213: 1511901948323356266
+    second: HVD Fonts - MikadoBold SDF Atlas_50
+  - first:
+      213: 8621690702022737070
+    second: HVD Fonts - MikadoBold SDF Atlas_51
+  - first:
+      213: -5157742479799161237
+    second: HVD Fonts - MikadoBold SDF Atlas_52
+  - first:
+      213: -3506494719229845862
+    second: HVD Fonts - MikadoBold SDF Atlas_53
+  - first:
+      213: -1257694071032240004
+    second: HVD Fonts - MikadoBold SDF Atlas_54
+  - first:
+      213: 7595359023862902693
+    second: HVD Fonts - MikadoBold SDF Atlas_55
+  - first:
+      213: 5603811562398197795
+    second: HVD Fonts - MikadoBold SDF Atlas_56
+  - first:
+      213: -890535165629105978
+    second: HVD Fonts - MikadoBold SDF Atlas_57
+  - first:
+      213: 1768641777653760995
+    second: HVD Fonts - MikadoBold SDF Atlas_58
+  - first:
+      213: -1129758215020317585
+    second: HVD Fonts - MikadoBold SDF Atlas_59
+  - first:
+      213: -6465630543140040937
+    second: HVD Fonts - MikadoBold SDF Atlas_60
+  - first:
+      213: 6948341186968958914
+    second: HVD Fonts - MikadoBold SDF Atlas_61
+  - first:
+      213: 8490285517042177718
+    second: HVD Fonts - MikadoBold SDF Atlas_62
+  - first:
+      213: -2516460571229732693
+    second: HVD Fonts - MikadoBold SDF Atlas_63
+  - first:
+      213: -4585874363722302922
+    second: HVD Fonts - MikadoBold SDF Atlas_64
+  - first:
+      213: 4865972623901379673
+    second: HVD Fonts - MikadoBold SDF Atlas_65
+  - first:
+      213: -572881983574958725
+    second: HVD Fonts - MikadoBold SDF Atlas_66
+  - first:
+      213: 3326512401219962442
+    second: HVD Fonts - MikadoBold SDF Atlas_67
+  - first:
+      213: -2972356369685307964
+    second: HVD Fonts - MikadoBold SDF Atlas_68
+  - first:
+      213: 6440151028338903325
+    second: HVD Fonts - MikadoBold SDF Atlas_69
+  - first:
+      213: -1875183804197529973
+    second: HVD Fonts - MikadoBold SDF Atlas_70
+  - first:
+      213: -6165580594345518491
+    second: HVD Fonts - MikadoBold SDF Atlas_71
+  - first:
+      213: 2461606783585689436
+    second: HVD Fonts - MikadoBold SDF Atlas_72
+  - first:
+      213: 6294099640011307407
+    second: HVD Fonts - MikadoBold SDF Atlas_73
+  - first:
+      213: 8309549242833154875
+    second: HVD Fonts - MikadoBold SDF Atlas_74
+  - first:
+      213: -5254874683537528631
+    second: HVD Fonts - MikadoBold SDF Atlas_75
+  - first:
+      213: 6032365388757032343
+    second: HVD Fonts - MikadoBold SDF Atlas_76
+  - first:
+      213: 1708999527465230498
+    second: HVD Fonts - MikadoBold SDF Atlas_77
+  - first:
+      213: -2539775832812301191
+    second: HVD Fonts - MikadoBold SDF Atlas_78
+  - first:
+      213: -5214878206353335899
+    second: HVD Fonts - MikadoBold SDF Atlas_79
+  - first:
+      213: 6285362990109047663
+    second: HVD Fonts - MikadoBold SDF Atlas_80
+  - first:
+      213: 2089753823307994713
+    second: HVD Fonts - MikadoBold SDF Atlas_81
+  - first:
+      213: -3420772536450367269
+    second: HVD Fonts - MikadoBold SDF Atlas_82
+  - first:
+      213: -523215624931685282
+    second: HVD Fonts - MikadoBold SDF Atlas_83
+  - first:
+      213: 8187255439465937403
+    second: HVD Fonts - MikadoBold SDF Atlas_84
+  - first:
+      213: -5546444917306065885
+    second: HVD Fonts - MikadoBold SDF Atlas_85
+  - first:
+      213: -6285131457061638649
+    second: HVD Fonts - MikadoBold SDF Atlas_86
+  - first:
+      213: 760770866110766722
+    second: HVD Fonts - MikadoBold SDF Atlas_87
+  - first:
+      213: -3969728595714045329
+    second: HVD Fonts - MikadoBold SDF Atlas_88
+  - first:
+      213: -1437419741711728229
+    second: HVD Fonts - MikadoBold SDF Atlas_89
+  - first:
+      213: 4681606355911080749
+    second: HVD Fonts - MikadoBold SDF Atlas_90
+  - first:
+      213: -2510005996539025945
+    second: HVD Fonts - MikadoBold SDF Atlas_91
+  - first:
+      213: 5751866329452096923
+    second: HVD Fonts - MikadoBold SDF Atlas_92
+  - first:
+      213: -2880351784418145728
+    second: HVD Fonts - MikadoBold SDF Atlas_93
+  - first:
+      213: -3753537072580285539
+    second: HVD Fonts - MikadoBold SDF Atlas_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ed06734c89bca50800000000000000
+      internalID: 6542490852195884611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4cfef65519d66f0800000000000000
+      internalID: -689735371781585683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 379
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea155871007951700800000000000000
+      internalID: 510480159426826670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 449
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c5982200fcfeb40800000000000000
+      internalID: 5471819671764819027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 441
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae6b49c4e90616f0800000000000000
+      internalID: -714372612657287512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 437
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4d7ec3c3c18e140800000000000000
+      internalID: 4749076852107629788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 432
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be1933d1a9fcd470800000000000000
+      internalID: 8420879876704771768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 431
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b99ed677b0947140800000000000000
+      internalID: 4716553827411466676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 431
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328fa09fc9760da50800000000000000
+      internalID: 6543844182460135459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 431
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669245dd79532ca70800000000000000
+      internalID: 8845691544478689638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 428
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2483a853df0c5c90800000000000000
+      internalID: -7179846305535785940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 449
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a4615ed43962960800000000000000
+      internalID: 7576905385862646380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 409
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c599740e26626030800000000000000
+      internalID: 3486461409367791048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e03b3521c9814a0800000000000000
+      internalID: -6622371649520726507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 309
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e99920e608f3b20800000000000000
+      internalID: 3116350677142052357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 379
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b454919a885600800000000000000
+      internalID: 457267720041575637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 357
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f1c83f2373bf20800000000000000
+      internalID: 3437217587266713045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 376
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635ad7832619fddf0800000000000000
+      internalID: -153244011266726602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 375
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb951170bae38e0800000000000000
+      internalID: -1711742761509995599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 370
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c1addb12951d280800000000000000
+      internalID: -9020330577192412031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342fefadbdb0a610800000000000000
+      internalID: 1630511687506273328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 370
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee427a9211ba39a40800000000000000
+      internalID: 5373826870584747246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 370
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2a763170249770800000000000000
+      internalID: 8616547657683970780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 367
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e04120b5ea6e2660800000000000000
+      internalID: 7362939975532364003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 373
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cd879831d626d20800000000000000
+      internalID: 3270296210102606898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 366
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091749b86c6c11f0800000000000000
+      internalID: -1072863414180177652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 293
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b03395b59d161c80800000000000000
+      internalID: -8352455930078351179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 357
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae692ca42e399d0800000000000000
+      internalID: -2768620535182595513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 340
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21074a9df8170b0800000000000000
+      internalID: -5732642685736447322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 322
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e07d81f93782580800000000000000
+      internalID: -8851697940442968455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 310
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40026c682dba07330800000000000000
+      internalID: 3706651414018531332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 310
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f5f941190d04de0800000000000000
+      internalID: -1350850566676324520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 306
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1b1e9c914a6df70800000000000000
+      internalID: 9211730518501077434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 334
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7856ff1f5253f01a0800000000000000
+      internalID: -6841190871862385273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 334
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e53c5a5dc0b0640800000000000000
+      internalID: 5047141919147384323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 341
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcde058000fcc390800000000000000
+      internalID: -7796592969862161195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33e369117308c40800000000000000
+      internalID: 5512466492576117715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 278
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29cde131566cfe80800000000000000
+      internalID: -8143521527276648149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 260
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e8512d0a178d20800000000000000
+      internalID: 3280619497259067619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 249
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ff22da0e1980c0800000000000000
+      internalID: -4573090914793164143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35335460ec15ab860800000000000000
+      internalID: 7546434070922998611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 245
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2237e439888ead110800000000000000
+      internalID: 1286596316852286242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 240
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c76174cf6c2490800000000000000
+      internalID: -7769712367614049481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 287
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c54f6894ab8598b0800000000000000
+      internalID: -5146053460152597053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 287
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145aae6b40572d10800000000000000
+      internalID: 2100736036101051421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 295
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a21bc30f543b62d0800000000000000
+      internalID: -3284473920546467167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 248
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916f4dcbb5c7a6e0800000000000000
+      internalID: -1826273713481358945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 228
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f45d3a183ade460800000000000000
+      internalID: 7272648750467993490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 215
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d8f7f944e87300800000000000000
+      internalID: 250200785663088030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b1e07e1295f2d60800000000000000
+      internalID: 7867605076184800074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 188
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed805cfca5bf410800000000000000
+      internalID: 1511901948323356266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 188
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7a59830666a770800000000000000
+      internalID: 8621690702022737070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 184
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ee0a0aa840c68b0800000000000000
+      internalID: -5157742479799161237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 214
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e958d81ad665fc0800000000000000
+      internalID: -3506494719229845862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 214
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78220ce7e5cb8ee0800000000000000
+      internalID: -1257694071032240004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 240
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe7ee4ac2286960800000000000000
+      internalID: 7595359023862902693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 201
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a8fcfcecb4cd40800000000000000
+      internalID: 5603811562398197795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 19
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8fea03cfe24a3f0800000000000000
+      internalID: -890535165629105978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 156
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c7fb735a7b8810800000000000000
+      internalID: 1768641777653760995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6472af93ea4250f0800000000000000
+      internalID: -1129758215020317585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc83307477546a0800000000000000
+      internalID: -6465630543140040937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 126
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c73083ee777d6060800000000000000
+      internalID: 6948341186968958914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 124
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b651fcb1bd83d570800000000000000
+      internalID: 8490285517042177718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 123
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04398717cb31dd0800000000000000
+      internalID: -2516460571229732693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 154
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af2cd2093bb50c0800000000000000
+      internalID: -4585874363722302922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 154
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cca660258678340800000000000000
+      internalID: 4865972623901379673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 161
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d1bc60fd6bc08f0800000000000000
+      internalID: -572881983574958725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 101
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c5af77652a2e20800000000000000
+      internalID: 3326512401219962442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd990741a110c6d0800000000000000
+      internalID: -2972356369685307964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c1082d33006950800000000000000
+      internalID: 6440151028338903325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b869d36e3420af5e0800000000000000
+      internalID: -1875183804197529973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 78
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5ef7bd157f6aa0800000000000000
+      internalID: -6165580594345518491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 71
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f1158d352692220800000000000000
+      internalID: 2461606783585689436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b9c76642295750800000000000000
+      internalID: 6294099640011307407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 62
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33bfaea203715370800000000000000
+      internalID: 8309549242833154875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 62
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86d8c115fe217b0800000000000000
+      internalID: -5254874683537528631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 61
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d59383c5447b350800000000000000
+      internalID: 6032365388757032343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 107
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a020ebf30697b710800000000000000
+      internalID: 1708999527465230498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 61
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d91c1657e0ccd0800000000000000
+      internalID: -2539775832812301191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 93
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91263a6e701a7b0800000000000000
+      internalID: -5214878206353335899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b36d596581a3750800000000000000
+      internalID: 6285362990109047663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 60
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569942c70c400d10800000000000000
+      internalID: 2089753823307994713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0c67b8089f680d0800000000000000
+      internalID: -3420772536450367269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4307492a2db8f0800000000000000
+      internalID: -523215624931685282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf970cab179fe9170800000000000000
+      internalID: 8187255439465937403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c73b9ebb11703b0800000000000000
+      internalID: -5546444917306065885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e25376d3ab6c8a0800000000000000
+      internalID: -6285131457061638649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e9ffd621dce8a00800000000000000
+      internalID: 760770866110766722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a01cdefd0b8e8c0800000000000000
+      internalID: -3969728595714045329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 61
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9183265c524d0ce0800000000000000
+      internalID: -1437419741711728229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b7a4e2d2868f040800000000000000
+      internalID: 4681606355911080749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 46
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e03048daaa2dd0800000000000000
+      internalID: -2510005996539025945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9da582b3fbb2df40800000000000000
+      internalID: 5751866329452096923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0895105fe608d0800000000000000
+      internalID: -2880351784418145728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HVD Fonts - MikadoBold SDF Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba7996be1c8ebc0800000000000000
+      internalID: -3753537072580285539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HVD Fonts - MikadoBold SDF Atlas_0: 6542490852195884611
+      HVD Fonts - MikadoBold SDF Atlas_1: -689735371781585683
+      HVD Fonts - MikadoBold SDF Atlas_10: -7179846305535785940
+      HVD Fonts - MikadoBold SDF Atlas_11: 7576905385862646380
+      HVD Fonts - MikadoBold SDF Atlas_12: 3486461409367791048
+      HVD Fonts - MikadoBold SDF Atlas_13: -6622371649520726507
+      HVD Fonts - MikadoBold SDF Atlas_14: 3116350677142052357
+      HVD Fonts - MikadoBold SDF Atlas_15: 457267720041575637
+      HVD Fonts - MikadoBold SDF Atlas_16: 3437217587266713045
+      HVD Fonts - MikadoBold SDF Atlas_17: -153244011266726602
+      HVD Fonts - MikadoBold SDF Atlas_18: -1711742761509995599
+      HVD Fonts - MikadoBold SDF Atlas_19: -9020330577192412031
+      HVD Fonts - MikadoBold SDF Atlas_2: 510480159426826670
+      HVD Fonts - MikadoBold SDF Atlas_20: 1630511687506273328
+      HVD Fonts - MikadoBold SDF Atlas_21: 5373826870584747246
+      HVD Fonts - MikadoBold SDF Atlas_22: 8616547657683970780
+      HVD Fonts - MikadoBold SDF Atlas_23: 7362939975532364003
+      HVD Fonts - MikadoBold SDF Atlas_24: 3270296210102606898
+      HVD Fonts - MikadoBold SDF Atlas_25: -1072863414180177652
+      HVD Fonts - MikadoBold SDF Atlas_26: -8352455930078351179
+      HVD Fonts - MikadoBold SDF Atlas_27: -2768620535182595513
+      HVD Fonts - MikadoBold SDF Atlas_28: -5732642685736447322
+      HVD Fonts - MikadoBold SDF Atlas_29: -8851697940442968455
+      HVD Fonts - MikadoBold SDF Atlas_3: 5471819671764819027
+      HVD Fonts - MikadoBold SDF Atlas_30: 3706651414018531332
+      HVD Fonts - MikadoBold SDF Atlas_31: -1350850566676324520
+      HVD Fonts - MikadoBold SDF Atlas_32: 9211730518501077434
+      HVD Fonts - MikadoBold SDF Atlas_33: -6841190871862385273
+      HVD Fonts - MikadoBold SDF Atlas_34: 5047141919147384323
+      HVD Fonts - MikadoBold SDF Atlas_35: -7796592969862161195
+      HVD Fonts - MikadoBold SDF Atlas_36: 5512466492576117715
+      HVD Fonts - MikadoBold SDF Atlas_37: -8143521527276648149
+      HVD Fonts - MikadoBold SDF Atlas_38: 3280619497259067619
+      HVD Fonts - MikadoBold SDF Atlas_39: -4573090914793164143
+      HVD Fonts - MikadoBold SDF Atlas_4: -714372612657287512
+      HVD Fonts - MikadoBold SDF Atlas_40: 7546434070922998611
+      HVD Fonts - MikadoBold SDF Atlas_41: 1286596316852286242
+      HVD Fonts - MikadoBold SDF Atlas_42: -7769712367614049481
+      HVD Fonts - MikadoBold SDF Atlas_43: -5146053460152597053
+      HVD Fonts - MikadoBold SDF Atlas_44: 2100736036101051421
+      HVD Fonts - MikadoBold SDF Atlas_45: -3284473920546467167
+      HVD Fonts - MikadoBold SDF Atlas_46: -1826273713481358945
+      HVD Fonts - MikadoBold SDF Atlas_47: 7272648750467993490
+      HVD Fonts - MikadoBold SDF Atlas_48: 250200785663088030
+      HVD Fonts - MikadoBold SDF Atlas_49: 7867605076184800074
+      HVD Fonts - MikadoBold SDF Atlas_5: 4749076852107629788
+      HVD Fonts - MikadoBold SDF Atlas_50: 1511901948323356266
+      HVD Fonts - MikadoBold SDF Atlas_51: 8621690702022737070
+      HVD Fonts - MikadoBold SDF Atlas_52: -5157742479799161237
+      HVD Fonts - MikadoBold SDF Atlas_53: -3506494719229845862
+      HVD Fonts - MikadoBold SDF Atlas_54: -1257694071032240004
+      HVD Fonts - MikadoBold SDF Atlas_55: 7595359023862902693
+      HVD Fonts - MikadoBold SDF Atlas_56: 5603811562398197795
+      HVD Fonts - MikadoBold SDF Atlas_57: -890535165629105978
+      HVD Fonts - MikadoBold SDF Atlas_58: 1768641777653760995
+      HVD Fonts - MikadoBold SDF Atlas_59: -1129758215020317585
+      HVD Fonts - MikadoBold SDF Atlas_6: 8420879876704771768
+      HVD Fonts - MikadoBold SDF Atlas_60: -6465630543140040937
+      HVD Fonts - MikadoBold SDF Atlas_61: 6948341186968958914
+      HVD Fonts - MikadoBold SDF Atlas_62: 8490285517042177718
+      HVD Fonts - MikadoBold SDF Atlas_63: -2516460571229732693
+      HVD Fonts - MikadoBold SDF Atlas_64: -4585874363722302922
+      HVD Fonts - MikadoBold SDF Atlas_65: 4865972623901379673
+      HVD Fonts - MikadoBold SDF Atlas_66: -572881983574958725
+      HVD Fonts - MikadoBold SDF Atlas_67: 3326512401219962442
+      HVD Fonts - MikadoBold SDF Atlas_68: -2972356369685307964
+      HVD Fonts - MikadoBold SDF Atlas_69: 6440151028338903325
+      HVD Fonts - MikadoBold SDF Atlas_7: 4716553827411466676
+      HVD Fonts - MikadoBold SDF Atlas_70: -1875183804197529973
+      HVD Fonts - MikadoBold SDF Atlas_71: -6165580594345518491
+      HVD Fonts - MikadoBold SDF Atlas_72: 2461606783585689436
+      HVD Fonts - MikadoBold SDF Atlas_73: 6294099640011307407
+      HVD Fonts - MikadoBold SDF Atlas_74: 8309549242833154875
+      HVD Fonts - MikadoBold SDF Atlas_75: -5254874683537528631
+      HVD Fonts - MikadoBold SDF Atlas_76: 6032365388757032343
+      HVD Fonts - MikadoBold SDF Atlas_77: 1708999527465230498
+      HVD Fonts - MikadoBold SDF Atlas_78: -2539775832812301191
+      HVD Fonts - MikadoBold SDF Atlas_79: -5214878206353335899
+      HVD Fonts - MikadoBold SDF Atlas_8: 6543844182460135459
+      HVD Fonts - MikadoBold SDF Atlas_80: 6285362990109047663
+      HVD Fonts - MikadoBold SDF Atlas_81: 2089753823307994713
+      HVD Fonts - MikadoBold SDF Atlas_82: -3420772536450367269
+      HVD Fonts - MikadoBold SDF Atlas_83: -523215624931685282
+      HVD Fonts - MikadoBold SDF Atlas_84: 8187255439465937403
+      HVD Fonts - MikadoBold SDF Atlas_85: -5546444917306065885
+      HVD Fonts - MikadoBold SDF Atlas_86: -6285131457061638649
+      HVD Fonts - MikadoBold SDF Atlas_87: 760770866110766722
+      HVD Fonts - MikadoBold SDF Atlas_88: -3969728595714045329
+      HVD Fonts - MikadoBold SDF Atlas_89: -1437419741711728229
+      HVD Fonts - MikadoBold SDF Atlas_9: 8845691544478689638
+      HVD Fonts - MikadoBold SDF Atlas_90: 4681606355911080749
+      HVD Fonts - MikadoBold SDF Atlas_91: -2510005996539025945
+      HVD Fonts - MikadoBold SDF Atlas_92: 5751866329452096923
+      HVD Fonts - MikadoBold SDF Atlas_93: -2880351784418145728
+      HVD Fonts - MikadoBold SDF Atlas_94: -3753537072580285539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: d1f1f9e0fe179ab48ba536a72f088534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7301517142425136990
+    second: eggframe_0
+  - first:
+      213: 8158089109929856072
+    second: eggframe_1
+  - first:
+      213: 4627885196351846340
+    second: eggframe_2
+  - first:
+      213: -5204881301286559798
+    second: eggframe_3
+  - first:
+      213: 6714713552278391477
+    second: eggframe_4
+  - first:
+      213: -6294674747286879055
+    second: eggframe_5
+  - first:
+      213: -7035770531342408550
+    second: eggframe_6
+  - first:
+      213: -1886389740909844713
+    second: eggframe_7
+  - first:
+      213: 6628916717438671434
+    second: eggframe_8
+  - first:
+      213: -7593899880291363114
+    second: eggframe_9
+  - first:
+      213: -113923955225362519
+    second: eggframe_10
+  - first:
+      213: 5756952757894037446
+    second: eggframe_11
+  - first:
+      213: 7044931160158700118
+    second: eggframe_12
+  - first:
+      213: -5979391197378858057
+    second: eggframe_13
+  - first:
+      213: -5283006671549397012
+    second: eggframe_14
+  - first:
+      213: -5584686438495889968
+    second: eggframe_15
+  - first:
+      213: 1900267761279144384
+    second: eggframe_16
+  - first:
+      213: -5383500537233464242
+    second: eggframe_17
+  - first:
+      213: -4816708692561900465
+    second: eggframe_18
+  - first:
+      213: 4209530843470038056
+    second: eggframe_19
+  - first:
+      213: -2662386350141319505
+    second: eggframe_20
+  - first:
+      213: -8820196996707540208
+    second: eggframe_21
+  - first:
+      213: 7652289164580259180
+    second: eggframe_22
+  - first:
+      213: 6621893000300749953
+    second: eggframe_23
+  - first:
+      213: 3051801796291656178
+    second: eggframe_24
+  - first:
+      213: 8870311420827796000
+    second: eggframe_25
+  - first:
+      213: 6204555903687155545
+    second: eggframe_26
+  - first:
+      213: 7527496487710996834
+    second: eggframe_27
+  - first:
+      213: -3415930481671279979
+    second: eggframe_28
+  - first:
+      213: 4670416789955145580
+    second: eggframe_29
+  - first:
+      213: -636566209919451241
+    second: eggframe_30
+  - first:
+      213: -113758794468797461
+    second: eggframe_31
+  - first:
+      213: 843916232886429094
+    second: eggframe_32
+  - first:
+      213: 1577671628093870633
+    second: eggframe_33
+  - first:
+      213: 1704899852821125007
+    second: eggframe_34
+  - first:
+      213: -4145121124688153635
+    second: eggframe_35
+  - first:
+      213: -6845738917735166319
+    second: eggframe_36
+  - first:
+      213: 4048485077225547765
+    second: eggframe_37
+  - first:
+      213: -3356759950551711823
+    second: eggframe_38
+  - first:
+      213: -3924273017914755900
+    second: eggframe_39
+  - first:
+      213: 436881446210938926
+    second: eggframe_40
+  - first:
+      213: 3409824396605737296
+    second: eggframe_41
+  - first:
+      213: -1171082331943696577
+    second: eggframe_42
+  - first:
+      213: 7015195627039275178
+    second: eggframe_43
+  - first:
+      213: -7361131115959772812
+    second: eggframe_44
+  - first:
+      213: 3898118465440666417
+    second: eggframe_45
+  - first:
+      213: -1666465835836420300
+    second: eggframe_46
+  - first:
+      213: 1807476737132319202
+    second: eggframe_47
+  - first:
+      213: 4685800666528113487
+    second: eggframe_48
+  - first:
+      213: 8857921320555996268
+    second: eggframe_49
+  - first:
+      213: 8972542351403119393
+    second: eggframe_50
+  - first:
+      213: 7427394381204619761
+    second: eggframe_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eggframe_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 312
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0135418dccbaa90800000000000000
+      internalID: -7301517142425136990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 214
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0a5372da573170800000000000000
+      internalID: 8158089109929856072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 267
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c737d5011d893040800000000000000
+      internalID: 4627885196351846340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 269
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfddba780c84c7b0800000000000000
+      internalID: -5204881301286559798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 281
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0e0456647f2d50800000000000000
+      internalID: 6714713552278391477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 287
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4085ffaa2d4a8a0800000000000000
+      internalID: -6294674747286879055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 265
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94ac269afbeb5e90800000000000000
+      internalID: -7035770531342408550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 281
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a021768232d5e0800000000000000
+      internalID: -1886389740909844713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 281
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a949c02a4aefb50800000000000000
+      internalID: 6628916717438671434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 276
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61a570b4c0d9690800000000000000
+      internalID: -7593899880291363114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 265
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af726d24c24b6ef0800000000000000
+      internalID: -113923955225362519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 265
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbafa180ec4ef40800000000000000
+      internalID: 5756952757894037446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 259
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520754809f94c160800000000000000
+      internalID: 7044931160158700118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 260
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b22bd26fe40da0800000000000000
+      internalID: -5979391197378858057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 272
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7874c3c6dfea6b0800000000000000
+      internalID: -5283006671549397012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 238
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5d28be5453f72b0800000000000000
+      internalID: -5584686438495889968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c19b29f57b1f5a10800000000000000
+      internalID: 1900267761279144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 252
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44231ec8c6f945b0800000000000000
+      internalID: -5383500537233464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 254
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ccf41d6fc972db0800000000000000
+      internalID: -4816708692561900465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8240514cff14b6a30800000000000000
+      internalID: 4209530843470038056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_20
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 248
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65af078bd4d0bd0800000000000000
+      internalID: -2662386350141319505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_21
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 259
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a74a109d589580800000000000000
+      internalID: -8820196996707540208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 234
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65806d9374623a60800000000000000
+      internalID: 7652289164580259180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18462977990b5eb50800000000000000
+      internalID: 6621893000300749953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9fcd8809d2a5a20800000000000000
+      internalID: 3051801796291656178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 234
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02208858d3da91b70800000000000000
+      internalID: 8870311420827796000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 205
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5354a8b20b1650800000000000000
+      internalID: 6204555903687155545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 166
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269b3065c2a077860800000000000000
+      internalID: 7527496487710996834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 234
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aed86435d2890d0800000000000000
+      internalID: -3415930481671279979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 208
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6feb465357a0d040800000000000000
+      internalID: 4670416789955145580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 112
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ffbbd97667a27f0800000000000000
+      internalID: -636566209919451241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 85
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be35c99aaf8db6ef0800000000000000
+      internalID: -113758794468797461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a161b75136bb00800000000000000
+      internalID: 843916232886429094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9225fb4acf305e510800000000000000
+      internalID: 1577671628093870633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_34
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 190
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87d409126509a710800000000000000
+      internalID: 1704899852821125007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 186
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bef38c429976c0800000000000000
+      internalID: -4145121124688153635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_36
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e045f79bc0ff0a0800000000000000
+      internalID: -6845738917735166319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_37
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 174
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7af7a5abb1f2830800000000000000
+      internalID: 4048485077225547765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 180
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7b1f1c946a61d0800000000000000
+      internalID: -3356759950551711823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_39
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 97
+        width: 108
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47a8d5b7e2a89c0800000000000000
+      internalID: -3924273017914755900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 134
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ac525c5d101600800000000000000
+      internalID: 436881446210938926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 158
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05945220931225f20800000000000000
+      internalID: 3409824396605737296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_42
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 124
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3782c1e2da7fbfe0800000000000000
+      internalID: -1171082331943696577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8bc83314bfa5160800000000000000
+      internalID: 7015195627039275178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_44
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 97
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799420404208d990800000000000000
+      internalID: -7361131115959772812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 84
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1335bf85716e81630800000000000000
+      internalID: 3898118465440666417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 87
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f45a0d6268fd8e0800000000000000
+      internalID: -1666465835836420300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 85
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1dd881482751910800000000000000
+      internalID: 1807476737132319202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_48
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4362b831ee470140800000000000000
+      internalID: 4685800666528113487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2
+        width: 116
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6469108288adea70800000000000000
+      internalID: 8857921320555996268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_50
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 22
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123f783eabfd48c70800000000000000
+      internalID: 8972542351403119393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggframe_51
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f10f6276d7631760800000000000000
+      internalID: 7427394381204619761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eggframe_0: -7301517142425136990
+      eggframe_1: 8158089109929856072
+      eggframe_10: -113923955225362519
+      eggframe_11: 5756952757894037446
+      eggframe_12: 7044931160158700118
+      eggframe_13: -5979391197378858057
+      eggframe_14: -5283006671549397012
+      eggframe_15: -5584686438495889968
+      eggframe_16: 1900267761279144384
+      eggframe_17: -5383500537233464242
+      eggframe_18: -4816708692561900465
+      eggframe_19: 4209530843470038056
+      eggframe_2: 4627885196351846340
+      eggframe_20: -2662386350141319505
+      eggframe_21: -8820196996707540208
+      eggframe_22: 7652289164580259180
+      eggframe_23: 6621893000300749953
+      eggframe_24: 3051801796291656178
+      eggframe_25: 8870311420827796000
+      eggframe_26: 6204555903687155545
+      eggframe_27: 7527496487710996834
+      eggframe_28: -3415930481671279979
+      eggframe_29: 4670416789955145580
+      eggframe_3: -5204881301286559798
+      eggframe_30: -636566209919451241
+      eggframe_31: -113758794468797461
+      eggframe_32: 843916232886429094
+      eggframe_33: 1577671628093870633
+      eggframe_34: 1704899852821125007
+      eggframe_35: -4145121124688153635
+      eggframe_36: -6845738917735166319
+      eggframe_37: 4048485077225547765
+      eggframe_38: -3356759950551711823
+      eggframe_39: -3924273017914755900
+      eggframe_4: 6714713552278391477
+      eggframe_40: 436881446210938926
+      eggframe_41: 3409824396605737296
+      eggframe_42: -1171082331943696577
+      eggframe_43: 7015195627039275178
+      eggframe_44: -7361131115959772812
+      eggframe_45: 3898118465440666417
+      eggframe_46: -1666465835836420300
+      eggframe_47: 1807476737132319202
+      eggframe_48: 4685800666528113487
+      eggframe_49: 8857921320555996268
+      eggframe_5: -6294674747286879055
+      eggframe_50: 8972542351403119393
+      eggframe_51: 7427394381204619761
+      eggframe_6: -7035770531342408550
+      eggframe_7: -1886389740909844713
+      eggframe_8: 6628916717438671434
+      eggframe_9: -7593899880291363114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

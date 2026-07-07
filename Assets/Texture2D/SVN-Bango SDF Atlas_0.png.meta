@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 3ba2ed91026e8484e82687c65b7d49fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1854632338552425992
+    second: SVN-Bango SDF Atlas_0_0
+  - first:
+      213: -8924520790694562617
+    second: SVN-Bango SDF Atlas_0_1
+  - first:
+      213: 655579254110566703
+    second: SVN-Bango SDF Atlas_0_2
+  - first:
+      213: -2033990423917456666
+    second: SVN-Bango SDF Atlas_0_3
+  - first:
+      213: -3361518378001161264
+    second: SVN-Bango SDF Atlas_0_4
+  - first:
+      213: 4026872141669048039
+    second: SVN-Bango SDF Atlas_0_5
+  - first:
+      213: -482651925417688859
+    second: SVN-Bango SDF Atlas_0_6
+  - first:
+      213: -3788685365917280369
+    second: SVN-Bango SDF Atlas_0_7
+  - first:
+      213: 6840660464839407610
+    second: SVN-Bango SDF Atlas_0_8
+  - first:
+      213: -1058247287692742942
+    second: SVN-Bango SDF Atlas_0_9
+  - first:
+      213: 7307613597769491836
+    second: SVN-Bango SDF Atlas_0_10
+  - first:
+      213: 6638905910094290500
+    second: SVN-Bango SDF Atlas_0_11
+  - first:
+      213: -1851921387214139483
+    second: SVN-Bango SDF Atlas_0_12
+  - first:
+      213: 2291351084318714674
+    second: SVN-Bango SDF Atlas_0_13
+  - first:
+      213: -7656935369892903202
+    second: SVN-Bango SDF Atlas_0_14
+  - first:
+      213: 3371588754150065585
+    second: SVN-Bango SDF Atlas_0_15
+  - first:
+      213: 4889949175453265237
+    second: SVN-Bango SDF Atlas_0_16
+  - first:
+      213: -8303989032219408872
+    second: SVN-Bango SDF Atlas_0_17
+  - first:
+      213: 6011072158949091141
+    second: SVN-Bango SDF Atlas_0_18
+  - first:
+      213: -7104948053207869446
+    second: SVN-Bango SDF Atlas_0_19
+  - first:
+      213: 3404801198358093316
+    second: SVN-Bango SDF Atlas_0_20
+  - first:
+      213: -3730870856862083192
+    second: SVN-Bango SDF Atlas_0_21
+  - first:
+      213: -2327369784758542759
+    second: SVN-Bango SDF Atlas_0_22
+  - first:
+      213: -1221996674117203879
+    second: SVN-Bango SDF Atlas_0_23
+  - first:
+      213: 6974210752640857219
+    second: SVN-Bango SDF Atlas_0_24
+  - first:
+      213: -4285706537775771609
+    second: SVN-Bango SDF Atlas_0_25
+  - first:
+      213: 5184686870873227898
+    second: SVN-Bango SDF Atlas_0_26
+  - first:
+      213: -246153728928093633
+    second: SVN-Bango SDF Atlas_0_27
+  - first:
+      213: -3121592674489196743
+    second: SVN-Bango SDF Atlas_0_28
+  - first:
+      213: 9107971307294610997
+    second: SVN-Bango SDF Atlas_0_29
+  - first:
+      213: 3571651777857258796
+    second: SVN-Bango SDF Atlas_0_30
+  - first:
+      213: 4234628080560358332
+    second: SVN-Bango SDF Atlas_0_31
+  - first:
+      213: 2118806476404121336
+    second: SVN-Bango SDF Atlas_0_32
+  - first:
+      213: -8800400472033141725
+    second: SVN-Bango SDF Atlas_0_33
+  - first:
+      213: -3328959356249417558
+    second: SVN-Bango SDF Atlas_0_34
+  - first:
+      213: -5113568298139272831
+    second: SVN-Bango SDF Atlas_0_35
+  - first:
+      213: -1617683494714003511
+    second: SVN-Bango SDF Atlas_0_36
+  - first:
+      213: 5995002549843572291
+    second: SVN-Bango SDF Atlas_0_37
+  - first:
+      213: 2543153873136795668
+    second: SVN-Bango SDF Atlas_0_38
+  - first:
+      213: 3160017904813075327
+    second: SVN-Bango SDF Atlas_0_39
+  - first:
+      213: -2626567717862529273
+    second: SVN-Bango SDF Atlas_0_40
+  - first:
+      213: -6535892918648255123
+    second: SVN-Bango SDF Atlas_0_41
+  - first:
+      213: 3258967285147677441
+    second: SVN-Bango SDF Atlas_0_42
+  - first:
+      213: 5790951399756929526
+    second: SVN-Bango SDF Atlas_0_43
+  - first:
+      213: -3833333830616044396
+    second: SVN-Bango SDF Atlas_0_44
+  - first:
+      213: -7299929253089033176
+    second: SVN-Bango SDF Atlas_0_45
+  - first:
+      213: -3251257101983419743
+    second: SVN-Bango SDF Atlas_0_46
+  - first:
+      213: -4759686904707829996
+    second: SVN-Bango SDF Atlas_0_47
+  - first:
+      213: 4863318200896124905
+    second: SVN-Bango SDF Atlas_0_48
+  - first:
+      213: -2075656392789842878
+    second: SVN-Bango SDF Atlas_0_49
+  - first:
+      213: 718273207292352437
+    second: SVN-Bango SDF Atlas_0_50
+  - first:
+      213: 1356803591343225044
+    second: SVN-Bango SDF Atlas_0_51
+  - first:
+      213: 3847941041527416981
+    second: SVN-Bango SDF Atlas_0_52
+  - first:
+      213: -3252868532881056825
+    second: SVN-Bango SDF Atlas_0_53
+  - first:
+      213: -3380608414377274294
+    second: SVN-Bango SDF Atlas_0_54
+  - first:
+      213: 7587591980456214161
+    second: SVN-Bango SDF Atlas_0_55
+  - first:
+      213: -5096980110077941925
+    second: SVN-Bango SDF Atlas_0_56
+  - first:
+      213: 1981605397368307464
+    second: SVN-Bango SDF Atlas_0_57
+  - first:
+      213: 1194431838457893070
+    second: SVN-Bango SDF Atlas_0_58
+  - first:
+      213: -3890200294569690766
+    second: SVN-Bango SDF Atlas_0_59
+  - first:
+      213: -2145357217229960718
+    second: SVN-Bango SDF Atlas_0_60
+  - first:
+      213: 8962572092204943193
+    second: SVN-Bango SDF Atlas_0_61
+  - first:
+      213: 5171984355586042706
+    second: SVN-Bango SDF Atlas_0_62
+  - first:
+      213: 9022448049468087091
+    second: SVN-Bango SDF Atlas_0_63
+  - first:
+      213: 7245664693631583945
+    second: SVN-Bango SDF Atlas_0_64
+  - first:
+      213: -2964290248775355815
+    second: SVN-Bango SDF Atlas_0_65
+  - first:
+      213: -1518044549126238023
+    second: SVN-Bango SDF Atlas_0_66
+  - first:
+      213: 2378173413192441317
+    second: SVN-Bango SDF Atlas_0_67
+  - first:
+      213: 524632817476848123
+    second: SVN-Bango SDF Atlas_0_68
+  - first:
+      213: -2897061104952687728
+    second: SVN-Bango SDF Atlas_0_69
+  - first:
+      213: 525420893948973981
+    second: SVN-Bango SDF Atlas_0_70
+  - first:
+      213: -542871395202105809
+    second: SVN-Bango SDF Atlas_0_71
+  - first:
+      213: -6900438160185298487
+    second: SVN-Bango SDF Atlas_0_72
+  - first:
+      213: -471447621368031363
+    second: SVN-Bango SDF Atlas_0_73
+  - first:
+      213: -3225858765025749998
+    second: SVN-Bango SDF Atlas_0_74
+  - first:
+      213: 6238751316959090311
+    second: SVN-Bango SDF Atlas_0_75
+  - first:
+      213: -8125531769289614266
+    second: SVN-Bango SDF Atlas_0_76
+  - first:
+      213: 1417753201698422750
+    second: SVN-Bango SDF Atlas_0_77
+  - first:
+      213: 7568357269704760446
+    second: SVN-Bango SDF Atlas_0_78
+  - first:
+      213: -2543657351648213652
+    second: SVN-Bango SDF Atlas_0_79
+  - first:
+      213: 810337255598442467
+    second: SVN-Bango SDF Atlas_0_80
+  - first:
+      213: -5889762667660655937
+    second: SVN-Bango SDF Atlas_0_81
+  - first:
+      213: 524353692425209999
+    second: SVN-Bango SDF Atlas_0_82
+  - first:
+      213: -1578595875166458197
+    second: SVN-Bango SDF Atlas_0_83
+  - first:
+      213: 2606441171057898577
+    second: SVN-Bango SDF Atlas_0_84
+  - first:
+      213: -7015217718908163563
+    second: SVN-Bango SDF Atlas_0_85
+  - first:
+      213: 6920520141749437865
+    second: SVN-Bango SDF Atlas_0_86
+  - first:
+      213: 5491582275433299029
+    second: SVN-Bango SDF Atlas_0_87
+  - first:
+      213: 7450608993991526777
+    second: SVN-Bango SDF Atlas_0_88
+  - first:
+      213: -225201032483805870
+    second: SVN-Bango SDF Atlas_0_89
+  - first:
+      213: 4627434361844031160
+    second: SVN-Bango SDF Atlas_0_90
+  - first:
+      213: 2464056174321979534
+    second: SVN-Bango SDF Atlas_0_91
+  - first:
+      213: 5516985981400196417
+    second: SVN-Bango SDF Atlas_0_92
+  - first:
+      213: -663124618065817588
+    second: SVN-Bango SDF Atlas_0_93
+  - first:
+      213: -8736579895046775059
+    second: SVN-Bango SDF Atlas_0_94
+  - first:
+      213: 8135414060379755799
+    second: SVN-Bango SDF Atlas_0_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8e50294afcb910800000000000000
+      internalID: 1854632338552425992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ff0000abb52480800000000000000
+      internalID: -8924520790694562617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 967
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293063bbd5191900800000000000000
+      internalID: 655579254110566703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 882
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e29ad96c70d5c3e0800000000000000
+      internalID: -2033990423917456666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 967
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d32b4568dc7951d0800000000000000
+      internalID: -3361518378001161264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 964
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee9918a0e252e730800000000000000
+      internalID: 4026872141669048039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 964
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0025b81a64d49f0800000000000000
+      internalID: -482651925417688859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 928
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8797c6abb2eb6bc0800000000000000
+      internalID: -3788685365917280369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 900
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7bfcb0378eeee50800000000000000
+      internalID: 6840660464839407610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 900
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eead8cd2b95051f0800000000000000
+      internalID: -1058247287692742942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756dda89dbd96560800000000000000
+      internalID: 7307613597769491836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 797
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e596430c1222c50800000000000000
+      internalID: 6638905910094290500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 880
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af072b6f47ac46e0800000000000000
+      internalID: -1851921387214139483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 796
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23be58ccba38ccf10800000000000000
+      internalID: 2291351084318714674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 875
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c86969d91db590800000000000000
+      internalID: -7656935369892903202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 845
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b501d3cb1a4ace20800000000000000
+      internalID: 3371588754150065585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 817
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d2b94fdd69cd340800000000000000
+      internalID: 4889949175453265237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 817
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81682dbb8fd42cc80800000000000000
+      internalID: -8303989032219408872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 816
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a661d74e9b6350800000000000000
+      internalID: 6011072158949091141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af711f4a367266d90800000000000000
+      internalID: -7104948053207869446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 712
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e55f686a8404f20800000000000000
+      internalID: 3404801198358093316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 707
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887d0e109b8493cc0800000000000000
+      internalID: -3730870856862083192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 791
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e5d7ef28583bfd0800000000000000
+      internalID: -2327369784758542759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 761
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580982df789a0fe0800000000000000
+      internalID: -1221996674117203879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 734
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3843ed38abf59c060800000000000000
+      internalID: 6974210752640857219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 733
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7205e4c4c9c1684c0800000000000000
+      internalID: -4285706537775771609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 731
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c70a4d35b3f740800000000000000
+      internalID: 5184686870873227898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 677
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6a1bdc7c759cf0800000000000000
+      internalID: -246153728928093633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 752
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f1c9f5000eda4d0800000000000000
+      internalID: -3121592674489196743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536debbd5a3066e70800000000000000
+      internalID: 9107971307294610997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 623
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2503985e5e019130800000000000000
+      internalID: 3571651777857258796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 650
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c1b1adcb64ca30800000000000000
+      internalID: 4234628080560358332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 650
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe5ddda343876d10800000000000000
+      internalID: 2118806476404121336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 648
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd84fa562bed580800000000000000
+      internalID: -8800400472033141725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_34
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 625
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85a036a192dc1d0800000000000000
+      internalID: -3328959356249417558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 707
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b5b6c9b4f809b0800000000000000
+      internalID: -5113568298139272831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf2f82be65dc89e0800000000000000
+      internalID: -1617683494714003511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 535
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346bcf26e07823350800000000000000
+      internalID: 5995002549843572291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 509
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104a7139f81b4320800000000000000
+      internalID: 2543153873136795668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 593
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be14cba83aadb20800000000000000
+      internalID: 3160017904813075327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 566
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ab46a39e8c8bd0800000000000000
+      internalID: -2626567717862529273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 566
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dcaf5e408db45a0800000000000000
+      internalID: -6535892918648255123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 565
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b8d5aa7d2a3d20800000000000000
+      internalID: 3258967285147677441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_43
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 562
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f91016cd979d5050800000000000000
+      internalID: 5790951399756929526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_44
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 542
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca4a0e0334dcac0800000000000000
+      internalID: -3833333830616044396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244520650171ba90800000000000000
+      internalID: -7299929253089033176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 428
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ffc244e631e2d0800000000000000
+      internalID: -3251257101983419743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 424
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fafc26af132fdb0800000000000000
+      internalID: -4759686904707829996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 398
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7fa12032afd7340800000000000000
+      internalID: 4863318200896124905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 482
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2442eff0289c133e0800000000000000
+      internalID: -2075656392789842878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7575c2da1d7f900800000000000000
+      internalID: 718273207292352437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 479
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8bcfb7da554d210800000000000000
+      internalID: 1356803591343225044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 459
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59863e07df1a66530800000000000000
+      internalID: 3847941041527416981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1494cd4d7bd2d0800000000000000
+      internalID: -3252868532881056825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 324
+        width: 47
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449850fe8aa511d0800000000000000
+      internalID: -3380608414377274294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 399
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef1b794ba8c4960800000000000000
+      internalID: 7587591980456214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 313
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a2974893e349b0800000000000000
+      internalID: -5096980110077941925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 313
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f72232c93108b10800000000000000
+      internalID: 1981605397368307464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 398
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec013bfbd69739010800000000000000
+      internalID: 1194431838457893070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 398
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279bd09717b330ac0800000000000000
+      internalID: -3890200294569690766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 313
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f900be3af82a32e0800000000000000
+      internalID: -2145357217229960718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 396
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95784b505d3716c70800000000000000
+      internalID: 8962572092204943193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_62
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 376
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b659a7e5496c740800000000000000
+      internalID: 5171984355586042706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 33
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b16f0b2bc263d70800000000000000
+      internalID: 9022448049468087091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6008156a5cd8460800000000000000
+      internalID: 7245664693631583945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_65
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 214
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952379669b9bcd6d0800000000000000
+      internalID: -2964290248775355815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0dc188682deeae0800000000000000
+      internalID: -1518044549126238023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_67
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 259
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1d938e18f00120800000000000000
+      internalID: 2378173413192441317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 312
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9483394ced74700800000000000000
+      internalID: 524632817476848123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_69
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 293
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c1ba36429bc7d0800000000000000
+      internalID: -2897061104952687728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 252
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93956de48baa4700800000000000000
+      internalID: 525420893948973981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 195
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef142a7555778f0800000000000000
+      internalID: -542871395202105809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_72
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 174
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1fa9bad08bc30a0800000000000000
+      internalID: -6900438160185298487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 259
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d72ed2e41579f0800000000000000
+      internalID: -471447621368031363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 254
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2145f076b827b33d0800000000000000
+      internalID: -3225858765025749998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_75
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 254
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d859b44f749650800000000000000
+      internalID: 6238751316959090311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c575028ef4c3f80800000000000000
+      internalID: -8125531769289614266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 109
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf386e760fdca310800000000000000
+      internalID: 1417753201698422750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 104
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c5ff186d4380960800000000000000
+      internalID: 7568357269704760446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_79
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 98
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6582b49d1d13bcd0800000000000000
+      internalID: -2543657351648213652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 89
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c53cc075ee3b00800000000000000
+      internalID: 810337255598442467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_81
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 85
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2cabe1f0c534ea0800000000000000
+      internalID: -5889762667660655937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 170
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f884ba5b7e0e64700800000000000000
+      internalID: 524353692425209999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 85
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae6ec05a63b71ae0800000000000000
+      internalID: -1578595875166458197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 169
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154fbd08f60fb2420800000000000000
+      internalID: 2606441171057898577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_85
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 167
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae37227a0f4ae90800000000000000
+      internalID: -7015217718908163563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a549e50760aa0060800000000000000
+      internalID: 6920520141749437865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c780edbf4063c40800000000000000
+      internalID: 5491582275433299029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_88
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979023fa761e56760800000000000000
+      internalID: 7450608993991526777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25560c7aadcefdcf0800000000000000
+      internalID: -225201032483805870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_90
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be562fe803f73040800000000000000
+      internalID: 4627434361844031160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d1111906123220800000000000000
+      internalID: 2464056174321979534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_92
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452b241585409c40800000000000000
+      internalID: 5516985981400196417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 84
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00de5a5cab1cc6f0800000000000000
+      internalID: -663124618065817588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_94
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deedae3bfde61c680800000000000000
+      internalID: -8736579895046775059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SVN-Bango SDF Atlas_0_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 83
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71557a11cfbc6e070800000000000000
+      internalID: 8135414060379755799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SVN-Bango SDF Atlas_0_0: 1854632338552425992
+      SVN-Bango SDF Atlas_0_1: -8924520790694562617
+      SVN-Bango SDF Atlas_0_10: 7307613597769491836
+      SVN-Bango SDF Atlas_0_11: 6638905910094290500
+      SVN-Bango SDF Atlas_0_12: -1851921387214139483
+      SVN-Bango SDF Atlas_0_13: 2291351084318714674
+      SVN-Bango SDF Atlas_0_14: -7656935369892903202
+      SVN-Bango SDF Atlas_0_15: 3371588754150065585
+      SVN-Bango SDF Atlas_0_16: 4889949175453265237
+      SVN-Bango SDF Atlas_0_17: -8303989032219408872
+      SVN-Bango SDF Atlas_0_18: 6011072158949091141
+      SVN-Bango SDF Atlas_0_19: -7104948053207869446
+      SVN-Bango SDF Atlas_0_2: 655579254110566703
+      SVN-Bango SDF Atlas_0_20: 3404801198358093316
+      SVN-Bango SDF Atlas_0_21: -3730870856862083192
+      SVN-Bango SDF Atlas_0_22: -2327369784758542759
+      SVN-Bango SDF Atlas_0_23: -1221996674117203879
+      SVN-Bango SDF Atlas_0_24: 6974210752640857219
+      SVN-Bango SDF Atlas_0_25: -4285706537775771609
+      SVN-Bango SDF Atlas_0_26: 5184686870873227898
+      SVN-Bango SDF Atlas_0_27: -246153728928093633
+      SVN-Bango SDF Atlas_0_28: -3121592674489196743
+      SVN-Bango SDF Atlas_0_29: 9107971307294610997
+      SVN-Bango SDF Atlas_0_3: -2033990423917456666
+      SVN-Bango SDF Atlas_0_30: 3571651777857258796
+      SVN-Bango SDF Atlas_0_31: 4234628080560358332
+      SVN-Bango SDF Atlas_0_32: 2118806476404121336
+      SVN-Bango SDF Atlas_0_33: -8800400472033141725
+      SVN-Bango SDF Atlas_0_34: -3328959356249417558
+      SVN-Bango SDF Atlas_0_35: -5113568298139272831
+      SVN-Bango SDF Atlas_0_36: -1617683494714003511
+      SVN-Bango SDF Atlas_0_37: 5995002549843572291
+      SVN-Bango SDF Atlas_0_38: 2543153873136795668
+      SVN-Bango SDF Atlas_0_39: 3160017904813075327
+      SVN-Bango SDF Atlas_0_4: -3361518378001161264
+      SVN-Bango SDF Atlas_0_40: -2626567717862529273
+      SVN-Bango SDF Atlas_0_41: -6535892918648255123
+      SVN-Bango SDF Atlas_0_42: 3258967285147677441
+      SVN-Bango SDF Atlas_0_43: 5790951399756929526
+      SVN-Bango SDF Atlas_0_44: -3833333830616044396
+      SVN-Bango SDF Atlas_0_45: -7299929253089033176
+      SVN-Bango SDF Atlas_0_46: -3251257101983419743
+      SVN-Bango SDF Atlas_0_47: -4759686904707829996
+      SVN-Bango SDF Atlas_0_48: 4863318200896124905
+      SVN-Bango SDF Atlas_0_49: -2075656392789842878
+      SVN-Bango SDF Atlas_0_5: 4026872141669048039
+      SVN-Bango SDF Atlas_0_50: 718273207292352437
+      SVN-Bango SDF Atlas_0_51: 1356803591343225044
+      SVN-Bango SDF Atlas_0_52: 3847941041527416981
+      SVN-Bango SDF Atlas_0_53: -3252868532881056825
+      SVN-Bango SDF Atlas_0_54: -3380608414377274294
+      SVN-Bango SDF Atlas_0_55: 7587591980456214161
+      SVN-Bango SDF Atlas_0_56: -5096980110077941925
+      SVN-Bango SDF Atlas_0_57: 1981605397368307464
+      SVN-Bango SDF Atlas_0_58: 1194431838457893070
+      SVN-Bango SDF Atlas_0_59: -3890200294569690766
+      SVN-Bango SDF Atlas_0_6: -482651925417688859
+      SVN-Bango SDF Atlas_0_60: -2145357217229960718
+      SVN-Bango SDF Atlas_0_61: 8962572092204943193
+      SVN-Bango SDF Atlas_0_62: 5171984355586042706
+      SVN-Bango SDF Atlas_0_63: 9022448049468087091
+      SVN-Bango SDF Atlas_0_64: 7245664693631583945
+      SVN-Bango SDF Atlas_0_65: -2964290248775355815
+      SVN-Bango SDF Atlas_0_66: -1518044549126238023
+      SVN-Bango SDF Atlas_0_67: 2378173413192441317
+      SVN-Bango SDF Atlas_0_68: 524632817476848123
+      SVN-Bango SDF Atlas_0_69: -2897061104952687728
+      SVN-Bango SDF Atlas_0_7: -3788685365917280369
+      SVN-Bango SDF Atlas_0_70: 525420893948973981
+      SVN-Bango SDF Atlas_0_71: -542871395202105809
+      SVN-Bango SDF Atlas_0_72: -6900438160185298487
+      SVN-Bango SDF Atlas_0_73: -471447621368031363
+      SVN-Bango SDF Atlas_0_74: -3225858765025749998
+      SVN-Bango SDF Atlas_0_75: 6238751316959090311
+      SVN-Bango SDF Atlas_0_76: -8125531769289614266
+      SVN-Bango SDF Atlas_0_77: 1417753201698422750
+      SVN-Bango SDF Atlas_0_78: 7568357269704760446
+      SVN-Bango SDF Atlas_0_79: -2543657351648213652
+      SVN-Bango SDF Atlas_0_8: 6840660464839407610
+      SVN-Bango SDF Atlas_0_80: 810337255598442467
+      SVN-Bango SDF Atlas_0_81: -5889762667660655937
+      SVN-Bango SDF Atlas_0_82: 524353692425209999
+      SVN-Bango SDF Atlas_0_83: -1578595875166458197
+      SVN-Bango SDF Atlas_0_84: 2606441171057898577
+      SVN-Bango SDF Atlas_0_85: -7015217718908163563
+      SVN-Bango SDF Atlas_0_86: 6920520141749437865
+      SVN-Bango SDF Atlas_0_87: 5491582275433299029
+      SVN-Bango SDF Atlas_0_88: 7450608993991526777
+      SVN-Bango SDF Atlas_0_89: -225201032483805870
+      SVN-Bango SDF Atlas_0_9: -1058247287692742942
+      SVN-Bango SDF Atlas_0_90: 4627434361844031160
+      SVN-Bango SDF Atlas_0_91: 2464056174321979534
+      SVN-Bango SDF Atlas_0_92: 5516985981400196417
+      SVN-Bango SDF Atlas_0_93: -663124618065817588
+      SVN-Bango SDF Atlas_0_94: -8736579895046775059
+      SVN-Bango SDF Atlas_0_95: 8135414060379755799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: d1eed70fcbecb7a45a64768f59ec7664
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2123527673816631203
+    second: NY_Frame2_0
+  - first:
+      213: 5884449741126865857
+    second: NY_Frame2_1
+  - first:
+      213: -2173249412227573723
+    second: NY_Frame2_2
+  - first:
+      213: 1444095476017297558
+    second: NY_Frame2_3
+  - first:
+      213: 3942330881147000135
+    second: NY_Frame2_4
+  - first:
+      213: -8665391772886128196
+    second: NY_Frame2_5
+  - first:
+      213: 5040505968919973438
+    second: NY_Frame2_6
+  - first:
+      213: 8703928243844940303
+    second: NY_Frame2_7
+  - first:
+      213: 6396326217824409934
+    second: NY_Frame2_8
+  - first:
+      213: 488596322731684308
+    second: NY_Frame2_9
+  - first:
+      213: 4280803311048345910
+    second: NY_Frame2_10
+  - first:
+      213: -6238818219362571851
+    second: NY_Frame2_11
+  - first:
+      213: 8673312220588431906
+    second: NY_Frame2_12
+  - first:
+      213: -467147751580510961
+    second: NY_Frame2_13
+  - first:
+      213: -5792918587116557286
+    second: NY_Frame2_14
+  - first:
+      213: -818641498590013745
+    second: NY_Frame2_15
+  - first:
+      213: 7268328130234638778
+    second: NY_Frame2_16
+  - first:
+      213: -5970343476500062955
+    second: NY_Frame2_17
+  - first:
+      213: 5642687181311583383
+    second: NY_Frame2_18
+  - first:
+      213: -7855474819069765549
+    second: NY_Frame2_19
+  - first:
+      213: -8537792414804676350
+    second: NY_Frame2_20
+  - first:
+      213: -2352519559327428573
+    second: NY_Frame2_21
+  - first:
+      213: -5928781200593880336
+    second: NY_Frame2_22
+  - first:
+      213: 9140134821496474201
+    second: NY_Frame2_23
+  - first:
+      213: 4938550906482913572
+    second: NY_Frame2_24
+  - first:
+      213: -578698376209578408
+    second: NY_Frame2_25
+  - first:
+      213: 3090660142892311354
+    second: NY_Frame2_26
+  - first:
+      213: 3506251151068160548
+    second: NY_Frame2_27
+  - first:
+      213: -2496417055234163941
+    second: NY_Frame2_28
+  - first:
+      213: 1585777612651099393
+    second: NY_Frame2_29
+  - first:
+      213: 4324609662991781825
+    second: NY_Frame2_30
+  - first:
+      213: 6677399548703742121
+    second: NY_Frame2_31
+  - first:
+      213: 7594727547016855095
+    second: NY_Frame2_32
+  - first:
+      213: 5126662230643581739
+    second: NY_Frame2_33
+  - first:
+      213: -4145009851807586029
+    second: NY_Frame2_34
+  - first:
+      213: 6300637825669951437
+    second: NY_Frame2_35
+  - first:
+      213: -7405609058326647022
+    second: NY_Frame2_36
+  - first:
+      213: 7501520076840848212
+    second: NY_Frame2_37
+  - first:
+      213: -5676104214352643126
+    second: NY_Frame2_38
+  - first:
+      213: 2476968840030437357
+    second: NY_Frame2_39
+  - first:
+      213: 2041736162250457936
+    second: NY_Frame2_40
+  - first:
+      213: 4731485986974789368
+    second: NY_Frame2_41
+  - first:
+      213: -1360796554649636444
+    second: NY_Frame2_42
+  - first:
+      213: 7259197867810923956
+    second: NY_Frame2_43
+  - first:
+      213: -748729057464600588
+    second: NY_Frame2_44
+  - first:
+      213: -8472519758847688024
+    second: NY_Frame2_45
+  - first:
+      213: -3505363674575676136
+    second: NY_Frame2_46
+  - first:
+      213: 4864152282197709477
+    second: NY_Frame2_47
+  - first:
+      213: -1171166402074672231
+    second: NY_Frame2_48
+  - first:
+      213: 2326607899437124742
+    second: NY_Frame2_49
+  - first:
+      213: 2344552842115272916
+    second: NY_Frame2_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NY_Frame2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 242
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58b273e4d6b782e0800000000000000
+      internalID: -2123527673816631203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 249
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39186ccd3c9a150800000000000000
+      internalID: 5884449741126865857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 250
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52859d78c2117d1e0800000000000000
+      internalID: -2173249412227573723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 199
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69872cd2f257a0410800000000000000
+      internalID: 1444095476017297558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 199
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745d1dd8c09f5b630800000000000000
+      internalID: 3942330881147000135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 195
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a78108185eb780800000000000000
+      internalID: -8665391772886128196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 196
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e06b5197973f540800000000000000
+      internalID: 5040505968919973438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 195
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f020ed45f909ac870800000000000000
+      internalID: 8703928243844940303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 195
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4911f05ec054c850800000000000000
+      internalID: 6396326217824409934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_9
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 195
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1fbfe44c7d7c600800000000000000
+      internalID: 488596322731684308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 195
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6394a544ee7786b30800000000000000
+      internalID: 4280803311048345910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 210
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a8a852e34b69a0800000000000000
+      internalID: -6238818219362571851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_12
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a5a3ee28bcd5870800000000000000
+      internalID: 8673312220588431906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_13
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 186
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05db61589b5489f0800000000000000
+      internalID: -467147751580510961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_14
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 241
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ce82abc3b6b9fa0800000000000000
+      internalID: -5792918587116557286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 171
+        width: 23
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc61626f4e993a4f0800000000000000
+      internalID: -818641498590013745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 204
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab16d99dce94ed460800000000000000
+      internalID: 7268328130234638778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 168
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d94288d34152da0800000000000000
+      internalID: -5970343476500062955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 199
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942abc581ade4e40800000000000000
+      internalID: 5642687181311583383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_19
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 159
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358125ba54fbbf290800000000000000
+      internalID: -7855474819069765549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 186
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201fa8da80ba38980800000000000000
+      internalID: -8537792414804676350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_21
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 186
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320512bcceb2a5fd0800000000000000
+      internalID: -2352519559327428573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_22
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 191
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa769bf8ecb8bda0800000000000000
+      internalID: -5928781200593880336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 102
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac972913848de70800000000000000
+      internalID: 9140134821496474201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 102
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f81642e1498440800000000000000
+      internalID: 4938550906482913572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 98
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856cee594ec08f7f0800000000000000
+      internalID: -578698376209578408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_26
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 98
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ed82660b34ea20800000000000000
+      internalID: 3090660142892311354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 98
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e8b058d4b8a030800000000000000
+      internalID: 3506251151068160548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_28
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 98
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b7a833ae1fa5dd0800000000000000
+      internalID: -2496417055234163941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 98
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f5de3650d10610800000000000000
+      internalID: 1585777612651099393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_30
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 98
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfc8d26399140c30800000000000000
+      internalID: 4324609662991781825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_31
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 160
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a817dbd283eaac50800000000000000
+      internalID: 6677399548703742121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_32
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 98
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e30d52774e56960800000000000000
+      internalID: 7594727547016855095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_33
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 98
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b232ce4f220952740800000000000000
+      internalID: 5126662230643581739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_34
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 145
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319a3804087f976c0800000000000000
+      internalID: -4145009851807586029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 88
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf627168bc507750800000000000000
+      internalID: 6300637825669951437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f660d4ccdf93990800000000000000
+      internalID: -7405609058326647022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4f8fd3c0ca1860800000000000000
+      internalID: 7501520076840848212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb9635a4d6a31b0800000000000000
+      internalID: -5676104214352643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_39
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb9b55906ff5220800000000000000
+      internalID: 2476968840030437357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_40
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530204d834b55c10800000000000000
+      internalID: 2041736162250457936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_41
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feee59cf6d99a140800000000000000
+      internalID: 4731485986974789368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_42
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1788c4eba7d1de0800000000000000
+      internalID: -1360796554649636444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_43
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5a429fff9ddb460800000000000000
+      internalID: 7259197867810923956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_44
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73fc0a3eafb95f0800000000000000
+      internalID: -748729057464600588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_45
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c76d2b209b6a80800000000000000
+      internalID: -8472519758847688024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_46
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 96
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ddb586f427a5fc0800000000000000
+      internalID: -3505363674575676136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 56
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2dcc1bab0f08340800000000000000
+      internalID: 4864152282197709477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_48
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938777cc5e2fbfe0800000000000000
+      internalID: -1171166402074672231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c4191ce85c94020800000000000000
+      internalID: 2326607899437124742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_Frame2_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 21
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d96f4366898020800000000000000
+      internalID: 2344552842115272916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NY_Frame2_0: -2123527673816631203
+      NY_Frame2_1: 5884449741126865857
+      NY_Frame2_10: 4280803311048345910
+      NY_Frame2_11: -6238818219362571851
+      NY_Frame2_12: 8673312220588431906
+      NY_Frame2_13: -467147751580510961
+      NY_Frame2_14: -5792918587116557286
+      NY_Frame2_15: -818641498590013745
+      NY_Frame2_16: 7268328130234638778
+      NY_Frame2_17: -5970343476500062955
+      NY_Frame2_18: 5642687181311583383
+      NY_Frame2_19: -7855474819069765549
+      NY_Frame2_2: -2173249412227573723
+      NY_Frame2_20: -8537792414804676350
+      NY_Frame2_21: -2352519559327428573
+      NY_Frame2_22: -5928781200593880336
+      NY_Frame2_23: 9140134821496474201
+      NY_Frame2_24: 4938550906482913572
+      NY_Frame2_25: -578698376209578408
+      NY_Frame2_26: 3090660142892311354
+      NY_Frame2_27: 3506251151068160548
+      NY_Frame2_28: -2496417055234163941
+      NY_Frame2_29: 1585777612651099393
+      NY_Frame2_3: 1444095476017297558
+      NY_Frame2_30: 4324609662991781825
+      NY_Frame2_31: 6677399548703742121
+      NY_Frame2_32: 7594727547016855095
+      NY_Frame2_33: 5126662230643581739
+      NY_Frame2_34: -4145009851807586029
+      NY_Frame2_35: 6300637825669951437
+      NY_Frame2_36: -7405609058326647022
+      NY_Frame2_37: 7501520076840848212
+      NY_Frame2_38: -5676104214352643126
+      NY_Frame2_39: 2476968840030437357
+      NY_Frame2_4: 3942330881147000135
+      NY_Frame2_40: 2041736162250457936
+      NY_Frame2_41: 4731485986974789368
+      NY_Frame2_42: -1360796554649636444
+      NY_Frame2_43: 7259197867810923956
+      NY_Frame2_44: -748729057464600588
+      NY_Frame2_45: -8472519758847688024
+      NY_Frame2_46: -3505363674575676136
+      NY_Frame2_47: 4864152282197709477
+      NY_Frame2_48: -1171166402074672231
+      NY_Frame2_49: 2326607899437124742
+      NY_Frame2_5: -8665391772886128196
+      NY_Frame2_50: 2344552842115272916
+      NY_Frame2_6: 5040505968919973438
+      NY_Frame2_7: 8703928243844940303
+      NY_Frame2_8: 6396326217824409934
+      NY_Frame2_9: 488596322731684308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

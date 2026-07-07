@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 5d67c2b0c26668d4186b921268b47b91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 546123822483701620
+    second: badge_0
+  - first:
+      213: 7056579375465399823
+    second: badge_1
+  - first:
+      213: -8714950554161818951
+    second: badge_2
+  - first:
+      213: -968504275206828757
+    second: badge_3
+  - first:
+      213: 7930422151291566827
+    second: badge_4
+  - first:
+      213: -4915243632608635023
+    second: badge_5
+  - first:
+      213: 2534266384107029446
+    second: badge_6
+  - first:
+      213: -6699187428279144014
+    second: badge_7
+  - first:
+      213: 9046537561720839884
+    second: badge_8
+  - first:
+      213: 8274580100335728828
+    second: badge_9
+  - first:
+      213: 2659466655655244967
+    second: badge_10
+  - first:
+      213: -1804143325525455649
+    second: badge_11
+  - first:
+      213: -1406431088876189198
+    second: badge_12
+  - first:
+      213: 6060493797806990176
+    second: badge_13
+  - first:
+      213: -8818392500294332959
+    second: badge_14
+  - first:
+      213: -4305931622791226913
+    second: badge_15
+  - first:
+      213: 4725165275320250128
+    second: badge_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badge_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 346
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff48a19b8349700800000000000000
+      internalID: 546123822483701620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 460
+        width: 310
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0686fbfd810ee160800000000000000
+      internalID: 7056579375465399823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 460
+        width: 302
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2571015a64e0780800000000000000
+      internalID: -8714950554161818951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 681
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d89d83e7e2f82f0800000000000000
+      internalID: -968504275206828757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 681
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea7f9eede48e0e60800000000000000
+      internalID: 7930422151291566827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 719
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1779cdd45fb89cbb0800000000000000
+      internalID: -4915243632608635023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_6
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 653
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c9e669d58b2320800000000000000
+      internalID: 2534266384107029446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 654
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b8ad1784b703a0800000000000000
+      internalID: -6699187428279144014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 564
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce59955bf1cb8d70800000000000000
+      internalID: 9046537561720839884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 576
+        width: 111
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f60ab2c635d270800000000000000
+      internalID: 8274580100335728828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 460
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b35635d258e420800000000000000
+      internalID: 2659466655655244967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 576
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc926443566f6e0800000000000000
+      internalID: -1804143325525455649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2
+        width: 458
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f90872506a5b7ce0800000000000000
+      internalID: -1406431088876189198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_13
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 460
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636ebdcff23b1450800000000000000
+      internalID: 6060493797806990176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_14
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 460
+        width: 101
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edccf92eb6ce9580800000000000000
+      internalID: -8818392500294332959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 457
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9586cb0024e34c0800000000000000
+      internalID: -4305931622791226913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badge_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 457
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f697c68c8239140800000000000000
+      internalID: 4725165275320250128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      badge_0: 546123822483701620
+      badge_1: 7056579375465399823
+      badge_10: 2659466655655244967
+      badge_11: -1804143325525455649
+      badge_12: -1406431088876189198
+      badge_13: 6060493797806990176
+      badge_14: -8818392500294332959
+      badge_15: -4305931622791226913
+      badge_16: 4725165275320250128
+      badge_2: -8714950554161818951
+      badge_3: -968504275206828757
+      badge_4: 7930422151291566827
+      badge_5: -4915243632608635023
+      badge_6: 2534266384107029446
+      badge_7: -6699187428279144014
+      badge_8: 9046537561720839884
+      badge_9: 8274580100335728828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

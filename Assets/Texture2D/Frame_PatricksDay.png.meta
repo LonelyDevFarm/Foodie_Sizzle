@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 1ca9c735ede071f48b5f27071c17618d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8648397264900611161
+    second: Frame_PatricksDay_0
+  - first:
+      213: -7121335834246397718
+    second: Frame_PatricksDay_1
+  - first:
+      213: -1885706988929905032
+    second: Frame_PatricksDay_2
+  - first:
+      213: -8433136421597961186
+    second: Frame_PatricksDay_3
+  - first:
+      213: -710346565832230516
+    second: Frame_PatricksDay_4
+  - first:
+      213: -7311249665560900520
+    second: Frame_PatricksDay_5
+  - first:
+      213: 3559658997018003457
+    second: Frame_PatricksDay_6
+  - first:
+      213: -349762321120928547
+    second: Frame_PatricksDay_7
+  - first:
+      213: -3986577439508182640
+    second: Frame_PatricksDay_8
+  - first:
+      213: 8977461904617557621
+    second: Frame_PatricksDay_9
+  - first:
+      213: 8941675832824154202
+    second: Frame_PatricksDay_10
+  - first:
+      213: -1214048294204813333
+    second: Frame_PatricksDay_11
+  - first:
+      213: 3109088081542465822
+    second: Frame_PatricksDay_12
+  - first:
+      213: -5182785764098504376
+    second: Frame_PatricksDay_13
+  - first:
+      213: -6747389430473903312
+    second: Frame_PatricksDay_14
+  - first:
+      213: 4388666738800644477
+    second: Frame_PatricksDay_15
+  - first:
+      213: -7929682475787781886
+    second: Frame_PatricksDay_16
+  - first:
+      213: 5483620987665291283
+    second: Frame_PatricksDay_17
+  - first:
+      213: 8141733294312233803
+    second: Frame_PatricksDay_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frame_PatricksDay_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 263
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5cd2cd77450870800000000000000
+      internalID: 8648397264900611161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 252
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0cb790aceeb2d90800000000000000
+      internalID: -7121335834246397718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 211
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e8c560c7f94d5e0800000000000000
+      internalID: -1885706988929905032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 214
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ae30fa1b77fa80800000000000000
+      internalID: -8433136421597961186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 140
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b62cdf875426f0800000000000000
+      internalID: -710346565832230516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 140
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8c047a29398a90800000000000000
+      internalID: -7311249665560900520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 156
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10808c67ff2766130800000000000000
+      internalID: 3559658997018003457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 113
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc55c5a505652bf0800000000000000
+      internalID: -349762321120928547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 156
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0994788c0f4dca8c0800000000000000
+      internalID: -3986577439508182640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 61
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec451a90a569c70800000000000000
+      internalID: 8977461904617557621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 93
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58cd208bc6371c70800000000000000
+      internalID: 8941675832824154202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 92
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc0cb3285d62fe0800000000000000
+      internalID: -1214048294204813333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 69
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194db33323b52b20800000000000000
+      internalID: 3109088081542465822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 69
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84905ff9ecb0318b0800000000000000
+      internalID: -5182785764098504376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 110
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b06bef057c52a0800000000000000
+      internalID: -6747389430473903312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d8c3952da7ec30800000000000000
+      internalID: 4388666738800644477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20977013dcb14f190800000000000000
+      internalID: -7929682475787781886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189aac1c3cb91c40800000000000000
+      internalID: 5483620987665291283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_PatricksDay_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b937f5b4f3df070800000000000000
+      internalID: 8141733294312233803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frame_PatricksDay_0: 8648397264900611161
+      Frame_PatricksDay_1: -7121335834246397718
+      Frame_PatricksDay_10: 8941675832824154202
+      Frame_PatricksDay_11: -1214048294204813333
+      Frame_PatricksDay_12: 3109088081542465822
+      Frame_PatricksDay_13: -5182785764098504376
+      Frame_PatricksDay_14: -6747389430473903312
+      Frame_PatricksDay_15: 4388666738800644477
+      Frame_PatricksDay_16: -7929682475787781886
+      Frame_PatricksDay_17: 5483620987665291283
+      Frame_PatricksDay_18: 8141733294312233803
+      Frame_PatricksDay_2: -1885706988929905032
+      Frame_PatricksDay_3: -8433136421597961186
+      Frame_PatricksDay_4: -710346565832230516
+      Frame_PatricksDay_5: -7311249665560900520
+      Frame_PatricksDay_6: 3559658997018003457
+      Frame_PatricksDay_7: -349762321120928547
+      Frame_PatricksDay_8: -3986577439508182640
+      Frame_PatricksDay_9: 8977461904617557621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

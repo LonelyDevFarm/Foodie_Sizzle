@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 2ccd236561057a44d8f37bb9ce98665b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -718782646291087386
+    second: Hidden_Grill_0
+  - first:
+      213: -2534680523835130984
+    second: Hidden_Grill_1
+  - first:
+      213: 3268218135032743716
+    second: Hidden_Grill_2
+  - first:
+      213: -6411189530193636128
+    second: Hidden_Grill_3
+  - first:
+      213: -1692501421695880658
+    second: Hidden_Grill_4
+  - first:
+      213: -386010483071564228
+    second: Hidden_Grill_5
+  - first:
+      213: -7224321966455834785
+    second: Hidden_Grill_6
+  - first:
+      213: 6922180647606176910
+    second: Hidden_Grill_7
+  - first:
+      213: 3200235679359757744
+    second: Hidden_Grill_8
+  - first:
+      213: 4327121651007473362
+    second: Hidden_Grill_9
+  - first:
+      213: -5105639495825844022
+    second: Hidden_Grill_10
+  - first:
+      213: 2692397696501391147
+    second: Hidden_Grill_11
+  - first:
+      213: -857256670377513674
+    second: Hidden_Grill_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hidden_Grill_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 298
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efba11ddfe5606f0800000000000000
+      internalID: -718782646291087386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 436
+        width: 175
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb4bd2e7103dcd0800000000000000
+      internalID: -2534680523835130984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 499
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427cd1bf31b0b5d20800000000000000
+      internalID: 3268218135032743716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 369
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4da191711e607a0800000000000000
+      internalID: -6411189530193636128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 453
+        width: 163
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2239f99ce60388e0800000000000000
+      internalID: -1692501421695880658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 231
+        width: 202
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3641f4c28d94aaf0800000000000000
+      internalID: -386010483071564228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 394
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573956927d0ebb90800000000000000
+      internalID: -7224321966455834785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_7
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 339
+        width: 175
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c46abaf96801060800000000000000
+      internalID: 6922180647606176910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 231
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde4c11565896c20800000000000000
+      internalID: 3200235679359757744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 281
+        width: 179
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c33c27360d0c30800000000000000
+      internalID: 4327121651007473362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1
+        width: 199
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8981cedef1529b0800000000000000
+      internalID: -5105639495825844022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 317
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9b06a0715d5520800000000000000
+      internalID: 2692397696501391147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden_Grill_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 315
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d60d8a9996a14f0800000000000000
+      internalID: -857256670377513674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hidden_Grill_0: -718782646291087386
+      Hidden_Grill_1: -2534680523835130984
+      Hidden_Grill_10: -5105639495825844022
+      Hidden_Grill_11: 2692397696501391147
+      Hidden_Grill_12: -857256670377513674
+      Hidden_Grill_2: 3268218135032743716
+      Hidden_Grill_3: -6411189530193636128
+      Hidden_Grill_4: -1692501421695880658
+      Hidden_Grill_5: -386010483071564228
+      Hidden_Grill_6: -7224321966455834785
+      Hidden_Grill_7: 6922180647606176910
+      Hidden_Grill_8: 3200235679359757744
+      Hidden_Grill_9: 4327121651007473362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

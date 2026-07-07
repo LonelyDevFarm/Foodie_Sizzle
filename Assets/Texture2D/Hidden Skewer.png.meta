@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 3c091f14230834546b084c9cc705023a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3405269293090836092
+    second: Hidden Skewer_0
+  - first:
+      213: -7668099344788943757
+    second: Hidden Skewer_1
+  - first:
+      213: -4128660950224955126
+    second: Hidden Skewer_2
+  - first:
+      213: -1212783213704196964
+    second: Hidden Skewer_3
+  - first:
+      213: -3239933247333934630
+    second: Hidden Skewer_4
+  - first:
+      213: 3790408316623790830
+    second: Hidden Skewer_5
+  - first:
+      213: -1228296715173345156
+    second: Hidden Skewer_6
+  - first:
+      213: 6456566485547673614
+    second: Hidden Skewer_7
+  - first:
+      213: 2967681998496931101
+    second: Hidden Skewer_8
+  - first:
+      213: 5104423796755375333
+    second: Hidden Skewer_9
+  - first:
+      213: 2751677283183414260
+    second: Hidden Skewer_10
+  - first:
+      213: -5189136804690135314
+    second: Hidden Skewer_11
+  - first:
+      213: -6240146013688053380
+    second: Hidden Skewer_12
+  - first:
+      213: 5639931321494733132
+    second: Hidden Skewer_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hidden Skewer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 317
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48176ccae9d0eb0d0800000000000000
+      internalID: -3405269293090836092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 297
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c0373f540759590800000000000000
+      internalID: -7668099344788943757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 199
+        width: 217
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0990d78dbc04b6c0800000000000000
+      internalID: -4128660950224955126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 210
+        width: 172
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cca9db7145b2fe0800000000000000
+      internalID: -1212783213704196964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 209
+        width: 167
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9dea0a0e17903d0800000000000000
+      internalID: -3239933247333934630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_5
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 210
+        width: 163
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee22c02184c3a9430800000000000000
+      internalID: 3790408316623790830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 151
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78405535a634fee0800000000000000
+      internalID: -1228296715173345156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_7
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 177
+        width: 175
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e2cf92055a9950800000000000000
+      internalID: 6456566485547673614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1
+        width: 280
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1bbedd035f2920800000000000000
+      internalID: 2967681998496931101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1
+        width: 245
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a7a4166e86d640800000000000000
+      internalID: 5104423796755375333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_10
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1
+        width: 87
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc8a8f8ebef2620800000000000000
+      internalID: 2751677283183414260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_11
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f981c19b7cf7b0800000000000000
+      internalID: -5189136804690135314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_12
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71cd83234c8669a0800000000000000
+      internalID: -6240146013688053380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hidden Skewer_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1
+        width: 75
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410b4fb7af054e40800000000000000
+      internalID: 5639931321494733132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hidden Skewer_0: -3405269293090836092
+      Hidden Skewer_1: -7668099344788943757
+      Hidden Skewer_10: 2751677283183414260
+      Hidden Skewer_11: -5189136804690135314
+      Hidden Skewer_12: -6240146013688053380
+      Hidden Skewer_13: 5639931321494733132
+      Hidden Skewer_2: -4128660950224955126
+      Hidden Skewer_3: -1212783213704196964
+      Hidden Skewer_4: -3239933247333934630
+      Hidden Skewer_5: 3790408316623790830
+      Hidden Skewer_6: -1228296715173345156
+      Hidden Skewer_7: 6456566485547673614
+      Hidden Skewer_8: 2967681998496931101
+      Hidden Skewer_9: 5104423796755375333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

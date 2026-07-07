@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 26cbcc302d144504d8630e060d8da49d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8376708885673538767
+    second: summer2026_rockL_0
+  - first:
+      213: 2086464731242691572
+    second: summer2026_rockL_1
+  - first:
+      213: 7256996206029461123
+    second: summer2026_rockL_2
+  - first:
+      213: -6316284211696703715
+    second: summer2026_rockL_3
+  - first:
+      213: -6340769867804336463
+    second: summer2026_rockL_4
+  - first:
+      213: -4058321897431618377
+    second: summer2026_rockL_5
+  - first:
+      213: 2265557810803205262
+    second: summer2026_rockL_6
+  - first:
+      213: -5649008484746005639
+    second: summer2026_rockL_7
+  - first:
+      213: 4209135308800297484
+    second: summer2026_rockL_8
+  - first:
+      213: -7491132256867423054
+    second: summer2026_rockL_9
+  - first:
+      213: 5665448714768441658
+    second: summer2026_rockL_10
+  - first:
+      213: -8691333179378400475
+    second: summer2026_rockL_11
+  - first:
+      213: -6928425396701273320
+    second: summer2026_rockL_12
+  - first:
+      213: 8111378890151671171
+    second: summer2026_rockL_13
+  - first:
+      213: 6147000680634839820
+    second: summer2026_rockL_14
+  - first:
+      213: -2780991702561724972
+    second: summer2026_rockL_15
+  - first:
+      213: -3129777247352093738
+    second: summer2026_rockL_16
+  - first:
+      213: 9061103076252147232
+    second: summer2026_rockL_17
+  - first:
+      213: 8474575938568044592
+    second: summer2026_rockL_18
+  - first:
+      213: -7111207211467256767
+    second: summer2026_rockL_19
+  - first:
+      213: -5962224259614235408
+    second: summer2026_rockL_20
+  - first:
+      213: -1572206605442388620
+    second: summer2026_rockL_21
+  - first:
+      213: -2818986081627856731
+    second: summer2026_rockL_22
+  - first:
+      213: -8840668530557990009
+    second: summer2026_rockL_23
+  - first:
+      213: -4191748592849777405
+    second: summer2026_rockL_24
+  - first:
+      213: -6027480897274902392
+    second: summer2026_rockL_25
+  - first:
+      213: -5811826986722685779
+    second: summer2026_rockL_26
+  - first:
+      213: 6281021870772076906
+    second: summer2026_rockL_27
+  - first:
+      213: -7839921286277349228
+    second: summer2026_rockL_28
+  - first:
+      213: -3696465144475505389
+    second: summer2026_rockL_29
+  - first:
+      213: 6885136793241775842
+    second: summer2026_rockL_30
+  - first:
+      213: -1461440507020890858
+    second: summer2026_rockL_31
+  - first:
+      213: 8736178077770386043
+    second: summer2026_rockL_32
+  - first:
+      213: 7673333756556976203
+    second: summer2026_rockL_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: summer2026_rockL_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 322
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4fd6d895c004470800000000000000
+      internalID: 8376708885673538767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf9165e9c94fc10800000000000000
+      internalID: 2086464731242691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 149
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865eb4a99706b460800000000000000
+      internalID: 7256996206029461123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e86d79fc0858a0800000000000000
+      internalID: -6316284211696703715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 139
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be950b666f0108a0800000000000000
+      internalID: -6340769867804336463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 150
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc26677cb1fda7c0800000000000000
+      internalID: -4058321897431618377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 149
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84690353d0e07f10800000000000000
+      internalID: 2265557810803205262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 62
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fb8d76b0ba91b0800000000000000
+      internalID: -5649008484746005639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 121
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a889c234ad96a30800000000000000
+      internalID: 4209135308800297484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 123
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc62ffe6e62a0890800000000000000
+      internalID: -7491132256867423054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 136
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3167f8d697bf9e40800000000000000
+      internalID: 5665448714768441658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 124
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5238592a58e226780800000000000000
+      internalID: -8691333179378400475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 98
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81363d06fc949df90800000000000000
+      internalID: -6928425396701273320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 84
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b71aef18619070800000000000000
+      internalID: 8111378890151671171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 124
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f2530d888e4550800000000000000
+      internalID: 6147000680634839820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 82
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ef75e7cee769d0800000000000000
+      internalID: -2780991702561724972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 86
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38a710d2cc094d0800000000000000
+      internalID: -3129777247352093738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 95
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e55357d318fbd70800000000000000
+      internalID: 9061103076252147232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cb687aedbb9570800000000000000
+      internalID: 8474575938568044592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 54
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c4c4cc7baef4d90800000000000000
+      internalID: -7111207211467256767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 66
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f42a7600ace14da0800000000000000
+      internalID: -5962224259614235408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 68
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d65191c666e2ae0800000000000000
+      internalID: -1572206605442388620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 34
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a02dc92813f0e8d0800000000000000
+      internalID: -2818986081627856731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 72
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bcd13bfc2af4580800000000000000
+      internalID: -8840668530557990009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 54
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d02771ddae3d5c0800000000000000
+      internalID: -4191748592849777405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 38
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880a731f061a5ca0800000000000000
+      internalID: -6027480897274902392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 30
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8d50e52e385fa0800000000000000
+      internalID: -5811826986722685779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 33
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6144d9fc1caa2750800000000000000
+      internalID: 6281021870772076906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 33
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904a68b021033390800000000000000
+      internalID: -7839921286277349228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 9
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dacea298483bcc0800000000000000
+      internalID: -3696465144475505389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_30
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 14
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee5273f6bec8f50800000000000000
+      internalID: 6885136793241775842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d27a61a9be7bbe0800000000000000
+      internalID: -1461440507020890858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a0f0ceca32d3970800000000000000
+      internalID: 8736178077770386043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summer2026_rockL_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40a79285682d7a60800000000000000
+      internalID: 7673333756556976203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      summer2026_rockL_0: 8376708885673538767
+      summer2026_rockL_1: 2086464731242691572
+      summer2026_rockL_10: 5665448714768441658
+      summer2026_rockL_11: -8691333179378400475
+      summer2026_rockL_12: -6928425396701273320
+      summer2026_rockL_13: 8111378890151671171
+      summer2026_rockL_14: 6147000680634839820
+      summer2026_rockL_15: -2780991702561724972
+      summer2026_rockL_16: -3129777247352093738
+      summer2026_rockL_17: 9061103076252147232
+      summer2026_rockL_18: 8474575938568044592
+      summer2026_rockL_19: -7111207211467256767
+      summer2026_rockL_2: 7256996206029461123
+      summer2026_rockL_20: -5962224259614235408
+      summer2026_rockL_21: -1572206605442388620
+      summer2026_rockL_22: -2818986081627856731
+      summer2026_rockL_23: -8840668530557990009
+      summer2026_rockL_24: -4191748592849777405
+      summer2026_rockL_25: -6027480897274902392
+      summer2026_rockL_26: -5811826986722685779
+      summer2026_rockL_27: 6281021870772076906
+      summer2026_rockL_28: -7839921286277349228
+      summer2026_rockL_29: -3696465144475505389
+      summer2026_rockL_3: -6316284211696703715
+      summer2026_rockL_30: 6885136793241775842
+      summer2026_rockL_31: -1461440507020890858
+      summer2026_rockL_32: 8736178077770386043
+      summer2026_rockL_33: 7673333756556976203
+      summer2026_rockL_4: -6340769867804336463
+      summer2026_rockL_5: -4058321897431618377
+      summer2026_rockL_6: 2265557810803205262
+      summer2026_rockL_7: -5649008484746005639
+      summer2026_rockL_8: 4209135308800297484
+      summer2026_rockL_9: -7491132256867423054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

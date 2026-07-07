@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: 8388ad5678adc804ca42e94596586612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8392785007812873489
+    second: handburn_0
+  - first:
+      213: -2623770325774558963
+    second: handburn_1
+  - first:
+      213: 4270059698397569551
+    second: handburn_2
+  - first:
+      213: 8524912058067374283
+    second: handburn_3
+  - first:
+      213: 1540372183926626263
+    second: handburn_4
+  - first:
+      213: -1690554855021240716
+    second: handburn_5
+  - first:
+      213: 4491036510859604666
+    second: handburn_6
+  - first:
+      213: -7607692315963002547
+    second: handburn_7
+  - first:
+      213: -5049639644496748124
+    second: handburn_8
+  - first:
+      213: 7030725320021149085
+    second: handburn_9
+  - first:
+      213: -3593297744546373255
+    second: handburn_10
+  - first:
+      213: 2514839358892636519
+    second: handburn_11
+  - first:
+      213: 4195995836139511064
+    second: handburn_12
+  - first:
+      213: 8688725234365849764
+    second: handburn_13
+  - first:
+      213: -4729244833873979721
+    second: handburn_14
+  - first:
+      213: -7977530038647638975
+    second: handburn_15
+  - first:
+      213: -8918084100369979767
+    second: handburn_16
+  - first:
+      213: -1581594261878188119
+    second: handburn_17
+  - first:
+      213: 2092756730925238142
+    second: handburn_18
+  - first:
+      213: -7665375159255958779
+    second: handburn_19
+  - first:
+      213: -3241034286327015633
+    second: handburn_20
+  - first:
+      213: 3822490664118364386
+    second: handburn_21
+  - first:
+      213: -5970290168435899833
+    second: handburn_22
+  - first:
+      213: 9091234753854508232
+    second: handburn_23
+  - first:
+      213: -1621275702128002362
+    second: handburn_24
+  - first:
+      213: -6373129107670211738
+    second: handburn_25
+  - first:
+      213: -2654162044520492705
+    second: handburn_26
+  - first:
+      213: -7063752731231913186
+    second: handburn_27
+  - first:
+      213: 6372297763489846942
+    second: handburn_28
+  - first:
+      213: 2414705917504287106
+    second: handburn_29
+  - first:
+      213: -6540122344376077155
+    second: handburn_30
+  - first:
+      213: -8765597644808309147
+    second: handburn_31
+  - first:
+      213: 8970110787617132661
+    second: handburn_32
+  - first:
+      213: 2063738305524616614
+    second: handburn_33
+  - first:
+      213: 42345182081599439
+    second: handburn_34
+  - first:
+      213: -5933295547755432731
+    second: handburn_35
+  - first:
+      213: -9177856963499379409
+    second: handburn_36
+  - first:
+      213: -3708702027270402562
+    second: handburn_37
+  - first:
+      213: -5332853720679588125
+    second: handburn_38
+  - first:
+      213: -8012962284702525516
+    second: handburn_39
+  - first:
+      213: -618049985684137195
+    second: handburn_40
+  - first:
+      213: 6969321396907867818
+    second: handburn_41
+  - first:
+      213: 9109661013187989612
+    second: handburn_42
+  - first:
+      213: -8160636354130926222
+    second: handburn_43
+  - first:
+      213: -9035178343487058780
+    second: handburn_44
+  - first:
+      213: 6182224357761679900
+    second: handburn_45
+  - first:
+      213: -8800580657228482066
+    second: handburn_46
+  - first:
+      213: -112833176159994745
+    second: handburn_47
+  - first:
+      213: -6703082670194233372
+    second: handburn_48
+  - first:
+      213: 8759170320856863182
+    second: handburn_49
+  - first:
+      213: -7676807914051350043
+    second: handburn_50
+  - first:
+      213: -3342144192522696280
+    second: handburn_51
+  - first:
+      213: 567685583491616000
+    second: handburn_52
+  - first:
+      213: -889695147032439558
+    second: handburn_53
+  - first:
+      213: 8878438911486055965
+    second: handburn_54
+  - first:
+      213: 6396339469568581348
+    second: handburn_55
+  - first:
+      213: -1453267277281954031
+    second: handburn_56
+  - first:
+      213: 3000218474541148643
+    second: handburn_57
+  - first:
+      213: -2020279352486681573
+    second: handburn_58
+  - first:
+      213: 5713813956000875464
+    second: handburn_59
+  - first:
+      213: 1060945193863276140
+    second: handburn_60
+  - first:
+      213: -4309500639219836579
+    second: handburn_61
+  - first:
+      213: -9047761152247943776
+    second: handburn_62
+  - first:
+      213: 1870431309172955603
+    second: handburn_63
+  - first:
+      213: 3500720835080216866
+    second: handburn_64
+  - first:
+      213: -5878349177808276462
+    second: handburn_65
+  - first:
+      213: -216148224507255443
+    second: handburn_66
+  - first:
+      213: 8087988229827134626
+    second: handburn_67
+  - first:
+      213: 3760809154271109169
+    second: handburn_68
+  - first:
+      213: -1865982118436123424
+    second: handburn_69
+  - first:
+      213: -2447428481845047766
+    second: handburn_70
+  - first:
+      213: 3242281847790524656
+    second: handburn_71
+  - first:
+      213: 5265129376658979769
+    second: handburn_72
+  - first:
+      213: 6731810499243054365
+    second: handburn_73
+  - first:
+      213: -3394149159945644020
+    second: handburn_74
+  - first:
+      213: -3767584971078789117
+    second: handburn_75
+  - first:
+      213: 8330624371205235056
+    second: handburn_76
+  - first:
+      213: -7764947672316458609
+    second: handburn_77
+  - first:
+      213: 5201741321535137434
+    second: handburn_78
+  - first:
+      213: -6551821933547135066
+    second: handburn_79
+  - first:
+      213: -3720802131100943667
+    second: handburn_80
+  - first:
+      213: 3371463864337581187
+    second: handburn_81
+  - first:
+      213: -6142065135850193260
+    second: handburn_82
+  - first:
+      213: -67264736042100587
+    second: handburn_83
+  - first:
+      213: 6106639988838198810
+    second: handburn_84
+  - first:
+      213: 1915567749251691508
+    second: handburn_85
+  - first:
+      213: 6210099871508132858
+    second: handburn_86
+  - first:
+      213: -7091074943061041687
+    second: handburn_87
+  - first:
+      213: -1739931393555923094
+    second: handburn_88
+  - first:
+      213: -5300548555823428045
+    second: handburn_89
+  - first:
+      213: -7164331104408435999
+    second: handburn_90
+  - first:
+      213: -4831122036249065583
+    second: handburn_91
+  - first:
+      213: -2198471625139024957
+    second: handburn_92
+  - first:
+      213: 5412495199491880642
+    second: handburn_93
+  - first:
+      213: 7959489667731511613
+    second: handburn_94
+  - first:
+      213: -7427382143543681868
+    second: handburn_95
+  - first:
+      213: 5969338374457401092
+    second: handburn_96
+  - first:
+      213: 2828057042687980145
+    second: handburn_97
+  - first:
+      213: 6819141716490313833
+    second: handburn_98
+  - first:
+      213: -2847505577963492541
+    second: handburn_99
+  - first:
+      213: 5226353457016483611
+    second: handburn_100
+  - first:
+      213: -4549424849967682731
+    second: handburn_101
+  - first:
+      213: 1141358229042857657
+    second: handburn_102
+  - first:
+      213: 4630175499937113109
+    second: handburn_103
+  - first:
+      213: -2569021497442182925
+    second: handburn_104
+  - first:
+      213: 7531118880528581847
+    second: handburn_105
+  - first:
+      213: 3586819751033605386
+    second: handburn_106
+  - first:
+      213: 3084389531463166545
+    second: handburn_107
+  - first:
+      213: -4014996391370870682
+    second: handburn_108
+  - first:
+      213: -3466925876594187660
+    second: handburn_109
+  - first:
+      213: 97920723961629883
+    second: handburn_110
+  - first:
+      213: -1394811080269600480
+    second: handburn_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: handburn_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 736
+        width: 144
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d09ea6f79297470800000000000000
+      internalID: 8392785007812873489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 810
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d091fff3ace769bd0800000000000000
+      internalID: -2623770325774558963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 735
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e2b40cac424b30800000000000000
+      internalID: 4270059698397569551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 712
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0dc8299529e4670800000000000000
+      internalID: 8524912058067374283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 812
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d6dc0750806510800000000000000
+      internalID: 1540372183926626263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 804
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9529f051f988e0800000000000000
+      internalID: -1690554855021240716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 803
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b81f79ed535e30800000000000000
+      internalID: 4491036510859604666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 773
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d417e8a552c0c6690800000000000000
+      internalID: -7607692315963002547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1aa0a5f731ce9b0800000000000000
+      internalID: -5049639644496748124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 705
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95843d9d67229160800000000000000
+      internalID: 7030725320021149085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 705
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e91c4dba022ec0800000000000000
+      internalID: -3593297744546373255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 758
+        width: 142
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76977fd921186e220800000000000000
+      internalID: 2514839358892636519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 773
+        width: 132
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1d1c4bfb2b3a30800000000000000
+      internalID: 4195995836139511064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 710
+        width: 141
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a06959d09d849870800000000000000
+      internalID: 8688725234365849764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 754
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6171551e85e5eb0800000000000000
+      internalID: -4729244833873979721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 744
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144366552be1a4190800000000000000
+      internalID: -7977530038647638975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 745
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866360c2c99c3480800000000000000
+      internalID: -8918084100369979767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 727
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a754f1066c0d0ae0800000000000000
+      internalID: -1581594261878188119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 531
+        width: 87
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774b1ca827fa0d10800000000000000
+      internalID: 2092756730925238142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 720
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf172d7ed1f9590800000000000000
+      internalID: -7665375159255958779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 711
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27dd920d788503d0800000000000000
+      internalID: -3241034286327015633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 729
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a500b1073c0530800000000000000
+      internalID: 3822490664118364386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_22
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 691
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420f5849b4452da0800000000000000
+      internalID: -5970290168435899833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 681
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0f2957dd8a2e70800000000000000
+      internalID: 9091234753854508232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 712
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca30bbb6521089e0800000000000000
+      internalID: -1621275702128002362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 527
+        width: 66
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6636d95c7d81e87a0800000000000000
+      internalID: -6373129107670211738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 687
+        width: 123
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511800dea58a2bd0800000000000000
+      internalID: -2654162044520492705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 531
+        width: 82
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf9b9f05288fd90800000000000000
+      internalID: -7063752731231913186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 691
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9614d3dd03fe6850800000000000000
+      internalID: 6372297763489846942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 666
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28170e10d32c28120800000000000000
+      internalID: 2414705917504287106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 659
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947edbf061dc35a0800000000000000
+      internalID: -6540122344376077155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 659
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566333952675a5680800000000000000
+      internalID: -8765597644808309147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 531
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57091d35c3c3c7c70800000000000000
+      internalID: 8970110787617132661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 527
+        width: 85
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad49220e0fd3ac10800000000000000
+      internalID: 2063738305524616614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 653
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc74ceff7b0769000800000000000000
+      internalID: 42345182081599439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_35
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 656
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e471a0a223b8ada0800000000000000
+      internalID: -5933295547755432731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_36
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 655
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253643d7b3b1a080800000000000000
+      internalID: -9177856963499379409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 601
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdc6ced72b088cc0800000000000000
+      internalID: -3708702027270402562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_38
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 666
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eed5c3bbc5edf5b0800000000000000
+      internalID: -5332853720679588125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_39
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 652
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b714bda14d3cc090800000000000000
+      internalID: -8012962284702525516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 644
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b9cd500de3c67f0800000000000000
+      internalID: -618049985684137195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 635
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaef83ca2e008b060800000000000000
+      internalID: 6969321396907867818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 527
+        width: 31
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609b4b2d640c6e70800000000000000
+      internalID: 9109661013187989612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 623
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27523ea09789fbe80800000000000000
+      internalID: -8160636354130926222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_44
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 492
+        width: 71
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acc622ca299c9280800000000000000
+      internalID: -9035178343487058780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 614
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12072e6c4cabc550800000000000000
+      internalID: 6182224357761679900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_46
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 624
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9f8bc058e0ed580800000000000000
+      internalID: -8800580657228482066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 536
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cba18f2d22f6ef0800000000000000
+      internalID: -112833176159994745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_48
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 536
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efeefe63ddd9f2a0800000000000000
+      internalID: -6703082670194233372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_49
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 499
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec151ddaff2de8970800000000000000
+      internalID: 8759170320856863182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1df0a20ef767590800000000000000
+      internalID: -7676807914051350043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 298
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cc8870915e91d0800000000000000
+      internalID: -3342144192522696280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 449
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dc02cc703d0e700800000000000000
+      internalID: 567685583491616000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 499
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41eb24afa27a3f0800000000000000
+      internalID: -889695147032439558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_54
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 499
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d127662d863b70800000000000000
+      internalID: 8878438911486055965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_55
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 499
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee127abbdc54c850800000000000000
+      internalID: 6396339469568581348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 512
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f8ed6c15f4dbe0800000000000000
+      internalID: -1453267277281954031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 485
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e6978ecae2a920800000000000000
+      internalID: 3000218474541148643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 441
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a9fff1a686f3e0800000000000000
+      internalID: -2020279352486681573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_59
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 487
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c30a18158b8b4f40800000000000000
+      internalID: 5713813956000875464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 485
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e06e580c39be00800000000000000
+      internalID: 1060945193863276140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_61
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d599bf750049134c0800000000000000
+      internalID: -4309500639219836579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 341
+        width: 58
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adaeab4b25ef6280800000000000000
+      internalID: -9047761152247943776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_63
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 484
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d500ad5b15f910800000000000000
+      internalID: 1870431309172955603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_64
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 454
+        width: 80
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e3c84d0f059030800000000000000
+      internalID: 3500720835080216866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_65
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 451
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214370f4198eb6ea0800000000000000
+      internalID: -5878349177808276462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_66
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 467
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e963c556100df0800000000000000
+      internalID: -216148224507255443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_67
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 465
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4036a617e4e3070800000000000000
+      internalID: 8087988229827134626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_68
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 469
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ed5c0004113430800000000000000
+      internalID: 3760809154271109169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 411
+        width: 131
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec42615623ba16e0800000000000000
+      internalID: -1865982118436123424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_70
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 443
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec37643ccf80ed0800000000000000
+      internalID: -2447428481845047766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 325
+        width: 76
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f850478926eefc20800000000000000
+      internalID: 3242281847790524656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_72
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 427
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7b30b54f711940800000000000000
+      internalID: 5265129376658979769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_73
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 151
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1590ae7bf13c6d50800000000000000
+      internalID: 6731810499243054365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_74
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 275
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08dfbe625f85e0d0800000000000000
+      internalID: -3394149159945644020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_75
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 275
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089fb92e69d6bbc0800000000000000
+      internalID: -3767584971078789117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 366
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07166e26ab25c9370800000000000000
+      internalID: 8330624371205235056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 337
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c4148b3d5d3490800000000000000
+      internalID: -7764947672316458609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_78
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 358
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a2930c2c403840800000000000000
+      internalID: 5201741321535137434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_79
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 199
+        width: 82
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5f4b1aa04315a0800000000000000
+      internalID: -6551821933547135066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_80
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 316
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca3638ec2e0d5cc0800000000000000
+      internalID: -3720802131100943667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_81
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 325
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38448e69588d9ce20800000000000000
+      internalID: 3371463864337581187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_82
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 304
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e765e0d4003caa0800000000000000
+      internalID: -6142065135850193260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_83
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 324
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598dc463417011ff0800000000000000
+      internalID: -67264736042100587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e65e927b42fb450800000000000000
+      internalID: 6106639988838198810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_85
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 303
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3775508b6759a10800000000000000
+      internalID: 1915567749251691508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_86
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 259
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3f0fc3ee4be2650800000000000000
+      internalID: 6210099871508132858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_87
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 309
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5c2fc8e0779d90800000000000000
+      internalID: -7091074943061041687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 199
+        width: 30
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f7c89bd958ad7e0800000000000000
+      internalID: -1739931393555923094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_89
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 298
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e4f670c2ba076b0800000000000000
+      internalID: -5300548555823428045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_90
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 301
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2047c91de239c90800000000000000
+      internalID: -7164331104408435999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_91
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 275
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19700daba1864fcb0800000000000000
+      internalID: -4831122036249065583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_92
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 286
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb00d674b57d71e0800000000000000
+      internalID: -2198471625139024957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 282
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6783215bb0d1b40800000000000000
+      internalID: 5412495199491880642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 317
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39578e7ea9c57e60800000000000000
+      internalID: 7959489667731511613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 199
+        width: 190
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcdffada43ace890800000000000000
+      internalID: -7427382143543681868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_96
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 182
+        width: 26
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f14a9ef9957d250800000000000000
+      internalID: 5969338374457401092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 252
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17275f985e64f3720800000000000000
+      internalID: 2828057042687980145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_98
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 158
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e374034572ae50800000000000000
+      internalID: 6819141716490313833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_99
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 235
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bea8973c0ab78d0800000000000000
+      internalID: -2847505577963492541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 279
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f2a1c57ccb78840800000000000000
+      internalID: 5226353457016483611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_101
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 185
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b675de3323dd0c0800000000000000
+      internalID: -4549424849967682731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_102
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 191
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6819b134be6df00800000000000000
+      internalID: 1141358229042857657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_103
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 151
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e771e510b14040800000000000000
+      internalID: 4630175499937113109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_104
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 151
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8dd903f80095cd0800000000000000
+      internalID: -2569021497442182925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_105
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 144
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c42368b8e38860800000000000000
+      internalID: 7531118880528581847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_106
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 157
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d86bd4f81f6c130800000000000000
+      internalID: 3586819751033605386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_107
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1
+        width: 132
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aabc3efe3fdca20800000000000000
+      internalID: 3084389531463166545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_108
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603ddded0ed748c0800000000000000
+      internalID: -4014996391370870682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_109
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 87
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726ef6a84103efc0800000000000000
+      internalID: -3466925876594187660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_110
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 19
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcc1ef2162eb5100800000000000000
+      internalID: 97920723961629883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: handburn_111
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02960c766b2a4ace0800000000000000
+      internalID: -1394811080269600480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      handburn_0: 8392785007812873489
+      handburn_1: -2623770325774558963
+      handburn_10: -3593297744546373255
+      handburn_100: 5226353457016483611
+      handburn_101: -4549424849967682731
+      handburn_102: 1141358229042857657
+      handburn_103: 4630175499937113109
+      handburn_104: -2569021497442182925
+      handburn_105: 7531118880528581847
+      handburn_106: 3586819751033605386
+      handburn_107: 3084389531463166545
+      handburn_108: -4014996391370870682
+      handburn_109: -3466925876594187660
+      handburn_11: 2514839358892636519
+      handburn_110: 97920723961629883
+      handburn_111: -1394811080269600480
+      handburn_12: 4195995836139511064
+      handburn_13: 8688725234365849764
+      handburn_14: -4729244833873979721
+      handburn_15: -7977530038647638975
+      handburn_16: -8918084100369979767
+      handburn_17: -1581594261878188119
+      handburn_18: 2092756730925238142
+      handburn_19: -7665375159255958779
+      handburn_2: 4270059698397569551
+      handburn_20: -3241034286327015633
+      handburn_21: 3822490664118364386
+      handburn_22: -5970290168435899833
+      handburn_23: 9091234753854508232
+      handburn_24: -1621275702128002362
+      handburn_25: -6373129107670211738
+      handburn_26: -2654162044520492705
+      handburn_27: -7063752731231913186
+      handburn_28: 6372297763489846942
+      handburn_29: 2414705917504287106
+      handburn_3: 8524912058067374283
+      handburn_30: -6540122344376077155
+      handburn_31: -8765597644808309147
+      handburn_32: 8970110787617132661
+      handburn_33: 2063738305524616614
+      handburn_34: 42345182081599439
+      handburn_35: -5933295547755432731
+      handburn_36: -9177856963499379409
+      handburn_37: -3708702027270402562
+      handburn_38: -5332853720679588125
+      handburn_39: -8012962284702525516
+      handburn_4: 1540372183926626263
+      handburn_40: -618049985684137195
+      handburn_41: 6969321396907867818
+      handburn_42: 9109661013187989612
+      handburn_43: -8160636354130926222
+      handburn_44: -9035178343487058780
+      handburn_45: 6182224357761679900
+      handburn_46: -8800580657228482066
+      handburn_47: -112833176159994745
+      handburn_48: -6703082670194233372
+      handburn_49: 8759170320856863182
+      handburn_5: -1690554855021240716
+      handburn_50: -7676807914051350043
+      handburn_51: -3342144192522696280
+      handburn_52: 567685583491616000
+      handburn_53: -889695147032439558
+      handburn_54: 8878438911486055965
+      handburn_55: 6396339469568581348
+      handburn_56: -1453267277281954031
+      handburn_57: 3000218474541148643
+      handburn_58: -2020279352486681573
+      handburn_59: 5713813956000875464
+      handburn_6: 4491036510859604666
+      handburn_60: 1060945193863276140
+      handburn_61: -4309500639219836579
+      handburn_62: -9047761152247943776
+      handburn_63: 1870431309172955603
+      handburn_64: 3500720835080216866
+      handburn_65: -5878349177808276462
+      handburn_66: -216148224507255443
+      handburn_67: 8087988229827134626
+      handburn_68: 3760809154271109169
+      handburn_69: -1865982118436123424
+      handburn_7: -7607692315963002547
+      handburn_70: -2447428481845047766
+      handburn_71: 3242281847790524656
+      handburn_72: 5265129376658979769
+      handburn_73: 6731810499243054365
+      handburn_74: -3394149159945644020
+      handburn_75: -3767584971078789117
+      handburn_76: 8330624371205235056
+      handburn_77: -7764947672316458609
+      handburn_78: 5201741321535137434
+      handburn_79: -6551821933547135066
+      handburn_8: -5049639644496748124
+      handburn_80: -3720802131100943667
+      handburn_81: 3371463864337581187
+      handburn_82: -6142065135850193260
+      handburn_83: -67264736042100587
+      handburn_84: 6106639988838198810
+      handburn_85: 1915567749251691508
+      handburn_86: 6210099871508132858
+      handburn_87: -7091074943061041687
+      handburn_88: -1739931393555923094
+      handburn_89: -5300548555823428045
+      handburn_9: 7030725320021149085
+      handburn_90: -7164331104408435999
+      handburn_91: -4831122036249065583
+      handburn_92: -2198471625139024957
+      handburn_93: 5412495199491880642
+      handburn_94: 7959489667731511613
+      handburn_95: -7427382143543681868
+      handburn_96: 5969338374457401092
+      handburn_97: 2828057042687980145
+      handburn_98: 6819141716490313833
+      handburn_99: -2847505577963492541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

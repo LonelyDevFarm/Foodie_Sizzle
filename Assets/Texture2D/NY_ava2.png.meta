@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: fb35d2df99808f541b09bf731276e09d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8628870647496188159
+    second: NY_ava2_0
+  - first:
+      213: 6488196601149338926
+    second: NY_ava2_1
+  - first:
+      213: 5697265046634116304
+    second: NY_ava2_2
+  - first:
+      213: -8156182953234209310
+    second: NY_ava2_3
+  - first:
+      213: 3325940360533360123
+    second: NY_ava2_4
+  - first:
+      213: -7122405487300766414
+    second: NY_ava2_5
+  - first:
+      213: -5632286343304256045
+    second: NY_ava2_6
+  - first:
+      213: 6613080887817068205
+    second: NY_ava2_7
+  - first:
+      213: 6205591980399039660
+    second: NY_ava2_8
+  - first:
+      213: 5493607399055548029
+    second: NY_ava2_9
+  - first:
+      213: -1786815120993749846
+    second: NY_ava2_10
+  - first:
+      213: -3834164457956649824
+    second: NY_ava2_11
+  - first:
+      213: -6430329588069630190
+    second: NY_ava2_12
+  - first:
+      213: -8281314868991226052
+    second: NY_ava2_13
+  - first:
+      213: 955763190730752678
+    second: NY_ava2_14
+  - first:
+      213: -1562528005961059663
+    second: NY_ava2_15
+  - first:
+      213: 2723658639323093585
+    second: NY_ava2_16
+  - first:
+      213: 7488631963438680562
+    second: NY_ava2_17
+  - first:
+      213: -2676894791753116910
+    second: NY_ava2_18
+  - first:
+      213: -6763950663847676850
+    second: NY_ava2_19
+  - first:
+      213: 2300517535401401937
+    second: NY_ava2_20
+  - first:
+      213: 1712105135204204916
+    second: NY_ava2_21
+  - first:
+      213: 4797165124670760672
+    second: NY_ava2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NY_ava2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 232
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff02eccd228efb770800000000000000
+      internalID: 8628870647496188159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25376cce64ba0a50800000000000000
+      internalID: 6488196601149338926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 169
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d430efdf50c01f40800000000000000
+      internalID: 5697265046634116304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 220
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e06d31da6fce80800000000000000
+      internalID: -8156182953234209310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 220
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb9b5e22d182e20800000000000000
+      internalID: 3325940360533360123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 220
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235152702f1282d90800000000000000
+      internalID: -7122405487300766414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 169
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e012796916d1b0800000000000000
+      internalID: -5632286343304256045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 148
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed245a70266cb50800000000000000
+      internalID: 6613080887817068205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 211
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca492bc0701be1650800000000000000
+      internalID: 6205591980399039660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 219
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed924b2d63d3c40800000000000000
+      internalID: 5493607399055548029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 169
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4fed94d15f337e0800000000000000
+      internalID: -1786815120993749846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 145
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4d0116dbf4acac0800000000000000
+      internalID: -3834164457956649824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 145
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ffc6a1f41e2c6a0800000000000000
+      internalID: -6430329588069630190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 192
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f0e90c00cd21d80800000000000000
+      internalID: -8281314868991226052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a286e0ee8d834d00800000000000000
+      internalID: 955763190730752678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 148
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27715ae09c05ae0800000000000000
+      internalID: -1562528005961059663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad6461a116cc520800000000000000
+      internalID: 2723658639323093585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_17
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 148
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f906622817fce760800000000000000
+      internalID: 7488631963438680562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 129
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2135674ae52c9dad0800000000000000
+      internalID: -2676894791753116910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 104
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44771b45be9122a0800000000000000
+      internalID: -6763950663847676850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_20
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 79
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e582182841def10800000000000000
+      internalID: 2300517535401401937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 54
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47108f1ac8e92c710800000000000000
+      internalID: 1712105135204204916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NY_ava2_22
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a4e0b344f29240800000000000000
+      internalID: 4797165124670760672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NY_ava2_0: 8628870647496188159
+      NY_ava2_1: 6488196601149338926
+      NY_ava2_10: -1786815120993749846
+      NY_ava2_11: -3834164457956649824
+      NY_ava2_12: -6430329588069630190
+      NY_ava2_13: -8281314868991226052
+      NY_ava2_14: 955763190730752678
+      NY_ava2_15: -1562528005961059663
+      NY_ava2_16: 2723658639323093585
+      NY_ava2_17: 7488631963438680562
+      NY_ava2_18: -2676894791753116910
+      NY_ava2_19: -6763950663847676850
+      NY_ava2_2: 5697265046634116304
+      NY_ava2_20: 2300517535401401937
+      NY_ava2_21: 1712105135204204916
+      NY_ava2_22: 4797165124670760672
+      NY_ava2_3: -8156182953234209310
+      NY_ava2_4: 3325940360533360123
+      NY_ava2_5: -7122405487300766414
+      NY_ava2_6: -5632286343304256045
+      NY_ava2_7: 6613080887817068205
+      NY_ava2_8: 6205591980399039660
+      NY_ava2_9: 5493607399055548029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

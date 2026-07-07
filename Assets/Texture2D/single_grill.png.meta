@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: e4a62e44c22f6e449ab710009ee13399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3749001607961622994
+    second: single_grill_0
+  - first:
+      213: -4879246997158158071
+    second: single_grill_1
+  - first:
+      213: -1666090739544249674
+    second: single_grill_2
+  - first:
+      213: 6118357142924299146
+    second: single_grill_3
+  - first:
+      213: 3392204296778901529
+    second: single_grill_4
+  - first:
+      213: -5816039102933109842
+    second: single_grill_5
+  - first:
+      213: 4256011401305131554
+    second: single_grill_6
+  - first:
+      213: -2753207568192576727
+    second: single_grill_7
+  - first:
+      213: -6378390234372533108
+    second: single_grill_8
+  - first:
+      213: -7667922128033675079
+    second: single_grill_9
+  - first:
+      213: 686906855947189020
+    second: single_grill_10
+  - first:
+      213: 561353707948270225
+    second: single_grill_11
+  - first:
+      213: 966700977897908420
+    second: single_grill_12
+  - first:
+      213: 3517471330842126090
+    second: single_grill_13
+  - first:
+      213: -6551449576579401161
+    second: single_grill_14
+  - first:
+      213: -6720190770447977101
+    second: single_grill_15
+  - first:
+      213: 6932076144257803705
+    second: single_grill_16
+  - first:
+      213: 4343064728267719145
+    second: single_grill_17
+  - first:
+      213: -590937055175701369
+    second: single_grill_18
+  - first:
+      213: 7226480743920620913
+    second: single_grill_19
+  - first:
+      213: 3809621245856822509
+    second: single_grill_20
+  - first:
+      213: 2551957868998596041
+    second: single_grill_21
+  - first:
+      213: -526813010313296465
+    second: single_grill_22
+  - first:
+      213: -6117672262370716423
+    second: single_grill_23
+  - first:
+      213: 752276860433858976
+    second: single_grill_24
+  - first:
+      213: 1813670901373911170
+    second: single_grill_25
+  - first:
+      213: 438849694820574332
+    second: single_grill_26
+  - first:
+      213: 132072951882788652
+    second: single_grill_27
+  - first:
+      213: -4433276650231593130
+    second: single_grill_28
+  - first:
+      213: -1106636518074010537
+    second: single_grill_29
+  - first:
+      213: 4872357135764667983
+    second: single_grill_30
+  - first:
+      213: 3489266075032302536
+    second: single_grill_31
+  - first:
+      213: 4538233690752075300
+    second: single_grill_32
+  - first:
+      213: 6157734211725245714
+    second: single_grill_33
+  - first:
+      213: -7786634551733001263
+    second: single_grill_34
+  - first:
+      213: 415517011990545501
+    second: single_grill_35
+  - first:
+      213: -6503462874870854916
+    second: single_grill_36
+  - first:
+      213: 493299958133067018
+    second: single_grill_37
+  - first:
+      213: 2186298448028932440
+    second: single_grill_38
+  - first:
+      213: 6058814379501190872
+    second: single_grill_39
+  - first:
+      213: -159976120925466567
+    second: single_grill_40
+  - first:
+      213: -5606848855498600630
+    second: single_grill_41
+  - first:
+      213: 8241101754871996971
+    second: single_grill_42
+  - first:
+      213: -8962373519449727254
+    second: single_grill_43
+  - first:
+      213: -1118912587671134490
+    second: single_grill_44
+  - first:
+      213: 6804153929438385189
+    second: single_grill_45
+  - first:
+      213: -3029385390725663888
+    second: single_grill_46
+  - first:
+      213: 6428818032669360105
+    second: single_grill_47
+  - first:
+      213: 4300151546754246908
+    second: single_grill_48
+  - first:
+      213: -7149619249754691005
+    second: single_grill_49
+  - first:
+      213: -7202056926466990104
+    second: single_grill_50
+  - first:
+      213: 8093822038827757949
+    second: single_grill_51
+  - first:
+      213: -2760698549332950533
+    second: single_grill_52
+  - first:
+      213: -6683998218884477748
+    second: single_grill_53
+  - first:
+      213: 671685923750979471
+    second: single_grill_54
+  - first:
+      213: 1821204734970967764
+    second: single_grill_55
+  - first:
+      213: 7271617532688629462
+    second: single_grill_56
+  - first:
+      213: 4724586020359915982
+    second: single_grill_57
+  - first:
+      213: 8821261990579815632
+    second: single_grill_58
+  - first:
+      213: 4028604892182486130
+    second: single_grill_59
+  - first:
+      213: 4347457783236359248
+    second: single_grill_60
+  - first:
+      213: -8501338692550713248
+    second: single_grill_61
+  - first:
+      213: 1337231316749356294
+    second: single_grill_62
+  - first:
+      213: -753724555654441874
+    second: single_grill_63
+  - first:
+      213: 20450126585139165
+    second: single_grill_64
+  - first:
+      213: 8094573675137380739
+    second: single_grill_65
+  - first:
+      213: -1335860955378103517
+    second: single_grill_66
+  - first:
+      213: 7968386550558506390
+    second: single_grill_67
+  - first:
+      213: -1486173016992421025
+    second: single_grill_68
+  - first:
+      213: 8276476835230292886
+    second: single_grill_69
+  - first:
+      213: -3256489444456646164
+    second: single_grill_70
+  - first:
+      213: -5968660623370453751
+    second: single_grill_71
+  - first:
+      213: -4525404606182963366
+    second: single_grill_72
+  - first:
+      213: -1209522305242526403
+    second: single_grill_73
+  - first:
+      213: 1416585065826799958
+    second: single_grill_74
+  - first:
+      213: 6560953702393442228
+    second: single_grill_75
+  - first:
+      213: 664355366778934963
+    second: single_grill_76
+  - first:
+      213: 6110803266303514019
+    second: single_grill_77
+  - first:
+      213: 7874783550199497525
+    second: single_grill_78
+  - first:
+      213: -9142588608237983990
+    second: single_grill_79
+  - first:
+      213: -7214172688771057935
+    second: single_grill_80
+  - first:
+      213: 9061761031051122725
+    second: single_grill_81
+  - first:
+      213: -5677993858196056606
+    second: single_grill_82
+  - first:
+      213: 1631745559712719466
+    second: single_grill_83
+  - first:
+      213: -9182747517472792197
+    second: single_grill_84
+  - first:
+      213: -7524070756602191665
+    second: single_grill_85
+  - first:
+      213: 3563206864346889850
+    second: single_grill_86
+  - first:
+      213: 2447563176920374570
+    second: single_grill_87
+  - first:
+      213: 8780664320961438353
+    second: single_grill_88
+  - first:
+      213: -352793317492840593
+    second: single_grill_89
+  - first:
+      213: -284687501505045629
+    second: single_grill_90
+  - first:
+      213: 8873797119351932705
+    second: single_grill_91
+  - first:
+      213: 5372771156964666119
+    second: single_grill_92
+  - first:
+      213: 5186427443515658836
+    second: single_grill_93
+  - first:
+      213: -9160063412968772331
+    second: single_grill_94
+  - first:
+      213: 8203724044194278837
+    second: single_grill_95
+  - first:
+      213: -3895966883095490095
+    second: single_grill_96
+  - first:
+      213: -3113005881932308131
+    second: single_grill_97
+  - first:
+      213: 8394004445410530501
+    second: single_grill_98
+  - first:
+      213: -5659614242955663576
+    second: single_grill_99
+  - first:
+      213: -1087814512111160756
+    second: single_grill_100
+  - first:
+      213: -8084303522086882274
+    second: single_grill_101
+  - first:
+      213: 1766084056425601971
+    second: single_grill_102
+  - first:
+      213: 4073516694296093214
+    second: single_grill_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: single_grill_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9bbe07911270430800000000000000
+      internalID: 3749001607961622994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 505
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012ffa15be694cb0800000000000000
+      internalID: -4879246997158158071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 503
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa5e9bc4bd0e8e0800000000000000
+      internalID: -1666090739544249674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 499
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0af0b765c8e450800000000000000
+      internalID: 6118357142924299146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 486
+        width: 132
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186f03d5d7831f20800000000000000
+      internalID: 3392204296778901529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 485
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f3e52047494fa0800000000000000
+      internalID: -5816039102933109842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 483
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a0ec6f1d3601b30800000000000000
+      internalID: 4256011401305131554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 483
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923e6f8cd44aac9d0800000000000000
+      internalID: -2753207568192576727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 505
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84976140e76b77a0800000000000000
+      internalID: -6378390234372533108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 495
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b802317371169590800000000000000
+      internalID: -7667922128033675079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 496
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b33866522688900800000000000000
+      internalID: 686906855947189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 467
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ea9329345ac700800000000000000
+      internalID: 561353707948270225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 118
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a0a7ea696a6d00800000000000000
+      internalID: 966700977897908420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 488
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07277ef98190d030800000000000000
+      internalID: 3517471330842126090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 480
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73af91832539415a0800000000000000
+      internalID: -6551449576579401161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 360
+        width: 38
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375f69079161db2a0800000000000000
+      internalID: -6720190770447977101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 471
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52276868ea33060800000000000000
+      internalID: 6932076144257803705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 463
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10dec1c5aa54c30800000000000000
+      internalID: 4343064728267719145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 471
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c03a511e19cc7f0800000000000000
+      internalID: -590937055175701369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 463
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d695f2fd994460800000000000000
+      internalID: 7226480743920620913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 455
+        width: 122
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b310c65e7ed430800000000000000
+      internalID: 3809621245856822509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 435
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c59c6739206a6320800000000000000
+      internalID: 2551957868998596041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 435
+        width: 142
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5c839bb5260b8f0800000000000000
+      internalID: -526813010313296465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 431
+        width: 142
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4122d7d79a91ba0800000000000000
+      internalID: -6117672262370716423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 428
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a108ee91df907a00800000000000000
+      internalID: 752276860433858976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 410
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280cad753147b2910800000000000000
+      internalID: 1813670901373911170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 454
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74a199e87b171600800000000000000
+      internalID: 438849694820574332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 331
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f296566a735d100800000000000000
+      internalID: 132072951882788652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 427
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65789e70066d972c0800000000000000
+      internalID: -4433276650231593130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 438
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75439b433ff64a0f0800000000000000
+      internalID: -1106636518074010537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb71800071e9340800000000000000
+      internalID: 4872357135764667983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 435
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c33f11220d5c6030800000000000000
+      internalID: 3489266075032302536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 370
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ccf44f7b0bfe30800000000000000
+      internalID: 4538233690752075300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 370
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3727f3aaa47550800000000000000
+      internalID: 6157734211725245714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 420
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3eb2c612150f390800000000000000
+      internalID: -7786634551733001263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 268
+        width: 96
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5404d9558634c500800000000000000
+      internalID: 415517011990545501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 398
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfac16dd8fe0fb5a0800000000000000
+      internalID: -6503462874870854916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 271
+        width: 82
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d8c34c2bd88d600800000000000000
+      internalID: 493299958133067018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 268
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85990cfdada475e10800000000000000
+      internalID: 2186298448028932440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 388
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de7232c39b351450800000000000000
+      internalID: 6058814379501190872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 367
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93051bbc096a7cdf0800000000000000
+      internalID: -159976120925466567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 308
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f43ba1ca87032b0800000000000000
+      internalID: -5606848855498600630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 271
+        width: 32
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b226ef002664e5270800000000000000
+      internalID: 8241101754871996971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_43
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 347
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed4dcc4c04f9380800000000000000
+      internalID: -8962373519449727254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 268
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee16250ee2d870f0800000000000000
+      internalID: -1118912587671134490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 343
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d049e2f53d6e50800000000000000
+      internalID: 6804153929438385189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_46
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 268
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f90a990675f5d0800000000000000
+      internalID: -3029385390725663888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 346
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff1ea70ffb73950800000000000000
+      internalID: 6428818032669360105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 327
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf822a07c053dab30800000000000000
+      internalID: 4300151546754246908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_49
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 197
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa3133c2377cc90800000000000000
+      internalID: -7149619249754691005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 227
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef1bcd22672d0c90800000000000000
+      internalID: -7202056926466990104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_51
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717e8be248035070800000000000000
+      internalID: 8093822038827757949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 297
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c213db4700b9d0800000000000000
+      internalID: -2760698549332950533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_53
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 299
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc0c04880bad33a0800000000000000
+      internalID: -6683998218884477748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87aec5f9ce425900800000000000000
+      internalID: 671685923750979471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 284
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6343bae08364910800000000000000
+      internalID: 1821204734970967764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 153
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de786a8e99f9e460800000000000000
+      internalID: 7271617532688629462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 191
+        width: 143
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9445e14f9119140800000000000000
+      internalID: 4724586020359915982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 183
+        width: 157
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d44a2b1b0b6b6a70800000000000000
+      internalID: 8821261990579815632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 259
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c10f21eca78e730800000000000000
+      internalID: 4028604892182486130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_60
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 183
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0547fcde1d5455c30800000000000000
+      internalID: 4347457783236359248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_61
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 153
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0602b3b408d250a80800000000000000
+      internalID: -8501338692550713248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 227
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d8f513cccce8210800000000000000
+      internalID: 1337231316749356294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_63
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 218
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645ab1928b3a85f0800000000000000
+      internalID: -753724555654441874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_64
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 195
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf08b22847a84000800000000000000
+      internalID: 20450126585139165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_65
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 151
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381bac2eed3b55070800000000000000
+      internalID: 8094573675137380739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bcf5de981167de0800000000000000
+      internalID: -1335860955378103517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 140
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3a037955659e60800000000000000
+      internalID: 7968386550558506390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 168
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b656fd38d006be0800000000000000
+      internalID: -1486173016992421025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_69
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 172
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b96abb4d3fbd270800000000000000
+      internalID: 8276476835230292886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_70
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1
+        width: 46
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce93a589a10aec2d0800000000000000
+      internalID: -3256489444456646164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_71
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 170
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d742f49ce0b2da0800000000000000
+      internalID: -5968660623370453751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_72
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 170
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a574c8fbc788231c0800000000000000
+      internalID: -4525404606182963366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 159
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8b182fd9e63fe0800000000000000
+      internalID: -1209522305242526403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_74
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 161
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dabaac98b8a310800000000000000
+      internalID: 1416585065826799958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_75
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 161
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe1f281a03d0b50800000000000000
+      internalID: 6560953702393442228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 153
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69b79afa3483900800000000000000
+      internalID: 664355366778934963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 76
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5515cb13fedc450800000000000000
+      internalID: 6110803266303514019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_78
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5330bb0aae9d84d60800000000000000
+      internalID: 7874783550199497525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_79
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 144
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07217ea9100f1180800000000000000
+      internalID: -9142588608237983990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_80
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 95
+        width: 151
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6f971792c12eb90800000000000000
+      internalID: -7214172688771057935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528974f75a7d1cd70800000000000000
+      internalID: 9061761031051122725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_82
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 133
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5df555ba6b331b0800000000000000
+      internalID: -5677993858196056606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_83
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 136
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a626f72f0ff15a610800000000000000
+      internalID: 1631745559712719466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 133
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b712feef8c3509080800000000000000
+      internalID: -9182747517472792197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc062d7d281259790800000000000000
+      internalID: -7524070756602191665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 82
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e31a2b3cd037130800000000000000
+      internalID: 3563206864346889850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_87
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1
+        width: 71
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d5aadddbd77f120800000000000000
+      internalID: 2447563176920374570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_88
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 76
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926ade8daf2bd970800000000000000
+      internalID: 8780664320961438353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6725bfc850aa1bf0800000000000000
+      internalID: -352793317492840593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 31
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b5cc8c9369c0cf0800000000000000
+      internalID: -284687501505045629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 102
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274bd3f67f062b70800000000000000
+      internalID: 8873797119351932705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_92
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70be75ea6eaef8a40800000000000000
+      internalID: 5372771156964666119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_93
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 101
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529610f744e9f740800000000000000
+      internalID: 5186427443515658836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 30
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da1f5abdae0e080800000000000000
+      internalID: -9160063412968772331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_95
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 97
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bde7819d8b79d170800000000000000
+      internalID: 8203724044194278837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_96
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 77
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d15864f2cebee9c0800000000000000
+      internalID: -3895966883095490095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_97
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 35
+        width: 152
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5129bfc4a16cc4d0800000000000000
+      internalID: -3113005881932308131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c49ebbd19e7d7470800000000000000
+      internalID: 8394004445410530501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_99
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827e2eaf4d20571b0800000000000000
+      internalID: -5659614242955663576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_100
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427918f67e47e0f0800000000000000
+      internalID: -1087814512111160756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_101
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 16
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14729577c8cecf80800000000000000
+      internalID: -8084303522086882274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_102
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 12
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb9aba9714628810800000000000000
+      internalID: 1766084056425601971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_grill_103
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12642ed9d9088830800000000000000
+      internalID: 4073516694296093214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      single_grill_0: 3749001607961622994
+      single_grill_1: -4879246997158158071
+      single_grill_10: 686906855947189020
+      single_grill_100: -1087814512111160756
+      single_grill_101: -8084303522086882274
+      single_grill_102: 1766084056425601971
+      single_grill_103: 4073516694296093214
+      single_grill_11: 561353707948270225
+      single_grill_12: 966700977897908420
+      single_grill_13: 3517471330842126090
+      single_grill_14: -6551449576579401161
+      single_grill_15: -6720190770447977101
+      single_grill_16: 6932076144257803705
+      single_grill_17: 4343064728267719145
+      single_grill_18: -590937055175701369
+      single_grill_19: 7226480743920620913
+      single_grill_2: -1666090739544249674
+      single_grill_20: 3809621245856822509
+      single_grill_21: 2551957868998596041
+      single_grill_22: -526813010313296465
+      single_grill_23: -6117672262370716423
+      single_grill_24: 752276860433858976
+      single_grill_25: 1813670901373911170
+      single_grill_26: 438849694820574332
+      single_grill_27: 132072951882788652
+      single_grill_28: -4433276650231593130
+      single_grill_29: -1106636518074010537
+      single_grill_3: 6118357142924299146
+      single_grill_30: 4872357135764667983
+      single_grill_31: 3489266075032302536
+      single_grill_32: 4538233690752075300
+      single_grill_33: 6157734211725245714
+      single_grill_34: -7786634551733001263
+      single_grill_35: 415517011990545501
+      single_grill_36: -6503462874870854916
+      single_grill_37: 493299958133067018
+      single_grill_38: 2186298448028932440
+      single_grill_39: 6058814379501190872
+      single_grill_4: 3392204296778901529
+      single_grill_40: -159976120925466567
+      single_grill_41: -5606848855498600630
+      single_grill_42: 8241101754871996971
+      single_grill_43: -8962373519449727254
+      single_grill_44: -1118912587671134490
+      single_grill_45: 6804153929438385189
+      single_grill_46: -3029385390725663888
+      single_grill_47: 6428818032669360105
+      single_grill_48: 4300151546754246908
+      single_grill_49: -7149619249754691005
+      single_grill_5: -5816039102933109842
+      single_grill_50: -7202056926466990104
+      single_grill_51: 8093822038827757949
+      single_grill_52: -2760698549332950533
+      single_grill_53: -6683998218884477748
+      single_grill_54: 671685923750979471
+      single_grill_55: 1821204734970967764
+      single_grill_56: 7271617532688629462
+      single_grill_57: 4724586020359915982
+      single_grill_58: 8821261990579815632
+      single_grill_59: 4028604892182486130
+      single_grill_6: 4256011401305131554
+      single_grill_60: 4347457783236359248
+      single_grill_61: -8501338692550713248
+      single_grill_62: 1337231316749356294
+      single_grill_63: -753724555654441874
+      single_grill_64: 20450126585139165
+      single_grill_65: 8094573675137380739
+      single_grill_66: -1335860955378103517
+      single_grill_67: 7968386550558506390
+      single_grill_68: -1486173016992421025
+      single_grill_69: 8276476835230292886
+      single_grill_7: -2753207568192576727
+      single_grill_70: -3256489444456646164
+      single_grill_71: -5968660623370453751
+      single_grill_72: -4525404606182963366
+      single_grill_73: -1209522305242526403
+      single_grill_74: 1416585065826799958
+      single_grill_75: 6560953702393442228
+      single_grill_76: 664355366778934963
+      single_grill_77: 6110803266303514019
+      single_grill_78: 7874783550199497525
+      single_grill_79: -9142588608237983990
+      single_grill_8: -6378390234372533108
+      single_grill_80: -7214172688771057935
+      single_grill_81: 9061761031051122725
+      single_grill_82: -5677993858196056606
+      single_grill_83: 1631745559712719466
+      single_grill_84: -9182747517472792197
+      single_grill_85: -7524070756602191665
+      single_grill_86: 3563206864346889850
+      single_grill_87: 2447563176920374570
+      single_grill_88: 8780664320961438353
+      single_grill_89: -352793317492840593
+      single_grill_9: -7667922128033675079
+      single_grill_90: -284687501505045629
+      single_grill_91: 8873797119351932705
+      single_grill_92: 5372771156964666119
+      single_grill_93: 5186427443515658836
+      single_grill_94: -9160063412968772331
+      single_grill_95: 8203724044194278837
+      single_grill_96: -3895966883095490095
+      single_grill_97: -3113005881932308131
+      single_grill_98: 8394004445410530501
+      single_grill_99: -5659614242955663576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

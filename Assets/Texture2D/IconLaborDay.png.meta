@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0e577a6e4e1da99479c311c73d030557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1963257276107426476
+    second: IconLaborDay_0
+  - first:
+      213: 5391164554831313751
+    second: IconLaborDay_1
+  - first:
+      213: -5170933728508867165
+    second: IconLaborDay_2
+  - first:
+      213: -5881350323309007763
+    second: IconLaborDay_3
+  - first:
+      213: 5163380904704239632
+    second: IconLaborDay_4
+  - first:
+      213: 1560434625024559737
+    second: IconLaborDay_5
+  - first:
+      213: 7517000342464048471
+    second: IconLaborDay_6
+  - first:
+      213: 3949193779174740293
+    second: IconLaborDay_7
+  - first:
+      213: 5055076970144866936
+    second: IconLaborDay_8
+  - first:
+      213: 4196666722316618118
+    second: IconLaborDay_9
+  - first:
+      213: -8008343259395334125
+    second: IconLaborDay_10
+  - first:
+      213: 7906207828017528865
+    second: IconLaborDay_11
+  - first:
+      213: 3881217816770139105
+    second: IconLaborDay_12
+  - first:
+      213: -657905110861603062
+    second: IconLaborDay_13
+  - first:
+      213: 5620595348483281099
+    second: IconLaborDay_14
+  - first:
+      213: -2338462308218449774
+    second: IconLaborDay_15
+  - first:
+      213: -4187426150864055109
+    second: IconLaborDay_16
+  - first:
+      213: 992096360222519704
+    second: IconLaborDay_17
+  - first:
+      213: 540268795018999119
+    second: IconLaborDay_18
+  - first:
+      213: -7995634206583780555
+    second: IconLaborDay_19
+  - first:
+      213: 9011646234673179402
+    second: IconLaborDay_20
+  - first:
+      213: 5599783344434321006
+    second: IconLaborDay_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconLaborDay_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa85114714ee3b10800000000000000
+      internalID: 1963257276107426476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb568599341da40800000000000000
+      internalID: 5391164554831313751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 217
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad8423bb272d38b0800000000000000
+      internalID: -5170933728508867165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 217
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ca98baa0f316ea0800000000000000
+      internalID: -5881350323309007763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 224
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0186ee8739308a740800000000000000
+      internalID: 5163380904704239632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 212
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a0fcf1607c7a510800000000000000
+      internalID: 1560434625024559737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 224
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d2f051cffb15860800000000000000
+      internalID: 7517000342464048471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 154
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54194e481da5ec630800000000000000
+      internalID: 3949193779174740293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 105
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722ebda8bd372640800000000000000
+      internalID: 5055076970144866936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 139
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6898268262e8d3a30800000000000000
+      internalID: 4196666722316618118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 139
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e8505c36acd090800000000000000
+      internalID: -8008343259395334125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 138
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c565712e78bd60800000000000000
+      internalID: 7906207828017528865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 75
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e350807a0bdcd530800000000000000
+      internalID: 3881217816770139105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1e2399c6aed6f0800000000000000
+      internalID: -657905110861603062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 81
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc01f84b0bd500e40800000000000000
+      internalID: 5620595348483281099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 81
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dffd9bec1c8fd0800000000000000
+      internalID: -2338462308218449774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 79
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4119a0a1643e5c0800000000000000
+      internalID: -4187426150864055109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 80
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891750e1262a4cd00800000000000000
+      internalID: 992096360222519704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45f55a4b9b6f7700800000000000000
+      internalID: 540268795018999119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b8c924d0dc90190800000000000000
+      internalID: -7995634206583780555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6e23318ccf0d70800000000000000
+      internalID: 9011646234673179402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconLaborDay_21
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e661828684d66bd40800000000000000
+      internalID: 5599783344434321006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IconLaborDay_0: 1963257276107426476
+      IconLaborDay_1: 5391164554831313751
+      IconLaborDay_10: -8008343259395334125
+      IconLaborDay_11: 7906207828017528865
+      IconLaborDay_12: 3881217816770139105
+      IconLaborDay_13: -657905110861603062
+      IconLaborDay_14: 5620595348483281099
+      IconLaborDay_15: -2338462308218449774
+      IconLaborDay_16: -4187426150864055109
+      IconLaborDay_17: 992096360222519704
+      IconLaborDay_18: 540268795018999119
+      IconLaborDay_19: -7995634206583780555
+      IconLaborDay_2: -5170933728508867165
+      IconLaborDay_20: 9011646234673179402
+      IconLaborDay_21: 5599783344434321006
+      IconLaborDay_3: -5881350323309007763
+      IconLaborDay_4: 5163380904704239632
+      IconLaborDay_5: 1560434625024559737
+      IconLaborDay_6: 7517000342464048471
+      IconLaborDay_7: 3949193779174740293
+      IconLaborDay_8: 5055076970144866936
+      IconLaborDay_9: 4196666722316618118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0c47e97ff82282948840da319d64a7fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7705041413723772166
+    second: BoosterSwap_0
+  - first:
+      213: 5979088044853018522
+    second: BoosterSwap_1
+  - first:
+      213: 8201860766765583181
+    second: BoosterSwap_2
+  - first:
+      213: 2949097170740416160
+    second: BoosterSwap_3
+  - first:
+      213: -4843608357038662478
+    second: BoosterSwap_4
+  - first:
+      213: -8261844952259511739
+    second: BoosterSwap_5
+  - first:
+      213: -6442461446247757734
+    second: BoosterSwap_6
+  - first:
+      213: -8781069289511096189
+    second: BoosterSwap_7
+  - first:
+      213: -4410058394708274148
+    second: BoosterSwap_8
+  - first:
+      213: -3605036172290229627
+    second: BoosterSwap_9
+  - first:
+      213: 8229142373799896848
+    second: BoosterSwap_10
+  - first:
+      213: -6398557934613038080
+    second: BoosterSwap_11
+  - first:
+      213: -3218798432326508412
+    second: BoosterSwap_12
+  - first:
+      213: -1730304799380624551
+    second: BoosterSwap_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoosterSwap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 296
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa225348a1321590800000000000000
+      internalID: -7705041413723772166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 523
+        width: 595
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbf32f5ecf9f250800000000000000
+      internalID: 5979088044853018522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 721
+        width: 179
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b864c79ecd2d170800000000000000
+      internalID: 8201860766765583181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 598
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8716704c4de820800000000000000
+      internalID: 2949097170740416160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_4
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 608
+        width: 80
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd89f9cdb08ccb0800000000000000
+      internalID: -4843608357038662478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 661
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab73ff9c7085d80800000000000000
+      internalID: -8261844952259511739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 523
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c041c277c796a0800000000000000
+      internalID: -6442461446247757734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 439
+        width: 317
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380799a5100632680800000000000000
+      internalID: -8781069289511096189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141fa861435cc2c0800000000000000
+      internalID: -4410058394708274148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 523
+        width: 182
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af43c93b658fdc0800000000000000
+      internalID: -3605036172290229627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_10
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 439
+        width: 81
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017257c9369c33270800000000000000
+      internalID: 8229142373799896848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 1255
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cf1a0a571c337a0800000000000000
+      internalID: -6398557934613038080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_12
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 149
+        width: 315
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480289531e78453d0800000000000000
+      internalID: -3218798432326508412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterSwap_13
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 4
+        width: 315
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ba3c7d3f8bcf7e0800000000000000
+      internalID: -1730304799380624551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoosterSwap_0: -7705041413723772166
+      BoosterSwap_1: 5979088044853018522
+      BoosterSwap_10: 8229142373799896848
+      BoosterSwap_11: -6398557934613038080
+      BoosterSwap_12: -3218798432326508412
+      BoosterSwap_13: -1730304799380624551
+      BoosterSwap_2: 8201860766765583181
+      BoosterSwap_3: 2949097170740416160
+      BoosterSwap_4: -4843608357038662478
+      BoosterSwap_5: -8261844952259511739
+      BoosterSwap_6: -6442461446247757734
+      BoosterSwap_7: -8781069289511096189
+      BoosterSwap_8: -4410058394708274148
+      BoosterSwap_9: -3605036172290229627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

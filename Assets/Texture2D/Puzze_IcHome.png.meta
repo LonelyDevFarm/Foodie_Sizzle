@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: be3d761067eadc54bac5bc803d51ffa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7235804374636010638
+    second: Puzze_IcHome_0
+  - first:
+      213: 7274845168074825291
+    second: Puzze_IcHome_1
+  - first:
+      213: -8287990582295681115
+    second: Puzze_IcHome_2
+  - first:
+      213: 8143129457878661181
+    second: Puzze_IcHome_3
+  - first:
+      213: -6708532529170694135
+    second: Puzze_IcHome_4
+  - first:
+      213: 4340378059894016434
+    second: Puzze_IcHome_5
+  - first:
+      213: 5592234436105567244
+    second: Puzze_IcHome_6
+  - first:
+      213: -5982525540875506049
+    second: Puzze_IcHome_7
+  - first:
+      213: 1004951555471024985
+    second: Puzze_IcHome_8
+  - first:
+      213: 5039511975530961917
+    second: Puzze_IcHome_9
+  - first:
+      213: 5770714209103921937
+    second: Puzze_IcHome_10
+  - first:
+      213: -9043532155460818083
+    second: Puzze_IcHome_11
+  - first:
+      213: -4833706560126965619
+    second: Puzze_IcHome_12
+  - first:
+      213: 2360651732660105874
+    second: Puzze_IcHome_13
+  - first:
+      213: -214526804752627393
+    second: Puzze_IcHome_14
+  - first:
+      213: 5235511989471817465
+    second: Puzze_IcHome_15
+  - first:
+      213: 865797331023740222
+    second: Puzze_IcHome_16
+  - first:
+      213: -1366023322017817626
+    second: Puzze_IcHome_17
+  - first:
+      213: 2051874732227181559
+    second: Puzze_IcHome_18
+  - first:
+      213: 8573676400728095418
+    second: Puzze_IcHome_19
+  - first:
+      213: -1877659110585876333
+    second: Puzze_IcHome_20
+  - first:
+      213: -1570401023329407188
+    second: Puzze_IcHome_21
+  - first:
+      213: -9046748461356458325
+    second: Puzze_IcHome_22
+  - first:
+      213: 6620758447221882463
+    second: Puzze_IcHome_23
+  - first:
+      213: 2710896906259606034
+    second: Puzze_IcHome_24
+  - first:
+      213: -4287220223005864621
+    second: Puzze_IcHome_25
+  - first:
+      213: 4055957104523598167
+    second: Puzze_IcHome_26
+  - first:
+      213: 5887591405651378040
+    second: Puzze_IcHome_27
+  - first:
+      213: -1934201944127150186
+    second: Puzze_IcHome_28
+  - first:
+      213: 1642889463877504052
+    second: Puzze_IcHome_29
+  - first:
+      213: -3617246027335506202
+    second: Puzze_IcHome_30
+  - first:
+      213: -796241113813596304
+    second: Puzze_IcHome_31
+  - first:
+      213: 7002425373834295066
+    second: Puzze_IcHome_32
+  - first:
+      213: -2949042699102093540
+    second: Puzze_IcHome_33
+  - first:
+      213: 1949068028222185730
+    second: Puzze_IcHome_34
+  - first:
+      213: -3502927744099661380
+    second: Puzze_IcHome_35
+  - first:
+      213: 5003231277475754177
+    second: Puzze_IcHome_36
+  - first:
+      213: -1689481127537427676
+    second: Puzze_IcHome_37
+  - first:
+      213: -2060841782210124677
+    second: Puzze_IcHome_38
+  - first:
+      213: 4402455251455050207
+    second: Puzze_IcHome_39
+  - first:
+      213: -3702658890883794224
+    second: Puzze_IcHome_40
+  - first:
+      213: 8562460832919403804
+    second: Puzze_IcHome_41
+  - first:
+      213: 533215470751208812
+    second: Puzze_IcHome_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puzze_IcHome_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736a991242459b90800000000000000
+      internalID: -7235804374636010638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 463
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1117f22175f460800000000000000
+      internalID: 7274845168074825291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 437
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ab702a742bfc80800000000000000
+      internalID: -8287990582295681115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 478
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3870e80915320170800000000000000
+      internalID: 8143129457878661181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 433
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900c0a2453186e2a0800000000000000
+      internalID: -6708532529170694135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 478
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c1e269de1c3c30800000000000000
+      internalID: 4340378059894016434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 437
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c77c8379b9b9d40800000000000000
+      internalID: 5592234436105567244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 463
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee964a7bcc9fca0800000000000000
+      internalID: -5982525540875506049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a3508d1e42fd00800000000000000
+      internalID: 1004951555471024985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 401
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb99d6f071ffe540800000000000000
+      internalID: 5039511975530961917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 392
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11340f5aff1b51050800000000000000
+      internalID: 5770714209103921937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 392
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6fe65b6bee7280800000000000000
+      internalID: -9043532155460818083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 384
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88282f5e793becb0800000000000000
+      internalID: -4833706560126965619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292bd9b5e38b2c020800000000000000
+      internalID: 2360651732660105874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f398be7f109d50df0800000000000000
+      internalID: -214526804752627393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 344
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe24cd5a6648a840800000000000000
+      internalID: 5235511989471817465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db62bd51ee30c00800000000000000
+      internalID: 865797331023740222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 364
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb9a30b609ea0de0800000000000000
+      internalID: -1366023322017817626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 320
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb300a9239b97c10800000000000000
+      internalID: 2051874732227181559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3c8cd241dbf670800000000000000
+      internalID: 8573676400728095418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 105
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c048bcf631f5e0800000000000000
+      internalID: -1877659110585876333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 296
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6a81f690d43ae0800000000000000
+      internalID: -1570401023329407188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 297
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae5984c43e737280800000000000000
+      internalID: -9046748461356458325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb35ebab8a1eb50800000000000000
+      internalID: 6620758447221882463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 290
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a2f409f5a0f9520800000000000000
+      internalID: 2710896906259606034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 240
+        width: 106
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d4dddfbebb084c0800000000000000
+      internalID: -4287220223005864621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d9574f77a94830800000000000000
+      internalID: 4055957104523598167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_27
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 243
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3e7c803de4b150800000000000000
+      internalID: 5887591405651378040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_28
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 243
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6976e6464955825e0800000000000000
+      internalID: -1934201944127150186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c86a35347bcc610800000000000000
+      internalID: 1642889463877504052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6697337e5fccdc0800000000000000
+      internalID: -3617246027335506202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774497fcee23f4f0800000000000000
+      internalID: -796241113813596304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 184
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17339de6cc9d2160800000000000000
+      internalID: 7002425373834295066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 187
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f7f843a45e217d0800000000000000
+      internalID: -2949042699102093540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 141
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20121498b0b7c0b10800000000000000
+      internalID: 1949068028222185730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 141
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9441ba6c9136fc0800000000000000
+      internalID: -3502927744099661380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 148
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f01fa65c0f6540800000000000000
+      internalID: 5003231277475754177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb762add1cd88e0800000000000000
+      internalID: -1689481127537427676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 138
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742511615b6663e0800000000000000
+      internalID: -2060841782210124677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 143
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1088ad9b9a81d30800000000000000
+      internalID: 4402455251455050207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 271
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dafd643b538d9cc0800000000000000
+      internalID: -3702658890883794224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d3b5df2c8f3d670800000000000000
+      internalID: 8562460832919403804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzze_IcHome_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655ed245ac566700800000000000000
+      internalID: 533215470751208812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Puzze_IcHome_0: -7235804374636010638
+      Puzze_IcHome_1: 7274845168074825291
+      Puzze_IcHome_10: 5770714209103921937
+      Puzze_IcHome_11: -9043532155460818083
+      Puzze_IcHome_12: -4833706560126965619
+      Puzze_IcHome_13: 2360651732660105874
+      Puzze_IcHome_14: -214526804752627393
+      Puzze_IcHome_15: 5235511989471817465
+      Puzze_IcHome_16: 865797331023740222
+      Puzze_IcHome_17: -1366023322017817626
+      Puzze_IcHome_18: 2051874732227181559
+      Puzze_IcHome_19: 8573676400728095418
+      Puzze_IcHome_2: -8287990582295681115
+      Puzze_IcHome_20: -1877659110585876333
+      Puzze_IcHome_21: -1570401023329407188
+      Puzze_IcHome_22: -9046748461356458325
+      Puzze_IcHome_23: 6620758447221882463
+      Puzze_IcHome_24: 2710896906259606034
+      Puzze_IcHome_25: -4287220223005864621
+      Puzze_IcHome_26: 4055957104523598167
+      Puzze_IcHome_27: 5887591405651378040
+      Puzze_IcHome_28: -1934201944127150186
+      Puzze_IcHome_29: 1642889463877504052
+      Puzze_IcHome_3: 8143129457878661181
+      Puzze_IcHome_30: -3617246027335506202
+      Puzze_IcHome_31: -796241113813596304
+      Puzze_IcHome_32: 7002425373834295066
+      Puzze_IcHome_33: -2949042699102093540
+      Puzze_IcHome_34: 1949068028222185730
+      Puzze_IcHome_35: -3502927744099661380
+      Puzze_IcHome_36: 5003231277475754177
+      Puzze_IcHome_37: -1689481127537427676
+      Puzze_IcHome_38: -2060841782210124677
+      Puzze_IcHome_39: 4402455251455050207
+      Puzze_IcHome_4: -6708532529170694135
+      Puzze_IcHome_40: -3702658890883794224
+      Puzze_IcHome_41: 8562460832919403804
+      Puzze_IcHome_42: 533215470751208812
+      Puzze_IcHome_5: 4340378059894016434
+      Puzze_IcHome_6: 5592234436105567244
+      Puzze_IcHome_7: -5982525540875506049
+      Puzze_IcHome_8: 1004951555471024985
+      Puzze_IcHome_9: 5039511975530961917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

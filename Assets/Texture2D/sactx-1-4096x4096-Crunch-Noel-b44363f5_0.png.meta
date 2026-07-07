@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: ba3f1f7d2500cd44b911a949420ce2a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3803492023553080663
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_0
+  - first:
+      213: -4250481499892370007
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_1
+  - first:
+      213: -8064410511943809146
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_2
+  - first:
+      213: -3683773227686997468
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_3
+  - first:
+      213: 2136283301322624276
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_4
+  - first:
+      213: -581404964960304544
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_5
+  - first:
+      213: -5127550930335075751
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_6
+  - first:
+      213: 6732248113778716909
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_7
+  - first:
+      213: -1152491670250603489
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_8
+  - first:
+      213: -134130600778056005
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_9
+  - first:
+      213: -6445312317101551210
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_10
+  - first:
+      213: -124255578587035658
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_11
+  - first:
+      213: -201506214207402624
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_12
+  - first:
+      213: 9201040734075500458
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_13
+  - first:
+      213: 778648707136986174
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_14
+  - first:
+      213: 335611710309047339
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_15
+  - first:
+      213: 728031057823794535
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_16
+  - first:
+      213: -972959310848977138
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_17
+  - first:
+      213: -6840219565711590486
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_18
+  - first:
+      213: -8758379994982614507
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_19
+  - first:
+      213: -139065067268199806
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_20
+  - first:
+      213: -3682595268695023346
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_21
+  - first:
+      213: -791814350989900523
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_22
+  - first:
+      213: 8036349323162300636
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_23
+  - first:
+      213: 3694112533365486374
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_24
+  - first:
+      213: 8553134494231345601
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_25
+  - first:
+      213: -1775503459838142294
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_26
+  - first:
+      213: -7672055017900493414
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_27
+  - first:
+      213: -2559311540731190807
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_28
+  - first:
+      213: -8707809046497817666
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_29
+  - first:
+      213: -839764503682608695
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_30
+  - first:
+      213: 6378616328611066126
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_31
+  - first:
+      213: -3229148899299574407
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_32
+  - first:
+      213: 5154055956209970683
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_33
+  - first:
+      213: 5623951554773237967
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_34
+  - first:
+      213: 1520149196790463354
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_35
+  - first:
+      213: -581680653385493428
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_36
+  - first:
+      213: -5306428363327245018
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_37
+  - first:
+      213: 6005129573861289926
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_38
+  - first:
+      213: -6619261498084149197
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_39
+  - first:
+      213: -7668576495599941163
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_40
+  - first:
+      213: -1990466726075619815
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_41
+  - first:
+      213: -318608610848794668
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_42
+  - first:
+      213: -645499072568341414
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_43
+  - first:
+      213: 6564510725222757631
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_44
+  - first:
+      213: 6035217967455815424
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_45
+  - first:
+      213: 5074970325008835557
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_46
+  - first:
+      213: 1944543335580241346
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_47
+  - first:
+      213: 1883672877493622115
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_48
+  - first:
+      213: -8206139231952488951
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_49
+  - first:
+      213: -4441221288871229352
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_50
+  - first:
+      213: 9170115961648456763
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_51
+  - first:
+      213: 4276651123980479257
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_52
+  - first:
+      213: -5635440306683239718
+    second: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3986
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75db9e9f7d7b8c430800000000000000
+      internalID: 3803492023553080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_1
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 3971
+        width: 114
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5bb8a88914305c0800000000000000
+      internalID: -4250481499892370007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3863
+        width: 924
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c9a0dd55751090800000000000000
+      internalID: -8064410511943809146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3865
+        width: 1083
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4225f9254cb90ecc0800000000000000
+      internalID: -3683773227686997468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1718
+        width: 2081
+        height: 2148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0fe2185a95ad10800000000000000
+      internalID: 2136283301322624276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_5
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 3038
+        width: 548
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06284e8c34f6ee7f0800000000000000
+      internalID: -581404964960304544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_6
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 3149
+        width: 285
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95277a5889747d8b0800000000000000
+      internalID: -5127550930335075751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_7
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2750
+        width: 177
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f2919dffbd6d50800000000000000
+      internalID: 6732248113778716909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_8
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3037
+        width: 180
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cbd1c9ee68100f0800000000000000
+      internalID: -1152491670250603489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_9
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2656
+        width: 367
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe3d13ede8732ef0800000000000000
+      internalID: -134130600778056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_10
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2753
+        width: 275
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69156b8a896ad86a0800000000000000
+      internalID: -6445312317101551210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_11
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 2009
+        width: 731
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f785f8a53e864ef0800000000000000
+      internalID: -124255578587035658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_12
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2258
+        width: 617
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d42227a2b143df0800000000000000
+      internalID: -201506214207402624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_13
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2656
+        width: 352
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa738766cc9a0bf70800000000000000
+      internalID: 9201040734075500458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_14
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2339
+        width: 190
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c97b9afd05eca00800000000000000
+      internalID: 778648707136986174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_15
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1391
+        width: 699
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9e67821558a400800000000000000
+      internalID: 335611710309047339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_16
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2250
+        width: 283
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7650a0bc36c7a1a00800000000000000
+      internalID: 728031057823794535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_17
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2085
+        width: 523
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0710f769aa5f72f0800000000000000
+      internalID: -972959310848977138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_18
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1831
+        width: 332
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab7518cb88a211a0800000000000000
+      internalID: -6840219565711590486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 1082
+        height: 1035
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a7c276ccbf37680800000000000000
+      internalID: -8758379994982614507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_20
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1539
+        width: 376
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a20d0ee01f11ef0800000000000000
+      internalID: -139065067268199806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_21
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1549
+        width: 350
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0126e54d1bc4ecc0800000000000000
+      internalID: -3682595268695023346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_22
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1651
+        width: 256
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c0310b09e205f0800000000000000
+      internalID: -791814350989900523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_23
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1630
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd03a0a8129d68f60800000000000000
+      internalID: 8036349323162300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_24
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1553
+        width: 539
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623719fd6cf144330800000000000000
+      internalID: 3694112533365486374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_25
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1586
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9bccc8186d2b670800000000000000
+      internalID: 8553134494231345601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_26
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1600
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ded2a2052c57e0800000000000000
+      internalID: -1775503459838142294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_27
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1592
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95b9c80c92678590800000000000000
+      internalID: -7672055017900493414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_28
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1044
+        width: 458
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e829a6bf7b7cd0800000000000000
+      internalID: -2559311540731190807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_29
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1101
+        width: 939
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8093eec5a72780800000000000000
+      internalID: -8707809046497817666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_30
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1231
+        width: 231
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1140712ae8854f0800000000000000
+      internalID: -839764503682608695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_31
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1266
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017e5961c5658850800000000000000
+      internalID: 6378616328611066126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_32
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97db7625f22cf23d0800000000000000
+      internalID: -3229148899299574407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1939
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfda166b592e68740800000000000000
+      internalID: 5154055956209970683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_34
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 917
+        width: 241
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c340642a4c0e40800000000000000
+      internalID: 5623951554773237967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_35
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 918
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7a40f3a7a81510800000000000000
+      internalID: 1520149196790463354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_36
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 970
+        width: 806
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c449d3217847de7f0800000000000000
+      internalID: -581680653385493428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_37
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 430
+        width: 566
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62572d9a487cb56b0800000000000000
+      internalID: -5306428363327245018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_38
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 635
+        width: 350
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfe138e781865350800000000000000
+      internalID: 6005129573861289926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_39
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 639
+        width: 350
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3383643ecb8a324a0800000000000000
+      internalID: -6619261498084149197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_40
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 652
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d90bde9e4eb39590800000000000000
+      internalID: -7668576495599941163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_41
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 665
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916270ffe017064e0800000000000000
+      internalID: -1990466726075619815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_42
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 469
+        width: 159
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71aff0823149bf0800000000000000
+      internalID: -318608610848794668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_43
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 1890
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c48b4730aba07f0800000000000000
+      internalID: -645499072568341414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_44
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 348
+        width: 352
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f42d69b3d91b50800000000000000
+      internalID: 6564510725222757631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_45
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 352
+        width: 350
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0074244f3c661c350800000000000000
+      internalID: 6035217967455815424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_46
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 136
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3eccb4f9aed6640800000000000000
+      internalID: 5074970325008835557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_47
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 132
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0d9f6cd76cfa10800000000000000
+      internalID: 1944543335580241346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_48
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 147
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3659b008086242a10800000000000000
+      internalID: 1883672877493622115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_49
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 0
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9063316b8dfed1e80800000000000000
+      internalID: -8206139231952488951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_50
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 131
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588de3b4cc9d52c0800000000000000
+      internalID: -4441221288871229352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_51
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 55
+        width: 178
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34223bb1ebc24f70800000000000000
+      internalID: 9170115961648456763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_52
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 0
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba121e987b95b30800000000000000
+      internalID: 4276651123980479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-1-4096x4096-Crunch-Noel-b44363f5_0_53
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 35
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22a3f16e4eac1b0800000000000000
+      internalID: -5635440306683239718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_0: 3803492023553080663
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_1: -4250481499892370007
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_10: -6445312317101551210
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_11: -124255578587035658
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_12: -201506214207402624
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_13: 9201040734075500458
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_14: 778648707136986174
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_15: 335611710309047339
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_16: 728031057823794535
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_17: -972959310848977138
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_18: -6840219565711590486
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_19: -8758379994982614507
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_2: -8064410511943809146
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_20: -139065067268199806
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_21: -3682595268695023346
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_22: -791814350989900523
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_23: 8036349323162300636
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_24: 3694112533365486374
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_25: 8553134494231345601
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_26: -1775503459838142294
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_27: -7672055017900493414
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_28: -2559311540731190807
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_29: -8707809046497817666
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_3: -3683773227686997468
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_30: -839764503682608695
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_31: 6378616328611066126
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_32: -3229148899299574407
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_33: 5154055956209970683
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_34: 5623951554773237967
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_35: 1520149196790463354
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_36: -581680653385493428
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_37: -5306428363327245018
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_38: 6005129573861289926
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_39: -6619261498084149197
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_4: 2136283301322624276
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_40: -7668576495599941163
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_41: -1990466726075619815
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_42: -318608610848794668
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_43: -645499072568341414
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_44: 6564510725222757631
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_45: 6035217967455815424
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_46: 5074970325008835557
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_47: 1944543335580241346
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_48: 1883672877493622115
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_49: -8206139231952488951
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_5: -581404964960304544
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_50: -4441221288871229352
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_51: 9170115961648456763
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_52: 4276651123980479257
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_53: -5635440306683239718
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_6: -5127550930335075751
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_7: 6732248113778716909
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_8: -1152491670250603489
+      sactx-1-4096x4096-Crunch-Noel-b44363f5_0_9: -134130600778056005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

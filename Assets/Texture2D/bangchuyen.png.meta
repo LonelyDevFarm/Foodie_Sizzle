@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a0a47b616b227034d9c4bbe31332dac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3396591961510872060
+    second: bangchuyen_0
+  - first:
+      213: 2626622484317095548
+    second: bangchuyen_1
+  - first:
+      213: -4839385987010749129
+    second: bangchuyen_2
+  - first:
+      213: 2608594755919987642
+    second: bangchuyen_3
+  - first:
+      213: 4264861885134740757
+    second: bangchuyen_4
+  - first:
+      213: -6878819870269776970
+    second: bangchuyen_5
+  - first:
+      213: -4696387422177593090
+    second: bangchuyen_6
+  - first:
+      213: -7373983661472353646
+    second: bangchuyen_7
+  - first:
+      213: -124131112774552892
+    second: bangchuyen_8
+  - first:
+      213: -4094667139394213553
+    second: bangchuyen_9
+  - first:
+      213: 512433581169555282
+    second: bangchuyen_10
+  - first:
+      213: -4089694919619733600
+    second: bangchuyen_11
+  - first:
+      213: -3313662146423215221
+    second: bangchuyen_12
+  - first:
+      213: -6884732301564979204
+    second: bangchuyen_13
+  - first:
+      213: 2100858878729398786
+    second: bangchuyen_14
+  - first:
+      213: 3494659915543651315
+    second: bangchuyen_15
+  - first:
+      213: -2721031188674609262
+    second: bangchuyen_16
+  - first:
+      213: -7346124897528339697
+    second: bangchuyen_17
+  - first:
+      213: 3104598596112945530
+    second: bangchuyen_18
+  - first:
+      213: -2822791030270310412
+    second: bangchuyen_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bangchuyen_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 318
+        width: 169
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38dc0a46e132f20800000000000000
+      internalID: 3396591961510872060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 167
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7646c8ab33a37420800000000000000
+      internalID: 2626622484317095548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 357
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d9831c51c07dcb0800000000000000
+      internalID: -4839385987010749129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 298
+        width: 179
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ce8d0c17933420800000000000000
+      internalID: 2608594755919987642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 357
+        width: 171
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d1f8fc945df2b30800000000000000
+      internalID: 4264861885134740757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 281
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbdba606c58980a0800000000000000
+      internalID: -6878819870269776970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fd75a58413deb0800000000000000
+      internalID: -4696387422177593090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f76ecde85aa990800000000000000
+      internalID: -7373983661472353646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2bf7d196ff64ef0800000000000000
+      internalID: -124131112774552892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_9
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4961f26ee1dc27c0800000000000000
+      internalID: -4094667139394213553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_10
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257b79880a78c1700800000000000000
+      internalID: 512433581169555282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_11
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79854832c7e37c0800000000000000
+      internalID: -4089694919619733600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_12
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b29c895d18302d0800000000000000
+      internalID: -3313662146423215221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_13
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7df87d2748470a0800000000000000
+      internalID: -6884732301564979204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 274
+        width: 17
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a24e5f400c72d10800000000000000
+      internalID: 2100858878729398786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_15
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 274
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3a6cc7da68f7030800000000000000
+      internalID: 3494659915543651315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 272
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f7a40fc84fc3ad0800000000000000
+      internalID: -2721031188674609262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 261
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ab2fb3525d0a90800000000000000
+      internalID: -7346124897528339697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 198
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711d7b69ffb51b20800000000000000
+      internalID: 3104598596112945530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bangchuyen_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1
+        width: 1145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f74495838e63d8d0800000000000000
+      internalID: -2822791030270310412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bangchuyen_0: 3396591961510872060
+      bangchuyen_1: 2626622484317095548
+      bangchuyen_10: 512433581169555282
+      bangchuyen_11: -4089694919619733600
+      bangchuyen_12: -3313662146423215221
+      bangchuyen_13: -6884732301564979204
+      bangchuyen_14: 2100858878729398786
+      bangchuyen_15: 3494659915543651315
+      bangchuyen_16: -2721031188674609262
+      bangchuyen_17: -7346124897528339697
+      bangchuyen_18: 3104598596112945530
+      bangchuyen_19: -2822791030270310412
+      bangchuyen_2: -4839385987010749129
+      bangchuyen_3: 2608594755919987642
+      bangchuyen_4: 4264861885134740757
+      bangchuyen_5: -6878819870269776970
+      bangchuyen_6: -4696387422177593090
+      bangchuyen_7: -7373983661472353646
+      bangchuyen_8: -124131112774552892
+      bangchuyen_9: -4094667139394213553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: f9b50ad310d220d4da3d0dbeda99b13b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7316674727856337555
+    second: snowVIP_0
+  - first:
+      213: 8450409837844519055
+    second: snowVIP_1
+  - first:
+      213: 3289446748426939944
+    second: snowVIP_2
+  - first:
+      213: -3412289276038303442
+    second: snowVIP_3
+  - first:
+      213: 2294757486167691929
+    second: snowVIP_4
+  - first:
+      213: 5910082406908551821
+    second: snowVIP_5
+  - first:
+      213: -3903205328107850036
+    second: snowVIP_6
+  - first:
+      213: -1868631152655120345
+    second: snowVIP_7
+  - first:
+      213: 3534517178323058878
+    second: snowVIP_8
+  - first:
+      213: -4154994767158498362
+    second: snowVIP_9
+  - first:
+      213: 607054547532377327
+    second: snowVIP_10
+  - first:
+      213: -5436918042066715387
+    second: snowVIP_11
+  - first:
+      213: -8447975117113852274
+    second: snowVIP_12
+  - first:
+      213: -1560422930946454179
+    second: snowVIP_13
+  - first:
+      213: -3272933693592801019
+    second: snowVIP_14
+  - first:
+      213: -5031130551147404917
+    second: snowVIP_15
+  - first:
+      213: 1727649287633560248
+    second: snowVIP_16
+  - first:
+      213: -5870365229716246944
+    second: snowVIP_17
+  - first:
+      213: 6613952765581365723
+    second: snowVIP_18
+  - first:
+      213: 4753334730357320166
+    second: snowVIP_19
+  - first:
+      213: 114069870902938033
+    second: snowVIP_20
+  - first:
+      213: -409811197380156098
+    second: snowVIP_21
+  - first:
+      213: 3794020225878160928
+    second: snowVIP_22
+  - first:
+      213: -4430118792061109561
+    second: snowVIP_23
+  - first:
+      213: 4838908842760428436
+    second: snowVIP_24
+  - first:
+      213: -4146246155031739890
+    second: snowVIP_25
+  - first:
+      213: 2658345503361523684
+    second: snowVIP_26
+  - first:
+      213: 7956592975489742882
+    second: snowVIP_27
+  - first:
+      213: 4194218416912548094
+    second: snowVIP_28
+  - first:
+      213: -6931916441386771426
+    second: snowVIP_29
+  - first:
+      213: 7696939908158472455
+    second: snowVIP_30
+  - first:
+      213: 4536524676270215961
+    second: snowVIP_31
+  - first:
+      213: -8475758930244309418
+    second: snowVIP_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snowVIP_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39274fa46ec0a8560800000000000000
+      internalID: 7316674727856337555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 517
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88503fa9f2e54570800000000000000
+      internalID: 8450409837844519055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 492
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e2d83b36676ad20800000000000000
+      internalID: 3289446748426939944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 499
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21bcd68bfc15a0d0800000000000000
+      internalID: -3412289276038303442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99291b886cd98df10800000000000000
+      internalID: 2294757486167691929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 453
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82e119d2a4d40250800000000000000
+      internalID: 5910082406908551821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 354
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc638b42f6705d9c0800000000000000
+      internalID: -3903205328107850036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 450
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72843c9fdd94116e0800000000000000
+      internalID: -1868631152655120345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 445
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb04672a5a02d0130800000000000000
+      internalID: 3534517178323058878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 445
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb29ebf54e7656c0800000000000000
+      internalID: -4154994767158498362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 445
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fece3f805e0bc6800800000000000000
+      internalID: 607054547532377327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 424
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d73b5c8df2c84b0800000000000000
+      internalID: -5436918042066715387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 408
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef619e363c2ca80800000000000000
+      internalID: -8447975117113852274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 403
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d009d9c93485ae0800000000000000
+      internalID: -1560422930946454179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 363
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5017efb75243492d0800000000000000
+      internalID: -3272933693592801019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 117
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b816e387b65dd2ab0800000000000000
+      internalID: -5031130551147404917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 348
+        width: 119
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ead5afd7d9f710800000000000000
+      internalID: 1727649287633560248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 117
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e65f41de5488ea0800000000000000
+      internalID: -5870365229716246944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd190b18ffa79cb50800000000000000
+      internalID: 6613952765581365723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 293
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a975c0cc37f140800000000000000
+      internalID: 4753334730357320166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 292
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98eb671f1459100800000000000000
+      internalID: 114069870902938033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 293
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ad2323ee005af0800000000000000
+      internalID: -409811197380156098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0267d1a3b4117a430800000000000000
+      internalID: 3794020225878160928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca3a6e2e6e0582c0800000000000000
+      internalID: -4430118792061109561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 151
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5b3174f1472340800000000000000
+      internalID: 4838908842760428436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 223
+        width: 117
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02010af6139576c0800000000000000
+      internalID: -4146246155031739890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 151
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efde1a962754e420800000000000000
+      internalID: 2658345503361523684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2283f66c72f7b6e60800000000000000
+      internalID: 7956592975489742882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04972ad6bd43a30800000000000000
+      internalID: 4194218416912548094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 77
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c937239b2eccf90800000000000000
+      internalID: -6931916441386771426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_30
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 78
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701405bf01601da60800000000000000
+      internalID: 7696939908158472455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91351e35829f4fe30800000000000000
+      internalID: 4536524676270215961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowVIP_32
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e61f0d82e006a80800000000000000
+      internalID: -8475758930244309418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snowVIP_0: 7316674727856337555
+      snowVIP_1: 8450409837844519055
+      snowVIP_10: 607054547532377327
+      snowVIP_11: -5436918042066715387
+      snowVIP_12: -8447975117113852274
+      snowVIP_13: -1560422930946454179
+      snowVIP_14: -3272933693592801019
+      snowVIP_15: -5031130551147404917
+      snowVIP_16: 1727649287633560248
+      snowVIP_17: -5870365229716246944
+      snowVIP_18: 6613952765581365723
+      snowVIP_19: 4753334730357320166
+      snowVIP_2: 3289446748426939944
+      snowVIP_20: 114069870902938033
+      snowVIP_21: -409811197380156098
+      snowVIP_22: 3794020225878160928
+      snowVIP_23: -4430118792061109561
+      snowVIP_24: 4838908842760428436
+      snowVIP_25: -4146246155031739890
+      snowVIP_26: 2658345503361523684
+      snowVIP_27: 7956592975489742882
+      snowVIP_28: 4194218416912548094
+      snowVIP_29: -6931916441386771426
+      snowVIP_3: -3412289276038303442
+      snowVIP_30: 7696939908158472455
+      snowVIP_31: 4536524676270215961
+      snowVIP_32: -8475758930244309418
+      snowVIP_4: 2294757486167691929
+      snowVIP_5: 5910082406908551821
+      snowVIP_6: -3903205328107850036
+      snowVIP_7: -1868631152655120345
+      snowVIP_8: 3534517178323058878
+      snowVIP_9: -4154994767158498362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

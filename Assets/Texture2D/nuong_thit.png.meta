@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: e20c55cfaa87b104da1d195bc3bb9974
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5097990731480731454
+    second: nuong_thit_0
+  - first:
+      213: -3188437890229012212
+    second: nuong_thit_1
+  - first:
+      213: 6789396228974867413
+    second: nuong_thit_2
+  - first:
+      213: 1375422089568434935
+    second: nuong_thit_3
+  - first:
+      213: -7347440085176260623
+    second: nuong_thit_4
+  - first:
+      213: 8349728646745773884
+    second: nuong_thit_5
+  - first:
+      213: -6857756912626141964
+    second: nuong_thit_6
+  - first:
+      213: -4979274128641147139
+    second: nuong_thit_7
+  - first:
+      213: 1008290199783185280
+    second: nuong_thit_8
+  - first:
+      213: -4388851582841486772
+    second: nuong_thit_9
+  - first:
+      213: -296923349221109013
+    second: nuong_thit_10
+  - first:
+      213: 8134535542560028716
+    second: nuong_thit_11
+  - first:
+      213: -1619555818599672363
+    second: nuong_thit_12
+  - first:
+      213: 3038091644503788038
+    second: nuong_thit_13
+  - first:
+      213: 1700718321437915315
+    second: nuong_thit_14
+  - first:
+      213: -4169368210695507455
+    second: nuong_thit_15
+  - first:
+      213: -3829951686178300077
+    second: nuong_thit_16
+  - first:
+      213: -1517421619198230118
+    second: nuong_thit_17
+  - first:
+      213: -4486649657538913728
+    second: nuong_thit_18
+  - first:
+      213: -8255238077177268520
+    second: nuong_thit_19
+  - first:
+      213: -7749945087178069843
+    second: nuong_thit_20
+  - first:
+      213: -5530810866074876967
+    second: nuong_thit_21
+  - first:
+      213: -6054921301507440084
+    second: nuong_thit_22
+  - first:
+      213: 1480897067742170626
+    second: nuong_thit_23
+  - first:
+      213: 4203993182111537263
+    second: nuong_thit_24
+  - first:
+      213: -7717209936642676801
+    second: nuong_thit_25
+  - first:
+      213: 3420471686980646090
+    second: nuong_thit_26
+  - first:
+      213: 7375461309973182413
+    second: nuong_thit_27
+  - first:
+      213: 3020437960973076896
+    second: nuong_thit_28
+  - first:
+      213: 4767374932426295847
+    second: nuong_thit_29
+  - first:
+      213: -7578852276115948113
+    second: nuong_thit_30
+  - first:
+      213: -7996990722510431013
+    second: nuong_thit_31
+  - first:
+      213: -2840599234608959518
+    second: nuong_thit_32
+  - first:
+      213: 7382286071537858389
+    second: nuong_thit_33
+  - first:
+      213: -2050244045480371914
+    second: nuong_thit_34
+  - first:
+      213: -7819249975092486592
+    second: nuong_thit_35
+  - first:
+      213: -3739658468355094780
+    second: nuong_thit_36
+  - first:
+      213: -369074379554476034
+    second: nuong_thit_37
+  - first:
+      213: -4641275553965035699
+    second: nuong_thit_38
+  - first:
+      213: 2031395954060375702
+    second: nuong_thit_39
+  - first:
+      213: -3828439299116792513
+    second: nuong_thit_40
+  - first:
+      213: 8185214412851606135
+    second: nuong_thit_41
+  - first:
+      213: -1202439306915763443
+    second: nuong_thit_42
+  - first:
+      213: -3217218312112804201
+    second: nuong_thit_43
+  - first:
+      213: 8485497383645622625
+    second: nuong_thit_44
+  - first:
+      213: 6641760607220208276
+    second: nuong_thit_45
+  - first:
+      213: 60504573709121743
+    second: nuong_thit_46
+  - first:
+      213: -528402804749154773
+    second: nuong_thit_47
+  - first:
+      213: -8063470542211004252
+    second: nuong_thit_48
+  - first:
+      213: 1770577741487293064
+    second: nuong_thit_49
+  - first:
+      213: -2818763133049699129
+    second: nuong_thit_50
+  - first:
+      213: -8815473741555759413
+    second: nuong_thit_51
+  - first:
+      213: 555015053466466861
+    second: nuong_thit_52
+  - first:
+      213: 7435401335144413456
+    second: nuong_thit_53
+  - first:
+      213: 271536506066740785
+    second: nuong_thit_54
+  - first:
+      213: 624360943817396892
+    second: nuong_thit_55
+  - first:
+      213: -4146031991298224589
+    second: nuong_thit_56
+  - first:
+      213: 7316220411197814823
+    second: nuong_thit_57
+  - first:
+      213: 7492633394827995509
+    second: nuong_thit_58
+  - first:
+      213: 4952275404876887731
+    second: nuong_thit_59
+  - first:
+      213: 646535354768218793
+    second: nuong_thit_60
+  - first:
+      213: 3943650757559707788
+    second: nuong_thit_61
+  - first:
+      213: -5168079463474006502
+    second: nuong_thit_62
+  - first:
+      213: 6895498279967280926
+    second: nuong_thit_63
+  - first:
+      213: 663984116429523304
+    second: nuong_thit_64
+  - first:
+      213: 3604958839566010558
+    second: nuong_thit_65
+  - first:
+      213: -8483404022410707063
+    second: nuong_thit_66
+  - first:
+      213: 3721518931236073440
+    second: nuong_thit_67
+  - first:
+      213: -6401903407176811212
+    second: nuong_thit_68
+  - first:
+      213: -8705320964837675422
+    second: nuong_thit_69
+  - first:
+      213: -5486696917841951978
+    second: nuong_thit_70
+  - first:
+      213: 2911244309956595938
+    second: nuong_thit_71
+  - first:
+      213: -402028444757934069
+    second: nuong_thit_72
+  - first:
+      213: 5207511662168010587
+    second: nuong_thit_73
+  - first:
+      213: -8766408160232025490
+    second: nuong_thit_74
+  - first:
+      213: -6130012488514170698
+    second: nuong_thit_75
+  - first:
+      213: 80075236721359251
+    second: nuong_thit_76
+  - first:
+      213: 7268451172170204245
+    second: nuong_thit_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuong_thit_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f842a5f83bfb640800000000000000
+      internalID: 5097990731480731454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 442
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f084c1a460c3d0800000000000000
+      internalID: -3188437890229012212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 442
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d37c6306e7c83e50800000000000000
+      internalID: 6789396228974867413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 487
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab3f86a1b761310800000000000000
+      internalID: 1375422089568434935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 370
+        width: 42
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f76a92cb26a80a90800000000000000
+      internalID: -7347440085176260623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 492
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375f2827f130e370800000000000000
+      internalID: 8349728646745773884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 370
+        width: 29
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f470f20c6a54d0a0800000000000000
+      internalID: -6857756912626141964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 453
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe3d03bf8016eab0800000000000000
+      internalID: -4979274128641147139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 488
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9594389a2efd00800000000000000
+      internalID: 1008290199783185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4282d01dbaa713c0800000000000000
+      internalID: -4388851582841486772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 434
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2182c79cd11ebf0800000000000000
+      internalID: -296923349221109013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 465
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2874133afca3e070800000000000000
+      internalID: 8134535542560028716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 433
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51372509e2689e0800000000000000
+      internalID: -1619555818599672363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 433
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0bb11148792a20800000000000000
+      internalID: 3038091644503788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 440
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b83e447d4a2a9710800000000000000
+      internalID: 1700718321437915315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 370
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10230bfd3bd6326c0800000000000000
+      internalID: -4169368210695507455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 453
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f1f6ebb3749dac0800000000000000
+      internalID: -3829951686178300077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 436
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910135b31901fae0800000000000000
+      internalID: -1517421619198230118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 436
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad3c268e73cb1c0800000000000000
+      internalID: -4486649657538913728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 438
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f199f4b08f6d80800000000000000
+      internalID: -8255238077177268520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a7f1110aa27490800000000000000
+      internalID: -7749945087178069843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 311
+        width: 34
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38cbf12dc9e33b0800000000000000
+      internalID: -5530810866074876967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2204b8182998fba0800000000000000
+      internalID: -6054921301507440084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 381
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e80b779043d8410800000000000000
+      internalID: 1480897067742170626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 355
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681ce18685975a30800000000000000
+      internalID: 4203993182111537263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 410
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76c4d3376f6e490800000000000000
+      internalID: -7717209936642676801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 397
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac433ca70e4f77f20800000000000000
+      internalID: 3420471686980646090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 355
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b69b0cf6ea5660800000000000000
+      internalID: 7375461309973182413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_28
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 370
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9c7e19250cae920800000000000000
+      internalID: 3020437960973076896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 374
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0f5e0e3e192240800000000000000
+      internalID: 4767374932426295847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 348
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb2f4620282d690800000000000000
+      internalID: -7578852276115948113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 331
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcdba8ce4bf40190800000000000000
+      internalID: -7996990722510431013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 304
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe2e7db0a2498d0800000000000000
+      internalID: -2840599234608959518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 347
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f35ca116237660800000000000000
+      internalID: 7382286071537858389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 318
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639584e37e11c83e0800000000000000
+      internalID: -2050244045480371914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 325
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e51a863917c7390800000000000000
+      internalID: -7819249975092486592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_36
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 327
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c964cf601a1cc0800000000000000
+      internalID: -3739658468355094780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 330
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff25f6aec8c0eaf0800000000000000
+      internalID: -369074379554476034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 317
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fa5356970e69fb0800000000000000
+      internalID: -4641275553965035699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 267
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6963fef7bd7f03c10800000000000000
+      internalID: 2031395954060375702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_40
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 322
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f358ffbcdb6aedac0800000000000000
+      internalID: -3828439299116792513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_41
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 317
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7727d603429b79170800000000000000
+      internalID: 8185214412851606135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 317
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ba15732d3105fe0800000000000000
+      internalID: -1202439306915763443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 305
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e62ad9df42a53d0800000000000000
+      internalID: -3217218312112804201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_44
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16134be89ea82c570800000000000000
+      internalID: 8485497383645622625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4921b8c25164c2c50800000000000000
+      internalID: 6641760607220208276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 55
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f737d694f6d000800000000000000
+      internalID: 60504573709121743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 165
+        width: 55
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264b9cd27cbaa8f0800000000000000
+      internalID: -528402804749154773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_48
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 292
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8cfa2934cc81090800000000000000
+      internalID: -8063470542211004252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 296
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824090331b529810800000000000000
+      internalID: 1770577741487293064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_50
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 295
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c40b9c6dddb1e8d0800000000000000
+      internalID: -2818763133049699129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 267
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc609c3a65529a580800000000000000
+      internalID: -8815473741555759413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2afcd2204fc3b700800000000000000
+      internalID: 555015053466466861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 165
+        width: 22
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197fbfae1adf2760800000000000000
+      internalID: 7435401335144413456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 243
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a8ab7301b4c300800000000000000
+      internalID: 271536506066740785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_55
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 165
+        width: 21
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c921ddb68fc2aa800800000000000000
+      internalID: 624360943817396892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 261
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e834bded55676c0800000000000000
+      internalID: -4146031991298224589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 196
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72878e373bf688560800000000000000
+      internalID: 7316220411197814823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 266
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a3faff5e2bf760800000000000000
+      internalID: 7492633394827995509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 202
+        width: 19
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b637911e340ab440800000000000000
+      internalID: 4952275404876887731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_60
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 217
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad0bbca74f8f800800000000000000
+      internalID: 646535354768218793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88eb8a3879aab630800000000000000
+      internalID: 3943650757559707788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 193
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f3a01c1b4748b0800000000000000
+      internalID: -5168079463474006502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 117
+        width: 150
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f44c6d62bb1bf50800000000000000
+      internalID: 6895498279967280926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_64
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86988443902f63900800000000000000
+      internalID: 663984116429523304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 165
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88c36f6f2670230800000000000000
+      internalID: 3604958839566010558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_66
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 165
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff6161df4e44a80800000000000000
+      internalID: -8483404022410707063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 111
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa73120cd75a330800000000000000
+      internalID: 3721518931236073440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 209
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfcd815ced727a0800000000000000
+      internalID: -6401903407176811212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 112
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ee61b84bc703780800000000000000
+      internalID: -8705320964837675422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_70
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 131
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ccc519365bd3b0800000000000000
+      internalID: -5486696917841951978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e017558641d66820800000000000000
+      internalID: 2911244309956595938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c9907245bb6af0800000000000000
+      internalID: -402028444757934069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 111
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f6a33244cc44840800000000000000
+      internalID: 5207511662168010587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_74
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 78
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d8458936775680800000000000000
+      internalID: -8766408160232025490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_75
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 55
+        width: 143
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b09761be12ddeaa0800000000000000
+      internalID: -6130012488514170698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_76
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 27
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f418e00c7c1100800000000000000
+      internalID: 80075236721359251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuong_thit_77
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1
+        width: 135
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5540a78c4d9bed460800000000000000
+      internalID: 7268451172170204245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuong_thit_0: 5097990731480731454
+      nuong_thit_1: -3188437890229012212
+      nuong_thit_10: -296923349221109013
+      nuong_thit_11: 8134535542560028716
+      nuong_thit_12: -1619555818599672363
+      nuong_thit_13: 3038091644503788038
+      nuong_thit_14: 1700718321437915315
+      nuong_thit_15: -4169368210695507455
+      nuong_thit_16: -3829951686178300077
+      nuong_thit_17: -1517421619198230118
+      nuong_thit_18: -4486649657538913728
+      nuong_thit_19: -8255238077177268520
+      nuong_thit_2: 6789396228974867413
+      nuong_thit_20: -7749945087178069843
+      nuong_thit_21: -5530810866074876967
+      nuong_thit_22: -6054921301507440084
+      nuong_thit_23: 1480897067742170626
+      nuong_thit_24: 4203993182111537263
+      nuong_thit_25: -7717209936642676801
+      nuong_thit_26: 3420471686980646090
+      nuong_thit_27: 7375461309973182413
+      nuong_thit_28: 3020437960973076896
+      nuong_thit_29: 4767374932426295847
+      nuong_thit_3: 1375422089568434935
+      nuong_thit_30: -7578852276115948113
+      nuong_thit_31: -7996990722510431013
+      nuong_thit_32: -2840599234608959518
+      nuong_thit_33: 7382286071537858389
+      nuong_thit_34: -2050244045480371914
+      nuong_thit_35: -7819249975092486592
+      nuong_thit_36: -3739658468355094780
+      nuong_thit_37: -369074379554476034
+      nuong_thit_38: -4641275553965035699
+      nuong_thit_39: 2031395954060375702
+      nuong_thit_4: -7347440085176260623
+      nuong_thit_40: -3828439299116792513
+      nuong_thit_41: 8185214412851606135
+      nuong_thit_42: -1202439306915763443
+      nuong_thit_43: -3217218312112804201
+      nuong_thit_44: 8485497383645622625
+      nuong_thit_45: 6641760607220208276
+      nuong_thit_46: 60504573709121743
+      nuong_thit_47: -528402804749154773
+      nuong_thit_48: -8063470542211004252
+      nuong_thit_49: 1770577741487293064
+      nuong_thit_5: 8349728646745773884
+      nuong_thit_50: -2818763133049699129
+      nuong_thit_51: -8815473741555759413
+      nuong_thit_52: 555015053466466861
+      nuong_thit_53: 7435401335144413456
+      nuong_thit_54: 271536506066740785
+      nuong_thit_55: 624360943817396892
+      nuong_thit_56: -4146031991298224589
+      nuong_thit_57: 7316220411197814823
+      nuong_thit_58: 7492633394827995509
+      nuong_thit_59: 4952275404876887731
+      nuong_thit_6: -6857756912626141964
+      nuong_thit_60: 646535354768218793
+      nuong_thit_61: 3943650757559707788
+      nuong_thit_62: -5168079463474006502
+      nuong_thit_63: 6895498279967280926
+      nuong_thit_64: 663984116429523304
+      nuong_thit_65: 3604958839566010558
+      nuong_thit_66: -8483404022410707063
+      nuong_thit_67: 3721518931236073440
+      nuong_thit_68: -6401903407176811212
+      nuong_thit_69: -8705320964837675422
+      nuong_thit_7: -4979274128641147139
+      nuong_thit_70: -5486696917841951978
+      nuong_thit_71: 2911244309956595938
+      nuong_thit_72: -402028444757934069
+      nuong_thit_73: 5207511662168010587
+      nuong_thit_74: -8766408160232025490
+      nuong_thit_75: -6130012488514170698
+      nuong_thit_76: 80075236721359251
+      nuong_thit_77: 7268451172170204245
+      nuong_thit_8: 1008290199783185280
+      nuong_thit_9: -4388851582841486772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

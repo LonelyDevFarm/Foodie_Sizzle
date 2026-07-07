@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: 887167d5dcf197241a1d075a8e23c41b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2055067788339239472
+    second: NoelPack_0
+  - first:
+      213: -2177562252624445650
+    second: NoelPack_1
+  - first:
+      213: 872969634293102973
+    second: NoelPack_2
+  - first:
+      213: -6044821643951709274
+    second: NoelPack_3
+  - first:
+      213: -1215101776804504656
+    second: NoelPack_4
+  - first:
+      213: -9172733820232425671
+    second: NoelPack_5
+  - first:
+      213: 389020992313819259
+    second: NoelPack_6
+  - first:
+      213: 3033134051316450877
+    second: NoelPack_7
+  - first:
+      213: -1783450963913298459
+    second: NoelPack_8
+  - first:
+      213: -6513560571153320344
+    second: NoelPack_9
+  - first:
+      213: -3010383178270651802
+    second: NoelPack_10
+  - first:
+      213: 2015249826724581123
+    second: NoelPack_11
+  - first:
+      213: 8183406620406312133
+    second: NoelPack_12
+  - first:
+      213: -665431489040982188
+    second: NoelPack_13
+  - first:
+      213: -422263239611967042
+    second: NoelPack_14
+  - first:
+      213: -1011647321648055740
+    second: NoelPack_15
+  - first:
+      213: -1063941567042435174
+    second: NoelPack_16
+  - first:
+      213: 7258588446089461345
+    second: NoelPack_17
+  - first:
+      213: 8280656581857543725
+    second: NoelPack_18
+  - first:
+      213: -4229646222234426028
+    second: NoelPack_19
+  - first:
+      213: -815853405173872875
+    second: NoelPack_20
+  - first:
+      213: 2349279341345136749
+    second: NoelPack_21
+  - first:
+      213: 3066222168577618449
+    second: NoelPack_22
+  - first:
+      213: -8788484000839413276
+    second: NoelPack_23
+  - first:
+      213: 5658507568008163717
+    second: NoelPack_24
+  - first:
+      213: -8069074076618302067
+    second: NoelPack_25
+  - first:
+      213: 5043316011309173668
+    second: NoelPack_26
+  - first:
+      213: 4830891212837296308
+    second: NoelPack_27
+  - first:
+      213: -89042766664576862
+    second: NoelPack_28
+  - first:
+      213: -4851762551026103100
+    second: NoelPack_29
+  - first:
+      213: 3441735338201395842
+    second: NoelPack_30
+  - first:
+      213: 6531414556116161559
+    second: NoelPack_31
+  - first:
+      213: -6663097259956197777
+    second: NoelPack_32
+  - first:
+      213: -1293573364028502571
+    second: NoelPack_33
+  - first:
+      213: -2731194173543727279
+    second: NoelPack_34
+  - first:
+      213: -1063771940720942755
+    second: NoelPack_35
+  - first:
+      213: -4902138089108789263
+    second: NoelPack_36
+  - first:
+      213: 6779757897855627155
+    second: NoelPack_37
+  - first:
+      213: 2789747766185850111
+    second: NoelPack_38
+  - first:
+      213: 4997239270822787626
+    second: NoelPack_39
+  - first:
+      213: 4215455024382044855
+    second: NoelPack_40
+  - first:
+      213: 4431880052729394452
+    second: NoelPack_41
+  - first:
+      213: -8017872096287145986
+    second: NoelPack_42
+  - first:
+      213: 1395967512903202590
+    second: NoelPack_43
+  - first:
+      213: -5411100728116116651
+    second: NoelPack_44
+  - first:
+      213: -2640545969021915057
+    second: NoelPack_45
+  - first:
+      213: 8518259888605864712
+    second: NoelPack_46
+  - first:
+      213: 1465353609449149719
+    second: NoelPack_47
+  - first:
+      213: 8829790558072968942
+    second: NoelPack_48
+  - first:
+      213: -7228576711377914053
+    second: NoelPack_49
+  - first:
+      213: -672109991273255441
+    second: NoelPack_50
+  - first:
+      213: 6130180847038818868
+    second: NoelPack_51
+  - first:
+      213: 1053664852241048324
+    second: NoelPack_52
+  - first:
+      213: 9147860401792206124
+    second: NoelPack_53
+  - first:
+      213: -4212943322961165589
+    second: NoelPack_54
+  - first:
+      213: 7446988128272284493
+    second: NoelPack_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoelPack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1398
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ade49e341158c10800000000000000
+      internalID: 2055067788339239472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1398
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f35002baeb7c1e0800000000000000
+      internalID: -2177562252624445650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1196
+        width: 298
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d793eb7d1496d1c00800000000000000
+      internalID: 872969634293102973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1401
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36aadddba7c1ca0800000000000000
+      internalID: -6044821643951709274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1322
+        width: 117
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb1f933f57132fe0800000000000000
+      internalID: -1215101776804504656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_5
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1322
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f95d19037e3b080800000000000000
+      internalID: -9172733820232425671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_6
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1322
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7009090884166500800000000000000
+      internalID: 389020992313819259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1311
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36cbd4795bd71a20800000000000000
+      internalID: 3033134051316450877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1369
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edae952cc8ef37e0800000000000000
+      internalID: -1783450963913298459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1195
+        width: 431
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8667a6dbb2f2b95a0800000000000000
+      internalID: -6513560571153320344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1357
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acd55f278f836d0800000000000000
+      internalID: -3010383178270651802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 691
+        width: 680
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f06974a0b97fb10800000000000000
+      internalID: 2015249826724581123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_12
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1311
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce5e5b6fc419170800000000000000
+      internalID: 8183406620406312133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1313
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f5a591699e3c6f0800000000000000
+      internalID: -665431489040982188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_14
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1200
+        width: 43
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9193122d1d32af0800000000000000
+      internalID: -422263239611967042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_15
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1249
+        width: 165
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a3133fe18e5f1f0800000000000000
+      internalID: -1011647321648055740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_16
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1195
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c9a228ce1c31f0800000000000000
+      internalID: -1063941567042435174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_17
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1249
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ebaebebbfabb460800000000000000
+      internalID: 7258588446089461345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_18
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1268
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268e94d94dcae270800000000000000
+      internalID: 8280656581857543725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_19
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1290
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455e426ab274d45c0800000000000000
+      internalID: -4229646222234426028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_20
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1268
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51781db86a18da4f0800000000000000
+      internalID: -815853405173872875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_21
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1269
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606a0b2d115a9020800000000000000
+      internalID: 2349279341345136749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_22
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 935
+        width: 500
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123f7811d86d8a20800000000000000
+      internalID: 3066222168577618449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_23
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1197
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e153c75d58090680800000000000000
+      internalID: -8788484000839413276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_24
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1171
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5817cfd27ae078e40800000000000000
+      internalID: 5658507568008163717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 811
+        width: 748
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5adc01e3e40090800000000000000
+      internalID: -8069074076618302067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_26
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 936
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab8f1011357df540800000000000000
+      internalID: 5043316011309173668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_27
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1057
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b819b186f5ca0340800000000000000
+      internalID: 4830891212837296308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 745
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d3235318a3cef0800000000000000
+      internalID: -89042766664576862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_29
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 694
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccb836aa31bacb0800000000000000
+      internalID: -4851762551026103100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_30
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 599
+        width: 545
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28237641e0083cf20800000000000000
+      internalID: 3441735338201395842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_31
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 588
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149e121fee34aa50800000000000000
+      internalID: 6531414556116161559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_32
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 567
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66ae6c385ce783a0800000000000000
+      internalID: -6663097259956197777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_33
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 572
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd8c2a01ed4c0ee0800000000000000
+      internalID: -1293573364028502571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_34
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 570
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f3f41ae59d81ad0800000000000000
+      internalID: -2731194173543727279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_35
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 565
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ec475e09bc31f0800000000000000
+      internalID: -1063771940720942755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_36
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 523
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f722ce616b18fbb0800000000000000
+      internalID: -4902138089108789263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_37
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 523
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f65dc23e9861e50800000000000000
+      internalID: 6779757897855627155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_38
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 534
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4727800dc27b620800000000000000
+      internalID: 2789747766185850111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_39
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 500
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a360be3a2c95540800000000000000
+      internalID: 4997239270822787626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_40
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 308
+        width: 111
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6dee920e408a30800000000000000
+      internalID: 4215455024382044855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_41
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 471
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41533164d63318d30800000000000000
+      internalID: 4431880052729394452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_42
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 467
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb9461fcbcab090800000000000000
+      internalID: -8017872096287145986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_43
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 465
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b49c8e097f5310800000000000000
+      internalID: 1395967512903202590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_44
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 413
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55308c89e88e7e4b0800000000000000
+      internalID: -5411100728116116651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_45
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fb5f6e65ea5bd0800000000000000
+      internalID: -2640545969021915057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_46
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 360
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803afccac30f63670800000000000000
+      internalID: 8518259888605864712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_47
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 321
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159d81185bf55410800000000000000
+      internalID: 1465353609449149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_48
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 321
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69907fab7b98a70800000000000000
+      internalID: 8829790558072968942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_49
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 257
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3778a697cfeeab90800000000000000
+      internalID: -7228576711377914053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_50
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1
+        width: 116
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedaa20268f2ca6f0800000000000000
+      internalID: -672109991273255441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_51
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 215
+        width: 122
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ae6a45007c21550800000000000000
+      internalID: 6130180847038818868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_52
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403642eb99e5f9e00800000000000000
+      internalID: 1053664852241048324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_53
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 74
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25cfa7619ab3fe70800000000000000
+      internalID: 9147860401792206124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_54
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2cb007e5e9885c0800000000000000
+      internalID: -4212943322961165589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelPack_55
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b78303f34095760800000000000000
+      internalID: 7446988128272284493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoelPack_0: 2055067788339239472
+      NoelPack_1: -2177562252624445650
+      NoelPack_10: -3010383178270651802
+      NoelPack_11: 2015249826724581123
+      NoelPack_12: 8183406620406312133
+      NoelPack_13: -665431489040982188
+      NoelPack_14: -422263239611967042
+      NoelPack_15: -1011647321648055740
+      NoelPack_16: -1063941567042435174
+      NoelPack_17: 7258588446089461345
+      NoelPack_18: 8280656581857543725
+      NoelPack_19: -4229646222234426028
+      NoelPack_2: 872969634293102973
+      NoelPack_20: -815853405173872875
+      NoelPack_21: 2349279341345136749
+      NoelPack_22: 3066222168577618449
+      NoelPack_23: -8788484000839413276
+      NoelPack_24: 5658507568008163717
+      NoelPack_25: -8069074076618302067
+      NoelPack_26: 5043316011309173668
+      NoelPack_27: 4830891212837296308
+      NoelPack_28: -89042766664576862
+      NoelPack_29: -4851762551026103100
+      NoelPack_3: -6044821643951709274
+      NoelPack_30: 3441735338201395842
+      NoelPack_31: 6531414556116161559
+      NoelPack_32: -6663097259956197777
+      NoelPack_33: -1293573364028502571
+      NoelPack_34: -2731194173543727279
+      NoelPack_35: -1063771940720942755
+      NoelPack_36: -4902138089108789263
+      NoelPack_37: 6779757897855627155
+      NoelPack_38: 2789747766185850111
+      NoelPack_39: 4997239270822787626
+      NoelPack_4: -1215101776804504656
+      NoelPack_40: 4215455024382044855
+      NoelPack_41: 4431880052729394452
+      NoelPack_42: -8017872096287145986
+      NoelPack_43: 1395967512903202590
+      NoelPack_44: -5411100728116116651
+      NoelPack_45: -2640545969021915057
+      NoelPack_46: 8518259888605864712
+      NoelPack_47: 1465353609449149719
+      NoelPack_48: 8829790558072968942
+      NoelPack_49: -7228576711377914053
+      NoelPack_5: -9172733820232425671
+      NoelPack_50: -672109991273255441
+      NoelPack_51: 6130180847038818868
+      NoelPack_52: 1053664852241048324
+      NoelPack_53: 9147860401792206124
+      NoelPack_54: -4212943322961165589
+      NoelPack_55: 7446988128272284493
+      NoelPack_6: 389020992313819259
+      NoelPack_7: 3033134051316450877
+      NoelPack_8: -1783450963913298459
+      NoelPack_9: -6513560571153320344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

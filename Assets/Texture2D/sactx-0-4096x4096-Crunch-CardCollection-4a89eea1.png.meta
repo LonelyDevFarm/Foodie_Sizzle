@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: bb70f09ae44f278478de952478898040
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7060364711244340170
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_0
+  - first:
+      213: -5896596107095048667
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_1
+  - first:
+      213: -9100226100663832996
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_2
+  - first:
+      213: 1148306978962263896
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_3
+  - first:
+      213: 1889742131674471375
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_4
+  - first:
+      213: -1688112528271018416
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_5
+  - first:
+      213: -6093893139189845258
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_6
+  - first:
+      213: -2903390283133883546
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_7
+  - first:
+      213: -1424449594031007696
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_8
+  - first:
+      213: -4997810438859052896
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_9
+  - first:
+      213: 5057705786675178287
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_10
+  - first:
+      213: 6261563107936069897
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_11
+  - first:
+      213: 8627851336833055364
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_12
+  - first:
+      213: 1731079690251739445
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_13
+  - first:
+      213: 6300413687928493504
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_14
+  - first:
+      213: 1408346857116808709
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_15
+  - first:
+      213: -3595295745908273940
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_16
+  - first:
+      213: 6117595993920193480
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_17
+  - first:
+      213: 6725872438694855791
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_18
+  - first:
+      213: 5459098903048028881
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_19
+  - first:
+      213: -6602015211022614762
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_20
+  - first:
+      213: 392901118357881742
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_21
+  - first:
+      213: 5360248773680878854
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_22
+  - first:
+      213: -7263635686922567096
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_23
+  - first:
+      213: -1900444306410819674
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_24
+  - first:
+      213: -534323947852582920
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_25
+  - first:
+      213: 2600893743254995860
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_26
+  - first:
+      213: -5407430910691557312
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_27
+  - first:
+      213: 5134783412358438082
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_28
+  - first:
+      213: 2727144875220728971
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_29
+  - first:
+      213: 8368430452734425361
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_30
+  - first:
+      213: -3417289417204488161
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_31
+  - first:
+      213: -7294894090996520246
+    second: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1453
+        width: 4096
+        height: 2617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e399d3bb840e90800000000000000
+      internalID: -7060364711244340170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1345
+        width: 471
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ef5a405151b2ea0800000000000000
+      internalID: -5896596107095048667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1345
+        width: 439
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea136939085b180800000000000000
+      internalID: -9100226100663832996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_3
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1164
+        width: 452
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fc5260d1b9fef00800000000000000
+      internalID: 1148306978962263896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_4
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1165
+        width: 439
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbdb8bd476b93a10800000000000000
+      internalID: 1889742131674471375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_5
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1147
+        width: 342
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056f48b799e9298e0800000000000000
+      internalID: -1688112528271018416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_6
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1147
+        width: 345
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2366b0a742e6ba0800000000000000
+      internalID: -6093893139189845258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_7
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1297
+        width: 343
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66beb799be515b7d0800000000000000
+      internalID: -2903390283133883546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_8
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1279
+        width: 339
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038155b24a65b3ce0800000000000000
+      internalID: -1424449594031007696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_9
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1223
+        width: 341
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a82119a2e534aab0800000000000000
+      internalID: -4997810438859052896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_10
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1124
+        width: 333
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b2639bd94903640800000000000000
+      internalID: 5057705786675178287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 493
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096833b87a85e650800000000000000
+      internalID: 6261563107936069897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 768
+        width: 494
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a30da14194cb770800000000000000
+      internalID: 8627851336833055364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 613
+        width: 471
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531295f7ec7060810800000000000000
+      internalID: 1731079690251739445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_14
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 612
+        width: 452
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59cfe3ed09f6750800000000000000
+      internalID: 6300413687928493504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_15
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 927
+        width: 757
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063cfa31047b8310800000000000000
+      internalID: 1408346857116808709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_16
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 888
+        width: 338
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0aaa5191fa1ec0800000000000000
+      internalID: -3595295745908273940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_17
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 871
+        width: 339
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c347f0e42116e450800000000000000
+      internalID: 6117595993920193480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_18
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 815
+        width: 338
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f644ff80959175d50800000000000000
+      internalID: 6725872438694855791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_19
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 815
+        width: 377
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d207ed578d92cb40800000000000000
+      internalID: 5459098903048028881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 898
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7541052ee064a0800000000000000
+      internalID: -6602015211022614762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_21
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 466
+        width: 458
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8343974c7dd37500800000000000000
+      internalID: 392901118357881742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_22
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 459
+        width: 681
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605d8fe1cdd636a40800000000000000
+      internalID: 5360248773680878854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_23
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 403
+        width: 341
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842412fb3d1623b90800000000000000
+      internalID: -7263635686922567096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_24
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 406
+        width: 344
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af28f8e8f340a5e0800000000000000
+      internalID: -1900444306410819674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_25
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 634
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff234d4333b598f0800000000000000
+      internalID: -534323947852582920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_26
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1
+        width: 528
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930041541b381420800000000000000
+      internalID: 2600893743254995860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_27
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1
+        width: 530
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04043cc8c32f4f4b0800000000000000
+      internalID: -5407430910691557312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_28
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2
+        width: 459
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc513cee4a624740800000000000000
+      internalID: 5134783412358438082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_29
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 2
+        width: 457
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cfe82a0d3c8d520800000000000000
+      internalID: 2727144875220728971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_30
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 2
+        width: 457
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119fbcea823a22470800000000000000
+      internalID: 8368430452734425361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_31
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 0
+        width: 340
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1823d071695390d0800000000000000
+      internalID: -3417289417204488161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_32
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 0
+        width: 344
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca6e08697453ca90800000000000000
+      internalID: -7294894090996520246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_0: -7060364711244340170
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_1: -5896596107095048667
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_10: 5057705786675178287
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_11: 6261563107936069897
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_12: 8627851336833055364
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_13: 1731079690251739445
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_14: 6300413687928493504
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_15: 1408346857116808709
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_16: -3595295745908273940
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_17: 6117595993920193480
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_18: 6725872438694855791
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_19: 5459098903048028881
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_2: -9100226100663832996
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_20: -6602015211022614762
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_21: 392901118357881742
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_22: 5360248773680878854
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_23: -7263635686922567096
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_24: -1900444306410819674
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_25: -534323947852582920
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_26: 2600893743254995860
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_27: -5407430910691557312
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_28: 5134783412358438082
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_29: 2727144875220728971
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_3: 1148306978962263896
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_30: 8368430452734425361
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_31: -3417289417204488161
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_32: -7294894090996520246
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_4: 1889742131674471375
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_5: -1688112528271018416
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_6: -6093893139189845258
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_7: -2903390283133883546
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_8: -1424449594031007696
+      sactx-0-4096x4096-Crunch-CardCollection-4a89eea1_9: -4997810438859052896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

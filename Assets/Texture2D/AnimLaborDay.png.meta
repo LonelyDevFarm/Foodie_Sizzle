@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: 909d59ef6b1847143a6f2c7da30fb807
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6961617081862899818
+    second: AnimLaborDay_0
+  - first:
+      213: 3893578103135543435
+    second: AnimLaborDay_1
+  - first:
+      213: 3216739212357703781
+    second: AnimLaborDay_2
+  - first:
+      213: -246586381483163714
+    second: AnimLaborDay_3
+  - first:
+      213: -7719777246279640382
+    second: AnimLaborDay_4
+  - first:
+      213: 6983249758450348841
+    second: AnimLaborDay_5
+  - first:
+      213: 2008224884919016752
+    second: AnimLaborDay_6
+  - first:
+      213: 8767090013103661772
+    second: AnimLaborDay_7
+  - first:
+      213: -3610026197420025646
+    second: AnimLaborDay_8
+  - first:
+      213: 5321491054504616075
+    second: AnimLaborDay_9
+  - first:
+      213: 1475033559284267335
+    second: AnimLaborDay_10
+  - first:
+      213: -6508467379937892486
+    second: AnimLaborDay_11
+  - first:
+      213: 2094403610173022784
+    second: AnimLaborDay_12
+  - first:
+      213: -1937372797945151318
+    second: AnimLaborDay_13
+  - first:
+      213: 9142217395294679633
+    second: AnimLaborDay_14
+  - first:
+      213: -2394070485274532038
+    second: AnimLaborDay_15
+  - first:
+      213: 5212439710129102223
+    second: AnimLaborDay_16
+  - first:
+      213: 583016513615994309
+    second: AnimLaborDay_17
+  - first:
+      213: -6048949434179862948
+    second: AnimLaborDay_18
+  - first:
+      213: 2437265754092571918
+    second: AnimLaborDay_19
+  - first:
+      213: 2852573927598050336
+    second: AnimLaborDay_20
+  - first:
+      213: 8650977417485123498
+    second: AnimLaborDay_21
+  - first:
+      213: -880607266327150389
+    second: AnimLaborDay_22
+  - first:
+      213: 2893074707028584469
+    second: AnimLaborDay_23
+  - first:
+      213: 2571731231642657512
+    second: AnimLaborDay_24
+  - first:
+      213: -6201400985397142685
+    second: AnimLaborDay_25
+  - first:
+      213: -583765679322536964
+    second: AnimLaborDay_26
+  - first:
+      213: -4150563664568450128
+    second: AnimLaborDay_27
+  - first:
+      213: 7172159930523749738
+    second: AnimLaborDay_28
+  - first:
+      213: 5189035244178020153
+    second: AnimLaborDay_29
+  - first:
+      213: -2749403281975497519
+    second: AnimLaborDay_30
+  - first:
+      213: 7323346100140111088
+    second: AnimLaborDay_31
+  - first:
+      213: 3624211921729402358
+    second: AnimLaborDay_32
+  - first:
+      213: -7266763828969412997
+    second: AnimLaborDay_33
+  - first:
+      213: 6928181853038822401
+    second: AnimLaborDay_34
+  - first:
+      213: -8368932420027443300
+    second: AnimLaborDay_35
+  - first:
+      213: 3439666196386106783
+    second: AnimLaborDay_36
+  - first:
+      213: -2484892883903742965
+    second: AnimLaborDay_37
+  - first:
+      213: -90169114781591222
+    second: AnimLaborDay_38
+  - first:
+      213: 161690879338444736
+    second: AnimLaborDay_39
+  - first:
+      213: 3725931875737970440
+    second: AnimLaborDay_40
+  - first:
+      213: 8127971296870728448
+    second: AnimLaborDay_41
+  - first:
+      213: -2478236647814345917
+    second: AnimLaborDay_42
+  - first:
+      213: -6657549627802237094
+    second: AnimLaborDay_43
+  - first:
+      213: -8225058513318876753
+    second: AnimLaborDay_44
+  - first:
+      213: 4467272145617900071
+    second: AnimLaborDay_45
+  - first:
+      213: -4927247952007446608
+    second: AnimLaborDay_46
+  - first:
+      213: -6433669482703678011
+    second: AnimLaborDay_47
+  - first:
+      213: -797486122888850980
+    second: AnimLaborDay_48
+  - first:
+      213: -128378095532815676
+    second: AnimLaborDay_49
+  - first:
+      213: -6834262952291956275
+    second: AnimLaborDay_50
+  - first:
+      213: -3148102339728396064
+    second: AnimLaborDay_51
+  - first:
+      213: 8639584324670183983
+    second: AnimLaborDay_52
+  - first:
+      213: -7702450715212789735
+    second: AnimLaborDay_53
+  - first:
+      213: -31306146072895518
+    second: AnimLaborDay_54
+  - first:
+      213: 3922584709136717192
+    second: AnimLaborDay_55
+  - first:
+      213: 2412173079095400901
+    second: AnimLaborDay_56
+  - first:
+      213: 5392661456875608442
+    second: AnimLaborDay_57
+  - first:
+      213: 412070648575260023
+    second: AnimLaborDay_58
+  - first:
+      213: 6595540511580633180
+    second: AnimLaborDay_59
+  - first:
+      213: 1536302222736166212
+    second: AnimLaborDay_60
+  - first:
+      213: -8324752751555897928
+    second: AnimLaborDay_61
+  - first:
+      213: -8840259554453897757
+    second: AnimLaborDay_62
+  - first:
+      213: -3118058678082244748
+    second: AnimLaborDay_63
+  - first:
+      213: 1738873792792594839
+    second: AnimLaborDay_64
+  - first:
+      213: -7416322938001679814
+    second: AnimLaborDay_65
+  - first:
+      213: -3216247749871072756
+    second: AnimLaborDay_66
+  - first:
+      213: 4583315977119408206
+    second: AnimLaborDay_67
+  - first:
+      213: -5087900184952520868
+    second: AnimLaborDay_68
+  - first:
+      213: -8740085673789633702
+    second: AnimLaborDay_69
+  - first:
+      213: 2051387977094787850
+    second: AnimLaborDay_70
+  - first:
+      213: -8545641307172660489
+    second: AnimLaborDay_71
+  - first:
+      213: -7699188323675179265
+    second: AnimLaborDay_72
+  - first:
+      213: -2246355986453342720
+    second: AnimLaborDay_73
+  - first:
+      213: -2342590820409810438
+    second: AnimLaborDay_74
+  - first:
+      213: -1362401781875667089
+    second: AnimLaborDay_75
+  - first:
+      213: -1575374681238741634
+    second: AnimLaborDay_76
+  - first:
+      213: 633623114692263766
+    second: AnimLaborDay_77
+  - first:
+      213: -4219799827775865600
+    second: AnimLaborDay_78
+  - first:
+      213: -3843994708427182224
+    second: AnimLaborDay_79
+  - first:
+      213: -279236664895452582
+    second: AnimLaborDay_80
+  - first:
+      213: 803645769770171220
+    second: AnimLaborDay_81
+  - first:
+      213: 6709064595706782320
+    second: AnimLaborDay_82
+  - first:
+      213: 407228640190160393
+    second: AnimLaborDay_83
+  - first:
+      213: -5755874659675757876
+    second: AnimLaborDay_84
+  - first:
+      213: 4896675020434931747
+    second: AnimLaborDay_85
+  - first:
+      213: -6168268537657768568
+    second: AnimLaborDay_86
+  - first:
+      213: 7094255900572326476
+    second: AnimLaborDay_87
+  - first:
+      213: 8468297598141981382
+    second: AnimLaborDay_88
+  - first:
+      213: -4546394302596356835
+    second: AnimLaborDay_89
+  - first:
+      213: 6776133590705025238
+    second: AnimLaborDay_90
+  - first:
+      213: 2306201091840099363
+    second: AnimLaborDay_91
+  - first:
+      213: -4527540349783317052
+    second: AnimLaborDay_92
+  - first:
+      213: 7993447574168826007
+    second: AnimLaborDay_93
+  - first:
+      213: 6565312954175581721
+    second: AnimLaborDay_94
+  - first:
+      213: 5223863656561746724
+    second: AnimLaborDay_95
+  - first:
+      213: 8491878242402971906
+    second: AnimLaborDay_96
+  - first:
+      213: 2223393733372642900
+    second: AnimLaborDay_97
+  - first:
+      213: -7682616471244512742
+    second: AnimLaborDay_98
+  - first:
+      213: -7828410569688166100
+    second: AnimLaborDay_99
+  - first:
+      213: -2468983605681855367
+    second: AnimLaborDay_100
+  - first:
+      213: -8419944482355726978
+    second: AnimLaborDay_101
+  - first:
+      213: 6059100412040447604
+    second: AnimLaborDay_102
+  - first:
+      213: 961733808308142707
+    second: AnimLaborDay_103
+  - first:
+      213: -6591964437904811713
+    second: AnimLaborDay_104
+  - first:
+      213: -3670801929482627714
+    second: AnimLaborDay_105
+  - first:
+      213: -4175721627158925950
+    second: AnimLaborDay_106
+  - first:
+      213: -9008940556244171825
+    second: AnimLaborDay_107
+  - first:
+      213: 1215582186304997015
+    second: AnimLaborDay_108
+  - first:
+      213: -2044189166731181456
+    second: AnimLaborDay_109
+  - first:
+      213: 2874478842058685715
+    second: AnimLaborDay_110
+  - first:
+      213: -3479996513823179130
+    second: AnimLaborDay_111
+  - first:
+      213: -3344048252139068441
+    second: AnimLaborDay_112
+  - first:
+      213: -3355005481252608624
+    second: AnimLaborDay_113
+  - first:
+      213: -4628093106455996627
+    second: AnimLaborDay_114
+  - first:
+      213: -8150084730374753305
+    second: AnimLaborDay_115
+  - first:
+      213: -2965240970940276497
+    second: AnimLaborDay_116
+  - first:
+      213: 6530606625028850978
+    second: AnimLaborDay_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimLaborDay_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 915
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6973545f52e536f90800000000000000
+      internalID: -6961617081862899818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1002
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8022aed7a4c80630800000000000000
+      internalID: 3893578103135543435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1004
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56896a7454724ac20800000000000000
+      internalID: 3216739212357703781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1001
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3f351ef2f39cf0800000000000000
+      internalID: -246586381483163714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1006
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cadb52ee77ddd490800000000000000
+      internalID: -7719777246279640382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1007
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f34e08ac79e060800000000000000
+      internalID: 6983249758450348841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1001
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d92be84e5aedb10800000000000000
+      internalID: 2008224884919016752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 889
+        width: 110
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc22be8bae5faa970800000000000000
+      internalID: 8767090013103661772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 973
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8dce8dc4c96edc0800000000000000
+      internalID: -3610026197420025646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 999
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80aa2b6bebb9d940800000000000000
+      internalID: 5321491054504616075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 979
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493be4053f587410800000000000000
+      internalID: 1475033559284267335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 971
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a59ab6674da5a0800000000000000
+      internalID: -6508467379937892486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 965
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a8a0acf0d01d10800000000000000
+      internalID: 2094403610173022784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 963
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa089f474b11d15e0800000000000000
+      internalID: -1937372797945151318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 964
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152bfe1984eafde70800000000000000
+      internalID: 9142217395294679633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 996
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37e6f5f39d86ced0800000000000000
+      internalID: -2394070485274532038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_16
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 995
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9267bc4e465840800000000000000
+      internalID: 5212439710129102223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_17
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 995
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd94402e6a471800800000000000000
+      internalID: 583016513615994309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 952
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb86fc980dd0ca0800000000000000
+      internalID: -6048949434179862948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 950
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d89e74a48e2d120800000000000000
+      internalID: 2437265754092571918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_20
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 948
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc502afd0669720800000000000000
+      internalID: 2852573927598050336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_21
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 966
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf702950227e0870800000000000000
+      internalID: 8650977417485123498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_22
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 965
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc041ff5b5477c3f0800000000000000
+      internalID: -880607266327150389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 989
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5182b1d2e14462820800000000000000
+      internalID: 2893074707028584469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 986
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a6d7fdef90b320800000000000000
+      internalID: 2571731231642657512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 983
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b55a309a230f9a0800000000000000
+      internalID: -6201400985397142685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 991
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf36ae3253c06e7f0800000000000000
+      internalID: -583765679322536964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 976
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b301c3765c3666c0800000000000000
+      internalID: -4150563664568450128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 991
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d88230571a88360800000000000000
+      internalID: 7172159930523749738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 884
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379638df08230840800000000000000
+      internalID: 5189035244178020153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_30
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 972
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcae81384828d9d0800000000000000
+      internalID: -2749403281975497519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_31
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 986
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f7123a70c1a560800000000000000
+      internalID: 7323346100140111088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 986
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5ba697a89cb4230800000000000000
+      internalID: 3624211921729402358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_33
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 990
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76ee9b6cc4472b90800000000000000
+      internalID: -7266763828969412997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_34
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 869
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104cfa130b8d52060800000000000000
+      internalID: 6928181853038822401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 958
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979303fd449bdb80800000000000000
+      internalID: -8368932420027443300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 971
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d43857e262cbf20800000000000000
+      internalID: 3439666196386106783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 957
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c750e6613e38dd0800000000000000
+      internalID: -2484892883903742965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 880
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495bb7faa7afbef0800000000000000
+      internalID: -90169114781591222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 885
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c773628ff07e3200800000000000000
+      internalID: 161690879338444736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_40
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 867
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807aaa6dc4b25b330800000000000000
+      internalID: 3725931875737970440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_41
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 958
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0030d86a4da5cc070800000000000000
+      internalID: 8127971296870728448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_42
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 962
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcba926e88b9dd0800000000000000
+      internalID: -2478236647814345917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_43
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 967
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57405003e1ab93a0800000000000000
+      internalID: -6657549627802237094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_44
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 966
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa963d04cd8badd80800000000000000
+      internalID: -8225058513318876753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 950
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225d8a0950fefd30800000000000000
+      internalID: 4467272145617900071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 884
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf3354e716ee9bb0800000000000000
+      internalID: -4927247952007446608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c51d2941b307b6a0800000000000000
+      internalID: -6433669482703678011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_48
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 883
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd118e3b892cee4f0800000000000000
+      internalID: -797486122888850980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_49
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 883
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca43d26dc8e73ef0800000000000000
+      internalID: -128378095532815676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_50
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 883
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9860bed02d721a0800000000000000
+      internalID: -6834262952291956275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_51
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 883
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b9e3f991bf44d0800000000000000
+      internalID: -3148102339728396064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 883
+        width: 95
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adff63b28f5e770800000000000000
+      internalID: 8639584324670183983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_53
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 840
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c9c342e56b1590800000000000000
+      internalID: -7702450715212789735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_54
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 916
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efd90cd937c09ff0800000000000000
+      internalID: -31306146072895518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 915
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885197d9202df6630800000000000000
+      internalID: 3922584709136717192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 917
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9dd3c92a2c97120800000000000000
+      internalID: 2412173079095400901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 902
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d203060596da40800000000000000
+      internalID: 5392661456875608442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 926
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77571b65218f7b500800000000000000
+      internalID: 412070648575260023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_59
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 883
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58367e8621188b50800000000000000
+      internalID: 6595540511580633180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 804
+        width: 220
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d05dd5bba025510800000000000000
+      internalID: 1536302222736166212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_61
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 888
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b51e889a79887c80800000000000000
+      internalID: -8324752751555897928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_62
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 894
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb58ed5c6115580800000000000000
+      internalID: -8840259554453897757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_63
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 895
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f6518072e6ab4d0800000000000000
+      internalID: -3118058678082244748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 803
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79983a86088b12810800000000000000
+      internalID: 1738873792792594839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 845
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a14dcc49de31990800000000000000
+      internalID: -7416322938001679814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_66
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 793
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a094f36b79d53d0800000000000000
+      internalID: -3216247749871072756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_67
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 760
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40239509953b9f30800000000000000
+      internalID: 4583315977119408206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_68
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 761
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fb2471db52469b0800000000000000
+      internalID: -5087900184952520868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_69
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1
+        width: 548
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc94bf26af4b680800000000000000
+      internalID: -8740085673789633702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_70
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 879
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03fd371f7ef77c10800000000000000
+      internalID: 2051387977094787850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_71
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 866
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa91140288c76980800000000000000
+      internalID: -8545641307172660489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_72
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 878
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6718cf20df62590800000000000000
+      internalID: -7699188323675179265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_73
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 704
+        width: 42
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006506cc12753d0e0800000000000000
+      internalID: -2246355986453342720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_74
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 756
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e1677f027d7fd0800000000000000
+      internalID: -2342590820409810438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_75
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1
+        width: 101
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f01f53cc6c71de0800000000000000
+      internalID: -1362401781875667089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_76
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 842
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dde98f215232ae0800000000000000
+      internalID: -1575374681238741634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_77
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 858
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f75b0add41bc800800000000000000
+      internalID: 633623114692263766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_78
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 842
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3a220a624075c0800000000000000
+      internalID: -4219799827775865600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_79
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 823
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f67b5dd2367aac0800000000000000
+      internalID: -3843994708427182224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_80
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 713
+        width: 214
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a44a49bb3ff1cf0800000000000000
+      internalID: -279236664895452582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_81
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 831
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b7568d19f172b00800000000000000
+      internalID: 803645769770171220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 293
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072a04224b26b1d50800000000000000
+      internalID: 6709064595706782320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_83
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 673
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e56e86a44c6a500800000000000000
+      internalID: 407228640190160393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_84
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 764
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2aa523e760f10b0800000000000000
+      internalID: -5755874659675757876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_85
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 676
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208d85ccfb74f340800000000000000
+      internalID: 4896675020434931747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_86
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 615
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c0b52278e56aa0800000000000000
+      internalID: -6168268537657768568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_87
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 657
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a1553972cd37260800000000000000
+      internalID: 7094255900572326476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_88
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 658
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2eb8d6ccf658570800000000000000
+      internalID: 8468297598141981382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_89
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 528
+        width: 127
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1562e83876f7e0c0800000000000000
+      internalID: -4546394302596356835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_90
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 617
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b0986999a90e50800000000000000
+      internalID: 6776133590705025238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_91
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 585
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3244fbb9ca5410020800000000000000
+      internalID: 2306201091840099363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_92
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 548
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5eae03a02fa21c0800000000000000
+      internalID: -4527540349783317052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_93
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 565
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7907a05b73e6eee60800000000000000
+      internalID: 7993447574168826007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_94
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 601
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee7e8e85dac1b50800000000000000
+      internalID: 6565312954175581721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_95
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 548
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423af648154ee7840800000000000000
+      internalID: 5223863656561746724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_96
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 548
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013c42054639d570800000000000000
+      internalID: 8491878242402971906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_97
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 500
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456818902d41bde10800000000000000
+      internalID: 2223393733372642900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_98
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 592
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e7ed060dd16590800000000000000
+      internalID: -7682616471244512742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 578
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d2d54016eb5390800000000000000
+      internalID: -7828410569688166100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 882
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e11bed786cbdd0800000000000000
+      internalID: -2468983605681855367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_101
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 553
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e753da4aa19562b80800000000000000
+      internalID: -8419944482355726978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_102
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 553
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4760816e8bf361450800000000000000
+      internalID: 6059100412040447604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_103
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 500
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c0bc9dc3c85d00800000000000000
+      internalID: 961733808308142707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_104
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 263
+        width: 164
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f391daaf443a484a0800000000000000
+      internalID: -6591964437904811713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_105
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 486
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759e580811be0dc0800000000000000
+      internalID: -3670801929482627714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_106
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 466
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da644dd4bdc06c0800000000000000
+      internalID: -4175721627158925950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_107
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 413
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3c476ab40d9f280800000000000000
+      internalID: -9008940556244171825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_108
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 433
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796800ade8d9ed010800000000000000
+      internalID: 1215582186304997015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_109
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 433
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072494f88c491a3e0800000000000000
+      internalID: -2044189166731181456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_110
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 414
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db847f64334e720800000000000000
+      internalID: 2874478842058685715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_111
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 361
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb8f5cb9194bfc0800000000000000
+      internalID: -3479996513823179130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_112
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 394
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e32c7b05dd8791d0800000000000000
+      internalID: -3344048252139068441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_113
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 394
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09523765a40a071d0800000000000000
+      internalID: -3355005481252608624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_114
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 314
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27914227d5b5cfb0800000000000000
+      internalID: -4628093106455996627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_115
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 289
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37da46e1515ee80800000000000000
+      internalID: -8150084730374753305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_116
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 263
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0aba52c0959d6d0800000000000000
+      internalID: -2965240970940276497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimLaborDay_117
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2
+        width: 212
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22548a4ff1061aa50800000000000000
+      internalID: 6530606625028850978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnimLaborDay_0: -6961617081862899818
+      AnimLaborDay_1: 3893578103135543435
+      AnimLaborDay_10: 1475033559284267335
+      AnimLaborDay_100: -2468983605681855367
+      AnimLaborDay_101: -8419944482355726978
+      AnimLaborDay_102: 6059100412040447604
+      AnimLaborDay_103: 961733808308142707
+      AnimLaborDay_104: -6591964437904811713
+      AnimLaborDay_105: -3670801929482627714
+      AnimLaborDay_106: -4175721627158925950
+      AnimLaborDay_107: -9008940556244171825
+      AnimLaborDay_108: 1215582186304997015
+      AnimLaborDay_109: -2044189166731181456
+      AnimLaborDay_11: -6508467379937892486
+      AnimLaborDay_110: 2874478842058685715
+      AnimLaborDay_111: -3479996513823179130
+      AnimLaborDay_112: -3344048252139068441
+      AnimLaborDay_113: -3355005481252608624
+      AnimLaborDay_114: -4628093106455996627
+      AnimLaborDay_115: -8150084730374753305
+      AnimLaborDay_116: -2965240970940276497
+      AnimLaborDay_117: 6530606625028850978
+      AnimLaborDay_12: 2094403610173022784
+      AnimLaborDay_13: -1937372797945151318
+      AnimLaborDay_14: 9142217395294679633
+      AnimLaborDay_15: -2394070485274532038
+      AnimLaborDay_16: 5212439710129102223
+      AnimLaborDay_17: 583016513615994309
+      AnimLaborDay_18: -6048949434179862948
+      AnimLaborDay_19: 2437265754092571918
+      AnimLaborDay_2: 3216739212357703781
+      AnimLaborDay_20: 2852573927598050336
+      AnimLaborDay_21: 8650977417485123498
+      AnimLaborDay_22: -880607266327150389
+      AnimLaborDay_23: 2893074707028584469
+      AnimLaborDay_24: 2571731231642657512
+      AnimLaborDay_25: -6201400985397142685
+      AnimLaborDay_26: -583765679322536964
+      AnimLaborDay_27: -4150563664568450128
+      AnimLaborDay_28: 7172159930523749738
+      AnimLaborDay_29: 5189035244178020153
+      AnimLaborDay_3: -246586381483163714
+      AnimLaborDay_30: -2749403281975497519
+      AnimLaborDay_31: 7323346100140111088
+      AnimLaborDay_32: 3624211921729402358
+      AnimLaborDay_33: -7266763828969412997
+      AnimLaborDay_34: 6928181853038822401
+      AnimLaborDay_35: -8368932420027443300
+      AnimLaborDay_36: 3439666196386106783
+      AnimLaborDay_37: -2484892883903742965
+      AnimLaborDay_38: -90169114781591222
+      AnimLaborDay_39: 161690879338444736
+      AnimLaborDay_4: -7719777246279640382
+      AnimLaborDay_40: 3725931875737970440
+      AnimLaborDay_41: 8127971296870728448
+      AnimLaborDay_42: -2478236647814345917
+      AnimLaborDay_43: -6657549627802237094
+      AnimLaborDay_44: -8225058513318876753
+      AnimLaborDay_45: 4467272145617900071
+      AnimLaborDay_46: -4927247952007446608
+      AnimLaborDay_47: -6433669482703678011
+      AnimLaborDay_48: -797486122888850980
+      AnimLaborDay_49: -128378095532815676
+      AnimLaborDay_5: 6983249758450348841
+      AnimLaborDay_50: -6834262952291956275
+      AnimLaborDay_51: -3148102339728396064
+      AnimLaborDay_52: 8639584324670183983
+      AnimLaborDay_53: -7702450715212789735
+      AnimLaborDay_54: -31306146072895518
+      AnimLaborDay_55: 3922584709136717192
+      AnimLaborDay_56: 2412173079095400901
+      AnimLaborDay_57: 5392661456875608442
+      AnimLaborDay_58: 412070648575260023
+      AnimLaborDay_59: 6595540511580633180
+      AnimLaborDay_6: 2008224884919016752
+      AnimLaborDay_60: 1536302222736166212
+      AnimLaborDay_61: -8324752751555897928
+      AnimLaborDay_62: -8840259554453897757
+      AnimLaborDay_63: -3118058678082244748
+      AnimLaborDay_64: 1738873792792594839
+      AnimLaborDay_65: -7416322938001679814
+      AnimLaborDay_66: -3216247749871072756
+      AnimLaborDay_67: 4583315977119408206
+      AnimLaborDay_68: -5087900184952520868
+      AnimLaborDay_69: -8740085673789633702
+      AnimLaborDay_7: 8767090013103661772
+      AnimLaborDay_70: 2051387977094787850
+      AnimLaborDay_71: -8545641307172660489
+      AnimLaborDay_72: -7699188323675179265
+      AnimLaborDay_73: -2246355986453342720
+      AnimLaborDay_74: -2342590820409810438
+      AnimLaborDay_75: -1362401781875667089
+      AnimLaborDay_76: -1575374681238741634
+      AnimLaborDay_77: 633623114692263766
+      AnimLaborDay_78: -4219799827775865600
+      AnimLaborDay_79: -3843994708427182224
+      AnimLaborDay_8: -3610026197420025646
+      AnimLaborDay_80: -279236664895452582
+      AnimLaborDay_81: 803645769770171220
+      AnimLaborDay_82: 6709064595706782320
+      AnimLaborDay_83: 407228640190160393
+      AnimLaborDay_84: -5755874659675757876
+      AnimLaborDay_85: 4896675020434931747
+      AnimLaborDay_86: -6168268537657768568
+      AnimLaborDay_87: 7094255900572326476
+      AnimLaborDay_88: 8468297598141981382
+      AnimLaborDay_89: -4546394302596356835
+      AnimLaborDay_9: 5321491054504616075
+      AnimLaborDay_90: 6776133590705025238
+      AnimLaborDay_91: 2306201091840099363
+      AnimLaborDay_92: -4527540349783317052
+      AnimLaborDay_93: 7993447574168826007
+      AnimLaborDay_94: 6565312954175581721
+      AnimLaborDay_95: 5223863656561746724
+      AnimLaborDay_96: 8491878242402971906
+      AnimLaborDay_97: 2223393733372642900
+      AnimLaborDay_98: -7682616471244512742
+      AnimLaborDay_99: -7828410569688166100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

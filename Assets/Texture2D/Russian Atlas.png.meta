@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 44aab86f2807f634da0c4e6856e48f2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8495315504088199813
+    second: Russian Atlas_0
+  - first:
+      213: 4618108716767764026
+    second: Russian Atlas_1
+  - first:
+      213: -3075680354086667037
+    second: Russian Atlas_2
+  - first:
+      213: 3952195122226430572
+    second: Russian Atlas_3
+  - first:
+      213: -967692390006072326
+    second: Russian Atlas_4
+  - first:
+      213: -1383578016859186311
+    second: Russian Atlas_5
+  - first:
+      213: 496844787210734463
+    second: Russian Atlas_6
+  - first:
+      213: -4560005615186439019
+    second: Russian Atlas_7
+  - first:
+      213: 6144992693004423316
+    second: Russian Atlas_8
+  - first:
+      213: 4203569889481883446
+    second: Russian Atlas_9
+  - first:
+      213: 1260187386430407724
+    second: Russian Atlas_10
+  - first:
+      213: -5303616214837195740
+    second: Russian Atlas_11
+  - first:
+      213: -6754117541461183121
+    second: Russian Atlas_12
+  - first:
+      213: 7816893004142462070
+    second: Russian Atlas_13
+  - first:
+      213: 2776537346701006885
+    second: Russian Atlas_14
+  - first:
+      213: 5340838954517680227
+    second: Russian Atlas_15
+  - first:
+      213: 6386932706962133604
+    second: Russian Atlas_16
+  - first:
+      213: 7950547915017832540
+    second: Russian Atlas_17
+  - first:
+      213: 6071248835697299589
+    second: Russian Atlas_18
+  - first:
+      213: -3550294706593586692
+    second: Russian Atlas_19
+  - first:
+      213: 6668757933462902242
+    second: Russian Atlas_20
+  - first:
+      213: 3990713193400403136
+    second: Russian Atlas_21
+  - first:
+      213: -1902851411707583721
+    second: Russian Atlas_22
+  - first:
+      213: -6526342779317209229
+    second: Russian Atlas_23
+  - first:
+      213: 2104178200666996046
+    second: Russian Atlas_24
+  - first:
+      213: -5573781778919862415
+    second: Russian Atlas_25
+  - first:
+      213: -3284928241696020768
+    second: Russian Atlas_26
+  - first:
+      213: -7383718034400573820
+    second: Russian Atlas_27
+  - first:
+      213: -1053703461586491322
+    second: Russian Atlas_28
+  - first:
+      213: -6141026299872311855
+    second: Russian Atlas_29
+  - first:
+      213: -7082379879861170074
+    second: Russian Atlas_30
+  - first:
+      213: -8285931973834320795
+    second: Russian Atlas_31
+  - first:
+      213: -7665199315020540555
+    second: Russian Atlas_32
+  - first:
+      213: -5914865961175470287
+    second: Russian Atlas_33
+  - first:
+      213: 229878607600182937
+    second: Russian Atlas_34
+  - first:
+      213: 5263790474570344709
+    second: Russian Atlas_35
+  - first:
+      213: -7636924774873278764
+    second: Russian Atlas_36
+  - first:
+      213: 3500547546110888665
+    second: Russian Atlas_37
+  - first:
+      213: 3812143415194572683
+    second: Russian Atlas_38
+  - first:
+      213: -3146991757273711370
+    second: Russian Atlas_39
+  - first:
+      213: 1498308413193258577
+    second: Russian Atlas_40
+  - first:
+      213: 7600919434291398148
+    second: Russian Atlas_41
+  - first:
+      213: -5904193484953662946
+    second: Russian Atlas_42
+  - first:
+      213: -6958340200733895339
+    second: Russian Atlas_43
+  - first:
+      213: 832201176481779774
+    second: Russian Atlas_44
+  - first:
+      213: -8451588762983996039
+    second: Russian Atlas_45
+  - first:
+      213: 8095583316483857350
+    second: Russian Atlas_46
+  - first:
+      213: -9007780492144972544
+    second: Russian Atlas_47
+  - first:
+      213: -2588607062247188122
+    second: Russian Atlas_48
+  - first:
+      213: -4066730889911458612
+    second: Russian Atlas_49
+  - first:
+      213: 8696031152867589573
+    second: Russian Atlas_50
+  - first:
+      213: 1143130498400886363
+    second: Russian Atlas_51
+  - first:
+      213: -208923618099215803
+    second: Russian Atlas_52
+  - first:
+      213: -744032486058004000
+    second: Russian Atlas_53
+  - first:
+      213: 7207363231938836041
+    second: Russian Atlas_54
+  - first:
+      213: -6596691636780924377
+    second: Russian Atlas_55
+  - first:
+      213: 4517370401677379623
+    second: Russian Atlas_56
+  - first:
+      213: 6929074812954269410
+    second: Russian Atlas_57
+  - first:
+      213: 3772620661176932349
+    second: Russian Atlas_58
+  - first:
+      213: -7369287802698200449
+    second: Russian Atlas_59
+  - first:
+      213: -5716252347864052316
+    second: Russian Atlas_60
+  - first:
+      213: 8122341184640806923
+    second: Russian Atlas_61
+  - first:
+      213: 5244463206469156954
+    second: Russian Atlas_62
+  - first:
+      213: 9055885655317360585
+    second: Russian Atlas_63
+  - first:
+      213: -9040085203140032065
+    second: Russian Atlas_64
+  - first:
+      213: 2472220252577948278
+    second: Russian Atlas_65
+  - first:
+      213: -6120805381891105141
+    second: Russian Atlas_66
+  - first:
+      213: -5995317380880227901
+    second: Russian Atlas_67
+  - first:
+      213: 3916405850347285618
+    second: Russian Atlas_68
+  - first:
+      213: -8769606829871330875
+    second: Russian Atlas_69
+  - first:
+      213: -7463141683529109161
+    second: Russian Atlas_70
+  - first:
+      213: 6379588318754697739
+    second: Russian Atlas_71
+  - first:
+      213: 8538554905339554150
+    second: Russian Atlas_72
+  - first:
+      213: 5338871251359240983
+    second: Russian Atlas_73
+  - first:
+      213: 771732586074113707
+    second: Russian Atlas_74
+  - first:
+      213: 648947845599688930
+    second: Russian Atlas_75
+  - first:
+      213: -7028926864075095850
+    second: Russian Atlas_76
+  - first:
+      213: -1834890058343177796
+    second: Russian Atlas_77
+  - first:
+      213: -6573490305321613992
+    second: Russian Atlas_78
+  - first:
+      213: -7309496217289218395
+    second: Russian Atlas_79
+  - first:
+      213: -1506746301621325838
+    second: Russian Atlas_80
+  - first:
+      213: 3214484138581735861
+    second: Russian Atlas_81
+  - first:
+      213: 764412244590729362
+    second: Russian Atlas_82
+  - first:
+      213: -5545348641804309484
+    second: Russian Atlas_83
+  - first:
+      213: 5742706516146606321
+    second: Russian Atlas_84
+  - first:
+      213: -3604685958546216619
+    second: Russian Atlas_85
+  - first:
+      213: 4866870315695711423
+    second: Russian Atlas_86
+  - first:
+      213: 7949421660116446363
+    second: Russian Atlas_87
+  - first:
+      213: 1033637121413001103
+    second: Russian Atlas_88
+  - first:
+      213: 4599154503252786509
+    second: Russian Atlas_89
+  - first:
+      213: 5231869940978588936
+    second: Russian Atlas_90
+  - first:
+      213: 1441309296218337545
+    second: Russian Atlas_91
+  - first:
+      213: 9169522122206196855
+    second: Russian Atlas_92
+  - first:
+      213: 2485165406248515968
+    second: Russian Atlas_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Russian Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 70
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d44f32f839a1a80800000000000000
+      internalID: -8495315504088199813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 869
+        width: 70
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed31df861d61040800000000000000
+      internalID: 4618108716767764026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 890
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec340c730df055d0800000000000000
+      internalID: -3075680354086667037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 890
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c628657268409d630800000000000000
+      internalID: 3952195122226430572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 957
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd6d9f5e01292f0800000000000000
+      internalID: -967692390006072326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 844
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b911acf1b8ccce0800000000000000
+      internalID: -1383578016859186311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 857
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b433a93b525e600800000000000000
+      internalID: 496844787210734463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 890
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594960d8d0b97b0c0800000000000000
+      internalID: -4560005615186439019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 890
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49056e5fb46674550800000000000000
+      internalID: 6144992693004423316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 887
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f78130b84165a30800000000000000
+      internalID: 4203569889481883446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 887
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24cc9e40c51d7110800000000000000
+      internalID: 1260187386430407724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 887
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c80a10725c566b0800000000000000
+      internalID: -5303616214837195740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 890
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b8f181ed8442a0800000000000000
+      internalID: -6754117541461183121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c52785ce2b7c60800000000000000
+      internalID: 7816893004142462070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 780
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52818bf810e388620800000000000000
+      internalID: 2776537346701006885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 754
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360589e6bb87e1a40800000000000000
+      internalID: 5340838954517680227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 753
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4625dc22571f2a850800000000000000
+      internalID: 6386932706962133604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 738
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584c547435065e60800000000000000
+      internalID: 7950547915017832540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 799
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580ddb236a8614450800000000000000
+      internalID: 6071248835697299589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 736
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12a8d46c1dabec0800000000000000
+      internalID: -3550294706593586692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 755
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5df1502003c8c50800000000000000
+      internalID: 6668757933462902242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 800
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48815718cd16730800000000000000
+      internalID: 3990713193400403136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 803
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a1d809b6b795e0800000000000000
+      internalID: -1902851411707583721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 712
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bc5cf1d5cd65a0800000000000000
+      internalID: -6526342779317209229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 803
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d70e2dcea833d10800000000000000
+      internalID: 2104178200666996046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fcfe3d003f5a2b0800000000000000
+      internalID: -5573781778919862415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 693
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66f012b279962d0800000000000000
+      internalID: -3284928241696020768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 663
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48688ed7193c78990800000000000000
+      internalID: -7383718034400573820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 648
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a981d84e7061f0800000000000000
+      internalID: -1053703461586491322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 625
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d587c7ed11b6caa0800000000000000
+      internalID: -6141026299872311855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 680
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6605088f50556bd90800000000000000
+      internalID: -7082379879861170074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 625
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564dd8245c4720d80800000000000000
+      internalID: -8285931973834320795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 664
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57512afb5ddbf9590800000000000000
+      internalID: -7665199315020540555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 709
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f26122fbc2aeda0800000000000000
+      internalID: -5914865961175470287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 596
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996687b2061b03300800000000000000
+      internalID: 229878607600182937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 601
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a9d04c8dbc0940800000000000000
+      internalID: 5263790474570344709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65c412161340690800000000000000
+      internalID: -7636924774873278764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 582
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0e4d4271749030800000000000000
+      internalID: 3500547546110888665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 471
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87548f0d3477e430800000000000000
+      internalID: 3812143415194572683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 546
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc3e949ba3a354d0800000000000000
+      internalID: -3146991757273711370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 561
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560d5c309f0bc410800000000000000
+      internalID: 1498308413193258577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 536
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4064d4f34f3eb7960800000000000000
+      internalID: 7600919434291398148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 567
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4924ae47101ea0800000000000000
+      internalID: -5904193484953662946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 511
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559fec44720f6f90800000000000000
+      internalID: -6958340200733895339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 550
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30dbd19f829c8b00800000000000000
+      internalID: 832201176481779774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 509
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e7aa6ccce5ba80800000000000000
+      internalID: -8451588762983996039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 514
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb5994522a495070800000000000000
+      internalID: 8095583316483857350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d610f1e5fedf280800000000000000
+      internalID: -9007780492144972544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 360
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66950b7879b631cd0800000000000000
+      internalID: -2588607062247188122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc428b55dc11097c0800000000000000
+      internalID: -4066730889911458612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd376e82428ea870800000000000000
+      internalID: 8696031152867589573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9919b1273ddf00800000000000000
+      internalID: 1143130498400886363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 425
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c1068311c91df0800000000000000
+      internalID: -208923618099215803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 450
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1792f556aaca5f0800000000000000
+      internalID: -744032486058004000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 333
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946fce65ca2b50460800000000000000
+      internalID: 7207363231938836041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 424
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72202e838e7d374a0800000000000000
+      internalID: -6596691636780924377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 446
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72808de327ce0be30800000000000000
+      internalID: 4517370401677379623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 422
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6de30a4d4092060800000000000000
+      internalID: 6929074812954269410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 427
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df710cdc08a0b5430800000000000000
+      internalID: 3772620661176932349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a0e80a9c70bb990800000000000000
+      internalID: -7369287802698200449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 246
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad021f86cacba0b0800000000000000
+      internalID: -5716252347864052316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 343
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b007a0ff54a58b070800000000000000
+      internalID: 8122341184640806923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 232
+        width: 57
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50433bff7318c840800000000000000
+      internalID: 5244463206469156954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 311
+        width: 109
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf2fbbf508fcad70800000000000000
+      internalID: 9055885655317360585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 335
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9c297776a2b8280800000000000000
+      internalID: -9040085203140032065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 335
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726f69a8371f4220800000000000000
+      internalID: 2472220252577948278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 311
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed4114fe78e0ba0800000000000000
+      internalID: -6120805381891105141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 313
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a8ec4b9a5ccca0800000000000000
+      internalID: -5995317380880227901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2632fe5ed95630800000000000000
+      internalID: 3916405850347285618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c90ea53d091c4680800000000000000
+      internalID: -8769606829871330875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 182
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75136d42e289d6890800000000000000
+      internalID: -7463141683529109161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 246
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02fa9086c9d88850800000000000000
+      internalID: 6379588318754697739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 222
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669eeeb727a0f7670800000000000000
+      internalID: 8538554905339554150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 198
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71310d6dd1b771a40800000000000000
+      internalID: 5338871251359240983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 270
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba68a8eb2beb5ba00800000000000000
+      internalID: 771732586074113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 226
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e879b690a6810900800000000000000
+      internalID: 648947845599688930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 142
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08a9a024c347e90800000000000000
+      internalID: -7028926864075095850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb12f8ea6392986e0800000000000000
+      internalID: -1834890058343177796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 117
+        width: 57
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c4d8256546c4a0800000000000000
+      internalID: -6573490305321613992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 111
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62a61fae37f8a90800000000000000
+      internalID: -7309496217289218395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff2a35c836f61be0800000000000000
+      internalID: -1506746301621325838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 135
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ba400b442c9c20800000000000000
+      internalID: 3214484138581735861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 111
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2981acce2ecbb9a00800000000000000
+      internalID: 764412244590729362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 111
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c2f817ac6fa03b0800000000000000
+      internalID: -5545348641804309484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 181
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f05d38762132bf40800000000000000
+      internalID: 5742706516146606321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 66
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a30a183599fdc0800000000000000
+      internalID: -3604685958546216619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4afee24c89a8340800000000000000
+      internalID: 4866870315695711423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c690dc1e4025e60800000000000000
+      internalID: 7949421660116446363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 139
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8faa784c77385e00800000000000000
+      internalID: 1033637121413001103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 138
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d358147aa73df30800000000000000
+      internalID: 4599154503252786509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d921fddf55b9840800000000000000
+      internalID: 5231869940978588936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 0
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ff842b2f800410800000000000000
+      internalID: 1441309296218337545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774bf26b9cfa04f70800000000000000
+      internalID: 9169522122206196855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Russian Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089388f15c41d7220800000000000000
+      internalID: 2485165406248515968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Russian Atlas_0: -8495315504088199813
+      Russian Atlas_1: 4618108716767764026
+      Russian Atlas_10: 1260187386430407724
+      Russian Atlas_11: -5303616214837195740
+      Russian Atlas_12: -6754117541461183121
+      Russian Atlas_13: 7816893004142462070
+      Russian Atlas_14: 2776537346701006885
+      Russian Atlas_15: 5340838954517680227
+      Russian Atlas_16: 6386932706962133604
+      Russian Atlas_17: 7950547915017832540
+      Russian Atlas_18: 6071248835697299589
+      Russian Atlas_19: -3550294706593586692
+      Russian Atlas_2: -3075680354086667037
+      Russian Atlas_20: 6668757933462902242
+      Russian Atlas_21: 3990713193400403136
+      Russian Atlas_22: -1902851411707583721
+      Russian Atlas_23: -6526342779317209229
+      Russian Atlas_24: 2104178200666996046
+      Russian Atlas_25: -5573781778919862415
+      Russian Atlas_26: -3284928241696020768
+      Russian Atlas_27: -7383718034400573820
+      Russian Atlas_28: -1053703461586491322
+      Russian Atlas_29: -6141026299872311855
+      Russian Atlas_3: 3952195122226430572
+      Russian Atlas_30: -7082379879861170074
+      Russian Atlas_31: -8285931973834320795
+      Russian Atlas_32: -7665199315020540555
+      Russian Atlas_33: -5914865961175470287
+      Russian Atlas_34: 229878607600182937
+      Russian Atlas_35: 5263790474570344709
+      Russian Atlas_36: -7636924774873278764
+      Russian Atlas_37: 3500547546110888665
+      Russian Atlas_38: 3812143415194572683
+      Russian Atlas_39: -3146991757273711370
+      Russian Atlas_4: -967692390006072326
+      Russian Atlas_40: 1498308413193258577
+      Russian Atlas_41: 7600919434291398148
+      Russian Atlas_42: -5904193484953662946
+      Russian Atlas_43: -6958340200733895339
+      Russian Atlas_44: 832201176481779774
+      Russian Atlas_45: -8451588762983996039
+      Russian Atlas_46: 8095583316483857350
+      Russian Atlas_47: -9007780492144972544
+      Russian Atlas_48: -2588607062247188122
+      Russian Atlas_49: -4066730889911458612
+      Russian Atlas_5: -1383578016859186311
+      Russian Atlas_50: 8696031152867589573
+      Russian Atlas_51: 1143130498400886363
+      Russian Atlas_52: -208923618099215803
+      Russian Atlas_53: -744032486058004000
+      Russian Atlas_54: 7207363231938836041
+      Russian Atlas_55: -6596691636780924377
+      Russian Atlas_56: 4517370401677379623
+      Russian Atlas_57: 6929074812954269410
+      Russian Atlas_58: 3772620661176932349
+      Russian Atlas_59: -7369287802698200449
+      Russian Atlas_6: 496844787210734463
+      Russian Atlas_60: -5716252347864052316
+      Russian Atlas_61: 8122341184640806923
+      Russian Atlas_62: 5244463206469156954
+      Russian Atlas_63: 9055885655317360585
+      Russian Atlas_64: -9040085203140032065
+      Russian Atlas_65: 2472220252577948278
+      Russian Atlas_66: -6120805381891105141
+      Russian Atlas_67: -5995317380880227901
+      Russian Atlas_68: 3916405850347285618
+      Russian Atlas_69: -8769606829871330875
+      Russian Atlas_7: -4560005615186439019
+      Russian Atlas_70: -7463141683529109161
+      Russian Atlas_71: 6379588318754697739
+      Russian Atlas_72: 8538554905339554150
+      Russian Atlas_73: 5338871251359240983
+      Russian Atlas_74: 771732586074113707
+      Russian Atlas_75: 648947845599688930
+      Russian Atlas_76: -7028926864075095850
+      Russian Atlas_77: -1834890058343177796
+      Russian Atlas_78: -6573490305321613992
+      Russian Atlas_79: -7309496217289218395
+      Russian Atlas_8: 6144992693004423316
+      Russian Atlas_80: -1506746301621325838
+      Russian Atlas_81: 3214484138581735861
+      Russian Atlas_82: 764412244590729362
+      Russian Atlas_83: -5545348641804309484
+      Russian Atlas_84: 5742706516146606321
+      Russian Atlas_85: -3604685958546216619
+      Russian Atlas_86: 4866870315695711423
+      Russian Atlas_87: 7949421660116446363
+      Russian Atlas_88: 1033637121413001103
+      Russian Atlas_89: 4599154503252786509
+      Russian Atlas_9: 4203569889481883446
+      Russian Atlas_90: 5231869940978588936
+      Russian Atlas_91: 1441309296218337545
+      Russian Atlas_92: 9169522122206196855
+      Russian Atlas_93: 2485165406248515968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

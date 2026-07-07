@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: c374e612964d7b645bf3ead3f8989c1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6233637275952981218
+    second: AvaParty_0
+  - first:
+      213: 5425232166949472857
+    second: AvaParty_1
+  - first:
+      213: 7719065759685140710
+    second: AvaParty_2
+  - first:
+      213: 6545907730291634699
+    second: AvaParty_3
+  - first:
+      213: -9202063006747147700
+    second: AvaParty_4
+  - first:
+      213: 8641788334138773116
+    second: AvaParty_5
+  - first:
+      213: -545230342246105548
+    second: AvaParty_6
+  - first:
+      213: -5453776088430436331
+    second: AvaParty_7
+  - first:
+      213: -1379298131428427997
+    second: AvaParty_8
+  - first:
+      213: 8588960848782059803
+    second: AvaParty_9
+  - first:
+      213: 4825075279637834943
+    second: AvaParty_10
+  - first:
+      213: -2026274783817645195
+    second: AvaParty_11
+  - first:
+      213: -1065021988575999539
+    second: AvaParty_12
+  - first:
+      213: 929490573060135440
+    second: AvaParty_13
+  - first:
+      213: 3906249584518448875
+    second: AvaParty_14
+  - first:
+      213: 6338844416755380896
+    second: AvaParty_15
+  - first:
+      213: -8893836162830480401
+    second: AvaParty_16
+  - first:
+      213: 2259600864205658727
+    second: AvaParty_17
+  - first:
+      213: -5012194353837788280
+    second: AvaParty_18
+  - first:
+      213: 7549286519921503770
+    second: AvaParty_19
+  - first:
+      213: -6487015171179191785
+    second: AvaParty_20
+  - first:
+      213: 9052221723902312049
+    second: AvaParty_21
+  - first:
+      213: 352904730988197153
+    second: AvaParty_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AvaParty_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 194
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b503cbcebad79a0800000000000000
+      internalID: -6233637275952981218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95acb0769eb4a4b40800000000000000
+      internalID: 5425232166949472857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0e9eb3961af1b60800000000000000
+      internalID: 7719065759685140710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 215
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b023484266cb7da50800000000000000
+      internalID: 6545907730291634699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 215
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c2123374bb4080800000000000000
+      internalID: -9202063006747147700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 216
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ec47824bccde770800000000000000
+      internalID: 8641788334138773116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 215
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef7a974e3fe68f0800000000000000
+      internalID: -545230342246105548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 282
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a59cfa8b4054b0800000000000000
+      internalID: -5453776088430436331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 179
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32739d448afbbdce0800000000000000
+      internalID: -1379298131428427997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 180
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19646db26e123770800000000000000
+      internalID: 8588960848782059803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 178
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbce459076c16f240800000000000000
+      internalID: 4825075279637834943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 178
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c73dd1d931e3e0800000000000000
+      internalID: -2026274783817645195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_12
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 160
+        width: 148
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc982f4e4284831f0800000000000000
+      internalID: -1065021988575999539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 141
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad25560c636ec00800000000000000
+      internalID: 929490573060135440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_14
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 126
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64d390d49c53630800000000000000
+      internalID: 3906249584518448875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 209
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23c23996918f750800000000000000
+      internalID: 6338844416755380896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1
+        width: 241
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb47f7a12fb29480800000000000000
+      internalID: -8893836162830480401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad42d9307bb5f10800000000000000
+      internalID: 2259600864205658727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_18
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 155
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883b74a7acb117ab0800000000000000
+      internalID: -5012194353837788280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_19
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 126
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee09f871474c860800000000000000
+      internalID: 7549286519921503770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_20
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 157
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126b4d421e79f5a0800000000000000
+      internalID: -6487015171179191785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_21
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e754972b3ff9d70800000000000000
+      internalID: 9052221723902312049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvaParty_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1253b1aabf4c5e400800000000000000
+      internalID: 352904730988197153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AvaParty_0: -6233637275952981218
+      AvaParty_1: 5425232166949472857
+      AvaParty_10: 4825075279637834943
+      AvaParty_11: -2026274783817645195
+      AvaParty_12: -1065021988575999539
+      AvaParty_13: 929490573060135440
+      AvaParty_14: 3906249584518448875
+      AvaParty_15: 6338844416755380896
+      AvaParty_16: -8893836162830480401
+      AvaParty_17: 2259600864205658727
+      AvaParty_18: -5012194353837788280
+      AvaParty_19: 7549286519921503770
+      AvaParty_2: 7719065759685140710
+      AvaParty_20: -6487015171179191785
+      AvaParty_21: 9052221723902312049
+      AvaParty_22: 352904730988197153
+      AvaParty_3: 6545907730291634699
+      AvaParty_4: -9202063006747147700
+      AvaParty_5: 8641788334138773116
+      AvaParty_6: -545230342246105548
+      AvaParty_7: -5453776088430436331
+      AvaParty_8: -1379298131428427997
+      AvaParty_9: 8588960848782059803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: daa72ec8b542ba842a7dd79cff82c05f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2641296609294489972
+    second: NewYearPack_0
+  - first:
+      213: 624103596209060366
+    second: NewYearPack_1
+  - first:
+      213: 6877992939295034830
+    second: NewYearPack_2
+  - first:
+      213: -9111279504146757411
+    second: NewYearPack_3
+  - first:
+      213: 9011775890108073759
+    second: NewYearPack_4
+  - first:
+      213: -3263351884586432476
+    second: NewYearPack_5
+  - first:
+      213: 1432859876316268960
+    second: NewYearPack_6
+  - first:
+      213: 5467218945141995240
+    second: NewYearPack_7
+  - first:
+      213: 5097508115197200303
+    second: NewYearPack_8
+  - first:
+      213: -4250648411916074665
+    second: NewYearPack_9
+  - first:
+      213: 5558266604048766800
+    second: NewYearPack_10
+  - first:
+      213: -8391864889005202952
+    second: NewYearPack_11
+  - first:
+      213: 3742598733003337967
+    second: NewYearPack_12
+  - first:
+      213: 7837450482939886421
+    second: NewYearPack_13
+  - first:
+      213: -822222727782723787
+    second: NewYearPack_14
+  - first:
+      213: -7679712126531172519
+    second: NewYearPack_15
+  - first:
+      213: -729171834788574856
+    second: NewYearPack_16
+  - first:
+      213: -7686787646491247377
+    second: NewYearPack_17
+  - first:
+      213: -2677808453499666446
+    second: NewYearPack_18
+  - first:
+      213: -3444356467963150849
+    second: NewYearPack_19
+  - first:
+      213: 6409422705387842073
+    second: NewYearPack_20
+  - first:
+      213: -7210667236278588116
+    second: NewYearPack_21
+  - first:
+      213: -6878591782642971985
+    second: NewYearPack_22
+  - first:
+      213: -5792384401307131227
+    second: NewYearPack_23
+  - first:
+      213: 830172040736688484
+    second: NewYearPack_24
+  - first:
+      213: -1400388763811989245
+    second: NewYearPack_25
+  - first:
+      213: 1474601045361112695
+    second: NewYearPack_26
+  - first:
+      213: 233013696063271413
+    second: NewYearPack_27
+  - first:
+      213: 5604011810722536310
+    second: NewYearPack_28
+  - first:
+      213: -1777970293511701159
+    second: NewYearPack_29
+  - first:
+      213: 8297308870514748673
+    second: NewYearPack_30
+  - first:
+      213: 8487352722406325814
+    second: NewYearPack_31
+  - first:
+      213: -7638924843498102650
+    second: NewYearPack_32
+  - first:
+      213: 8269809730151157294
+    second: NewYearPack_33
+  - first:
+      213: 7038365774962578030
+    second: NewYearPack_34
+  - first:
+      213: -7701666530924402048
+    second: NewYearPack_35
+  - first:
+      213: -8847138187467385507
+    second: NewYearPack_36
+  - first:
+      213: 681439644949911945
+    second: NewYearPack_37
+  - first:
+      213: 2076678115980753309
+    second: NewYearPack_38
+  - first:
+      213: -2666373144734532568
+    second: NewYearPack_39
+  - first:
+      213: 8722545255453604854
+    second: NewYearPack_40
+  - first:
+      213: 3726695558105596502
+    second: NewYearPack_41
+  - first:
+      213: -3710606808988200217
+    second: NewYearPack_42
+  - first:
+      213: 6598538809171080201
+    second: NewYearPack_43
+  - first:
+      213: -3557860475381532346
+    second: NewYearPack_44
+  - first:
+      213: -983463350346614517
+    second: NewYearPack_45
+  - first:
+      213: 6861950620143780082
+    second: NewYearPack_46
+  - first:
+      213: -3790646365402155667
+    second: NewYearPack_47
+  - first:
+      213: 816543227575558427
+    second: NewYearPack_48
+  - first:
+      213: 7648868717522398743
+    second: NewYearPack_49
+  - first:
+      213: 5895545418610227962
+    second: NewYearPack_50
+  - first:
+      213: -5355232917485847914
+    second: NewYearPack_51
+  - first:
+      213: 2417163541004077134
+    second: NewYearPack_52
+  - first:
+      213: 1603736661243317620
+    second: NewYearPack_53
+  - first:
+      213: -111900743708847555
+    second: NewYearPack_54
+  - first:
+      213: 6185077065498700250
+    second: NewYearPack_55
+  - first:
+      213: 8125876509376049702
+    second: NewYearPack_56
+  - first:
+      213: 2901900634660910937
+    second: NewYearPack_57
+  - first:
+      213: 8120882612712555084
+    second: NewYearPack_58
+  - first:
+      213: 4155684960577637937
+    second: NewYearPack_59
+  - first:
+      213: -2244838359456578683
+    second: NewYearPack_60
+  - first:
+      213: 1255125268042867582
+    second: NewYearPack_61
+  - first:
+      213: -8276138066536509745
+    second: NewYearPack_62
+  - first:
+      213: -1888371469676648133
+    second: NewYearPack_63
+  - first:
+      213: -8836102112019185252
+    second: NewYearPack_64
+  - first:
+      213: 1784186546284986317
+    second: NewYearPack_65
+  - first:
+      213: 8450188389749798153
+    second: NewYearPack_66
+  - first:
+      213: -1921185986381964961
+    second: NewYearPack_67
+  - first:
+      213: 6650291307395689290
+    second: NewYearPack_68
+  - first:
+      213: -6361050178676703464
+    second: NewYearPack_69
+  - first:
+      213: 5470918612661822326
+    second: NewYearPack_70
+  - first:
+      213: 352185215141834260
+    second: NewYearPack_71
+  - first:
+      213: -6292848338299667438
+    second: NewYearPack_72
+  - first:
+      213: 135089225168451549
+    second: NewYearPack_73
+  - first:
+      213: 743258868299984835
+    second: NewYearPack_74
+  - first:
+      213: -767188566705822
+    second: NewYearPack_75
+  - first:
+      213: -7378411255129345325
+    second: NewYearPack_76
+  - first:
+      213: 4538086291532361060
+    second: NewYearPack_77
+  - first:
+      213: 6319514000207640064
+    second: NewYearPack_78
+  - first:
+      213: -3425886678707481569
+    second: NewYearPack_79
+  - first:
+      213: -2689947372025840060
+    second: NewYearPack_80
+  - first:
+      213: 6368795032751330110
+    second: NewYearPack_81
+  - first:
+      213: 7611116314697151111
+    second: NewYearPack_82
+  - first:
+      213: 6101554381171176715
+    second: NewYearPack_83
+  - first:
+      213: -903427977987872430
+    second: NewYearPack_84
+  - first:
+      213: 1644563666643365814
+    second: NewYearPack_85
+  - first:
+      213: 6610079146579453451
+    second: NewYearPack_86
+  - first:
+      213: 2263413896470088556
+    second: NewYearPack_87
+  - first:
+      213: 1832309870758048046
+    second: NewYearPack_88
+  - first:
+      213: -5226818839363568194
+    second: NewYearPack_89
+  - first:
+      213: 7781770373916832172
+    second: NewYearPack_90
+  - first:
+      213: 7715661904989625730
+    second: NewYearPack_91
+  - first:
+      213: -3225233996475115970
+    second: NewYearPack_92
+  - first:
+      213: -5207141178943552227
+    second: NewYearPack_93
+  - first:
+      213: 120521258886063748
+    second: NewYearPack_94
+  - first:
+      213: -1782693432765043720
+    second: NewYearPack_95
+  - first:
+      213: 8754101089632947642
+    second: NewYearPack_96
+  - first:
+      213: 6929769620160988512
+    second: NewYearPack_97
+  - first:
+      213: -5166721465452001848
+    second: NewYearPack_98
+  - first:
+      213: 2031264887809856415
+    second: NewYearPack_99
+  - first:
+      213: -7458360262167996558
+    second: NewYearPack_100
+  - first:
+      213: 2338883565425002467
+    second: NewYearPack_101
+  - first:
+      213: -5347375668535479630
+    second: NewYearPack_102
+  - first:
+      213: 4897227125143734294
+    second: NewYearPack_103
+  - first:
+      213: 5913880031073934259
+    second: NewYearPack_104
+  - first:
+      213: -4624083911923771344
+    second: NewYearPack_105
+  - first:
+      213: 65895967027779471
+    second: NewYearPack_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewYearPack_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1207
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479117f9545c7a420800000000000000
+      internalID: 2641296609294489972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1253
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ab5130ae249a800800000000000000
+      internalID: 624103596209060366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 539
+        width: 84
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd435a132a837f50800000000000000
+      internalID: 6877992939295034830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1209
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8090a809b3e8180800000000000000
+      internalID: -9111279504146757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_4
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 939
+        width: 319
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f174255fc62401d70800000000000000
+      internalID: 9011775890108073759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1073
+        width: 267
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428cf1e30ce36b2d0800000000000000
+      internalID: -3263351884586432476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1084
+        width: 172
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9cdb4477a82e310800000000000000
+      internalID: 1432859876316268960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_7
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1250
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6797ef9a67fdb40800000000000000
+      internalID: 5467218945141995240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_8
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1210
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7000e7f9cfdb640800000000000000
+      internalID: 5097508115197200303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_9
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1218
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7510aae4ac9a205c0800000000000000
+      internalID: -4250648411916074665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_10
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1218
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0575e35070ee22d40800000000000000
+      internalID: 5558266604048766800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1221
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a5cf685b1a8b80800000000000000
+      internalID: -8391864889005202952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1113
+        width: 44
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0bd71f7b160f330800000000000000
+      internalID: 3742598733003337967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1195
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b785c80b734cc60800000000000000
+      internalID: 7837450482939886421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1146
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f024019c0e694f0800000000000000
+      internalID: -822222727782723787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1075
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95789d0828e2c6590800000000000000
+      internalID: -7679712126531172519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_16
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1084
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879053f541671e5f0800000000000000
+      internalID: -729171834788574856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_17
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1150
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3703ac5b035590800000000000000
+      internalID: -7686787646491247377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_18
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1154
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff3d90366386dad0800000000000000
+      internalID: -2677808453499666446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_19
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1187
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdbc379a003330d0800000000000000
+      internalID: -3444356467963150849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_20
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1159
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a27f1fdf7d2f850800000000000000
+      internalID: 6409422705387842073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1176
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d21143a509eeb90800000000000000
+      internalID: -7210667236278588116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1130
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa05a0d7355a80a0800000000000000
+      internalID: -6878591782642971985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1113
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2239d83115d9fa0800000000000000
+      internalID: -5792384401307131227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694296921d558b00800000000000000
+      internalID: 830172040736688484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_25
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1070
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309b981c6d1d09ce0800000000000000
+      internalID: -1400388763811989245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_26
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1096
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7763b2686d5d67410800000000000000
+      internalID: 1474601045361112695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_27
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1096
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1f6a5d8b4db3300800000000000000
+      internalID: 233013696063271413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1120
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bd53fec0375cd40800000000000000
+      internalID: 5604011810722536310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1091
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db90a20716357e0800000000000000
+      internalID: -1777970293511701159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_30
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 934
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10daabae476f52370800000000000000
+      internalID: 8297308870514748673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 539
+        width: 112
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3976455229c570800000000000000
+      internalID: 8487352722406325814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_32
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 822
+        width: 252
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a36dd3561df590800000000000000
+      internalID: -7638924843498102650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1069
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e8abd522444c270800000000000000
+      internalID: 8269809730151157294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_34
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1071
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6259e7a16c4da160800000000000000
+      internalID: 7038365774962578030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_35
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 820
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a6cb5681f2e1590800000000000000
+      internalID: -7701666530924402048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1015
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55963151b6a83580800000000000000
+      internalID: -8847138187467385507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_37
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1022
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899b152fb5f47900800000000000000
+      internalID: 681439644949911945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_38
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 928
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d993cd76eb7d1dc10800000000000000
+      internalID: 2076678115980753309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 941
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf47d70c32ffad0800000000000000
+      internalID: -2666373144734532568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_40
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 663
+        width: 271
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbb49022b4bc0970800000000000000
+      internalID: 8722545255453604854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_41
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 847
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65209ee7dd1e7b330800000000000000
+      internalID: 3726695558105596502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_42
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 766
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2dc1154c6418cc0800000000000000
+      internalID: -3710606808988200217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_43
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 775
+        width: 148
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904754d1618b29b50800000000000000
+      internalID: 6598538809171080201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_44
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 775
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6493b7c7fb0ff9ec0800000000000000
+      internalID: -3557860475381532346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_45
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 477
+        width: 349
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0979f02b490a52f0800000000000000
+      internalID: -983463350346614517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_46
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 454
+        width: 321
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f001fb9bbb8a3f50800000000000000
+      internalID: 6861950620143780082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_47
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 775
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653411e63be46bc0800000000000000
+      internalID: -3790646365402155667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_48
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 655
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11646f3db1f45b00800000000000000
+      internalID: 816543227575558427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_49
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 435
+        width: 97
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e2589b29d362a60800000000000000
+      internalID: 7648868717522398743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 602
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afab171825f21d150800000000000000
+      internalID: 5895545418610227962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 580
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af6c7e8046ea5b0800000000000000
+      internalID: -5355232917485847914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 553
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c2911f6d7b8120800000000000000
+      internalID: 2417163541004077134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 541
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dcda61ffd914610800000000000000
+      internalID: 1603736661243317620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 539
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32d121ddd2727ef0800000000000000
+      internalID: -111900743708847555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_55
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 553
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9277532dec5d550800000000000000
+      internalID: 6185077065498700250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_56
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 565
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622fc0ee1a9e4c070800000000000000
+      internalID: 8125876509376049702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 516
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b176904f954820800000000000000
+      internalID: 2901900634660910937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_58
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 518
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c061c5bb23b070800000000000000
+      internalID: 8120882612712555084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_59
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec9a13475fba930800000000000000
+      internalID: 4155684960577637937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 476
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5838b6ed76bb8d0e0800000000000000
+      internalID: -2244838359456578683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_61
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ef4608c91b6110800000000000000
+      internalID: 1255125268042867582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 464
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec0000740452d80800000000000000
+      internalID: -8276138066536509745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 458
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e0f147282bc5e0800000000000000
+      internalID: -1888371469676648133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_64
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 479
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91840ed1fbdf5580800000000000000
+      internalID: -8836102112019185252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 453
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff858f534b2c810800000000000000
+      internalID: 1784186546284986317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_66
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2
+        width: 363
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905ba28c199154570800000000000000
+      internalID: 8450188389749798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_67
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 437
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f599e3636839655e0800000000000000
+      internalID: -1921185986381964961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_68
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 437
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b203695b49a4c50800000000000000
+      internalID: 6650291307395689290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_69
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 309
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3a85909209b7a0800000000000000
+      internalID: -6361050178676703464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_70
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 327
+        width: 268
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e7c6fd7b9ceb40800000000000000
+      internalID: 5470918612661822326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_71
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e6ca3569633e400800000000000000
+      internalID: 352185215141834260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_72
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 288
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cbd3af6cf4ba8a0800000000000000
+      internalID: -6292848338299667438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_73
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 307
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7f52f3feeefd100800000000000000
+      internalID: 135089225168451549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_74
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 300
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfed25b006905a00800000000000000
+      internalID: 743258868299984835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_75
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 285
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269710efe364dfff0800000000000000
+      internalID: -767188566705822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_76
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 294
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d275435e0e9a9990800000000000000
+      internalID: -7378411255129345325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_77
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d2bd630758afe30800000000000000
+      internalID: 4538086291532361060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_78
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 282
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fb7f308c63b750800000000000000
+      internalID: 6319514000207640064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 196
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14d5e2873ec470d0800000000000000
+      internalID: -3425886678707481569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_80
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 190
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e77e9fd136baad0800000000000000
+      internalID: -2689947372025840060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_81
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 177
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335a66c651826850800000000000000
+      internalID: 6368795032751330110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_82
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 175
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78234b976fd10a960800000000000000
+      internalID: 7611116314697151111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_83
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 157
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05bf6bd1631da450800000000000000
+      internalID: 6101554381171176715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_84
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25922e36a016673f0800000000000000
+      internalID: -903427977987872430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_85
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfaac801f9a2d610800000000000000
+      internalID: 1644563666643365814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_86
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06e51d46f7bbbb50800000000000000
+      internalID: 6610079146579453451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_87
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 137
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b48ce52f2496f10800000000000000
+      internalID: 2263413896470088556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_88
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 128
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b9f49e1cad6910800000000000000
+      internalID: 1832309870758048046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_89
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3a6e55fb9677b0800000000000000
+      internalID: -5226818839363568194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_90
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1b8fcece66efb60800000000000000
+      internalID: 7781770373916832172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_91
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 107
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9bed8f99831b60800000000000000
+      internalID: 7715661904989625730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_92
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 92
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36569aa4caad33d0800000000000000
+      internalID: -3225233996475115970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_93
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 87
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c2c5bfa48cb7b0800000000000000
+      internalID: -5207141178943552227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_94
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 83
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48669c7427d2ca100800000000000000
+      internalID: 120521258886063748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_95
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb2e9c94c99247e0800000000000000
+      internalID: -1782693432765043720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_96
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8e6f4f80dc7970800000000000000
+      internalID: 8754101089632947642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_97
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 22
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0654df801cc7b2060800000000000000
+      internalID: 6929769620160988512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_98
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5095e933e1c48b0800000000000000
+      internalID: -5166721465452001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_99
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 19
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9351a247a0803c10800000000000000
+      internalID: 2031264887809856415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_100
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 20
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277569e8bd49e7890800000000000000
+      internalID: -7458360262167996558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_101
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 27
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e70828f532657020800000000000000
+      internalID: 2338883565425002467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_102
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 23
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2306c392e4ac5b0800000000000000
+      internalID: -5347375668535479630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_103
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 20
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618899aaf1276f340800000000000000
+      internalID: 4897227125143734294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_104
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb10702e82521250800000000000000
+      internalID: 5913880031073934259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_105
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385f2a7e24f3dfb0800000000000000
+      internalID: -4624083911923771344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewYearPack_106
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8752da680c1ae000800000000000000
+      internalID: 65895967027779471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewYearPack_0: 2641296609294489972
+      NewYearPack_1: 624103596209060366
+      NewYearPack_10: 5558266604048766800
+      NewYearPack_100: -7458360262167996558
+      NewYearPack_101: 2338883565425002467
+      NewYearPack_102: -5347375668535479630
+      NewYearPack_103: 4897227125143734294
+      NewYearPack_104: 5913880031073934259
+      NewYearPack_105: -4624083911923771344
+      NewYearPack_106: 65895967027779471
+      NewYearPack_11: -8391864889005202952
+      NewYearPack_12: 3742598733003337967
+      NewYearPack_13: 7837450482939886421
+      NewYearPack_14: -822222727782723787
+      NewYearPack_15: -7679712126531172519
+      NewYearPack_16: -729171834788574856
+      NewYearPack_17: -7686787646491247377
+      NewYearPack_18: -2677808453499666446
+      NewYearPack_19: -3444356467963150849
+      NewYearPack_2: 6877992939295034830
+      NewYearPack_20: 6409422705387842073
+      NewYearPack_21: -7210667236278588116
+      NewYearPack_22: -6878591782642971985
+      NewYearPack_23: -5792384401307131227
+      NewYearPack_24: 830172040736688484
+      NewYearPack_25: -1400388763811989245
+      NewYearPack_26: 1474601045361112695
+      NewYearPack_27: 233013696063271413
+      NewYearPack_28: 5604011810722536310
+      NewYearPack_29: -1777970293511701159
+      NewYearPack_3: -9111279504146757411
+      NewYearPack_30: 8297308870514748673
+      NewYearPack_31: 8487352722406325814
+      NewYearPack_32: -7638924843498102650
+      NewYearPack_33: 8269809730151157294
+      NewYearPack_34: 7038365774962578030
+      NewYearPack_35: -7701666530924402048
+      NewYearPack_36: -8847138187467385507
+      NewYearPack_37: 681439644949911945
+      NewYearPack_38: 2076678115980753309
+      NewYearPack_39: -2666373144734532568
+      NewYearPack_4: 9011775890108073759
+      NewYearPack_40: 8722545255453604854
+      NewYearPack_41: 3726695558105596502
+      NewYearPack_42: -3710606808988200217
+      NewYearPack_43: 6598538809171080201
+      NewYearPack_44: -3557860475381532346
+      NewYearPack_45: -983463350346614517
+      NewYearPack_46: 6861950620143780082
+      NewYearPack_47: -3790646365402155667
+      NewYearPack_48: 816543227575558427
+      NewYearPack_49: 7648868717522398743
+      NewYearPack_5: -3263351884586432476
+      NewYearPack_50: 5895545418610227962
+      NewYearPack_51: -5355232917485847914
+      NewYearPack_52: 2417163541004077134
+      NewYearPack_53: 1603736661243317620
+      NewYearPack_54: -111900743708847555
+      NewYearPack_55: 6185077065498700250
+      NewYearPack_56: 8125876509376049702
+      NewYearPack_57: 2901900634660910937
+      NewYearPack_58: 8120882612712555084
+      NewYearPack_59: 4155684960577637937
+      NewYearPack_6: 1432859876316268960
+      NewYearPack_60: -2244838359456578683
+      NewYearPack_61: 1255125268042867582
+      NewYearPack_62: -8276138066536509745
+      NewYearPack_63: -1888371469676648133
+      NewYearPack_64: -8836102112019185252
+      NewYearPack_65: 1784186546284986317
+      NewYearPack_66: 8450188389749798153
+      NewYearPack_67: -1921185986381964961
+      NewYearPack_68: 6650291307395689290
+      NewYearPack_69: -6361050178676703464
+      NewYearPack_7: 5467218945141995240
+      NewYearPack_70: 5470918612661822326
+      NewYearPack_71: 352185215141834260
+      NewYearPack_72: -6292848338299667438
+      NewYearPack_73: 135089225168451549
+      NewYearPack_74: 743258868299984835
+      NewYearPack_75: -767188566705822
+      NewYearPack_76: -7378411255129345325
+      NewYearPack_77: 4538086291532361060
+      NewYearPack_78: 6319514000207640064
+      NewYearPack_79: -3425886678707481569
+      NewYearPack_8: 5097508115197200303
+      NewYearPack_80: -2689947372025840060
+      NewYearPack_81: 6368795032751330110
+      NewYearPack_82: 7611116314697151111
+      NewYearPack_83: 6101554381171176715
+      NewYearPack_84: -903427977987872430
+      NewYearPack_85: 1644563666643365814
+      NewYearPack_86: 6610079146579453451
+      NewYearPack_87: 2263413896470088556
+      NewYearPack_88: 1832309870758048046
+      NewYearPack_89: -5226818839363568194
+      NewYearPack_9: -4250648411916074665
+      NewYearPack_90: 7781770373916832172
+      NewYearPack_91: 7715661904989625730
+      NewYearPack_92: -3225233996475115970
+      NewYearPack_93: -5207141178943552227
+      NewYearPack_94: 120521258886063748
+      NewYearPack_95: -1782693432765043720
+      NewYearPack_96: 8754101089632947642
+      NewYearPack_97: 6929769620160988512
+      NewYearPack_98: -5166721465452001848
+      NewYearPack_99: 2031264887809856415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

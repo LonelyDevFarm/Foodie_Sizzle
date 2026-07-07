@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: e5b1402d0635996448c0f58b99498b55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3227909178378166430
+    second: Song_bien_0
+  - first:
+      213: 7622716785412108054
+    second: Song_bien_1
+  - first:
+      213: 7222305408857596563
+    second: Song_bien_2
+  - first:
+      213: -3442976770687624576
+    second: Song_bien_3
+  - first:
+      213: -9112550637040518022
+    second: Song_bien_4
+  - first:
+      213: -6627304039973212824
+    second: Song_bien_5
+  - first:
+      213: 6887581906092477192
+    second: Song_bien_6
+  - first:
+      213: 4257459905437508587
+    second: Song_bien_7
+  - first:
+      213: -7360308759100935251
+    second: Song_bien_8
+  - first:
+      213: -5036275486388560871
+    second: Song_bien_9
+  - first:
+      213: 838403296774585040
+    second: Song_bien_10
+  - first:
+      213: 8060204508042121629
+    second: Song_bien_11
+  - first:
+      213: -5835674676895040275
+    second: Song_bien_12
+  - first:
+      213: -2604138358898182811
+    second: Song_bien_13
+  - first:
+      213: 200715386134114925
+    second: Song_bien_14
+  - first:
+      213: 4453007411901986627
+    second: Song_bien_15
+  - first:
+      213: -1515095433846216189
+    second: Song_bien_16
+  - first:
+      213: -8337952936550361214
+    second: Song_bien_17
+  - first:
+      213: -4082996400877178814
+    second: Song_bien_18
+  - first:
+      213: -6820259370599711662
+    second: Song_bien_19
+  - first:
+      213: 8908804225198916714
+    second: Song_bien_20
+  - first:
+      213: 4295896175546255677
+    second: Song_bien_21
+  - first:
+      213: -1608790391820013113
+    second: Song_bien_22
+  - first:
+      213: 3993363302241515839
+    second: Song_bien_23
+  - first:
+      213: 5137370743188369669
+    second: Song_bien_24
+  - first:
+      213: 9072354058144090693
+    second: Song_bien_25
+  - first:
+      213: -3651132630099448542
+    second: Song_bien_26
+  - first:
+      213: -7421141184916307508
+    second: Song_bien_27
+  - first:
+      213: -9039083264901270824
+    second: Song_bien_28
+  - first:
+      213: 7038713619384330220
+    second: Song_bien_29
+  - first:
+      213: 6748816912332495105
+    second: Song_bien_30
+  - first:
+      213: -4396815059641491162
+    second: Song_bien_31
+  - first:
+      213: 4456374547206235763
+    second: Song_bien_32
+  - first:
+      213: -1994217001055624209
+    second: Song_bien_33
+  - first:
+      213: 2494845722386483935
+    second: Song_bien_34
+  - first:
+      213: 1543473117494083906
+    second: Song_bien_35
+  - first:
+      213: 5205058363257472143
+    second: Song_bien_36
+  - first:
+      213: 4102318741588123927
+    second: Song_bien_37
+  - first:
+      213: 7757996795923012894
+    second: Song_bien_38
+  - first:
+      213: 8505721012611933413
+    second: Song_bien_39
+  - first:
+      213: 6540414321844600881
+    second: Song_bien_40
+  - first:
+      213: 3832424568282462573
+    second: Song_bien_41
+  - first:
+      213: 8085093629163734647
+    second: Song_bien_42
+  - first:
+      213: 1253764833366260885
+    second: Song_bien_43
+  - first:
+      213: 5570000198281812057
+    second: Song_bien_44
+  - first:
+      213: -4782445891086475971
+    second: Song_bien_45
+  - first:
+      213: 1050369288327941183
+    second: Song_bien_46
+  - first:
+      213: -2217825171156541907
+    second: Song_bien_47
+  - first:
+      213: -4999757748579382836
+    second: Song_bien_48
+  - first:
+      213: -6068221423202670697
+    second: Song_bien_49
+  - first:
+      213: 786507419069833582
+    second: Song_bien_50
+  - first:
+      213: -3904910621765911538
+    second: Song_bien_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Song_bien_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1628
+        width: 361
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fdb8754b92433d0800000000000000
+      internalID: -3227909178378166430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1680
+        width: 360
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f65e9878459c960800000000000000
+      internalID: 7622716785412108054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1650
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392e6520188ca3460800000000000000
+      internalID: 7222305408857596563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_3
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1707
+        width: 334
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1e356ed61830d0800000000000000
+      internalID: -3442976770687624576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 781
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cb079d977b98180800000000000000
+      internalID: -9112550637040518022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_5
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1678
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da2eea6161704a0800000000000000
+      internalID: -6627304039973212824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1611
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bcc0a604b959f50800000000000000
+      internalID: 6887581906092477192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1638
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3221d1a39851b30800000000000000
+      internalID: 4257459905437508587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_8
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1626
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b7902e2eead990800000000000000
+      internalID: -7360308759100935251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_9
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1630
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c5dc2e02e8b1ab0800000000000000
+      internalID: -5036275486388560871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1619
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf3ca3b5b92ab00800000000000000
+      internalID: 838403296774585040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_11
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1593
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d915ad69b499bdf60800000000000000
+      internalID: 8060204508042121629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1568
+        width: 194
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decbde2dcc4830fa0800000000000000
+      internalID: -5835674676895040275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1573
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b7ebb5fd3cdbd0800000000000000
+      internalID: -2604138358898182811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_14
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1583
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62ba7b849519c200800000000000000
+      internalID: 200715386134114925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_15
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1602
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3477998e5a24ccd30800000000000000
+      internalID: 4453007411901986627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1571
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aa7c0fabc49fae0800000000000000
+      internalID: -1515095433846216189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1036
+        width: 361
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879df60bf3a94c80800000000000000
+      internalID: -8337952936550361214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 361
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2407482f7684657c0800000000000000
+      internalID: -4082996400877178814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1250
+        width: 360
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cff5bdc329951a0800000000000000
+      internalID: -6820259370599711662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_20
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1209
+        width: 360
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640b70fd3e62ab70800000000000000
+      internalID: 8908804225198916714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_21
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1273
+        width: 360
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39c46f9fc61e9b30800000000000000
+      internalID: 4295896175546255677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_22
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1211
+        width: 359
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b18199ad6ca9e0800000000000000
+      internalID: -1608790391820013113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 361
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bf2104c64b6730800000000000000
+      internalID: 3993363302241515839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1185
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013a33d87b9b4740800000000000000
+      internalID: 5137370743188369669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1177
+        width: 222
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8040d2f977ed70800000000000000
+      internalID: 9072354058144090693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_26
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1166
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da51ba732945dc0800000000000000
+      internalID: -3651132630099448542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_27
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1157
+        width: 238
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1ca05496fc20990800000000000000
+      internalID: -7421141184916307508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_28
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1183
+        width: 202
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b16469a9be8280800000000000000
+      internalID: -9039083264901270824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 779
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76b1f7eb88ea160800000000000000
+      internalID: 7038713619384330220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_30
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 795
+        width: 166
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1091ab9993d98ad50800000000000000
+      internalID: 6748816912332495105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 704
+        width: 360
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6212bf2afff5bf2c0800000000000000
+      internalID: -4396815059641491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_32
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 798
+        width: 361
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e1503a0938dd30800000000000000
+      internalID: 4456374547206235763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_33
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 791
+        width: 360
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e80f043e1354e0800000000000000
+      internalID: -1994217001055624209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_34
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 790
+        width: 363
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdacf3c57f87f9220800000000000000
+      internalID: 2494845722386483935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 715
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24189986f948b6510800000000000000
+      internalID: 1543473117494083906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 711
+        width: 223
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f844329f0051c3840800000000000000
+      internalID: 5205058363257472143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_37
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 478
+        width: 361
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a9c3192d5ee830800000000000000
+      internalID: 4102318741588123927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_38
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 489
+        width: 363
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1c957bf0f9ab60800000000000000
+      internalID: 7757996795923012894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 439
+        width: 360
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e46f4b12346a0670800000000000000
+      internalID: 8505721012611933413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130cc615c2834ca50800000000000000
+      internalID: 6540414321844600881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 584
+        width: 381
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69b4fcf6d18f2530800000000000000
+      internalID: 3832424568282462573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 246
+        width: 381
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776041ea1d5043070800000000000000
+      internalID: 8085093629163734647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 483
+        width: 360
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3ca42974466110800000000000000
+      internalID: 1253764833366260885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 760
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95851715bad9c4d40800000000000000
+      internalID: 5570000198281812057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_45
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1
+        width: 381
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9340fcc651adb0800000000000000
+      internalID: -4782445891086475971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_46
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 192
+        width: 360
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c44c97d49a39e00800000000000000
+      internalID: 1050369288327941183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_47
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 161
+        width: 362
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5b43e1c3b831e0800000000000000
+      internalID: -2217825171156541907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc94be841da4d9ab0800000000000000
+      internalID: -4999757748579382836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 170
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797e69334c859cba0800000000000000
+      internalID: -6068221423202670697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_50
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 108
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61edde945c3aea00800000000000000
+      internalID: 786507419069833582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Song_bien_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 112
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3ef58a78fec9c0800000000000000
+      internalID: -3904910621765911538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Song_bien_0: -3227909178378166430
+      Song_bien_1: 7622716785412108054
+      Song_bien_10: 838403296774585040
+      Song_bien_11: 8060204508042121629
+      Song_bien_12: -5835674676895040275
+      Song_bien_13: -2604138358898182811
+      Song_bien_14: 200715386134114925
+      Song_bien_15: 4453007411901986627
+      Song_bien_16: -1515095433846216189
+      Song_bien_17: -8337952936550361214
+      Song_bien_18: -4082996400877178814
+      Song_bien_19: -6820259370599711662
+      Song_bien_2: 7222305408857596563
+      Song_bien_20: 8908804225198916714
+      Song_bien_21: 4295896175546255677
+      Song_bien_22: -1608790391820013113
+      Song_bien_23: 3993363302241515839
+      Song_bien_24: 5137370743188369669
+      Song_bien_25: 9072354058144090693
+      Song_bien_26: -3651132630099448542
+      Song_bien_27: -7421141184916307508
+      Song_bien_28: -9039083264901270824
+      Song_bien_29: 7038713619384330220
+      Song_bien_3: -3442976770687624576
+      Song_bien_30: 6748816912332495105
+      Song_bien_31: -4396815059641491162
+      Song_bien_32: 4456374547206235763
+      Song_bien_33: -1994217001055624209
+      Song_bien_34: 2494845722386483935
+      Song_bien_35: 1543473117494083906
+      Song_bien_36: 5205058363257472143
+      Song_bien_37: 4102318741588123927
+      Song_bien_38: 7757996795923012894
+      Song_bien_39: 8505721012611933413
+      Song_bien_4: -9112550637040518022
+      Song_bien_40: 6540414321844600881
+      Song_bien_41: 3832424568282462573
+      Song_bien_42: 8085093629163734647
+      Song_bien_43: 1253764833366260885
+      Song_bien_44: 5570000198281812057
+      Song_bien_45: -4782445891086475971
+      Song_bien_46: 1050369288327941183
+      Song_bien_47: -2217825171156541907
+      Song_bien_48: -4999757748579382836
+      Song_bien_49: -6068221423202670697
+      Song_bien_5: -6627304039973212824
+      Song_bien_50: 786507419069833582
+      Song_bien_51: -3904910621765911538
+      Song_bien_6: 6887581906092477192
+      Song_bien_7: 4257459905437508587
+      Song_bien_8: -7360308759100935251
+      Song_bien_9: -5036275486388560871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

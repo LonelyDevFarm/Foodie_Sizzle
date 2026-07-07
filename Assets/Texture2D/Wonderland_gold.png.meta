@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 942c47fd1df5dc047b2d2d3a8f5a2979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8237314346890757230
+    second: Wonderland_gold_0
+  - first:
+      213: 7247612577220566645
+    second: Wonderland_gold_1
+  - first:
+      213: -5450286514406028076
+    second: Wonderland_gold_2
+  - first:
+      213: -7598536094329084707
+    second: Wonderland_gold_3
+  - first:
+      213: -3953023718891477662
+    second: Wonderland_gold_4
+  - first:
+      213: 7239619557379436722
+    second: Wonderland_gold_5
+  - first:
+      213: -1622516912720901140
+    second: Wonderland_gold_6
+  - first:
+      213: -100940133616643902
+    second: Wonderland_gold_7
+  - first:
+      213: 601224052416209884
+    second: Wonderland_gold_8
+  - first:
+      213: -7694614353337990406
+    second: Wonderland_gold_9
+  - first:
+      213: -3067536457588662222
+    second: Wonderland_gold_10
+  - first:
+      213: -63291553508258534
+    second: Wonderland_gold_11
+  - first:
+      213: 8856666968349162952
+    second: Wonderland_gold_12
+  - first:
+      213: 5033665377881237930
+    second: Wonderland_gold_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wonderland_gold_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 303
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf852ae3e2fad80800000000000000
+      internalID: -8237314346890757230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 245
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e92ee4d31b49460800000000000000
+      internalID: 7247612577220566645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 285
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0ab0ca41bc54b0800000000000000
+      internalID: -5450286514406028076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 285
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4e7845ea39c8690800000000000000
+      internalID: -7598536094329084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a7c62fd90429c0800000000000000
+      internalID: -3953023718891477662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 231
+        width: 147
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0729a51ab487460800000000000000
+      internalID: 7239619557379436722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 278
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb053fd679ab79e0800000000000000
+      internalID: -1622516912720901140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 245
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c01338bb73699ef0800000000000000
+      internalID: -100940133616643902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 255
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd360ba171af75800800000000000000
+      internalID: 601224052416209884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 216
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2caa1730d373590800000000000000
+      internalID: -7694614353337990406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2
+        width: 74
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302ed528dbed65d0800000000000000
+      internalID: -3067536457588662222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2
+        width: 83
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d8bdbdaa42f1ff0800000000000000
+      internalID: -63291553508258534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 158
+        width: 116
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd336edea339ea70800000000000000
+      internalID: 8856666968349162952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wonderland_gold_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 102
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa92bceddfb2bd540800000000000000
+      internalID: 5033665377881237930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wonderland_gold_0: -8237314346890757230
+      Wonderland_gold_1: 7247612577220566645
+      Wonderland_gold_10: -3067536457588662222
+      Wonderland_gold_11: -63291553508258534
+      Wonderland_gold_12: 8856666968349162952
+      Wonderland_gold_13: 5033665377881237930
+      Wonderland_gold_2: -5450286514406028076
+      Wonderland_gold_3: -7598536094329084707
+      Wonderland_gold_4: -3953023718891477662
+      Wonderland_gold_5: 7239619557379436722
+      Wonderland_gold_6: -1622516912720901140
+      Wonderland_gold_7: -100940133616643902
+      Wonderland_gold_8: 601224052416209884
+      Wonderland_gold_9: -7694614353337990406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

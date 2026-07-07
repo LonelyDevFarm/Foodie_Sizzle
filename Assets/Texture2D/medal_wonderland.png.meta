@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e4660e38f133ff7459bab78095eca1bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6091181629803344300
+    second: medal_wonderland_0
+  - first:
+      213: 2542854127541735033
+    second: medal_wonderland_1
+  - first:
+      213: 8313776978810162741
+    second: medal_wonderland_2
+  - first:
+      213: 473942798340811658
+    second: medal_wonderland_3
+  - first:
+      213: 3061733463808716110
+    second: medal_wonderland_4
+  - first:
+      213: 3679050051632940454
+    second: medal_wonderland_5
+  - first:
+      213: -4004885113118202466
+    second: medal_wonderland_6
+  - first:
+      213: 6272919020619058610
+    second: medal_wonderland_7
+  - first:
+      213: -7752323331599265503
+    second: medal_wonderland_8
+  - first:
+      213: 7906119505703227829
+    second: medal_wonderland_9
+  - first:
+      213: -1301334318527861104
+    second: medal_wonderland_10
+  - first:
+      213: 447013942374617627
+    second: medal_wonderland_11
+  - first:
+      213: -5770935248461354715
+    second: medal_wonderland_12
+  - first:
+      213: 2760504261308626399
+    second: medal_wonderland_13
+  - first:
+      213: 2252553789010712329
+    second: medal_wonderland_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medal_wonderland_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 736
+        width: 212
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca130da7b69388450800000000000000
+      internalID: 6091181629803344300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 367
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec2cb3b580a4320800000000000000
+      internalID: 2542854127541735033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 736
+        width: 200
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ecccb2d18706370800000000000000
+      internalID: 8313776978810162741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 367
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b65fac678c39600800000000000000
+      internalID: 473942798340811658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 265
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dae331d567d7a20800000000000000
+      internalID: 3061733463808716110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 231
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c67e878c9e0330800000000000000
+      internalID: 3679050051632940454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 205
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e65a553acb68c0800000000000000
+      internalID: -4004885113118202466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 177
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4ac82d92ed0750800000000000000
+      internalID: 6272919020619058610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 175
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219d04e0073a6490800000000000000
+      internalID: -7752323331599265503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 145
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b15a315dcd28bd60800000000000000
+      internalID: 7906119505703227829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 110
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e2f12055bb0fde0800000000000000
+      internalID: -1301334318527861104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 76
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d2ecefcc143600800000000000000
+      internalID: 447013942374617627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 110
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5292ead97f489efa0800000000000000
+      internalID: -5770935248461354715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b048fff74f4620800000000000000
+      internalID: 2760504261308626399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medal_wonderland_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 39
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907917f8cbda24f10800000000000000
+      internalID: 2252553789010712329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medal_wonderland_0: 6091181629803344300
+      medal_wonderland_1: 2542854127541735033
+      medal_wonderland_10: -1301334318527861104
+      medal_wonderland_11: 447013942374617627
+      medal_wonderland_12: -5770935248461354715
+      medal_wonderland_13: 2760504261308626399
+      medal_wonderland_14: 2252553789010712329
+      medal_wonderland_2: 8313776978810162741
+      medal_wonderland_3: 473942798340811658
+      medal_wonderland_4: 3061733463808716110
+      medal_wonderland_5: 3679050051632940454
+      medal_wonderland_6: -4004885113118202466
+      medal_wonderland_7: 6272919020619058610
+      medal_wonderland_8: -7752323331599265503
+      medal_wonderland_9: 7906119505703227829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

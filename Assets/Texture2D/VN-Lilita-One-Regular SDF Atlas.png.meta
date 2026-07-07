@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 6f089876e25785a42bbe18929ad3abd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8209965357652365896
+    second: VN-Lilita-One-Regular SDF Atlas_0
+  - first:
+      213: 2067978267788182259
+    second: VN-Lilita-One-Regular SDF Atlas_1
+  - first:
+      213: 6555875652783915272
+    second: VN-Lilita-One-Regular SDF Atlas_2
+  - first:
+      213: 3942863962353423032
+    second: VN-Lilita-One-Regular SDF Atlas_3
+  - first:
+      213: -4031672784788874410
+    second: VN-Lilita-One-Regular SDF Atlas_4
+  - first:
+      213: 1469076292010914508
+    second: VN-Lilita-One-Regular SDF Atlas_5
+  - first:
+      213: -4719823493116231435
+    second: VN-Lilita-One-Regular SDF Atlas_6
+  - first:
+      213: -1624504085261979161
+    second: VN-Lilita-One-Regular SDF Atlas_7
+  - first:
+      213: -9048551119665761130
+    second: VN-Lilita-One-Regular SDF Atlas_8
+  - first:
+      213: -8721997112119396321
+    second: VN-Lilita-One-Regular SDF Atlas_9
+  - first:
+      213: -4188673853725647161
+    second: VN-Lilita-One-Regular SDF Atlas_10
+  - first:
+      213: -11751100300923021
+    second: VN-Lilita-One-Regular SDF Atlas_11
+  - first:
+      213: -188347506112985166
+    second: VN-Lilita-One-Regular SDF Atlas_12
+  - first:
+      213: -6066356649210124594
+    second: VN-Lilita-One-Regular SDF Atlas_13
+  - first:
+      213: -8339399643425200641
+    second: VN-Lilita-One-Regular SDF Atlas_14
+  - first:
+      213: 3540105358650929684
+    second: VN-Lilita-One-Regular SDF Atlas_15
+  - first:
+      213: -8111539172108180593
+    second: VN-Lilita-One-Regular SDF Atlas_16
+  - first:
+      213: -3144389853071311088
+    second: VN-Lilita-One-Regular SDF Atlas_17
+  - first:
+      213: 3035239347324198245
+    second: VN-Lilita-One-Regular SDF Atlas_18
+  - first:
+      213: 4239590965670856726
+    second: VN-Lilita-One-Regular SDF Atlas_19
+  - first:
+      213: 1706906249968309272
+    second: VN-Lilita-One-Regular SDF Atlas_20
+  - first:
+      213: -8961593661162375131
+    second: VN-Lilita-One-Regular SDF Atlas_21
+  - first:
+      213: 7745288158955181935
+    second: VN-Lilita-One-Regular SDF Atlas_22
+  - first:
+      213: -5964263583717145431
+    second: VN-Lilita-One-Regular SDF Atlas_23
+  - first:
+      213: -603466919512115990
+    second: VN-Lilita-One-Regular SDF Atlas_24
+  - first:
+      213: 2712427367365521794
+    second: VN-Lilita-One-Regular SDF Atlas_25
+  - first:
+      213: 2577003605570468364
+    second: VN-Lilita-One-Regular SDF Atlas_26
+  - first:
+      213: 3682198016456451581
+    second: VN-Lilita-One-Regular SDF Atlas_27
+  - first:
+      213: -3157643579275064683
+    second: VN-Lilita-One-Regular SDF Atlas_28
+  - first:
+      213: -7899186668256010103
+    second: VN-Lilita-One-Regular SDF Atlas_29
+  - first:
+      213: -8079350451922681528
+    second: VN-Lilita-One-Regular SDF Atlas_30
+  - first:
+      213: 156757884606515020
+    second: VN-Lilita-One-Regular SDF Atlas_31
+  - first:
+      213: -2127138847071928533
+    second: VN-Lilita-One-Regular SDF Atlas_32
+  - first:
+      213: 2493252764350326465
+    second: VN-Lilita-One-Regular SDF Atlas_33
+  - first:
+      213: 3901477015631863617
+    second: VN-Lilita-One-Regular SDF Atlas_34
+  - first:
+      213: -3858200767059526154
+    second: VN-Lilita-One-Regular SDF Atlas_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2ed66108501e80800000000000000
+      internalID: -8209965357652365896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20eb6274fe2bc10800000000000000
+      internalID: 2067978267788182259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80141d3fb262bfa50800000000000000
+      internalID: 6555875652783915272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d3c132edd7b630800000000000000
+      internalID: 3942863962353423032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 461
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b9c0486fe9c08c0800000000000000
+      internalID: -4031672784788874410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc23245aa15336410800000000000000
+      internalID: 1469076292010914508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 342
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0834a2a81df7eb0800000000000000
+      internalID: -4719823493116231435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 393
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f9c5342a9479e0800000000000000
+      internalID: -1624504085261979161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694fb5ca2b61d6280800000000000000
+      internalID: -9048551119665761130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 291
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18f32076dd35f680800000000000000
+      internalID: -8721997112119396321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 288
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce57b49257ded5c0800000000000000
+      internalID: -4188673853725647161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 339
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe7d0cf6046dff0800000000000000
+      internalID: -11751100300923021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b70ecbe0fad26df0800000000000000
+      internalID: -188347506112985166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6600bb4c8ffcba0800000000000000
+      internalID: -6066356649210124594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 237
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff52f955530844c80800000000000000
+      internalID: -8339399643425200641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 288
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41278d1411bf02130800000000000000
+      internalID: 3540105358650929684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8363d889160e6f80800000000000000
+      internalID: -8111539172108180593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 177
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f775c9612ec54d0800000000000000
+      internalID: -3144389853071311088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1c81ea165f1a20800000000000000
+      internalID: 3035239347324198245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61844cd558d06da30800000000000000
+      internalID: 4239590965670856726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 186
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145146d03620b710800000000000000
+      internalID: 1706906249968309272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 125
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283605bb0602a380800000000000000
+      internalID: -8961593661162375131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6710955b8acc7b60800000000000000
+      internalID: 7745288158955181935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4cdb1eeddaa3da0800000000000000
+      internalID: -5964263583717145431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 114
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f7c4b80e00a7f0800000000000000
+      internalID: -603466919512115990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 125
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281bedec15a74a520800000000000000
+      internalID: 2712427367365521794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0abdee202b53c320800000000000000
+      internalID: 2577003605570468364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 124
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e88b369bc91330800000000000000
+      internalID: 3682198016456451581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a440205ebcd24d0800000000000000
+      internalID: -3157643579275064683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806910b393706290800000000000000
+      internalID: -7899186668256010103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c149f19160ef80800000000000000
+      internalID: -8079350451922681528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 62
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4786bb277aec2200800000000000000
+      internalID: 156757884606515020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ff7581d72ea72e0800000000000000
+      internalID: -2127138847071928533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6ac5aed20d99220800000000000000
+      internalID: 2493252764350326465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9610cca4d42630800000000000000
+      internalID: 3901477015631863617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VN-Lilita-One-Regular SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdf64f08dae47ac0800000000000000
+      internalID: -3858200767059526154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VN-Lilita-One-Regular SDF Atlas_0: -8209965357652365896
+      VN-Lilita-One-Regular SDF Atlas_1: 2067978267788182259
+      VN-Lilita-One-Regular SDF Atlas_10: -4188673853725647161
+      VN-Lilita-One-Regular SDF Atlas_11: -11751100300923021
+      VN-Lilita-One-Regular SDF Atlas_12: -188347506112985166
+      VN-Lilita-One-Regular SDF Atlas_13: -6066356649210124594
+      VN-Lilita-One-Regular SDF Atlas_14: -8339399643425200641
+      VN-Lilita-One-Regular SDF Atlas_15: 3540105358650929684
+      VN-Lilita-One-Regular SDF Atlas_16: -8111539172108180593
+      VN-Lilita-One-Regular SDF Atlas_17: -3144389853071311088
+      VN-Lilita-One-Regular SDF Atlas_18: 3035239347324198245
+      VN-Lilita-One-Regular SDF Atlas_19: 4239590965670856726
+      VN-Lilita-One-Regular SDF Atlas_2: 6555875652783915272
+      VN-Lilita-One-Regular SDF Atlas_20: 1706906249968309272
+      VN-Lilita-One-Regular SDF Atlas_21: -8961593661162375131
+      VN-Lilita-One-Regular SDF Atlas_22: 7745288158955181935
+      VN-Lilita-One-Regular SDF Atlas_23: -5964263583717145431
+      VN-Lilita-One-Regular SDF Atlas_24: -603466919512115990
+      VN-Lilita-One-Regular SDF Atlas_25: 2712427367365521794
+      VN-Lilita-One-Regular SDF Atlas_26: 2577003605570468364
+      VN-Lilita-One-Regular SDF Atlas_27: 3682198016456451581
+      VN-Lilita-One-Regular SDF Atlas_28: -3157643579275064683
+      VN-Lilita-One-Regular SDF Atlas_29: -7899186668256010103
+      VN-Lilita-One-Regular SDF Atlas_3: 3942863962353423032
+      VN-Lilita-One-Regular SDF Atlas_30: -8079350451922681528
+      VN-Lilita-One-Regular SDF Atlas_31: 156757884606515020
+      VN-Lilita-One-Regular SDF Atlas_32: -2127138847071928533
+      VN-Lilita-One-Regular SDF Atlas_33: 2493252764350326465
+      VN-Lilita-One-Regular SDF Atlas_34: 3901477015631863617
+      VN-Lilita-One-Regular SDF Atlas_35: -3858200767059526154
+      VN-Lilita-One-Regular SDF Atlas_4: -4031672784788874410
+      VN-Lilita-One-Regular SDF Atlas_5: 1469076292010914508
+      VN-Lilita-One-Regular SDF Atlas_6: -4719823493116231435
+      VN-Lilita-One-Regular SDF Atlas_7: -1624504085261979161
+      VN-Lilita-One-Regular SDF Atlas_8: -9048551119665761130
+      VN-Lilita-One-Regular SDF Atlas_9: -8721997112119396321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

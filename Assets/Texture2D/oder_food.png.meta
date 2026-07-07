@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 3933d0e50ec3d2143a6b5f63170626e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5167021547445273949
+    second: oder_food_0
+  - first:
+      213: -6850162818919906530
+    second: oder_food_1
+  - first:
+      213: -6507731664649210364
+    second: oder_food_2
+  - first:
+      213: -6861295410149116271
+    second: oder_food_3
+  - first:
+      213: 7960112851555664490
+    second: oder_food_4
+  - first:
+      213: 7928166304468456763
+    second: oder_food_5
+  - first:
+      213: -4391085915504564636
+    second: oder_food_6
+  - first:
+      213: 1266148195819371295
+    second: oder_food_7
+  - first:
+      213: 1468785407942913956
+    second: oder_food_8
+  - first:
+      213: 465539378665425837
+    second: oder_food_9
+  - first:
+      213: 8447519196729024394
+    second: oder_food_10
+  - first:
+      213: 8783604098277646824
+    second: oder_food_11
+  - first:
+      213: 5944305640333640362
+    second: oder_food_12
+  - first:
+      213: 1385408409978986956
+    second: oder_food_13
+  - first:
+      213: 4517364556671372520
+    second: oder_food_14
+  - first:
+      213: -1101468583446633481
+    second: oder_food_15
+  - first:
+      213: 7853181997906445051
+    second: oder_food_16
+  - first:
+      213: 7470469407147939638
+    second: oder_food_17
+  - first:
+      213: -199682909201773747
+    second: oder_food_18
+  - first:
+      213: -6493616068688990681
+    second: oder_food_19
+  - first:
+      213: -5847168199873957716
+    second: oder_food_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oder_food_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3cb5574d0b48b0800000000000000
+      internalID: -5167021547445273949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 481
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13c0bcb5355fe0a0800000000000000
+      internalID: -6850162818919906530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 481
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406b50bc784efa5a0800000000000000
+      internalID: -6507731664649210364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 457
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1963b0b5d28c7c0a0800000000000000
+      internalID: -6861295410149116271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 435
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624ff8c670087e60800000000000000
+      internalID: 7960112851555664490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35501aaf31860e60800000000000000
+      internalID: 7928166304468456763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 370
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4662124ff9abf03c0800000000000000
+      internalID: -4391085915504564636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 370
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb0d46313429110800000000000000
+      internalID: 1266148195819371295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 145
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afe6bbeb8c226410800000000000000
+      internalID: 1468785407942913956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 61
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab0f4e299de57600800000000000000
+      internalID: 465539378665425837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 345
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f935ad3fd9b3570800000000000000
+      internalID: 8447519196729024394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 325
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1218dc361a5e970800000000000000
+      internalID: 8783604098277646824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa200705c7a6e7250800000000000000
+      internalID: 5944305640333640362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e2a1db95f93310800000000000000
+      internalID: 1385408409978986956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 202
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec46595127e0be30800000000000000
+      internalID: 4517364556671372520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 241
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f32960c82cc6b0f0800000000000000
+      internalID: -1101468583446633481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 186
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2c4bd4b6b1cfc60800000000000000
+      internalID: 7853181997906445051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d97678507ca760800000000000000
+      internalID: 7470469407147939638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 120
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bcf49b3759a3df0800000000000000
+      internalID: -199682909201773747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 57
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e2606179a02e5a0800000000000000
+      internalID: -6493616068688990681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oder_food_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca07d88708faadea0800000000000000
+      internalID: -5847168199873957716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oder_food_0: -5167021547445273949
+      oder_food_1: -6850162818919906530
+      oder_food_10: 8447519196729024394
+      oder_food_11: 8783604098277646824
+      oder_food_12: 5944305640333640362
+      oder_food_13: 1385408409978986956
+      oder_food_14: 4517364556671372520
+      oder_food_15: -1101468583446633481
+      oder_food_16: 7853181997906445051
+      oder_food_17: 7470469407147939638
+      oder_food_18: -199682909201773747
+      oder_food_19: -6493616068688990681
+      oder_food_2: -6507731664649210364
+      oder_food_20: -5847168199873957716
+      oder_food_3: -6861295410149116271
+      oder_food_4: 7960112851555664490
+      oder_food_5: 7928166304468456763
+      oder_food_6: -4391085915504564636
+      oder_food_7: 1266148195819371295
+      oder_food_8: 1468785407942913956
+      oder_food_9: 465539378665425837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 97aa42c509578ec469ea9984d3fca61a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2049780667584289301
+    second: ThanksGivingMap_treeL_0
+  - first:
+      213: 7094294312216264885
+    second: ThanksGivingMap_treeL_1
+  - first:
+      213: 2540268441907669576
+    second: ThanksGivingMap_treeL_2
+  - first:
+      213: 5655670666914831549
+    second: ThanksGivingMap_treeL_3
+  - first:
+      213: -1710447776192871505
+    second: ThanksGivingMap_treeL_4
+  - first:
+      213: 1384306900416359598
+    second: ThanksGivingMap_treeL_5
+  - first:
+      213: -9159745602111770109
+    second: ThanksGivingMap_treeL_6
+  - first:
+      213: -1616512128402785317
+    second: ThanksGivingMap_treeL_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 372
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a13de28a8427c10800000000000000
+      internalID: 2049780667584289301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 457
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b089bbf61ff37260800000000000000
+      internalID: 7094294312216264885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 279
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aaa0260b8d04320800000000000000
+      internalID: 2540268441907669576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 401
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc1e0ca18afc7e40800000000000000
+      internalID: 5655670666914831549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 266
+        width: 94
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3ca255fc44348e0800000000000000
+      internalID: -1710447776192871505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 292
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6073aacb063310800000000000000
+      internalID: 1384306900416359598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 556
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027e21c7eb02e080800000000000000
+      internalID: -9159745602111770109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThanksGivingMap_treeL_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2
+        width: 228
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf07ba8cef099e0800000000000000
+      internalID: -1616512128402785317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThanksGivingMap_treeL_0: 2049780667584289301
+      ThanksGivingMap_treeL_1: 7094294312216264885
+      ThanksGivingMap_treeL_2: 2540268441907669576
+      ThanksGivingMap_treeL_3: 5655670666914831549
+      ThanksGivingMap_treeL_4: -1710447776192871505
+      ThanksGivingMap_treeL_5: 1384306900416359598
+      ThanksGivingMap_treeL_6: -9159745602111770109
+      ThanksGivingMap_treeL_7: -1616512128402785317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

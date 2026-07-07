@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: d2b0b0561f1dd5542bda97ace6c90eab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2851571495511130267
+    second: Hindi Atlas_0
+  - first:
+      213: 5965172842994378831
+    second: Hindi Atlas_1
+  - first:
+      213: -1404887650599764906
+    second: Hindi Atlas_2
+  - first:
+      213: 2150408856213133785
+    second: Hindi Atlas_3
+  - first:
+      213: -3301953761185130498
+    second: Hindi Atlas_4
+  - first:
+      213: -4932639281867969339
+    second: Hindi Atlas_5
+  - first:
+      213: 3758307580582534261
+    second: Hindi Atlas_6
+  - first:
+      213: -4691649786062672359
+    second: Hindi Atlas_7
+  - first:
+      213: 5208549862586567814
+    second: Hindi Atlas_8
+  - first:
+      213: 2505369580369037983
+    second: Hindi Atlas_9
+  - first:
+      213: 738327656307649641
+    second: Hindi Atlas_10
+  - first:
+      213: -3461944741379661721
+    second: Hindi Atlas_11
+  - first:
+      213: -8446459331486139347
+    second: Hindi Atlas_12
+  - first:
+      213: 7676582339512769999
+    second: Hindi Atlas_13
+  - first:
+      213: -6386590690206889861
+    second: Hindi Atlas_14
+  - first:
+      213: -1818497708389916807
+    second: Hindi Atlas_15
+  - first:
+      213: -8660872422727957434
+    second: Hindi Atlas_16
+  - first:
+      213: -6045481755921214063
+    second: Hindi Atlas_17
+  - first:
+      213: -8883442656748823434
+    second: Hindi Atlas_18
+  - first:
+      213: -1226633251363996676
+    second: Hindi Atlas_19
+  - first:
+      213: -2019220351368721823
+    second: Hindi Atlas_20
+  - first:
+      213: 3289554101341118512
+    second: Hindi Atlas_21
+  - first:
+      213: -7092355888194319376
+    second: Hindi Atlas_22
+  - first:
+      213: 6698715687126751763
+    second: Hindi Atlas_23
+  - first:
+      213: -6257925830119019635
+    second: Hindi Atlas_24
+  - first:
+      213: 2713006666738113575
+    second: Hindi Atlas_25
+  - first:
+      213: -2683689671068236441
+    second: Hindi Atlas_26
+  - first:
+      213: 6637759587666314359
+    second: Hindi Atlas_27
+  - first:
+      213: 7985323473524614914
+    second: Hindi Atlas_28
+  - first:
+      213: -3422257251182810592
+    second: Hindi Atlas_29
+  - first:
+      213: -2420029790941365013
+    second: Hindi Atlas_30
+  - first:
+      213: -3806448903962007836
+    second: Hindi Atlas_31
+  - first:
+      213: -6008024890466993284
+    second: Hindi Atlas_32
+  - first:
+      213: 8447563459558582349
+    second: Hindi Atlas_33
+  - first:
+      213: 8495527877263061090
+    second: Hindi Atlas_34
+  - first:
+      213: 284536441509756803
+    second: Hindi Atlas_35
+  - first:
+      213: -8150375320730030068
+    second: Hindi Atlas_36
+  - first:
+      213: 2618063418683451463
+    second: Hindi Atlas_37
+  - first:
+      213: 3095556515587969112
+    second: Hindi Atlas_38
+  - first:
+      213: 5580548272522375322
+    second: Hindi Atlas_39
+  - first:
+      213: -1459139818698159369
+    second: Hindi Atlas_40
+  - first:
+      213: 3995395701456342242
+    second: Hindi Atlas_41
+  - first:
+      213: 2277554649495535400
+    second: Hindi Atlas_42
+  - first:
+      213: 7693692859935323671
+    second: Hindi Atlas_43
+  - first:
+      213: 6586586873976593908
+    second: Hindi Atlas_44
+  - first:
+      213: 3740101889603602414
+    second: Hindi Atlas_45
+  - first:
+      213: 7051848547017700382
+    second: Hindi Atlas_46
+  - first:
+      213: 5703079694268606627
+    second: Hindi Atlas_47
+  - first:
+      213: -3285733661464800611
+    second: Hindi Atlas_48
+  - first:
+      213: -1713312133000099635
+    second: Hindi Atlas_49
+  - first:
+      213: 8606092207517034446
+    second: Hindi Atlas_50
+  - first:
+      213: 3747304187221123599
+    second: Hindi Atlas_51
+  - first:
+      213: 1926932214229934330
+    second: Hindi Atlas_52
+  - first:
+      213: -2731771342784007606
+    second: Hindi Atlas_53
+  - first:
+      213: -4634465143857777113
+    second: Hindi Atlas_54
+  - first:
+      213: 6240476353959787608
+    second: Hindi Atlas_55
+  - first:
+      213: 4978961736156587611
+    second: Hindi Atlas_56
+  - first:
+      213: -4183713564492385075
+    second: Hindi Atlas_57
+  - first:
+      213: 7548636616125752755
+    second: Hindi Atlas_58
+  - first:
+      213: 8479918287249847526
+    second: Hindi Atlas_59
+  - first:
+      213: 3388969602236425407
+    second: Hindi Atlas_60
+  - first:
+      213: -811630707931959580
+    second: Hindi Atlas_61
+  - first:
+      213: 1477415921896432962
+    second: Hindi Atlas_62
+  - first:
+      213: -2126037108491588599
+    second: Hindi Atlas_63
+  - first:
+      213: -6119522153121628185
+    second: Hindi Atlas_64
+  - first:
+      213: -7338001464875229169
+    second: Hindi Atlas_65
+  - first:
+      213: 1791673037740073866
+    second: Hindi Atlas_66
+  - first:
+      213: 4567122686246043439
+    second: Hindi Atlas_67
+  - first:
+      213: -3623649198595372003
+    second: Hindi Atlas_68
+  - first:
+      213: 4682263361471550627
+    second: Hindi Atlas_69
+  - first:
+      213: 4080489192191299052
+    second: Hindi Atlas_70
+  - first:
+      213: -7210037392916887416
+    second: Hindi Atlas_71
+  - first:
+      213: 997222975864474302
+    second: Hindi Atlas_72
+  - first:
+      213: -6978407433605049092
+    second: Hindi Atlas_73
+  - first:
+      213: -888646662109304029
+    second: Hindi Atlas_74
+  - first:
+      213: -1396762751771868315
+    second: Hindi Atlas_75
+  - first:
+      213: 1087818513047609005
+    second: Hindi Atlas_76
+  - first:
+      213: -6909605308268593388
+    second: Hindi Atlas_77
+  - first:
+      213: -2356183046123931203
+    second: Hindi Atlas_78
+  - first:
+      213: -1853933073377460895
+    second: Hindi Atlas_79
+  - first:
+      213: -8050836702168547081
+    second: Hindi Atlas_80
+  - first:
+      213: 6668507817640427513
+    second: Hindi Atlas_81
+  - first:
+      213: 2781725802328605091
+    second: Hindi Atlas_82
+  - first:
+      213: 1139181433303712192
+    second: Hindi Atlas_83
+  - first:
+      213: 531336256302552334
+    second: Hindi Atlas_84
+  - first:
+      213: 2024433514976713927
+    second: Hindi Atlas_85
+  - first:
+      213: 4239280020133851814
+    second: Hindi Atlas_86
+  - first:
+      213: -8561932545878224539
+    second: Hindi Atlas_87
+  - first:
+      213: -8004606277499511256
+    second: Hindi Atlas_88
+  - first:
+      213: 7724268320546629079
+    second: Hindi Atlas_89
+  - first:
+      213: -5347351152747268392
+    second: Hindi Atlas_90
+  - first:
+      213: 3121687927576339153
+    second: Hindi Atlas_91
+  - first:
+      213: -5135079734239976312
+    second: Hindi Atlas_92
+  - first:
+      213: 9103340129070840332
+    second: Hindi Atlas_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hindi Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 203
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffd6645de2d68d0800000000000000
+      internalID: -2851571495511130267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1790
+        width: 202
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ac7a881d88c250800000000000000
+      internalID: 5965172842994378831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1972
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cfaac0026d08ce0800000000000000
+      internalID: -1404887650599764906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1736
+        width: 108
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9107c1679c7dd10800000000000000
+      internalID: 2150408856213133785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1902
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79bc77c8a1d22d0800000000000000
+      internalID: -3301953761185130498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1772
+        width: 182
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2f1715bebb8bb0800000000000000
+      internalID: -4932639281867969339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1772
+        width: 194
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c974905d0382430800000000000000
+      internalID: 3758307580582534261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1789
+        width: 149
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e62338069e3eeb0800000000000000
+      internalID: -4691649786062672359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1509
+        width: 327
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc162018c784840800000000000000
+      internalID: 5208549862586567814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1736
+        width: 182
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a47fcfb5cd4c220800000000000000
+      internalID: 2505369580369037983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1687
+        width: 194
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c601277111f3a00800000000000000
+      internalID: 738327656307649641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1663
+        width: 209
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a8029993b4ffc0800000000000000
+      internalID: -3461944741379661721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1732
+        width: 167
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c3cf04df528ca80800000000000000
+      internalID: -8446459331486139347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1603
+        width: 168
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd12bb27f2b88a60800000000000000
+      internalID: 7676582339512769999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1789
+        width: 157
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78c668da954e57a0800000000000000
+      internalID: -6386590690206889861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1603
+        width: 152
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f9e8218f563c6e0800000000000000
+      internalID: -1818497708389916807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1496
+        width: 205
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644c2563b666ec780800000000000000
+      internalID: -8660872422727957434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1472
+        width: 210
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19516329f522a1ca0800000000000000
+      internalID: -6045481755921214063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1448
+        width: 183
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1fed58fba7b480800000000000000
+      internalID: -8883442656748823434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1347
+        width: 197
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb34ce8e8f1afee0800000000000000
+      internalID: -1226633251363996676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1560
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8d69e9c94af3e0800000000000000
+      internalID: -2019220351368721823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1522
+        width: 188
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030eddfb608d6ad20800000000000000
+      internalID: 3289554101341118512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1490
+        width: 118
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb078785e3e29d90800000000000000
+      internalID: -7092355888194319376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1444
+        width: 119
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad6861d6e96fc50800000000000000
+      internalID: 6698715687126751763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1417
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba3090d916729a0800000000000000
+      internalID: -6257925830119019635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1417
+        width: 104
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c1134703986a520800000000000000
+      internalID: 2713006666738113575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1221
+        width: 271
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c794867e91cad0800000000000000
+      internalID: -2683689671068236441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1215
+        width: 130
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7744b473d2f0e1c50800000000000000
+      internalID: 6637759587666314359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1369
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e500246191de60800000000000000
+      internalID: 7985323473524614914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1151
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a6e357923b180d0800000000000000
+      internalID: -3422257251182810592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1369
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb31d1ab35a6ed0800000000000000
+      internalID: -2420029790941365013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1349
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e66ba7a3e6cc2bc0800000000000000
+      internalID: -3806448903962007836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1310
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b720aa1353f9ca0800000000000000
+      internalID: -6008024890466993284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1281
+        width: 194
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d482f889536cb3570800000000000000
+      internalID: 8447563459558582349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1237
+        width: 176
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26071b7d79d26e570800000000000000
+      internalID: 8495527877263061090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1232
+        width: 178
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fb7d1d260e2f300800000000000000
+      internalID: 284536441509756803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 932
+        width: 149
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b6cd04dc04ee80800000000000000
+      internalID: -8150375320730030068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 932
+        width: 190
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486216eeca355420800000000000000
+      internalID: 2618063418683451463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 925
+        width: 104
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85054cdff30a5fa20800000000000000
+      internalID: 3095556515587969112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 925
+        width: 145
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90bd9b3617127d40800000000000000
+      internalID: 5580548272522375322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 917
+        width: 327
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa4ed4d01810cbe0800000000000000
+      internalID: -1459139818698159369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1133
+        width: 251
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8d62d83f727730800000000000000
+      internalID: 3995395701456342242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1133
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f78bff2ef7b9f10800000000000000
+      internalID: 2277554649495535400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1097
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7167767a4ec75ca60800000000000000
+      internalID: 7693692859935323671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1069
+        width: 204
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd10a95dd1486b50800000000000000
+      internalID: 6586586873976593908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1069
+        width: 180
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee707994ad287e330800000000000000
+      internalID: 3740101889603602414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1032
+        width: 178
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1438d624e23dd160800000000000000
+      internalID: 7051848547017700382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1025
+        width: 178
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8af9604c8652f40800000000000000
+      internalID: 5703079694268606627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 327
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92d8d9b4aab662d0800000000000000
+      internalID: -3285733661464800611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 770
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8892b41b71938e0800000000000000
+      internalID: -1713312133000099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 769
+        width: 139
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec76f45044bfe6770800000000000000
+      internalID: 8606092207517034446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 769
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0226a0ed49110430800000000000000
+      internalID: 3747304187221123599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 753
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0ae67b3a6ddba10800000000000000
+      internalID: 1926932214229934330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 884
+        width: 253
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4274c1ff6cc61ad0800000000000000
+      internalID: -2731771342784007606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 857
+        width: 235
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267d6091821fafb0800000000000000
+      internalID: -4634465143857777113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 857
+        width: 200
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c7ff23e20aa9650800000000000000
+      internalID: 6240476353959787608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 848
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5620e1c153d81540800000000000000
+      internalID: 4978961736156587611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 839
+        width: 182
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4b27aeda670f5c0800000000000000
+      internalID: -4183713564492385075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 542
+        width: 103
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5aeaa020522c860800000000000000
+      internalID: 7548636616125752755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 542
+        width: 242
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4bdd3f0c8bea570800000000000000
+      internalID: 8479918287249847526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 537
+        width: 271
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb426efc5e9080f20800000000000000
+      internalID: 3388969602236425407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 645
+        width: 240
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeaaecdb228cb4f0800000000000000
+      internalID: -811630707931959580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 433
+        width: 279
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245a42a04f5d08410800000000000000
+      internalID: 1477415921896432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 645
+        width: 220
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c6f09938cce72e0800000000000000
+      internalID: -2126037108491588599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 639
+        width: 198
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3d0c3607131ba0800000000000000
+      internalID: -6119522153121628185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 636
+        width: 186
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e0dccb8e2a2a90800000000000000
+      internalID: -7338001464875229169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 629
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a836428922d4dd810800000000000000
+      internalID: 1791673037740073866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 327
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fb25fa2eda16f30800000000000000
+      internalID: 4567122686246043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 311
+        width: 177
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0817b04636bdc0800000000000000
+      internalID: -3623649198595372003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 453
+        width: 101
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4965538bdbaf040800000000000000
+      internalID: 4682263361471550627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 228
+        width: 112
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced026a0d4fc0a830800000000000000
+      internalID: 4080489192191299052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 453
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c7e9013dc0fb90800000000000000
+      internalID: -7210037392916887416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 427
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba82465309d6dd00800000000000000
+      internalID: 997222975864474302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 424
+        width: 198
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4960e8967b72f90800000000000000
+      internalID: -6978407433605049092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 424
+        width: 185
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b632ea194eaa3f0800000000000000
+      internalID: -888646662109304029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 424
+        width: 209
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56304297da3bd9ce0800000000000000
+      internalID: -1396762751771868315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 203
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daedb429c25b81f00800000000000000
+      internalID: 1087818513047609005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 150
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f3f7ea4962c10a0800000000000000
+      internalID: -6909605308268593388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 171
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93cfdc0082d4fd0800000000000000
+      internalID: -2356183046123931203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 112
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfcfb31b18546e0800000000000000
+      internalID: -1853933073377460895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 225
+        width: 213
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0019eacaea54090800000000000000
+      internalID: -8050836702168547081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 218
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7f54678c4b8c50800000000000000
+      internalID: 6668507817640427513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 215
+        width: 279
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c55601ecaa9620800000000000000
+      internalID: 2781725802328605091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 212
+        width: 216
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c9ca5a7f2fcf00800000000000000
+      internalID: 1139181433303712192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 212
+        width: 198
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05133d828faf5700800000000000000
+      internalID: 531336256302552334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 212
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc15935e8b381c10800000000000000
+      internalID: 2024433514976713927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 212
+        width: 128
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23d77b7b2f4da30800000000000000
+      internalID: 4239280020133851814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 231
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561921c66b7ed2980800000000000000
+      internalID: -8561932545878224539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 200
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e97c6300de9e090800000000000000
+      internalID: -8004606277499511256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 247
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52cf3dc1d123b60800000000000000
+      internalID: 7724268320546629079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6393345746ac5b0800000000000000
+      internalID: -5347351152747268392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 193
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d220d671a6725b20800000000000000
+      internalID: 3121687927576339153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a15340388cb8b0800000000000000
+      internalID: -5135079734239976312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hindi Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 0
+        width: 121
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a73d6ad9f855e70800000000000000
+      internalID: 9103340129070840332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hindi Atlas_0: -2851571495511130267
+      Hindi Atlas_1: 5965172842994378831
+      Hindi Atlas_10: 738327656307649641
+      Hindi Atlas_11: -3461944741379661721
+      Hindi Atlas_12: -8446459331486139347
+      Hindi Atlas_13: 7676582339512769999
+      Hindi Atlas_14: -6386590690206889861
+      Hindi Atlas_15: -1818497708389916807
+      Hindi Atlas_16: -8660872422727957434
+      Hindi Atlas_17: -6045481755921214063
+      Hindi Atlas_18: -8883442656748823434
+      Hindi Atlas_19: -1226633251363996676
+      Hindi Atlas_2: -1404887650599764906
+      Hindi Atlas_20: -2019220351368721823
+      Hindi Atlas_21: 3289554101341118512
+      Hindi Atlas_22: -7092355888194319376
+      Hindi Atlas_23: 6698715687126751763
+      Hindi Atlas_24: -6257925830119019635
+      Hindi Atlas_25: 2713006666738113575
+      Hindi Atlas_26: -2683689671068236441
+      Hindi Atlas_27: 6637759587666314359
+      Hindi Atlas_28: 7985323473524614914
+      Hindi Atlas_29: -3422257251182810592
+      Hindi Atlas_3: 2150408856213133785
+      Hindi Atlas_30: -2420029790941365013
+      Hindi Atlas_31: -3806448903962007836
+      Hindi Atlas_32: -6008024890466993284
+      Hindi Atlas_33: 8447563459558582349
+      Hindi Atlas_34: 8495527877263061090
+      Hindi Atlas_35: 284536441509756803
+      Hindi Atlas_36: -8150375320730030068
+      Hindi Atlas_37: 2618063418683451463
+      Hindi Atlas_38: 3095556515587969112
+      Hindi Atlas_39: 5580548272522375322
+      Hindi Atlas_4: -3301953761185130498
+      Hindi Atlas_40: -1459139818698159369
+      Hindi Atlas_41: 3995395701456342242
+      Hindi Atlas_42: 2277554649495535400
+      Hindi Atlas_43: 7693692859935323671
+      Hindi Atlas_44: 6586586873976593908
+      Hindi Atlas_45: 3740101889603602414
+      Hindi Atlas_46: 7051848547017700382
+      Hindi Atlas_47: 5703079694268606627
+      Hindi Atlas_48: -3285733661464800611
+      Hindi Atlas_49: -1713312133000099635
+      Hindi Atlas_5: -4932639281867969339
+      Hindi Atlas_50: 8606092207517034446
+      Hindi Atlas_51: 3747304187221123599
+      Hindi Atlas_52: 1926932214229934330
+      Hindi Atlas_53: -2731771342784007606
+      Hindi Atlas_54: -4634465143857777113
+      Hindi Atlas_55: 6240476353959787608
+      Hindi Atlas_56: 4978961736156587611
+      Hindi Atlas_57: -4183713564492385075
+      Hindi Atlas_58: 7548636616125752755
+      Hindi Atlas_59: 8479918287249847526
+      Hindi Atlas_6: 3758307580582534261
+      Hindi Atlas_60: 3388969602236425407
+      Hindi Atlas_61: -811630707931959580
+      Hindi Atlas_62: 1477415921896432962
+      Hindi Atlas_63: -2126037108491588599
+      Hindi Atlas_64: -6119522153121628185
+      Hindi Atlas_65: -7338001464875229169
+      Hindi Atlas_66: 1791673037740073866
+      Hindi Atlas_67: 4567122686246043439
+      Hindi Atlas_68: -3623649198595372003
+      Hindi Atlas_69: 4682263361471550627
+      Hindi Atlas_7: -4691649786062672359
+      Hindi Atlas_70: 4080489192191299052
+      Hindi Atlas_71: -7210037392916887416
+      Hindi Atlas_72: 997222975864474302
+      Hindi Atlas_73: -6978407433605049092
+      Hindi Atlas_74: -888646662109304029
+      Hindi Atlas_75: -1396762751771868315
+      Hindi Atlas_76: 1087818513047609005
+      Hindi Atlas_77: -6909605308268593388
+      Hindi Atlas_78: -2356183046123931203
+      Hindi Atlas_79: -1853933073377460895
+      Hindi Atlas_8: 5208549862586567814
+      Hindi Atlas_80: -8050836702168547081
+      Hindi Atlas_81: 6668507817640427513
+      Hindi Atlas_82: 2781725802328605091
+      Hindi Atlas_83: 1139181433303712192
+      Hindi Atlas_84: 531336256302552334
+      Hindi Atlas_85: 2024433514976713927
+      Hindi Atlas_86: 4239280020133851814
+      Hindi Atlas_87: -8561932545878224539
+      Hindi Atlas_88: -8004606277499511256
+      Hindi Atlas_89: 7724268320546629079
+      Hindi Atlas_9: 2505369580369037983
+      Hindi Atlas_90: -5347351152747268392
+      Hindi Atlas_91: 3121687927576339153
+      Hindi Atlas_92: -5135079734239976312
+      Hindi Atlas_93: 9103340129070840332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

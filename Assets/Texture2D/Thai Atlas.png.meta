@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: 79e9b1e9142d309458e95162ffa2b5ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 170508535347492159
+    second: Thai Atlas_0
+  - first:
+      213: 3894165033003978786
+    second: Thai Atlas_1
+  - first:
+      213: -8111542954875541384
+    second: Thai Atlas_2
+  - first:
+      213: 6977038785017783614
+    second: Thai Atlas_3
+  - first:
+      213: -1494221874242523299
+    second: Thai Atlas_4
+  - first:
+      213: -2062825235148223851
+    second: Thai Atlas_5
+  - first:
+      213: -1874995050409474585
+    second: Thai Atlas_6
+  - first:
+      213: -6181939546175672993
+    second: Thai Atlas_7
+  - first:
+      213: -504924606876137928
+    second: Thai Atlas_8
+  - first:
+      213: 2467913711418640317
+    second: Thai Atlas_9
+  - first:
+      213: -6944695226431335760
+    second: Thai Atlas_10
+  - first:
+      213: 2635142470482816129
+    second: Thai Atlas_11
+  - first:
+      213: -4862250940351708142
+    second: Thai Atlas_12
+  - first:
+      213: -4549786109591751716
+    second: Thai Atlas_13
+  - first:
+      213: -4491035849411305501
+    second: Thai Atlas_14
+  - first:
+      213: 5161656502719426335
+    second: Thai Atlas_15
+  - first:
+      213: -7677814339046118701
+    second: Thai Atlas_16
+  - first:
+      213: -2794489978044470272
+    second: Thai Atlas_17
+  - first:
+      213: 9115931365883352594
+    second: Thai Atlas_18
+  - first:
+      213: 1189312977478461625
+    second: Thai Atlas_19
+  - first:
+      213: -4967749449842415310
+    second: Thai Atlas_20
+  - first:
+      213: 9142845479646285503
+    second: Thai Atlas_21
+  - first:
+      213: 8362945009945701215
+    second: Thai Atlas_22
+  - first:
+      213: -1628906955106777795
+    second: Thai Atlas_23
+  - first:
+      213: -7211659767642359910
+    second: Thai Atlas_24
+  - first:
+      213: 1943630299326067985
+    second: Thai Atlas_25
+  - first:
+      213: -2414572003565055878
+    second: Thai Atlas_26
+  - first:
+      213: 104939714354441184
+    second: Thai Atlas_27
+  - first:
+      213: 6342760111543937557
+    second: Thai Atlas_28
+  - first:
+      213: -8628605569834539721
+    second: Thai Atlas_29
+  - first:
+      213: -3387476000797361162
+    second: Thai Atlas_30
+  - first:
+      213: 2033225681018579574
+    second: Thai Atlas_31
+  - first:
+      213: -2318703415397776806
+    second: Thai Atlas_32
+  - first:
+      213: 2177049180675913696
+    second: Thai Atlas_33
+  - first:
+      213: 7589138008620220434
+    second: Thai Atlas_34
+  - first:
+      213: 1892869866292553598
+    second: Thai Atlas_35
+  - first:
+      213: 326767203232680205
+    second: Thai Atlas_36
+  - first:
+      213: -6345749831238137286
+    second: Thai Atlas_37
+  - first:
+      213: 1071656909595572812
+    second: Thai Atlas_38
+  - first:
+      213: 3473026653758439552
+    second: Thai Atlas_39
+  - first:
+      213: -6876840028138385786
+    second: Thai Atlas_40
+  - first:
+      213: 6007393766502797550
+    second: Thai Atlas_41
+  - first:
+      213: -5198062933105061118
+    second: Thai Atlas_42
+  - first:
+      213: -1119123885479931345
+    second: Thai Atlas_43
+  - first:
+      213: -6932062905453030696
+    second: Thai Atlas_44
+  - first:
+      213: 5078492148419443949
+    second: Thai Atlas_45
+  - first:
+      213: 7953118544003105450
+    second: Thai Atlas_46
+  - first:
+      213: 4904934639342087924
+    second: Thai Atlas_47
+  - first:
+      213: -5042009097533755229
+    second: Thai Atlas_48
+  - first:
+      213: 5960870566875578727
+    second: Thai Atlas_49
+  - first:
+      213: 8602872111725028714
+    second: Thai Atlas_50
+  - first:
+      213: -668694863266353108
+    second: Thai Atlas_51
+  - first:
+      213: -816949667730747007
+    second: Thai Atlas_52
+  - first:
+      213: 3343422111984986302
+    second: Thai Atlas_53
+  - first:
+      213: 5183455765986454680
+    second: Thai Atlas_54
+  - first:
+      213: 5319385676007790877
+    second: Thai Atlas_55
+  - first:
+      213: 313140151393897280
+    second: Thai Atlas_56
+  - first:
+      213: 6933209129528186632
+    second: Thai Atlas_57
+  - first:
+      213: -1805210818314684848
+    second: Thai Atlas_58
+  - first:
+      213: 4836972158481717966
+    second: Thai Atlas_59
+  - first:
+      213: 90721770810403733
+    second: Thai Atlas_60
+  - first:
+      213: 3432391389732951884
+    second: Thai Atlas_61
+  - first:
+      213: 588281377062185362
+    second: Thai Atlas_62
+  - first:
+      213: -5065717900584908808
+    second: Thai Atlas_63
+  - first:
+      213: -32684619601460897
+    second: Thai Atlas_64
+  - first:
+      213: 7389004877514724271
+    second: Thai Atlas_65
+  - first:
+      213: -3312867272803888903
+    second: Thai Atlas_66
+  - first:
+      213: 8873482398592313153
+    second: Thai Atlas_67
+  - first:
+      213: -377823793133309871
+    second: Thai Atlas_68
+  - first:
+      213: 2662873682973650909
+    second: Thai Atlas_69
+  - first:
+      213: 2603826854500138934
+    second: Thai Atlas_70
+  - first:
+      213: 5312708504271472491
+    second: Thai Atlas_71
+  - first:
+      213: -707749288297009561
+    second: Thai Atlas_72
+  - first:
+      213: 3991445264810945741
+    second: Thai Atlas_73
+  - first:
+      213: -5809427334019321630
+    second: Thai Atlas_74
+  - first:
+      213: 1958380486471602443
+    second: Thai Atlas_75
+  - first:
+      213: 496203745704204038
+    second: Thai Atlas_76
+  - first:
+      213: -2267314900239350893
+    second: Thai Atlas_77
+  - first:
+      213: 2682040761444511332
+    second: Thai Atlas_78
+  - first:
+      213: 9064506297446835307
+    second: Thai Atlas_79
+  - first:
+      213: 2475387556182123838
+    second: Thai Atlas_80
+  - first:
+      213: 6255969730948351310
+    second: Thai Atlas_81
+  - first:
+      213: 3183248549749894964
+    second: Thai Atlas_82
+  - first:
+      213: -8543338877628259141
+    second: Thai Atlas_83
+  - first:
+      213: 3445508479578678381
+    second: Thai Atlas_84
+  - first:
+      213: -8601915469338715136
+    second: Thai Atlas_85
+  - first:
+      213: 2771833876156255635
+    second: Thai Atlas_86
+  - first:
+      213: -1792863124881663244
+    second: Thai Atlas_87
+  - first:
+      213: -591708796800466804
+    second: Thai Atlas_88
+  - first:
+      213: 7350246573245136765
+    second: Thai Atlas_89
+  - first:
+      213: 9053506968593609801
+    second: Thai Atlas_90
+  - first:
+      213: 4661079424523456260
+    second: Thai Atlas_91
+  - first:
+      213: 2177902217407784431
+    second: Thai Atlas_92
+  - first:
+      213: 1296159420601884801
+    second: Thai Atlas_93
+  - first:
+      213: -386053271181561377
+    second: Thai Atlas_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thai Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1954
+        width: 152
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f353f880c94cd5200800000000000000
+      internalID: 170508535347492159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 154
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22013f0277ada0630800000000000000
+      internalID: 3894165033003978786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1954
+        width: 178
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878225ac8a20e6f80800000000000000
+      internalID: -8111542954875541384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1664
+        width: 154
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ab1d1fcb63d060800000000000000
+      internalID: 6977038785017783614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1930
+        width: 161
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fe7224f15734be0800000000000000
+      internalID: -1494221874242523299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1925
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4741c06f5f53e0800000000000000
+      internalID: -2062825235148223851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1925
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54ab09fedaaf5e0800000000000000
+      internalID: -1874995050409474585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1755
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d624f6cb6553aa0800000000000000
+      internalID: -6181939546175672993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1755
+        width: 187
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8364bc8ceb52ef8f0800000000000000
+      internalID: -504924606876137928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1755
+        width: 193
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db78c69e17acf3220800000000000000
+      internalID: 2467913711418640317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1755
+        width: 191
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b295337c7c7f9f90800000000000000
+      internalID: -6944695226431335760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1415
+        width: 202
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c6ca58d18e19420800000000000000
+      internalID: 2635142470482816129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1415
+        width: 197
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2140783f780d58cb0800000000000000
+      internalID: -4862250940351708142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1664
+        width: 175
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f6cd93a9ebd0c0800000000000000
+      internalID: -4549786109591751716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1553
+        width: 154
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5b4280b2aca1c0800000000000000
+      internalID: -4491035849411305501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1664
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2d29dd33e1a740800000000000000
+      internalID: 5161656502719426335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1664
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da61c5998ce27590800000000000000
+      internalID: -7677814339046118701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1664
+        width: 195
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c254abb2af739d0800000000000000
+      internalID: -2794489978044470272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1607
+        width: 165
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216915c674b428e70800000000000000
+      internalID: 9115931365883352594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1607
+        width: 173
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8ad5d0ad9418010800000000000000
+      internalID: 1189312977478461625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1553
+        width: 199
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239200512320f0bb0800000000000000
+      internalID: -4967749449842415310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1467
+        width: 204
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4a9ad589e1ee70800000000000000
+      internalID: 9142845479646285503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1664
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b60f18d262f0470800000000000000
+      internalID: 8362945009945701215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1345
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3582b031c5f469e0800000000000000
+      internalID: -1628906955106777795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1415
+        width: 195
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9773bc76a90beb90800000000000000
+      internalID: -7211659767642359910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1415
+        width: 188
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115340e957929fa10800000000000000
+      internalID: 1943630299326067985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1413
+        width: 170
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d6e24e87bd7ed0800000000000000
+      internalID: -2414572003565055878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1423
+        width: 160
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6dec3d12d47100800000000000000
+      internalID: 104939714354441184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1226
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae71057b2060850800000000000000
+      internalID: 6342760111543937557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1415
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352e0753f8014880800000000000000
+      internalID: -8628605569834539721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1356
+        width: 207
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbff4f56844df0d0800000000000000
+      internalID: -3387476000797361162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1270
+        width: 207
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a60510cf7773c10800000000000000
+      internalID: 2033225681018579574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a520bb9578f42dfd0800000000000000
+      internalID: -2318703415397776806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1143
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e73eb002be663e10800000000000000
+      internalID: 2177049180675913696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1072
+        width: 211
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21049335fc8025960800000000000000
+      internalID: 7589138008620220434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1291
+        width: 164
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77a8625d13d44a10800000000000000
+      internalID: 1892869866292553598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1036
+        width: 211
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d098ee04a09e88400800000000000000
+      internalID: 326767203232680205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1226
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a4e83562e5fe7a0800000000000000
+      internalID: -6345749831238137286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1218
+        width: 207
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a7989084a4fde00800000000000000
+      internalID: 1071656909595572812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1154
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0804cb8375ba23030800000000000000
+      internalID: 3473026653758439552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1219
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ecf91fd6e8090a0800000000000000
+      internalID: -6876840028138385786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 976
+        width: 100
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee09b465dcc8e5350800000000000000
+      internalID: 6007393766502797550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1024
+        width: 208
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d5288d45ccd7b0800000000000000
+      internalID: -5198062933105061118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1016
+        width: 208
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22505a61c21870f0800000000000000
+      internalID: -1119123885479931345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1073
+        width: 208
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d25fcfd38d5ccf90800000000000000
+      internalID: -6932062905453030696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 991
+        width: 216
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decb625b3bd6a7640800000000000000
+      internalID: 5078492148419443949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 216
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa280e7ad272f5e60800000000000000
+      internalID: 7953118544003105450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 941
+        width: 216
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6e782114d11440800000000000000
+      internalID: 4904934639342087924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 875
+        width: 216
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a07633807f270ab0800000000000000
+      internalID: -5042009097533755229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 839
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76143b2d23449b250800000000000000
+      internalID: 5960870566875578727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 823
+        width: 103
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652c7b0b9a836770800000000000000
+      internalID: 8602872111725028714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 827
+        width: 211
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2071e3909158b6f0800000000000000
+      internalID: -668694863266353108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 768
+        width: 211
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18119870b9c99a4f0800000000000000
+      internalID: -816949667730747007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 952
+        width: 208
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82d0752b8366e20800000000000000
+      internalID: 3343422111984986302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 876
+        width: 209
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ca2985e855fe740800000000000000
+      internalID: 5183455765986454680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 222
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19deb9c61142d940800000000000000
+      internalID: 5319385676007790877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 698
+        width: 216
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bceb00f4f785400800000000000000
+      internalID: 313140151393897280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 733
+        width: 103
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d50738f4b73060800000000000000
+      internalID: 6933209129528186632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 651
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05639ad335a92f6e0800000000000000
+      internalID: -1805210818314684848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 688
+        width: 218
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad1cefc80602340800000000000000
+      internalID: 4836972158481717966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 647
+        width: 219
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b6c8a48fe424100800000000000000
+      internalID: 90721770810403733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 717
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47542b88cd42af20800000000000000
+      internalID: 3432391389732951884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 612
+        width: 217
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e4cbabcef92800800000000000000
+      internalID: 588281377062185362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 506
+        width: 217
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f78c43a864f2b9b0800000000000000
+      internalID: -5065717900584908808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 703
+        width: 211
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51490bf281eb8ff0800000000000000
+      internalID: -32684619601460897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 684
+        width: 205
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3d4e799c40b8660800000000000000
+      internalID: 7389004877514724271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 455
+        width: 224
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d18884c45602d0800000000000000
+      internalID: -3312867272803888903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 551
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147a6c05a31f42b70800000000000000
+      internalID: 8873482398592313153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 455
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150399e0343b1caf0800000000000000
+      internalID: -377823793133309871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 491
+        width: 221
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6163918d64f420800000000000000
+      internalID: 2662873682973650909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 445
+        width: 221
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7a1f7ab6a22420800000000000000
+      internalID: 2603826854500138934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 525
+        width: 117
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b674c489c388ab940800000000000000
+      internalID: 5312708504271472491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 435
+        width: 221
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e6509a5c19d26f0800000000000000
+      internalID: -707749288297009561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 450
+        width: 224
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcca87d1256746730800000000000000
+      internalID: 3991445264810945741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 497
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0755f8e94c06fa0800000000000000
+      internalID: -5809427334019321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01523f2da09d2b10800000000000000
+      internalID: 1958380486471602443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 242
+        width: 159
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607daee7daed2e600800000000000000
+      internalID: 496203745704204038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 202
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39388496c11e880e0800000000000000
+      internalID: -2267314900239350893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 243
+        width: 224
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea40bccd5883520800000000000000
+      internalID: 2682040761444511332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 243
+        width: 221
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642c93a3789bcd70800000000000000
+      internalID: 9064506297446835307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 421
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3568affdd75a5220800000000000000
+      internalID: 2475387556182123838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 192
+        width: 233
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c5c2235ba1d650800000000000000
+      internalID: 6255969730948351310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 253
+        width: 224
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fae9fb0bb2d2c20800000000000000
+      internalID: 3183248549749894964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 197
+        width: 225
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ee2b2e86ff6980800000000000000
+      internalID: -8543338877628259141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 299
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6422e305b7e0df20800000000000000
+      internalID: 3445508479578678381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 319
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd02e947bdf9880800000000000000
+      internalID: -8601915469338715136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 284
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d00bc7938877620800000000000000
+      internalID: 2771833876156255635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1886ac787e17e0800000000000000
+      internalID: -1792863124881663244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 243
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c800c3cfbf3d9c7f0800000000000000
+      internalID: -591708796800466804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 0
+        width: 236
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ffec9a052510660800000000000000
+      internalID: 7350246573245136765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 198
+        width: 183
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944bb82de9484ad70800000000000000
+      internalID: 9053506968593609801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 315
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4a988a0b7fa040800000000000000
+      internalID: 4661079424523456260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 243
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe560281786793e10800000000000000
+      internalID: 2177902217407784431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 0
+        width: 228
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180604d2022ecf110800000000000000
+      internalID: 1296159420601884801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thai Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 0
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd178d2689674aaf0800000000000000
+      internalID: -386053271181561377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thai Atlas_0: 170508535347492159
+      Thai Atlas_1: 3894165033003978786
+      Thai Atlas_10: -6944695226431335760
+      Thai Atlas_11: 2635142470482816129
+      Thai Atlas_12: -4862250940351708142
+      Thai Atlas_13: -4549786109591751716
+      Thai Atlas_14: -4491035849411305501
+      Thai Atlas_15: 5161656502719426335
+      Thai Atlas_16: -7677814339046118701
+      Thai Atlas_17: -2794489978044470272
+      Thai Atlas_18: 9115931365883352594
+      Thai Atlas_19: 1189312977478461625
+      Thai Atlas_2: -8111542954875541384
+      Thai Atlas_20: -4967749449842415310
+      Thai Atlas_21: 9142845479646285503
+      Thai Atlas_22: 8362945009945701215
+      Thai Atlas_23: -1628906955106777795
+      Thai Atlas_24: -7211659767642359910
+      Thai Atlas_25: 1943630299326067985
+      Thai Atlas_26: -2414572003565055878
+      Thai Atlas_27: 104939714354441184
+      Thai Atlas_28: 6342760111543937557
+      Thai Atlas_29: -8628605569834539721
+      Thai Atlas_3: 6977038785017783614
+      Thai Atlas_30: -3387476000797361162
+      Thai Atlas_31: 2033225681018579574
+      Thai Atlas_32: -2318703415397776806
+      Thai Atlas_33: 2177049180675913696
+      Thai Atlas_34: 7589138008620220434
+      Thai Atlas_35: 1892869866292553598
+      Thai Atlas_36: 326767203232680205
+      Thai Atlas_37: -6345749831238137286
+      Thai Atlas_38: 1071656909595572812
+      Thai Atlas_39: 3473026653758439552
+      Thai Atlas_4: -1494221874242523299
+      Thai Atlas_40: -6876840028138385786
+      Thai Atlas_41: 6007393766502797550
+      Thai Atlas_42: -5198062933105061118
+      Thai Atlas_43: -1119123885479931345
+      Thai Atlas_44: -6932062905453030696
+      Thai Atlas_45: 5078492148419443949
+      Thai Atlas_46: 7953118544003105450
+      Thai Atlas_47: 4904934639342087924
+      Thai Atlas_48: -5042009097533755229
+      Thai Atlas_49: 5960870566875578727
+      Thai Atlas_5: -2062825235148223851
+      Thai Atlas_50: 8602872111725028714
+      Thai Atlas_51: -668694863266353108
+      Thai Atlas_52: -816949667730747007
+      Thai Atlas_53: 3343422111984986302
+      Thai Atlas_54: 5183455765986454680
+      Thai Atlas_55: 5319385676007790877
+      Thai Atlas_56: 313140151393897280
+      Thai Atlas_57: 6933209129528186632
+      Thai Atlas_58: -1805210818314684848
+      Thai Atlas_59: 4836972158481717966
+      Thai Atlas_6: -1874995050409474585
+      Thai Atlas_60: 90721770810403733
+      Thai Atlas_61: 3432391389732951884
+      Thai Atlas_62: 588281377062185362
+      Thai Atlas_63: -5065717900584908808
+      Thai Atlas_64: -32684619601460897
+      Thai Atlas_65: 7389004877514724271
+      Thai Atlas_66: -3312867272803888903
+      Thai Atlas_67: 8873482398592313153
+      Thai Atlas_68: -377823793133309871
+      Thai Atlas_69: 2662873682973650909
+      Thai Atlas_7: -6181939546175672993
+      Thai Atlas_70: 2603826854500138934
+      Thai Atlas_71: 5312708504271472491
+      Thai Atlas_72: -707749288297009561
+      Thai Atlas_73: 3991445264810945741
+      Thai Atlas_74: -5809427334019321630
+      Thai Atlas_75: 1958380486471602443
+      Thai Atlas_76: 496203745704204038
+      Thai Atlas_77: -2267314900239350893
+      Thai Atlas_78: 2682040761444511332
+      Thai Atlas_79: 9064506297446835307
+      Thai Atlas_8: -504924606876137928
+      Thai Atlas_80: 2475387556182123838
+      Thai Atlas_81: 6255969730948351310
+      Thai Atlas_82: 3183248549749894964
+      Thai Atlas_83: -8543338877628259141
+      Thai Atlas_84: 3445508479578678381
+      Thai Atlas_85: -8601915469338715136
+      Thai Atlas_86: 2771833876156255635
+      Thai Atlas_87: -1792863124881663244
+      Thai Atlas_88: -591708796800466804
+      Thai Atlas_89: 7350246573245136765
+      Thai Atlas_9: 2467913711418640317
+      Thai Atlas_90: 9053506968593609801
+      Thai Atlas_91: 4661079424523456260
+      Thai Atlas_92: 2177902217407784431
+      Thai Atlas_93: 1296159420601884801
+      Thai Atlas_94: -386053271181561377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

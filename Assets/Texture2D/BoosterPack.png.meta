@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: dcd189e3d5cb1b64d817c24b94dde7ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6549884324270678333
+    second: BoosterPack_0
+  - first:
+      213: 7126285662423272952
+    second: BoosterPack_1
+  - first:
+      213: 6104769399934866570
+    second: BoosterPack_2
+  - first:
+      213: -6410815478699149672
+    second: BoosterPack_3
+  - first:
+      213: -5150966869492031032
+    second: BoosterPack_4
+  - first:
+      213: 5428693677642387088
+    second: BoosterPack_5
+  - first:
+      213: 4189251438064037817
+    second: BoosterPack_6
+  - first:
+      213: -5306994038737659347
+    second: BoosterPack_7
+  - first:
+      213: -910330364459787906
+    second: BoosterPack_8
+  - first:
+      213: -8377992906865268816
+    second: BoosterPack_9
+  - first:
+      213: -553696653083827807
+    second: BoosterPack_10
+  - first:
+      213: 4155825879568022577
+    second: BoosterPack_11
+  - first:
+      213: -2901034265069948570
+    second: BoosterPack_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoosterPack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 391
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31ad04171dd5ea50800000000000000
+      internalID: 6549884324270678333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 318
+        width: 172
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdc2b4ad07a5e260800000000000000
+      internalID: 7126285662423272952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 270
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84dacebc6f78b450800000000000000
+      internalID: 6104769399934866570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 318
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bf8fb9453807a0800000000000000
+      internalID: -6410815478699149672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 318
+        width: 163
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c12f165ce61488b0800000000000000
+      internalID: -5150966869492031032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 316
+        width: 176
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e884a2328965b40800000000000000
+      internalID: 5428693677642387088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 298
+        width: 169
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe990ccf5332a30800000000000000
+      internalID: 4189251438064037817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 298
+        width: 164
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a1de71a05c956b0800000000000000
+      internalID: -5306994038737659347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_8
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1
+        width: 230
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e795f1e4b5bdd53f0800000000000000
+      internalID: -910330364459787906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 261
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ad87f6d36bbb80800000000000000
+      internalID: -8377992906865268816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 198
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ad9fd3dfd058f0800000000000000
+      internalID: -553696653083827807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 139
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf6047e957ca930800000000000000
+      internalID: 4155825879568022577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoosterPack_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f44dc4b47db7d0800000000000000
+      internalID: -2901034265069948570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoosterPack_0: 6549884324270678333
+      BoosterPack_1: 7126285662423272952
+      BoosterPack_10: -553696653083827807
+      BoosterPack_11: 4155825879568022577
+      BoosterPack_12: -2901034265069948570
+      BoosterPack_2: 6104769399934866570
+      BoosterPack_3: -6410815478699149672
+      BoosterPack_4: -5150966869492031032
+      BoosterPack_5: 5428693677642387088
+      BoosterPack_6: 4189251438064037817
+      BoosterPack_7: -5306994038737659347
+      BoosterPack_8: -910330364459787906
+      BoosterPack_9: -8377992906865268816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

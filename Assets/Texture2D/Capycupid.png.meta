@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 4e9e5ec27054ebb49b0c56868f3a760e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6028736473757553491
+    second: Capycupid_0
+  - first:
+      213: -6602793190298955916
+    second: Capycupid_1
+  - first:
+      213: 8644923001778240656
+    second: Capycupid_2
+  - first:
+      213: -8118022077416207944
+    second: Capycupid_3
+  - first:
+      213: -6972315911391593410
+    second: Capycupid_4
+  - first:
+      213: -7005502411227661302
+    second: Capycupid_5
+  - first:
+      213: 7913886732453389559
+    second: Capycupid_6
+  - first:
+      213: -3189966748778955137
+    second: Capycupid_7
+  - first:
+      213: -1030930095884358981
+    second: Capycupid_8
+  - first:
+      213: -9174944671020843821
+    second: Capycupid_9
+  - first:
+      213: 2546714719027682971
+    second: Capycupid_10
+  - first:
+      213: -5698424429104220977
+    second: Capycupid_11
+  - first:
+      213: 8527993881183099562
+    second: Capycupid_12
+  - first:
+      213: -4413258708360526857
+    second: Capycupid_13
+  - first:
+      213: -2567964936135337633
+    second: Capycupid_14
+  - first:
+      213: 284818943137466162
+    second: Capycupid_15
+  - first:
+      213: 9182943326610647679
+    second: Capycupid_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capycupid_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 418
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35392ca91ef5aa350800000000000000
+      internalID: 6028736473757553491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 183
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fccd6939a2e54a0800000000000000
+      internalID: -6602793190298955916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 183
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7897daafe8f770800000000000000
+      internalID: 8644923001778240656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 183
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b904d48eedf65f80800000000000000
+      internalID: -8118022077416207944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 153
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c33b79e9b5d3f90800000000000000
+      internalID: -6972315911391593410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf1a97ca477ce90800000000000000
+      internalID: -7005502411227661302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_6
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 148
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4af88bd06c3dd60800000000000000
+      internalID: 7913886732453389559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 161
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ef8b5a426fab3d0800000000000000
+      internalID: -3189966748778955137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 110
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaad863a8661b1f0800000000000000
+      internalID: -1030930095884358981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 152
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc70f1ce6c0ca080800000000000000
+      internalID: -9174944671020843821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 153
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e57eb3b8fb75320800000000000000
+      internalID: 2546714719027682971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 153
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b5db5c212be0b0800000000000000
+      internalID: -5698424429104220977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 110
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa9f9e6045895670800000000000000
+      internalID: 8527993881183099562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f385425694f0c2c0800000000000000
+      internalID: -4413258708360526857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3
+        width: 130
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f599ef90f71cc5cd0800000000000000
+      internalID: -2567964936135337633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 53
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c20bd151e3f300800000000000000
+      internalID: 284818943137466162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capycupid_16
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 4
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aeb2f5d4e507f70800000000000000
+      internalID: 9182943326610647679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capycupid_0: 6028736473757553491
+      Capycupid_1: -6602793190298955916
+      Capycupid_10: 2546714719027682971
+      Capycupid_11: -5698424429104220977
+      Capycupid_12: 8527993881183099562
+      Capycupid_13: -4413258708360526857
+      Capycupid_14: -2567964936135337633
+      Capycupid_15: 284818943137466162
+      Capycupid_16: 9182943326610647679
+      Capycupid_2: 8644923001778240656
+      Capycupid_3: -8118022077416207944
+      Capycupid_4: -6972315911391593410
+      Capycupid_5: -7005502411227661302
+      Capycupid_6: 7913886732453389559
+      Capycupid_7: -3189966748778955137
+      Capycupid_8: -1030930095884358981
+      Capycupid_9: -9174944671020843821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f3e56aec452488c44b7e5c99a6200f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7365334382876034140
+    second: icon_medal2_0
+  - first:
+      213: -8464849203058954029
+    second: icon_medal2_1
+  - first:
+      213: -9087122039117506505
+    second: icon_medal2_2
+  - first:
+      213: -227540320641655632
+    second: icon_medal2_3
+  - first:
+      213: 2659704839015460984
+    second: icon_medal2_4
+  - first:
+      213: 3729985682201652158
+    second: icon_medal2_5
+  - first:
+      213: 3486608920120592406
+    second: icon_medal2_6
+  - first:
+      213: -7243266144231880351
+    second: icon_medal2_7
+  - first:
+      213: 2166797547912711375
+    second: icon_medal2_8
+  - first:
+      213: 1494212406215459142
+    second: icon_medal2_9
+  - first:
+      213: -4535059127167458456
+    second: icon_medal2_10
+  - first:
+      213: -2182203864982046705
+    second: icon_medal2_11
+  - first:
+      213: 5774574189250294426
+    second: icon_medal2_12
+  - first:
+      213: -1321664995158107169
+    second: icon_medal2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_medal2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abf3b8e66319c990800000000000000
+      internalID: -7365334382876034140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03c6e9f70d68a80800000000000000
+      internalID: -8464849203058954029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 69
+        width: 111
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73817cba6ae04e180800000000000000
+      internalID: -9087122039117506505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc5310b84d97dcf0800000000000000
+      internalID: -227540320641655632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87077e8957b29e420800000000000000
+      internalID: 2659704839015460984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 58
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb2ce4373293c330800000000000000
+      internalID: 3729985682201652158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 55
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180f7a075ce26030800000000000000
+      internalID: 3486608920120592406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 57
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169027b71dfba7b90800000000000000
+      internalID: -7243266144231880351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 57
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc468fb3e2021e10800000000000000
+      internalID: 2166797547912711375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 57
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641447b44428cb410800000000000000
+      internalID: 1494212406215459142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8636ac960cb3011c0800000000000000
+      internalID: -4535059127167458456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b248852147b1e0800000000000000
+      internalID: -2182203864982046705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92376f41a8632050800000000000000
+      internalID: 5774574189250294426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_medal2_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb588b70b088ade0800000000000000
+      internalID: -1321664995158107169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_medal2_0: -7365334382876034140
+      icon_medal2_1: -8464849203058954029
+      icon_medal2_10: -4535059127167458456
+      icon_medal2_11: -2182203864982046705
+      icon_medal2_12: 5774574189250294426
+      icon_medal2_13: -1321664995158107169
+      icon_medal2_2: -9087122039117506505
+      icon_medal2_3: -227540320641655632
+      icon_medal2_4: 2659704839015460984
+      icon_medal2_5: 3729985682201652158
+      icon_medal2_6: 3486608920120592406
+      icon_medal2_7: -7243266144231880351
+      icon_medal2_8: 2166797547912711375
+      icon_medal2_9: 1494212406215459142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

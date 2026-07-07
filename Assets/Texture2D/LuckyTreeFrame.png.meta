@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 0073bb3dbfef6ee4282419edeccbecaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6794014071755648413
+    second: LuckyTreeFrame_0
+  - first:
+      213: -4912028004752493388
+    second: LuckyTreeFrame_1
+  - first:
+      213: -3672085966510730468
+    second: LuckyTreeFrame_2
+  - first:
+      213: -5408119650636276720
+    second: LuckyTreeFrame_3
+  - first:
+      213: 1062194999277228015
+    second: LuckyTreeFrame_4
+  - first:
+      213: 4901859015819960442
+    second: LuckyTreeFrame_5
+  - first:
+      213: 6872397996950927180
+    second: LuckyTreeFrame_6
+  - first:
+      213: -1664579786483929147
+    second: LuckyTreeFrame_7
+  - first:
+      213: 1069617829922002328
+    second: LuckyTreeFrame_8
+  - first:
+      213: -2660447607184995750
+    second: LuckyTreeFrame_9
+  - first:
+      213: -1549729362506484955
+    second: LuckyTreeFrame_10
+  - first:
+      213: 6246885468274013740
+    second: LuckyTreeFrame_11
+  - first:
+      213: -7884845439079179513
+    second: LuckyTreeFrame_12
+  - first:
+      213: -6056712744070493152
+    second: LuckyTreeFrame_13
+  - first:
+      213: -142558816350150612
+    second: LuckyTreeFrame_14
+  - first:
+      213: -2846203914022057936
+    second: LuckyTreeFrame_15
+  - first:
+      213: -4034467821969656349
+    second: LuckyTreeFrame_16
+  - first:
+      213: -3949454684378619574
+    second: LuckyTreeFrame_17
+  - first:
+      213: 7599649032074566033
+    second: LuckyTreeFrame_18
+  - first:
+      213: 1217734348621560539
+    second: LuckyTreeFrame_19
+  - first:
+      213: 5700737477667301562
+    second: LuckyTreeFrame_20
+  - first:
+      213: 7615305486876908232
+    second: LuckyTreeFrame_21
+  - first:
+      213: 9154973904429267665
+    second: LuckyTreeFrame_22
+  - first:
+      213: 8962222527192428462
+    second: LuckyTreeFrame_23
+  - first:
+      213: -2059176801498444689
+    second: LuckyTreeFrame_24
+  - first:
+      213: -7301089866576903035
+    second: LuckyTreeFrame_25
+  - first:
+      213: -7522845426531935185
+    second: LuckyTreeFrame_26
+  - first:
+      213: -516339707273192065
+    second: LuckyTreeFrame_27
+  - first:
+      213: -5805741116373144513
+    second: LuckyTreeFrame_28
+  - first:
+      213: -4264117494813631896
+    second: LuckyTreeFrame_29
+  - first:
+      213: 1630294149303262038
+    second: LuckyTreeFrame_30
+  - first:
+      213: -4587499753649801353
+    second: LuckyTreeFrame_31
+  - first:
+      213: -4653088848559106404
+    second: LuckyTreeFrame_32
+  - first:
+      213: 7079919156828531660
+    second: LuckyTreeFrame_33
+  - first:
+      213: -7094465474301642447
+    second: LuckyTreeFrame_34
+  - first:
+      213: 7446104799918074788
+    second: LuckyTreeFrame_35
+  - first:
+      213: 8235803115942682920
+    second: LuckyTreeFrame_36
+  - first:
+      213: 739808122748801392
+    second: LuckyTreeFrame_37
+  - first:
+      213: 1466640216369589148
+    second: LuckyTreeFrame_38
+  - first:
+      213: -6731830655037909166
+    second: LuckyTreeFrame_39
+  - first:
+      213: 6804633488865434908
+    second: LuckyTreeFrame_40
+  - first:
+      213: 835231386860225445
+    second: LuckyTreeFrame_41
+  - first:
+      213: -3334761460292593850
+    second: LuckyTreeFrame_42
+  - first:
+      213: -5294014429040062345
+    second: LuckyTreeFrame_43
+  - first:
+      213: -9148296223316969693
+    second: LuckyTreeFrame_44
+  - first:
+      213: 8581913498341351051
+    second: LuckyTreeFrame_45
+  - first:
+      213: -1070225133890065962
+    second: LuckyTreeFrame_46
+  - first:
+      213: 5007589303432487018
+    second: LuckyTreeFrame_47
+  - first:
+      213: 4703805186234437948
+    second: LuckyTreeFrame_48
+  - first:
+      213: -4772622892165453894
+    second: LuckyTreeFrame_49
+  - first:
+      213: -2554035548438137667
+    second: LuckyTreeFrame_50
+  - first:
+      213: 3969138681782146006
+    second: LuckyTreeFrame_51
+  - first:
+      213: -7000062853461920008
+    second: LuckyTreeFrame_52
+  - first:
+      213: -4076748326736216449
+    second: LuckyTreeFrame_53
+  - first:
+      213: -1430558576537045420
+    second: LuckyTreeFrame_54
+  - first:
+      213: -8426461665112509289
+    second: LuckyTreeFrame_55
+  - first:
+      213: 434225875642458481
+    second: LuckyTreeFrame_56
+  - first:
+      213: 5075111434737135093
+    second: LuckyTreeFrame_57
+  - first:
+      213: -3246653640340760729
+    second: LuckyTreeFrame_58
+  - first:
+      213: 5499806056431426450
+    second: LuckyTreeFrame_59
+  - first:
+      213: 5713998115127622241
+    second: LuckyTreeFrame_60
+  - first:
+      213: -7491585472774905589
+    second: LuckyTreeFrame_61
+  - first:
+      213: -8883342000581278675
+    second: LuckyTreeFrame_62
+  - first:
+      213: 6406198031822745949
+    second: LuckyTreeFrame_63
+  - first:
+      213: 3269806666649427940
+    second: LuckyTreeFrame_64
+  - first:
+      213: 4322542440036607952
+    second: LuckyTreeFrame_65
+  - first:
+      213: -7398920577785813475
+    second: LuckyTreeFrame_66
+  - first:
+      213: 4702122453756128680
+    second: LuckyTreeFrame_67
+  - first:
+      213: 4474579893700709526
+    second: LuckyTreeFrame_68
+  - first:
+      213: 4092590315261836959
+    second: LuckyTreeFrame_69
+  - first:
+      213: -537070539484472340
+    second: LuckyTreeFrame_70
+  - first:
+      213: 4329086697327844852
+    second: LuckyTreeFrame_71
+  - first:
+      213: 5508045230978486919
+    second: LuckyTreeFrame_72
+  - first:
+      213: 5396577133200981029
+    second: LuckyTreeFrame_73
+  - first:
+      213: 4405782674558508587
+    second: LuckyTreeFrame_74
+  - first:
+      213: 4082173404723834480
+    second: LuckyTreeFrame_75
+  - first:
+      213: -3943946183804334954
+    second: LuckyTreeFrame_76
+  - first:
+      213: -6499091981758807462
+    second: LuckyTreeFrame_77
+  - first:
+      213: 4222973797549508842
+    second: LuckyTreeFrame_78
+  - first:
+      213: -8945643702878114283
+    second: LuckyTreeFrame_79
+  - first:
+      213: -4400305791598430084
+    second: LuckyTreeFrame_80
+  - first:
+      213: -8529636181985790181
+    second: LuckyTreeFrame_81
+  - first:
+      213: 2186563836714041905
+    second: LuckyTreeFrame_82
+  - first:
+      213: 8814814705934168532
+    second: LuckyTreeFrame_83
+  - first:
+      213: -5480355116076322755
+    second: LuckyTreeFrame_84
+  - first:
+      213: -138812465845976095
+    second: LuckyTreeFrame_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LuckyTreeFrame_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362dffda230d6b1a0800000000000000
+      internalID: -6794014071755648413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 273
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f4f10e88f4dbb0800000000000000
+      internalID: -4912028004752493388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 274
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135e6dd4412a0dc0800000000000000
+      internalID: -3672085966510730468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 255
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cd309c4df72f4b0800000000000000
+      internalID: -5408119650636276720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8d1e59bcadbe00800000000000000
+      internalID: 1062194999277228015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 256
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70aef0cdc6e60440800000000000000
+      internalID: 4901859015819960442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47bd531199af5f50800000000000000
+      internalID: 6872397996950927180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 255
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6456e08936e8e0800000000000000
+      internalID: -1664579786483929147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 255
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895dcedcfbb08de00800000000000000
+      internalID: 1069617829922002328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 256
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a43363ff0341bd0800000000000000
+      internalID: -2660447607184995750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 255
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fec90b514e7ae0800000000000000
+      internalID: -1549729362506484955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b5096c3561b650800000000000000
+      internalID: 6246885468274013740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 256
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b93de49d6639290800000000000000
+      internalID: -7884845439079179513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_13
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 256
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc81f59db32fba0800000000000000
+      internalID: -6056712744070493152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 256
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2069d70387850ef0800000000000000
+      internalID: -142558816350150612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_15
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 286
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038836abe904088d0800000000000000
+      internalID: -2846203914022057936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 285
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e531c534e0b208c0800000000000000
+      internalID: -4034467821969656349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_17
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 226
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412c11c3e7b039c0800000000000000
+      internalID: -3949454684378619574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_18
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 304
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199127ea780677960800000000000000
+      internalID: 7599649032074566033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_19
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 303
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda316030f246e010800000000000000
+      internalID: 1217734348621560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_20
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 304
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8ad1a38861d1f40800000000000000
+      internalID: 5700737477667301562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_21
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 290
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca91612efffea960800000000000000
+      internalID: 7615305486876908232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 292
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da3a7dc2400d0f70800000000000000
+      internalID: 9154973904429267665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_23
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 294
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafee4397e5306c70800000000000000
+      internalID: 8962222527192428462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_24
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 268
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc5f8eb955c63e0800000000000000
+      internalID: -2059176801498444689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_25
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 272
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ca7df2715daa90800000000000000
+      internalID: -7301089866576903035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_26
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 272
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c546b31fb799790800000000000000
+      internalID: -7522845426531935185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_27
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 267
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5d8c95c795d8f0800000000000000
+      internalID: -516339707273192065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_28
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 262
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce2bcf63ddd6fa0800000000000000
+      internalID: -5805741116373144513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 258
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ada111bbfc2d4c0800000000000000
+      internalID: -4264117494813631896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 254
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b5e9024e7ff9610800000000000000
+      internalID: 1630294149303262038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_31
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 253
+        width: 33
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f288974de550c0800000000000000
+      internalID: -4587499753649801353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_32
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 246
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c969d496858ec6fb0800000000000000
+      internalID: -4653088848559106404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 118
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6f3d46fce04260800000000000000
+      internalID: 7079919156828531660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 118
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1393afc3d356b8d90800000000000000
+      internalID: -7094465474301642447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba2774dd0e55760800000000000000
+      internalID: 7446104799918074788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a1dd7c437b4270800000000000000
+      internalID: 8235803115942682920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_37
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 228
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07114666193544a00800000000000000
+      internalID: 739808122748801392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_38
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 255
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be206918d8a5410800000000000000
+      internalID: 1466640216369589148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 201
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257516e9fabb392a0800000000000000
+      internalID: -6731830655037909166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_40
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 188
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1d8a0b1aee6e50800000000000000
+      internalID: 6804633488865434908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_41
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 166
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a38f076586579b00800000000000000
+      internalID: 835231386860225445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_42
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 165
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d894ce1c88b1d0800000000000000
+      internalID: -3334761460292593850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_43
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 162
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705649fce1e786b0800000000000000
+      internalID: -5294014429040062345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_44
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 161
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327f42dfd09ba0180800000000000000
+      internalID: -9148296223316969693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_45
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1
+        width: 55
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e14c99bd4191770800000000000000
+      internalID: 8581913498341351051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1
+        width: 55
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a9c839ebc521f0800000000000000
+      internalID: -1070225133890065962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_47
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 200
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60a32ca0f78e7540800000000000000
+      internalID: 5007589303432487018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_48
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 201
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d42225e5474140800000000000000
+      internalID: 4703805186234437948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_49
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 158
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a49914cc34cdb0800000000000000
+      internalID: -4772622892165453894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_50
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 158
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ff97533e3e8cd0800000000000000
+      internalID: -2554035548438137667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_51
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 150
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d313e70a96351730800000000000000
+      internalID: 3969138681782146006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_52
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 220
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6bef53ce7cade90800000000000000
+      internalID: -7000062853461920008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_53
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 184
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e38321ffa7c67c0800000000000000
+      internalID: -4076748326736216449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_54
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 218
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456fe17dd82a52ce0800000000000000
+      internalID: -1430558576537045420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_55
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2
+        width: 58
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b589c2c13f0b80800000000000000
+      internalID: -8426461665112509289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_56
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2
+        width: 58
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a3fd122ea60600800000000000000
+      internalID: 434225875642458481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_57
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2
+        width: 51
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda707f5fa6e6640800000000000000
+      internalID: 5075111434737135093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_58
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2
+        width: 51
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76792c237b191f2d0800000000000000
+      internalID: -3246653640340760729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_59
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 103
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b1327187c335c40800000000000000
+      internalID: 5499806056431426450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_60
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 104
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16afe6bf2033c4f40800000000000000
+      internalID: 5713998115127622241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_61
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 107
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0166c264ba880890800000000000000
+      internalID: -7491585472774905589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_62
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 104
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248b05348708b480800000000000000
+      internalID: -8883342000581278675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_63
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 101
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f99f1b2367e850800000000000000
+      internalID: 6406198031822745949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_64
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 102
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efd7d1d6dfa06d20800000000000000
+      internalID: 3269806666649427940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_65
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 105
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7aee88271ccfb30800000000000000
+      internalID: 4322542440036607952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_66
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 100
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16afb78fe0c15990800000000000000
+      internalID: -7398920577785813475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_67
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 102
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada582757b414140800000000000000
+      internalID: 4702122453756128680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_68
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 156
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc22bb4b6e81e30800000000000000
+      internalID: 4474579893700709526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_69
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 155
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eb260553dcbc830800000000000000
+      internalID: 4092590315261836959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_70
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 99
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb53ba9031fb88f0800000000000000
+      internalID: -537070539484472340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_71
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 93
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd581c2a61041c30800000000000000
+      internalID: 4329086697327844852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_72
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 125
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782d14764f1807c40800000000000000
+      internalID: 5508045230978486919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_73
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb0737f4e74ea40800000000000000
+      internalID: 5396577133200981029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_74
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e51aaeffb742d30800000000000000
+      internalID: 4405782674558508587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_75
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6c14551bc6a830800000000000000
+      internalID: 4082173404723834480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_76
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc51d77d94449c0800000000000000
+      internalID: -3943946183804334954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_77
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524da8b6469ec5a0800000000000000
+      internalID: -6499091981758807462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_78
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae888ba6b440b9a30800000000000000
+      internalID: 4222973797549508842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_79
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6db2c270bad380800000000000000
+      internalID: -8945643702878114283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_80
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787ea44239fee2c0800000000000000
+      internalID: -4400305791598430084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_81
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 62
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17fa6d9515a0a980800000000000000
+      internalID: -8529636181985790181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_82
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 92
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1324e0e793c385e10800000000000000
+      internalID: 2186563836714041905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_83
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 62
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1781ca543845a70800000000000000
+      internalID: 8814814705934168532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_84
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 30
+        width: 91
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b64fde0ed1f3b0800000000000000
+      internalID: -5480355116076322755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuckyTreeFrame_85
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3cada3cc6d21ef0800000000000000
+      internalID: -138812465845976095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LuckyTreeFrame_0: -6794014071755648413
+      LuckyTreeFrame_1: -4912028004752493388
+      LuckyTreeFrame_10: -1549729362506484955
+      LuckyTreeFrame_11: 6246885468274013740
+      LuckyTreeFrame_12: -7884845439079179513
+      LuckyTreeFrame_13: -6056712744070493152
+      LuckyTreeFrame_14: -142558816350150612
+      LuckyTreeFrame_15: -2846203914022057936
+      LuckyTreeFrame_16: -4034467821969656349
+      LuckyTreeFrame_17: -3949454684378619574
+      LuckyTreeFrame_18: 7599649032074566033
+      LuckyTreeFrame_19: 1217734348621560539
+      LuckyTreeFrame_2: -3672085966510730468
+      LuckyTreeFrame_20: 5700737477667301562
+      LuckyTreeFrame_21: 7615305486876908232
+      LuckyTreeFrame_22: 9154973904429267665
+      LuckyTreeFrame_23: 8962222527192428462
+      LuckyTreeFrame_24: -2059176801498444689
+      LuckyTreeFrame_25: -7301089866576903035
+      LuckyTreeFrame_26: -7522845426531935185
+      LuckyTreeFrame_27: -516339707273192065
+      LuckyTreeFrame_28: -5805741116373144513
+      LuckyTreeFrame_29: -4264117494813631896
+      LuckyTreeFrame_3: -5408119650636276720
+      LuckyTreeFrame_30: 1630294149303262038
+      LuckyTreeFrame_31: -4587499753649801353
+      LuckyTreeFrame_32: -4653088848559106404
+      LuckyTreeFrame_33: 7079919156828531660
+      LuckyTreeFrame_34: -7094465474301642447
+      LuckyTreeFrame_35: 7446104799918074788
+      LuckyTreeFrame_36: 8235803115942682920
+      LuckyTreeFrame_37: 739808122748801392
+      LuckyTreeFrame_38: 1466640216369589148
+      LuckyTreeFrame_39: -6731830655037909166
+      LuckyTreeFrame_4: 1062194999277228015
+      LuckyTreeFrame_40: 6804633488865434908
+      LuckyTreeFrame_41: 835231386860225445
+      LuckyTreeFrame_42: -3334761460292593850
+      LuckyTreeFrame_43: -5294014429040062345
+      LuckyTreeFrame_44: -9148296223316969693
+      LuckyTreeFrame_45: 8581913498341351051
+      LuckyTreeFrame_46: -1070225133890065962
+      LuckyTreeFrame_47: 5007589303432487018
+      LuckyTreeFrame_48: 4703805186234437948
+      LuckyTreeFrame_49: -4772622892165453894
+      LuckyTreeFrame_5: 4901859015819960442
+      LuckyTreeFrame_50: -2554035548438137667
+      LuckyTreeFrame_51: 3969138681782146006
+      LuckyTreeFrame_52: -7000062853461920008
+      LuckyTreeFrame_53: -4076748326736216449
+      LuckyTreeFrame_54: -1430558576537045420
+      LuckyTreeFrame_55: -8426461665112509289
+      LuckyTreeFrame_56: 434225875642458481
+      LuckyTreeFrame_57: 5075111434737135093
+      LuckyTreeFrame_58: -3246653640340760729
+      LuckyTreeFrame_59: 5499806056431426450
+      LuckyTreeFrame_6: 6872397996950927180
+      LuckyTreeFrame_60: 5713998115127622241
+      LuckyTreeFrame_61: -7491585472774905589
+      LuckyTreeFrame_62: -8883342000581278675
+      LuckyTreeFrame_63: 6406198031822745949
+      LuckyTreeFrame_64: 3269806666649427940
+      LuckyTreeFrame_65: 4322542440036607952
+      LuckyTreeFrame_66: -7398920577785813475
+      LuckyTreeFrame_67: 4702122453756128680
+      LuckyTreeFrame_68: 4474579893700709526
+      LuckyTreeFrame_69: 4092590315261836959
+      LuckyTreeFrame_7: -1664579786483929147
+      LuckyTreeFrame_70: -537070539484472340
+      LuckyTreeFrame_71: 4329086697327844852
+      LuckyTreeFrame_72: 5508045230978486919
+      LuckyTreeFrame_73: 5396577133200981029
+      LuckyTreeFrame_74: 4405782674558508587
+      LuckyTreeFrame_75: 4082173404723834480
+      LuckyTreeFrame_76: -3943946183804334954
+      LuckyTreeFrame_77: -6499091981758807462
+      LuckyTreeFrame_78: 4222973797549508842
+      LuckyTreeFrame_79: -8945643702878114283
+      LuckyTreeFrame_8: 1069617829922002328
+      LuckyTreeFrame_80: -4400305791598430084
+      LuckyTreeFrame_81: -8529636181985790181
+      LuckyTreeFrame_82: 2186563836714041905
+      LuckyTreeFrame_83: 8814814705934168532
+      LuckyTreeFrame_84: -5480355116076322755
+      LuckyTreeFrame_85: -138812465845976095
+      LuckyTreeFrame_9: -2660447607184995750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

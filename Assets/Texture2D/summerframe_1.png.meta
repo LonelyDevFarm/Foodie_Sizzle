@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 61a79a94006f115459031bc775a7c73b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1140884453970446273
+    second: summerframe_1_0
+  - first:
+      213: 1530531984925207321
+    second: summerframe_1_1
+  - first:
+      213: 4051882114796537391
+    second: summerframe_1_2
+  - first:
+      213: -2652303565968177969
+    second: summerframe_1_3
+  - first:
+      213: -6783041328500060530
+    second: summerframe_1_4
+  - first:
+      213: -5832806747877390206
+    second: summerframe_1_5
+  - first:
+      213: 5925624729521748223
+    second: summerframe_1_6
+  - first:
+      213: -4232970317314881601
+    second: summerframe_1_7
+  - first:
+      213: -2609755766745667384
+    second: summerframe_1_8
+  - first:
+      213: 9205935986649452926
+    second: summerframe_1_9
+  - first:
+      213: -6928344252356678988
+    second: summerframe_1_10
+  - first:
+      213: -7404150438519481718
+    second: summerframe_1_11
+  - first:
+      213: -3879206130390025287
+    second: summerframe_1_12
+  - first:
+      213: 7948812806699566743
+    second: summerframe_1_13
+  - first:
+      213: 6996038246063062703
+    second: summerframe_1_14
+  - first:
+      213: -963719069915510210
+    second: summerframe_1_15
+  - first:
+      213: 4596923764927316923
+    second: summerframe_1_16
+  - first:
+      213: 4327286034551708747
+    second: summerframe_1_17
+  - first:
+      213: 6764279405282706372
+    second: summerframe_1_18
+  - first:
+      213: -9145373366565512135
+    second: summerframe_1_19
+  - first:
+      213: 7908039661365831776
+    second: summerframe_1_20
+  - first:
+      213: 599189117803792252
+    second: summerframe_1_21
+  - first:
+      213: 7765472039938931490
+    second: summerframe_1_22
+  - first:
+      213: -2565438465896248593
+    second: summerframe_1_23
+  - first:
+      213: 4343320937998392712
+    second: summerframe_1_24
+  - first:
+      213: -5965550441370888932
+    second: summerframe_1_25
+  - first:
+      213: -5324257372264680834
+    second: summerframe_1_26
+  - first:
+      213: -1613324758663548198
+    second: summerframe_1_27
+  - first:
+      213: -3197968164111848902
+    second: summerframe_1_28
+  - first:
+      213: -2376950629011689037
+    second: summerframe_1_29
+  - first:
+      213: -6939482218516287351
+    second: summerframe_1_30
+  - first:
+      213: 3676224494019137075
+    second: summerframe_1_31
+  - first:
+      213: 5107109921773151261
+    second: summerframe_1_32
+  - first:
+      213: 4054225647286355296
+    second: summerframe_1_33
+  - first:
+      213: 8544452931936419795
+    second: summerframe_1_34
+  - first:
+      213: -175190072928838541
+    second: summerframe_1_35
+  - first:
+      213: -1252248365499086860
+    second: summerframe_1_36
+  - first:
+      213: 7251058799379387499
+    second: summerframe_1_37
+  - first:
+      213: 9015578394979054818
+    second: summerframe_1_38
+  - first:
+      213: 7382678514380980703
+    second: summerframe_1_39
+  - first:
+      213: -1030767654174775623
+    second: summerframe_1_40
+  - first:
+      213: -5244943588979639807
+    second: summerframe_1_41
+  - first:
+      213: 7120817238122018267
+    second: summerframe_1_42
+  - first:
+      213: -523106978449923711
+    second: summerframe_1_43
+  - first:
+      213: -4865041377200436758
+    second: summerframe_1_44
+  - first:
+      213: -4218712288039114788
+    second: summerframe_1_45
+  - first:
+      213: -1687991923878657781
+    second: summerframe_1_46
+  - first:
+      213: -6725348029335599293
+    second: summerframe_1_47
+  - first:
+      213: -3315919907415664247
+    second: summerframe_1_48
+  - first:
+      213: -8146607051303354728
+    second: summerframe_1_49
+  - first:
+      213: 9116019631344334037
+    second: summerframe_1_50
+  - first:
+      213: 1773590754744388745
+    second: summerframe_1_51
+  - first:
+      213: 1553801565100238279
+    second: summerframe_1_52
+  - first:
+      213: 5004013759189981320
+    second: summerframe_1_53
+  - first:
+      213: 1660915224718886753
+    second: summerframe_1_54
+  - first:
+      213: -4533620232533662658
+    second: summerframe_1_55
+  - first:
+      213: 3767998828256095855
+    second: summerframe_1_56
+  - first:
+      213: 8190013097947466294
+    second: summerframe_1_57
+  - first:
+      213: 5350477732203104967
+    second: summerframe_1_58
+  - first:
+      213: 8758255805340752676
+    second: summerframe_1_59
+  - first:
+      213: 912735527977162629
+    second: summerframe_1_60
+  - first:
+      213: 9133275637024956302
+    second: summerframe_1_61
+  - first:
+      213: 1699054067781676279
+    second: summerframe_1_62
+  - first:
+      213: 4717953743909134918
+    second: summerframe_1_63
+  - first:
+      213: -467743232195462878
+    second: summerframe_1_64
+  - first:
+      213: -7124784962869137799
+    second: summerframe_1_65
+  - first:
+      213: 347479155568964340
+    second: summerframe_1_66
+  - first:
+      213: 4887227868837522377
+    second: summerframe_1_67
+  - first:
+      213: -2085240032602091430
+    second: summerframe_1_68
+  - first:
+      213: 3016109833696314046
+    second: summerframe_1_69
+  - first:
+      213: 2240569127392550461
+    second: summerframe_1_70
+  - first:
+      213: -7471542026109148639
+    second: summerframe_1_71
+  - first:
+      213: -7023455580142663957
+    second: summerframe_1_72
+  - first:
+      213: 4141035438312493300
+    second: summerframe_1_73
+  - first:
+      213: -488610421184774519
+    second: summerframe_1_74
+  - first:
+      213: -4622586394741649531
+    second: summerframe_1_75
+  - first:
+      213: 225803317736579537
+    second: summerframe_1_76
+  - first:
+      213: -3949385553160722100
+    second: summerframe_1_77
+  - first:
+      213: 6964975768085790425
+    second: summerframe_1_78
+  - first:
+      213: 382441542909670847
+    second: summerframe_1_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: summerframe_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 275
+        width: 239
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c78ca0cd5c35df00800000000000000
+      internalID: 1140884453970446273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 275
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b27de2bba8d3510800000000000000
+      internalID: 1530531984925207321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 300
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c43cc05d2b3830800000000000000
+      internalID: 4051882114796537391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 311
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc407f195ff113bd0800000000000000
+      internalID: -2652303565968177969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ec5fd89dbcdd1a0800000000000000
+      internalID: -6783041328500060530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28844459a25bd0fa0800000000000000
+      internalID: -5832806747877390206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 311
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8f963db4c0c3250800000000000000
+      internalID: 5925624729521748223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb78ca37ce77145c0800000000000000
+      internalID: -4232970317314881601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 314
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8e89c05f848cbd0800000000000000
+      internalID: -2609755766745667384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 312
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d935310e02cf70800000000000000
+      internalID: 9205935986649452926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 312
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba29a44c9399df90800000000000000
+      internalID: -6928344252356678988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 312
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a5e70b76c2f3990800000000000000
+      internalID: -7404150438519481718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 315
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb59bc39a4a2ac0800000000000000
+      internalID: -3879206130390025287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7964761122bdf4e60800000000000000
+      internalID: 7948812806699566743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 311
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeb2abd7bbe61160800000000000000
+      internalID: 6996038246063062703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 316
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8a66ac9e20a2f0800000000000000
+      internalID: -963719069915510210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 308
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b040fcd8bcf30800000000000000
+      internalID: 4596923764927316923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 305
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c96f2b8bb9d0c30800000000000000
+      internalID: 4327286034551708747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 304
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3cd59c74c8fdd50800000000000000
+      internalID: 6764279405282706372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_19
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 300
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5b8b906b151180800000000000000
+      internalID: -9145373366565512135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 314
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06829656c200fbd60800000000000000
+      internalID: 7908039661365831776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_21
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 314
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7789f7f35fb05800800000000000000
+      internalID: 599189117803792252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 314
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb9c55daf74cb60800000000000000
+      internalID: 7765472039938931490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 313
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea812bbe4bb56cd0800000000000000
+      internalID: -2565438465896248593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 311
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d19e69163964c30800000000000000
+      internalID: 4343320937998392712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 311
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15d96cfa7b163da0800000000000000
+      internalID: -5965550441370888932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_26
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 311
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72b86901207c16b0800000000000000
+      internalID: -5324257372264680834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_27
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 257
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad234840ea15c99e0800000000000000
+      internalID: -1613324758663548198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 93
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aea17f5e88e93d0800000000000000
+      internalID: -3197968164111848902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 296
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1fd1d1fff530fd0800000000000000
+      internalID: -2376950629011689037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 296
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980723070b102bf90800000000000000
+      internalID: -6939482218516287351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 296
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ec99823b2940330800000000000000
+      internalID: 3676224494019137075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 297
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14692c4a6910e640800000000000000
+      internalID: 5107109921773151261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 287
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06508c9feb0834830800000000000000
+      internalID: 4054225647286355296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_34
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 304
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df7d10dbaef39670800000000000000
+      internalID: 8544452931936419795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_35
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 288
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd6ee8e89919df0800000000000000
+      internalID: -175190072928838541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_36
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 270
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70ddb0fbe1f9ee0800000000000000
+      internalID: -1252248365499086860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_37
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 300
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b649a7e6f8fe0a460800000000000000
+      internalID: 7251058799379387499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_38
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 300
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4b96d98c4cd1d70800000000000000
+      internalID: 9015578394979054818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_39
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 283
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd146946efa847660800000000000000
+      internalID: 7382678514380980703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 276
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b623fe974af1b1f0800000000000000
+      internalID: -1030767654174775623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 276
+        width: 89
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af7ef38973637b0800000000000000
+      internalID: -5244943588979639807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_42
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 276
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5bdb4ec8932d260800000000000000
+      internalID: 7120817238122018267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_43
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 279
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e6f189fc8db8f0800000000000000
+      internalID: -523106978449923711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 287
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9046eb4a6eb7cb0800000000000000
+      internalID: -4865041377200436758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd76ad5968f1475c0800000000000000
+      internalID: -4218712288039114788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_46
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 283
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010c71e94c0398e0800000000000000
+      internalID: -1687991923878657781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 270
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34704988993caa2a0800000000000000
+      internalID: -6725348029335599293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_48
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 233
+        width: 114
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989d7d6a96c7bf1d0800000000000000
+      internalID: -3315919907415664247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_49
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89efe56ac0071fe80800000000000000
+      internalID: -8146607051303354728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_50
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 266
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d434c35e8b928e70800000000000000
+      internalID: 9116019631344334037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 266
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc471056f0d9810800000000000000
+      internalID: 1773590754744388745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_52
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 256
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ee338a46309510800000000000000
+      internalID: 1553801565100238279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 288
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8889fa76004d17540800000000000000
+      internalID: 5004013759189981320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 288
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1674863d891cc0710800000000000000
+      internalID: 1660915224718886753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_55
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 270
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ae4d2b685511c0800000000000000
+      internalID: -4533620232533662658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 241
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eea4878fe9a4430800000000000000
+      internalID: 3767998828256095855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_57
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 203
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a84f02585c8a170800000000000000
+      internalID: 8190013097947466294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_58
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 204
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca8a9e3627b04a40800000000000000
+      internalID: 5350477732203104967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 230
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b965170439b8970800000000000000
+      internalID: 8758255805340752676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_60
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58715f67020baac00800000000000000
+      internalID: 912735527977162629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_61
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 239
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f1a9c3dc9efbe70800000000000000
+      internalID: 9133275637024956302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_62
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 170
+        width: 117
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc2f443ca0449710800000000000000
+      internalID: 1699054067781676279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 159
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ad6ceee9897140800000000000000
+      internalID: 4717953743909134918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_64
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 209
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22975ee220e3289f0800000000000000
+      internalID: -467743232195462878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_65
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 185
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee32333ddaf1d90800000000000000
+      internalID: -7124784962869137799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_66
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 214
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f27a82737e72d400800000000000000
+      internalID: 347479155568964340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 171
+        width: 198
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb23726adbe2d340800000000000000
+      internalID: 4887227868837522377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_68
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 184
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5014590d3dbf03e0800000000000000
+      internalID: -2085240032602091430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_69
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 158
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20809e9ef5bd920800000000000000
+      internalID: 3016109833696314046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_70
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 137
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e90f410c9181f10800000000000000
+      internalID: 2240569127392550461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_71
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 110
+        width: 303
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122ac59fc10cf4890800000000000000
+      internalID: -7471542026109148639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_72
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 69
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68cd99c5ca78e90800000000000000
+      internalID: -7023455580142663957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_73
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 69
+        width: 13
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f09bee7ac9e77930800000000000000
+      internalID: 4141035438312493300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_74
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 88
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e3ab3296b1839f0800000000000000
+      internalID: -488610421184774519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_75
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 265
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fcedd5a2649dfb0800000000000000
+      internalID: -4622586394741649531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_76
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 69
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12bcecbe6322300800000000000000
+      internalID: 225803317736579537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_77
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2
+        width: 21
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49abce93c6f039c0800000000000000
+      internalID: -3949385553160722100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_78
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9def4fd1f8098a060800000000000000
+      internalID: 6964975768085790425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summerframe_1_79
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 47
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5bb789e84be4500800000000000000
+      internalID: 382441542909670847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      summerframe_1_0: 1140884453970446273
+      summerframe_1_1: 1530531984925207321
+      summerframe_1_10: -6928344252356678988
+      summerframe_1_11: -7404150438519481718
+      summerframe_1_12: -3879206130390025287
+      summerframe_1_13: 7948812806699566743
+      summerframe_1_14: 6996038246063062703
+      summerframe_1_15: -963719069915510210
+      summerframe_1_16: 4596923764927316923
+      summerframe_1_17: 4327286034551708747
+      summerframe_1_18: 6764279405282706372
+      summerframe_1_19: -9145373366565512135
+      summerframe_1_2: 4051882114796537391
+      summerframe_1_20: 7908039661365831776
+      summerframe_1_21: 599189117803792252
+      summerframe_1_22: 7765472039938931490
+      summerframe_1_23: -2565438465896248593
+      summerframe_1_24: 4343320937998392712
+      summerframe_1_25: -5965550441370888932
+      summerframe_1_26: -5324257372264680834
+      summerframe_1_27: -1613324758663548198
+      summerframe_1_28: -3197968164111848902
+      summerframe_1_29: -2376950629011689037
+      summerframe_1_3: -2652303565968177969
+      summerframe_1_30: -6939482218516287351
+      summerframe_1_31: 3676224494019137075
+      summerframe_1_32: 5107109921773151261
+      summerframe_1_33: 4054225647286355296
+      summerframe_1_34: 8544452931936419795
+      summerframe_1_35: -175190072928838541
+      summerframe_1_36: -1252248365499086860
+      summerframe_1_37: 7251058799379387499
+      summerframe_1_38: 9015578394979054818
+      summerframe_1_39: 7382678514380980703
+      summerframe_1_4: -6783041328500060530
+      summerframe_1_40: -1030767654174775623
+      summerframe_1_41: -5244943588979639807
+      summerframe_1_42: 7120817238122018267
+      summerframe_1_43: -523106978449923711
+      summerframe_1_44: -4865041377200436758
+      summerframe_1_45: -4218712288039114788
+      summerframe_1_46: -1687991923878657781
+      summerframe_1_47: -6725348029335599293
+      summerframe_1_48: -3315919907415664247
+      summerframe_1_49: -8146607051303354728
+      summerframe_1_5: -5832806747877390206
+      summerframe_1_50: 9116019631344334037
+      summerframe_1_51: 1773590754744388745
+      summerframe_1_52: 1553801565100238279
+      summerframe_1_53: 5004013759189981320
+      summerframe_1_54: 1660915224718886753
+      summerframe_1_55: -4533620232533662658
+      summerframe_1_56: 3767998828256095855
+      summerframe_1_57: 8190013097947466294
+      summerframe_1_58: 5350477732203104967
+      summerframe_1_59: 8758255805340752676
+      summerframe_1_6: 5925624729521748223
+      summerframe_1_60: 912735527977162629
+      summerframe_1_61: 9133275637024956302
+      summerframe_1_62: 1699054067781676279
+      summerframe_1_63: 4717953743909134918
+      summerframe_1_64: -467743232195462878
+      summerframe_1_65: -7124784962869137799
+      summerframe_1_66: 347479155568964340
+      summerframe_1_67: 4887227868837522377
+      summerframe_1_68: -2085240032602091430
+      summerframe_1_69: 3016109833696314046
+      summerframe_1_7: -4232970317314881601
+      summerframe_1_70: 2240569127392550461
+      summerframe_1_71: -7471542026109148639
+      summerframe_1_72: -7023455580142663957
+      summerframe_1_73: 4141035438312493300
+      summerframe_1_74: -488610421184774519
+      summerframe_1_75: -4622586394741649531
+      summerframe_1_76: 225803317736579537
+      summerframe_1_77: -3949385553160722100
+      summerframe_1_78: 6964975768085790425
+      summerframe_1_79: 382441542909670847
+      summerframe_1_8: -2609755766745667384
+      summerframe_1_9: 9205935986649452926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

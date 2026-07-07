@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 1c6dd6f07e6a6a4438ca0361337138f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -630538695451860203
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_0
+  - first:
+      213: 280091396974456731
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_1
+  - first:
+      213: -3760633622420572377
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_2
+  - first:
+      213: 9219389742198279453
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_3
+  - first:
+      213: 757729264647632561
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_4
+  - first:
+      213: 2098985644173848662
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_5
+  - first:
+      213: -4769567994370796131
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_6
+  - first:
+      213: 4863775692473783326
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_7
+  - first:
+      213: -2128710606765587304
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_8
+  - first:
+      213: 4858501086641957972
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_9
+  - first:
+      213: 6061657404247144341
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_10
+  - first:
+      213: -4794695376809850718
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_11
+  - first:
+      213: 6556932227523786343
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_12
+  - first:
+      213: 6189863354913689508
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_13
+  - first:
+      213: -4140458880690574323
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_14
+  - first:
+      213: -5195166107363897125
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_15
+  - first:
+      213: -7962944660004309869
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_16
+  - first:
+      213: -8144738127024319649
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_17
+  - first:
+      213: -5108995964835424032
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_18
+  - first:
+      213: 481200375897276836
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_19
+  - first:
+      213: 7868247925354754627
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_20
+  - first:
+      213: 5275253364322487973
+    second: sactx-0-2048x4096-Crunch-UIPack-02d0318d_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3667
+        width: 514
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5132470b560ef37f0800000000000000
+      internalID: -630538695451860203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3051
+        width: 809
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2e4d34a513e300800000000000000
+      internalID: 280091396974456731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2439
+        width: 809
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7273b3525ab8fcbc0800000000000000
+      internalID: -3760633622420572377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3050
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dcb95cf1ad1ff70800000000000000
+      internalID: 9219389742198279453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2471
+        width: 71
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67d3760cef38a00800000000000000
+      internalID: 757729264647632561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1859
+        width: 812
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65070ad8258112d10800000000000000
+      internalID: 2098985644173848662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1827
+        width: 809
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d47bed271fcdb0800000000000000
+      internalID: -4769567994370796131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1243
+        width: 812
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e145411193a9f7340800000000000000
+      internalID: 4863775692473783326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1221
+        width: 822
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89481264bfc4572e0800000000000000
+      internalID: -2128710606765587304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1774
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca4223ffcdc6340800000000000000
+      internalID: 4858501086641957972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1445
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597744a0b455f1450800000000000000
+      internalID: 6061657404247144341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1423
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a88a0b45f1d57db0800000000000000
+      internalID: -4794695376809850718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 824
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766bdddee17eefa50800000000000000
+      internalID: 6556932227523786343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1243
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af86dd0defc6e550800000000000000
+      internalID: 6189863354913689508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 609
+        width: 815
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca359c5922a86c0800000000000000
+      internalID: -4140458880690574323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_15
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1159
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01d6553ff07e7b0800000000000000
+      internalID: -5195166107363897125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394795e6500fd7190800000000000000
+      internalID: -7962944660004309869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 811
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53922e73d318fe80800000000000000
+      internalID: -8144738127024319649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 812
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e894151d333919b0800000000000000
+      internalID: -5108995964835424032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 547
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1442f31319da600800000000000000
+      internalID: 481200375897276836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427973ecc1a13d60800000000000000
+      internalID: 7868247925354754627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-Crunch-UIPack-02d0318d_21
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 200
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae40a04cf6753940800000000000000
+      internalID: 5275253364322487973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_0: -630538695451860203
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_1: 280091396974456731
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_10: 6061657404247144341
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_11: -4794695376809850718
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_12: 6556932227523786343
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_13: 6189863354913689508
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_14: -4140458880690574323
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_15: -5195166107363897125
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_16: -7962944660004309869
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_17: -8144738127024319649
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_18: -5108995964835424032
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_19: 481200375897276836
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_2: -3760633622420572377
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_20: 7868247925354754627
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_21: 5275253364322487973
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_3: 9219389742198279453
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_4: 757729264647632561
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_5: 2098985644173848662
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_6: -4769567994370796131
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_7: 4863775692473783326
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_8: -2128710606765587304
+      sactx-0-2048x4096-Crunch-UIPack-02d0318d_9: 4858501086641957972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

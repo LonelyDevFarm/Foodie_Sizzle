@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 38c010453f56d52438873ac7cb4c6f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5155257211762767049
+    second: Arabic Atlas_0
+  - first:
+      213: 1418976707587087772
+    second: Arabic Atlas_1
+  - first:
+      213: 8455693659046893359
+    second: Arabic Atlas_2
+  - first:
+      213: -7681725564477223292
+    second: Arabic Atlas_3
+  - first:
+      213: -3868300188143420602
+    second: Arabic Atlas_4
+  - first:
+      213: 8454425145024006881
+    second: Arabic Atlas_5
+  - first:
+      213: 3206882814194751647
+    second: Arabic Atlas_6
+  - first:
+      213: 532182580897394965
+    second: Arabic Atlas_7
+  - first:
+      213: 6087692339454048648
+    second: Arabic Atlas_8
+  - first:
+      213: -2600978879173515744
+    second: Arabic Atlas_9
+  - first:
+      213: 7775690800468513419
+    second: Arabic Atlas_10
+  - first:
+      213: -5978524451740664221
+    second: Arabic Atlas_11
+  - first:
+      213: 2329911356690282920
+    second: Arabic Atlas_12
+  - first:
+      213: 7710012780761939719
+    second: Arabic Atlas_13
+  - first:
+      213: -4359064857115238253
+    second: Arabic Atlas_14
+  - first:
+      213: -7404488776560631084
+    second: Arabic Atlas_15
+  - first:
+      213: 3756588205573810858
+    second: Arabic Atlas_16
+  - first:
+      213: 3519724639861003825
+    second: Arabic Atlas_17
+  - first:
+      213: 4647050233811987083
+    second: Arabic Atlas_18
+  - first:
+      213: 4463158725613517751
+    second: Arabic Atlas_19
+  - first:
+      213: 2698746923360697176
+    second: Arabic Atlas_20
+  - first:
+      213: 2321828638245660321
+    second: Arabic Atlas_21
+  - first:
+      213: -5110228727872276043
+    second: Arabic Atlas_22
+  - first:
+      213: 5833977418271331002
+    second: Arabic Atlas_23
+  - first:
+      213: 186295034604428820
+    second: Arabic Atlas_24
+  - first:
+      213: -7161405925692834259
+    second: Arabic Atlas_25
+  - first:
+      213: 759688034490718794
+    second: Arabic Atlas_26
+  - first:
+      213: -4298893026947400150
+    second: Arabic Atlas_27
+  - first:
+      213: 2669617032499001503
+    second: Arabic Atlas_28
+  - first:
+      213: -81342503818999277
+    second: Arabic Atlas_29
+  - first:
+      213: -4009870473334425875
+    second: Arabic Atlas_30
+  - first:
+      213: -3887660623534300973
+    second: Arabic Atlas_31
+  - first:
+      213: 6241095470603926344
+    second: Arabic Atlas_32
+  - first:
+      213: -5143274806813874732
+    second: Arabic Atlas_33
+  - first:
+      213: 8527444613799575349
+    second: Arabic Atlas_34
+  - first:
+      213: 4982130901084077802
+    second: Arabic Atlas_35
+  - first:
+      213: 305244163336456125
+    second: Arabic Atlas_36
+  - first:
+      213: -3976573828125906430
+    second: Arabic Atlas_37
+  - first:
+      213: -6618167216995579979
+    second: Arabic Atlas_38
+  - first:
+      213: 5503926047047503350
+    second: Arabic Atlas_39
+  - first:
+      213: 7669286858305919573
+    second: Arabic Atlas_40
+  - first:
+      213: -2871950511593275774
+    second: Arabic Atlas_41
+  - first:
+      213: -4538714910966742458
+    second: Arabic Atlas_42
+  - first:
+      213: -3485887897986760731
+    second: Arabic Atlas_43
+  - first:
+      213: -5819144127054302719
+    second: Arabic Atlas_44
+  - first:
+      213: -8173983173954903733
+    second: Arabic Atlas_45
+  - first:
+      213: -6278906333716224399
+    second: Arabic Atlas_46
+  - first:
+      213: -4235302924105110407
+    second: Arabic Atlas_47
+  - first:
+      213: -4416160588395244156
+    second: Arabic Atlas_48
+  - first:
+      213: -3343631294321413298
+    second: Arabic Atlas_49
+  - first:
+      213: -3894516119629354411
+    second: Arabic Atlas_50
+  - first:
+      213: -7546534997993923236
+    second: Arabic Atlas_51
+  - first:
+      213: 6068998543049023532
+    second: Arabic Atlas_52
+  - first:
+      213: -2071154686610684597
+    second: Arabic Atlas_53
+  - first:
+      213: 1097264959428488684
+    second: Arabic Atlas_54
+  - first:
+      213: 6506573113117028610
+    second: Arabic Atlas_55
+  - first:
+      213: -61841116519343825
+    second: Arabic Atlas_56
+  - first:
+      213: 348641422745433682
+    second: Arabic Atlas_57
+  - first:
+      213: -7384222201218555808
+    second: Arabic Atlas_58
+  - first:
+      213: -171707367916881746
+    second: Arabic Atlas_59
+  - first:
+      213: 2893073098036394236
+    second: Arabic Atlas_60
+  - first:
+      213: 1695333327433432303
+    second: Arabic Atlas_61
+  - first:
+      213: 1064231981037941019
+    second: Arabic Atlas_62
+  - first:
+      213: 5490030008877555730
+    second: Arabic Atlas_63
+  - first:
+      213: -5736552689932673453
+    second: Arabic Atlas_64
+  - first:
+      213: 8697291147592816371
+    second: Arabic Atlas_65
+  - first:
+      213: -7513761510337223462
+    second: Arabic Atlas_66
+  - first:
+      213: 2094581359973707202
+    second: Arabic Atlas_67
+  - first:
+      213: -4565156442052145094
+    second: Arabic Atlas_68
+  - first:
+      213: -3578682551893898369
+    second: Arabic Atlas_69
+  - first:
+      213: -7123774807370223805
+    second: Arabic Atlas_70
+  - first:
+      213: -3436942064677045984
+    second: Arabic Atlas_71
+  - first:
+      213: -5298863055659343053
+    second: Arabic Atlas_72
+  - first:
+      213: 5227674556985806370
+    second: Arabic Atlas_73
+  - first:
+      213: -577214294186791171
+    second: Arabic Atlas_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arabic Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1655
+        width: 196
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b0c1f21e8d478b0800000000000000
+      internalID: -5155257211762767049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1950
+        width: 120
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d18482cc731b310800000000000000
+      internalID: 1418976707587087772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1655
+        width: 125
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27530d2598a85570800000000000000
+      internalID: 8455693659046893359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1950
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4c437c47056590800000000000000
+      internalID: -7681725564477223292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1897
+        width: 166
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b72295979015ac0800000000000000
+      internalID: -3868300188143420602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1869
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea494d30e6245570800000000000000
+      internalID: 8454425145024006881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1866
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f981260cde2218c20800000000000000
+      internalID: 3206882814194751647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1807
+        width: 135
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113a0adc31b26700800000000000000
+      internalID: 532182580897394965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1795
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8897603cde3db7450800000000000000
+      internalID: 6087692339454048648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1883
+        width: 167
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a19e6d7777ebd0800000000000000
+      internalID: -2600978879173515744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1766
+        width: 286
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82d23de59dc8eb60800000000000000
+      internalID: 7775690800468513419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1609
+        width: 196
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eb20dcfa3080da0800000000000000
+      internalID: -5978524451740664221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1581
+        width: 148
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a93ca5d802855020800000000000000
+      internalID: 2329911356690282920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1581
+        width: 167
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f790356c77ffa60800000000000000
+      internalID: 7710012780761939719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1528
+        width: 126
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390e1c69b9d7183c0800000000000000
+      internalID: -4359064857115238253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1528
+        width: 151
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2acb930b8fd3990800000000000000
+      internalID: -7404488776560631084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1526
+        width: 151
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa26a8d115122430800000000000000
+      internalID: 3756588205573810858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1660
+        width: 163
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136da1269e298d030800000000000000
+      internalID: 3519724639861003825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1432
+        width: 176
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a62c70193ad7040800000000000000
+      internalID: 4647050233811987083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1660
+        width: 148
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf060d63350fd30800000000000000
+      internalID: 4463158725613517751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1656
+        width: 159
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb7993700e37520800000000000000
+      internalID: 2698746923360697176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1560
+        width: 131
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a626fb48dac83020800000000000000
+      internalID: 2321828638245660321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1429
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93d221c02d419b0800000000000000
+      internalID: -5110228727872276043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1383
+        width: 230
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab296bb5d8376f050800000000000000
+      internalID: 5833977418271331002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1317
+        width: 231
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1401d85ad59200800000000000000
+      internalID: 186295034604428820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1241
+        width: 231
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e73bad0439d9c90800000000000000
+      internalID: -7161405925692834259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1416
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1feb0e34fa8a00800000000000000
+      internalID: 759688034490718794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1416
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e756981934754c0800000000000000
+      internalID: -4298893026947400150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1471
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987f6cfb826c0520800000000000000
+      internalID: 2669617032499001503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1225
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4aba7c630fdef0800000000000000
+      internalID: -81342503818999277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1358
+        width: 124
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f299bc041a58c0800000000000000
+      internalID: -4009870473334425875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1358
+        width: 163
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e6f6b2414c0ac0800000000000000
+      internalID: -3887660623534300973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1202
+        width: 243
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b75a68343dc9650800000000000000
+      internalID: 6241095470603926344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1181
+        width: 245
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5a4ad30da6f98b0800000000000000
+      internalID: -5143274806813874732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1111
+        width: 247
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f775722b1975670800000000000000
+      internalID: 8527444613799575349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1020
+        width: 251
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeefc9778a5142540800000000000000
+      internalID: 4982130901084077802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1143
+        width: 232
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db74e6503f17c3400800000000000000
+      internalID: 305244163336456125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1240
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aa07f0c2f50d8c0800000000000000
+      internalID: -3976573828125906430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 987
+        width: 197
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7c7de0bfb8724a0800000000000000
+      internalID: -6618167216995579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1100
+        width: 226
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4948249fd16c40800000000000000
+      internalID: 5503926047047503350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 249
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a55e593c7ce6a60800000000000000
+      internalID: 7669286858305919573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 257
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e3bf7d938c428d0800000000000000
+      internalID: -2871950511593275774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 968
+        width: 249
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420f0be5de3301c0800000000000000
+      internalID: -4538714910966742458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 804
+        width: 232
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7aa10d63af9fc0800000000000000
+      internalID: -3485887897986760731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 798
+        width: 252
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b0226f3f3e3fa0800000000000000
+      internalID: -5819144127054302719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 915
+        width: 251
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e5646c9d209e80800000000000000
+      internalID: -8173983173954903733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 952
+        width: 232
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e4e0e4f7dcd8a0800000000000000
+      internalID: -6278906333716224399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 877
+        width: 242
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97caa8c1e6e2935c0800000000000000
+      internalID: -4235302924105110407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 277
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4851f99b755a6b2c0800000000000000
+      internalID: -4416160588395244156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 711
+        width: 277
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b71a9d090991d0800000000000000
+      internalID: -3343631294321413298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 490
+        width: 198
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa5752936e3f9c0800000000000000
+      internalID: -3894516119629354411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 499
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd48f0762554790800000000000000
+      internalID: -7546534997993923236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 702
+        width: 256
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20eccc150a693450800000000000000
+      internalID: 6068998543049023532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 702
+        width: 166
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b454fa539c7c143e0800000000000000
+      internalID: -2071154686610684597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 502
+        width: 286
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede733caa44a3f00800000000000000
+      internalID: 1097264959428488684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 750
+        width: 247
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201b278e5cdfb4a50800000000000000
+      internalID: 6506573113117028610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 662
+        width: 272
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d95905db442ff0800000000000000
+      internalID: -61841116519343825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 308
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567abcd68f96d400800000000000000
+      internalID: 348641422745433682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 490
+        width: 286
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a0d10809f58990800000000000000
+      internalID: -7384222201218555808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 251
+        width: 385
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83ff10f09fd9df0800000000000000
+      internalID: -171707367916881746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 317
+        width: 292
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8b2bd87a2462820800000000000000
+      internalID: 2893073098036394236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 485
+        width: 289
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecfc85dda8078710800000000000000
+      internalID: 1695333327433432303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 485
+        width: 118
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1170642959e4ce00800000000000000
+      internalID: 1064231981037941019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 284
+        width: 292
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a165a431803c40800000000000000
+      internalID: 5490030008877555730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 446
+        width: 263
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e5049d8bba360b0800000000000000
+      internalID: -5736552689932673453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 314
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f65b60f73cf2b870800000000000000
+      internalID: 8697291147592816371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 385
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4e85947b1c9b790800000000000000
+      internalID: -7513761510337223462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 317
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd236a36a2711d10800000000000000
+      internalID: 2094581359973707202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 263
+        width: 292
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a305567376e45a0c0800000000000000
+      internalID: -4565156442052145094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 222
+        width: 258
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc9720e27f55ec0800000000000000
+      internalID: -3578682551893898369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 407
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f22da5e84432d90800000000000000
+      internalID: -7123774807370223805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 407
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b351e6678d40d0800000000000000
+      internalID: -3436942064677045984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 300
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ebfd1028a676b0800000000000000
+      internalID: -5298863055659343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 292
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e8c7aef4e6c8840800000000000000
+      internalID: 5227674556985806370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arabic Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 261
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfee7bb58a25df7f0800000000000000
+      internalID: -577214294186791171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arabic Atlas_0: -5155257211762767049
+      Arabic Atlas_1: 1418976707587087772
+      Arabic Atlas_10: 7775690800468513419
+      Arabic Atlas_11: -5978524451740664221
+      Arabic Atlas_12: 2329911356690282920
+      Arabic Atlas_13: 7710012780761939719
+      Arabic Atlas_14: -4359064857115238253
+      Arabic Atlas_15: -7404488776560631084
+      Arabic Atlas_16: 3756588205573810858
+      Arabic Atlas_17: 3519724639861003825
+      Arabic Atlas_18: 4647050233811987083
+      Arabic Atlas_19: 4463158725613517751
+      Arabic Atlas_2: 8455693659046893359
+      Arabic Atlas_20: 2698746923360697176
+      Arabic Atlas_21: 2321828638245660321
+      Arabic Atlas_22: -5110228727872276043
+      Arabic Atlas_23: 5833977418271331002
+      Arabic Atlas_24: 186295034604428820
+      Arabic Atlas_25: -7161405925692834259
+      Arabic Atlas_26: 759688034490718794
+      Arabic Atlas_27: -4298893026947400150
+      Arabic Atlas_28: 2669617032499001503
+      Arabic Atlas_29: -81342503818999277
+      Arabic Atlas_3: -7681725564477223292
+      Arabic Atlas_30: -4009870473334425875
+      Arabic Atlas_31: -3887660623534300973
+      Arabic Atlas_32: 6241095470603926344
+      Arabic Atlas_33: -5143274806813874732
+      Arabic Atlas_34: 8527444613799575349
+      Arabic Atlas_35: 4982130901084077802
+      Arabic Atlas_36: 305244163336456125
+      Arabic Atlas_37: -3976573828125906430
+      Arabic Atlas_38: -6618167216995579979
+      Arabic Atlas_39: 5503926047047503350
+      Arabic Atlas_4: -3868300188143420602
+      Arabic Atlas_40: 7669286858305919573
+      Arabic Atlas_41: -2871950511593275774
+      Arabic Atlas_42: -4538714910966742458
+      Arabic Atlas_43: -3485887897986760731
+      Arabic Atlas_44: -5819144127054302719
+      Arabic Atlas_45: -8173983173954903733
+      Arabic Atlas_46: -6278906333716224399
+      Arabic Atlas_47: -4235302924105110407
+      Arabic Atlas_48: -4416160588395244156
+      Arabic Atlas_49: -3343631294321413298
+      Arabic Atlas_5: 8454425145024006881
+      Arabic Atlas_50: -3894516119629354411
+      Arabic Atlas_51: -7546534997993923236
+      Arabic Atlas_52: 6068998543049023532
+      Arabic Atlas_53: -2071154686610684597
+      Arabic Atlas_54: 1097264959428488684
+      Arabic Atlas_55: 6506573113117028610
+      Arabic Atlas_56: -61841116519343825
+      Arabic Atlas_57: 348641422745433682
+      Arabic Atlas_58: -7384222201218555808
+      Arabic Atlas_59: -171707367916881746
+      Arabic Atlas_6: 3206882814194751647
+      Arabic Atlas_60: 2893073098036394236
+      Arabic Atlas_61: 1695333327433432303
+      Arabic Atlas_62: 1064231981037941019
+      Arabic Atlas_63: 5490030008877555730
+      Arabic Atlas_64: -5736552689932673453
+      Arabic Atlas_65: 8697291147592816371
+      Arabic Atlas_66: -7513761510337223462
+      Arabic Atlas_67: 2094581359973707202
+      Arabic Atlas_68: -4565156442052145094
+      Arabic Atlas_69: -3578682551893898369
+      Arabic Atlas_7: 532182580897394965
+      Arabic Atlas_70: -7123774807370223805
+      Arabic Atlas_71: -3436942064677045984
+      Arabic Atlas_72: -5298863055659343053
+      Arabic Atlas_73: 5227674556985806370
+      Arabic Atlas_74: -577214294186791171
+      Arabic Atlas_8: 6087692339454048648
+      Arabic Atlas_9: -2600978879173515744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

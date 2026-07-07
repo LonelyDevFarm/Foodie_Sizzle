@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 4d9d47992423ae94597951534a7e2935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3772012233658440987
+    second: Sheepber_0_0
+  - first:
+      213: 2607127710895415383
+    second: Sheepber_0_1
+  - first:
+      213: -9202000666348938721
+    second: Sheepber_0_2
+  - first:
+      213: -8969168006281531154
+    second: Sheepber_0_3
+  - first:
+      213: 1075242236812235783
+    second: Sheepber_0_4
+  - first:
+      213: -7669586191939810272
+    second: Sheepber_0_5
+  - first:
+      213: -985764344926169586
+    second: Sheepber_0_6
+  - first:
+      213: 3263160896538324012
+    second: Sheepber_0_7
+  - first:
+      213: 8294460296521375821
+    second: Sheepber_0_8
+  - first:
+      213: -2638146254061827318
+    second: Sheepber_0_9
+  - first:
+      213: -2638918938853644722
+    second: Sheepber_0_10
+  - first:
+      213: 6425063646339112886
+    second: Sheepber_0_11
+  - first:
+      213: 8463414461200346199
+    second: Sheepber_0_12
+  - first:
+      213: -5902077427702841671
+    second: Sheepber_0_13
+  - first:
+      213: 1119320294707757833
+    second: Sheepber_0_14
+  - first:
+      213: -1251855414569224177
+    second: Sheepber_0_15
+  - first:
+      213: 3382814918806129996
+    second: Sheepber_0_16
+  - first:
+      213: 5675164573782876620
+    second: Sheepber_0_17
+  - first:
+      213: 3300491644360548177
+    second: Sheepber_0_18
+  - first:
+      213: 4227552112855123105
+    second: Sheepber_0_19
+  - first:
+      213: 6957482479941716081
+    second: Sheepber_0_20
+  - first:
+      213: 2984532971407547300
+    second: Sheepber_0_21
+  - first:
+      213: 1171986719285156139
+    second: Sheepber_0_22
+  - first:
+      213: 6759719535739152348
+    second: Sheepber_0_23
+  - first:
+      213: 3575582143926950683
+    second: Sheepber_0_24
+  - first:
+      213: 2532356655347754694
+    second: Sheepber_0_25
+  - first:
+      213: -3417702021443156468
+    second: Sheepber_0_26
+  - first:
+      213: -9029813279181001700
+    second: Sheepber_0_27
+  - first:
+      213: -3249657151300427458
+    second: Sheepber_0_28
+  - first:
+      213: 4873947889824674320
+    second: Sheepber_0_29
+  - first:
+      213: 8150305144374048961
+    second: Sheepber_0_30
+  - first:
+      213: 4987760009014271247
+    second: Sheepber_0_31
+  - first:
+      213: 6465306121300626581
+    second: Sheepber_0_32
+  - first:
+      213: -3244112382355272927
+    second: Sheepber_0_33
+  - first:
+      213: -3367198898187888720
+    second: Sheepber_0_34
+  - first:
+      213: -1496285234675898440
+    second: Sheepber_0_35
+  - first:
+      213: -5426811288745277213
+    second: Sheepber_0_36
+  - first:
+      213: -3346779153793918598
+    second: Sheepber_0_37
+  - first:
+      213: 7954533312164388078
+    second: Sheepber_0_38
+  - first:
+      213: -111574522373825606
+    second: Sheepber_0_39
+  - first:
+      213: 7987560368389591906
+    second: Sheepber_0_40
+  - first:
+      213: 6907899032356382945
+    second: Sheepber_0_41
+  - first:
+      213: 5056583860830132586
+    second: Sheepber_0_42
+  - first:
+      213: 6452381058493671873
+    second: Sheepber_0_43
+  - first:
+      213: -2075401676810546001
+    second: Sheepber_0_44
+  - first:
+      213: -1410050979825587835
+    second: Sheepber_0_45
+  - first:
+      213: -1082463051456644442
+    second: Sheepber_0_46
+  - first:
+      213: -4418269812030535174
+    second: Sheepber_0_47
+  - first:
+      213: 5994755848472322687
+    second: Sheepber_0_48
+  - first:
+      213: 8891110742615673962
+    second: Sheepber_0_49
+  - first:
+      213: -4249522079318367787
+    second: Sheepber_0_50
+  - first:
+      213: 2849314048517143751
+    second: Sheepber_0_51
+  - first:
+      213: 184412984548959234
+    second: Sheepber_0_52
+  - first:
+      213: -2091857460462416101
+    second: Sheepber_0_53
+  - first:
+      213: -233944905411475311
+    second: Sheepber_0_54
+  - first:
+      213: -283863398337401938
+    second: Sheepber_0_55
+  - first:
+      213: -7986039617565134519
+    second: Sheepber_0_56
+  - first:
+      213: 3332472844739806416
+    second: Sheepber_0_57
+  - first:
+      213: 5734640148048873500
+    second: Sheepber_0_58
+  - first:
+      213: -3701741538437041413
+    second: Sheepber_0_59
+  - first:
+      213: -5534639680312964662
+    second: Sheepber_0_60
+  - first:
+      213: 20408412837125340
+    second: Sheepber_0_61
+  - first:
+      213: 4249494076878516328
+    second: Sheepber_0_62
+  - first:
+      213: 7264007782140615074
+    second: Sheepber_0_63
+  - first:
+      213: -7957285805498864251
+    second: Sheepber_0_64
+  - first:
+      213: 7089818700185557688
+    second: Sheepber_0_65
+  - first:
+      213: -2732566071924697589
+    second: Sheepber_0_66
+  - first:
+      213: -3886955178608367786
+    second: Sheepber_0_67
+  - first:
+      213: 3504138481675418745
+    second: Sheepber_0_68
+  - first:
+      213: -4698640557989933830
+    second: Sheepber_0_69
+  - first:
+      213: -2781738069338907284
+    second: Sheepber_0_70
+  - first:
+      213: 2567177169074768098
+    second: Sheepber_0_71
+  - first:
+      213: 6676037493765031081
+    second: Sheepber_0_72
+  - first:
+      213: 2489767404009045500
+    second: Sheepber_0_73
+  - first:
+      213: 7954539496774820452
+    second: Sheepber_0_74
+  - first:
+      213: -1824784504185589860
+    second: Sheepber_0_75
+  - first:
+      213: -6075722374109208935
+    second: Sheepber_0_76
+  - first:
+      213: 5786486407793240616
+    second: Sheepber_0_77
+  - first:
+      213: 2581302278960687697
+    second: Sheepber_0_78
+  - first:
+      213: 8750602630973493062
+    second: Sheepber_0_79
+  - first:
+      213: -6125691843986592781
+    second: Sheepber_0_80
+  - first:
+      213: -4514926800499133627
+    second: Sheepber_0_81
+  - first:
+      213: 5193440876912753245
+    second: Sheepber_0_82
+  - first:
+      213: 3898056285087528905
+    second: Sheepber_0_83
+  - first:
+      213: 1491578688842863836
+    second: Sheepber_0_84
+  - first:
+      213: 1007379751166805787
+    second: Sheepber_0_85
+  - first:
+      213: 4878017147750599743
+    second: Sheepber_0_86
+  - first:
+      213: 6564097753883806398
+    second: Sheepber_0_87
+  - first:
+      213: 1635143188119959464
+    second: Sheepber_0_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheepber_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26c54cbde17abc0800000000000000
+      internalID: -3772012233658440987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 216
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750aff307d06e2420800000000000000
+      internalID: 2607127710895415383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a1d53f52deb4080800000000000000
+      internalID: -9202000666348938721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07ace083d178380800000000000000
+      internalID: -8969168006281531154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 214
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70490b41e170cee00800000000000000
+      internalID: 1075242236812235783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 215
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccf2f5ef7209590800000000000000
+      internalID: -7669586191939810272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 157
+        width: 46
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e061e641d8cd152f0800000000000000
+      internalID: -985764344926169586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 155
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cac13eb83194d20800000000000000
+      internalID: 3263160896538324012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 153
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ecb991b7db1370800000000000000
+      internalID: 8294460296521375821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 153
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0e1d95fb636bd0800000000000000
+      internalID: -2638146254061827318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 150
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e39ae43da06bd0800000000000000
+      internalID: -2638918938853644722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_11
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 250
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf915b48596a2950800000000000000
+      internalID: 6425063646339112886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 251
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c20c28c96147570800000000000000
+      internalID: 8463414461200346199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_13
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 250
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bebbec99db971ea0800000000000000
+      internalID: -5902077427702841671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 250
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90301fba0ef988f00800000000000000
+      internalID: 1119320294707757833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 249
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b370122480aee0800000000000000
+      internalID: -1251855414569224177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_16
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 259
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc458ee3c22fe20800000000000000
+      internalID: 3382814918806129996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_17
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 238
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1a53e8c1c32ce40800000000000000
+      internalID: 5675164573782876620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 238
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f514ee9a3bdcd20800000000000000
+      internalID: 3300491644360548177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_19
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 234
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a48e248f384baa30800000000000000
+      internalID: 4227552112855123105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_20
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 139
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780ee30471fd8060800000000000000
+      internalID: 6957482479941716081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_21
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 218
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab103dbce03b6920800000000000000
+      internalID: 2984532971407547300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_22
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 251
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29977436bbb34010800000000000000
+      internalID: 1171986719285156139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_23
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 239
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7200d6a195fcd50800000000000000
+      internalID: 6759719535739152348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_24
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 207
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bdef104050f9130800000000000000
+      internalID: 3575582143926950683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_25
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 222
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6699606fcb42320800000000000000
+      internalID: 2532356655347754694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_26
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 221
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c060fb78e12e190d0800000000000000
+      internalID: -3417702021443156468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_27
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 220
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1caf422aa8afa280800000000000000
+      internalID: -9029813279181001700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 214
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312eeec906e6e2d0800000000000000
+      internalID: -3249657151300427458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 233
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012b3c258cdb3a340800000000000000
+      internalID: 4873947889824674320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 148
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8347db853bb1170800000000000000
+      internalID: 8150305144374048961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_31
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 149
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dd13a4d45183540800000000000000
+      internalID: 4987760009014271247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_32
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 146
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4844a9a169b950800000000000000
+      internalID: 6465306121300626581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 147
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b844ee9f89af2d0800000000000000
+      internalID: -3244112382355272927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_34
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 217
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79c69317e4541d0800000000000000
+      internalID: -3367198898187888720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_35
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 218
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b72b78b1802c3be0800000000000000
+      internalID: -1496285234675898440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 127
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80247a2e710b4b0800000000000000
+      internalID: -5426811288745277213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 214
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795e64771add81d0800000000000000
+      internalID: -3346779153793918598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_38
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 139
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecd19907ed246e60800000000000000
+      internalID: 7954533312164388078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_39
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 186
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb9ce3209b937ef0800000000000000
+      internalID: -111574522373825606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_40
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 173
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26399dbc5d389de60800000000000000
+      internalID: 7987560368389591906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_41
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 170
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8eddff199cddf50800000000000000
+      internalID: 6907899032356382945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69d0c10b389c2640800000000000000
+      internalID: 5056583860830132586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 159
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c969f2f2667b8950800000000000000
+      internalID: 6452381058493671873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 162
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4157fbb21b233e0800000000000000
+      internalID: -2075401676810546001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_45
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 156
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ed48ca1e7e6ce0800000000000000
+      internalID: -1410050979825587835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_46
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 134
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf07ff6915af0f0800000000000000
+      internalID: -1082463051456644442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_47
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 129
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af98614d3072fa2c0800000000000000
+      internalID: -4418269812030535174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_48
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 124
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72636fbea6a13350800000000000000
+      internalID: 5994755848472322687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_49
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 123
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c44400d12936b70800000000000000
+      internalID: 8891110742615673962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_50
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 125
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ac0d0f2aa605c0800000000000000
+      internalID: -4249522079318367787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf463e70cca8720800000000000000
+      internalID: 2849314048517143751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 145
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a204e1aa2f8200800000000000000
+      internalID: 184412984548959234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_53
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f036c09ba38f2e0800000000000000
+      internalID: -2091857460462416101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_54
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 135
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198cfe7195cd0ccf0800000000000000
+      internalID: -233944905411475311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab2d514eb38f0cf0800000000000000
+      internalID: -283863398337401938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_56
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94175d89743eb2190800000000000000
+      internalID: -7986039617565134519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_57
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d40a5665625f3e20800000000000000
+      internalID: 3332472844739806416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_58
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2
+        width: 45
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18852bc4d8859f40800000000000000
+      internalID: 5734640148048873500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_59
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 88
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2f627fea5c0acc0800000000000000
+      internalID: -3701741538437041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_60
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 84
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90a27d8820133b0800000000000000
+      internalID: -5534639680312964662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_61
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 121
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc1695e751884000800000000000000
+      internalID: 20408412837125340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_62
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 106
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860787f195c39fa30800000000000000
+      internalID: 4249494076878516328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_63
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 76
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91a2c6790fec460800000000000000
+      internalID: 7264007782140615074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_64
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 113
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6bfa28ba029190800000000000000
+      internalID: -7957285805498864251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_65
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 112
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba5b7a5b88146260800000000000000
+      internalID: 7089818700185557688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_66
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 63
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d4a5a2a9f31ad0800000000000000
+      internalID: -2732566071924697589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_67
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 100
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ee29ebd2ce0ac0800000000000000
+      internalID: -3886955178608367786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_68
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 107
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3a04226331a030800000000000000
+      internalID: 3504138481675418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_69
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 86
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc44c59e431bceb0800000000000000
+      internalID: -4698640557989933830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_70
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d9fd6d6f74569d0800000000000000
+      internalID: -2781738069338907284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_71
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8c136a80270a320800000000000000
+      internalID: 2567177169074768098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_72
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 83
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4cd0bbabc06ac50800000000000000
+      internalID: 6676037493765031081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_73
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3e49334e6d8220800000000000000
+      internalID: 2489767404009045500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_74
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462e3110783346e60800000000000000
+      internalID: 7954539496774820452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_75
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 81
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f616c59201da6e0800000000000000
+      internalID: -1824784504185589860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_76
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 73
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed359f0b2beaba0800000000000000
+      internalID: -6075722374109208935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_77
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 73
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a6422dababd4050800000000000000
+      internalID: 5786486407793240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_78
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 73
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aab531fb0a2d320800000000000000
+      internalID: 2581302278960687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_79
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f06cdeab2607970800000000000000
+      internalID: 8750602630973493062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_80
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbeba329bb2dfaa0800000000000000
+      internalID: -6125691843986592781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_81
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543bb5dfef1c751c0800000000000000
+      internalID: -4514926800499133627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_82
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 65
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab06626fec21840800000000000000
+      internalID: 5193440876912753245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_83
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7fe1bd98da81630800000000000000
+      internalID: 3898056285087528905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_84
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 43
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4950f2ae623b410800000000000000
+      internalID: 1491578688842863836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_85
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 41
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17083edb8eeafd00800000000000000
+      internalID: 1007379751166805787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_86
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c40f340c232b340800000000000000
+      internalID: 4878017147750599743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_87
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 44
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0f2b012c581b50800000000000000
+      internalID: 6564097753883806398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheepber_0_88
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a73ac4f01231b610800000000000000
+      internalID: 1635143188119959464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sheepber_0_0: -3772012233658440987
+      Sheepber_0_1: 2607127710895415383
+      Sheepber_0_10: -2638918938853644722
+      Sheepber_0_11: 6425063646339112886
+      Sheepber_0_12: 8463414461200346199
+      Sheepber_0_13: -5902077427702841671
+      Sheepber_0_14: 1119320294707757833
+      Sheepber_0_15: -1251855414569224177
+      Sheepber_0_16: 3382814918806129996
+      Sheepber_0_17: 5675164573782876620
+      Sheepber_0_18: 3300491644360548177
+      Sheepber_0_19: 4227552112855123105
+      Sheepber_0_2: -9202000666348938721
+      Sheepber_0_20: 6957482479941716081
+      Sheepber_0_21: 2984532971407547300
+      Sheepber_0_22: 1171986719285156139
+      Sheepber_0_23: 6759719535739152348
+      Sheepber_0_24: 3575582143926950683
+      Sheepber_0_25: 2532356655347754694
+      Sheepber_0_26: -3417702021443156468
+      Sheepber_0_27: -9029813279181001700
+      Sheepber_0_28: -3249657151300427458
+      Sheepber_0_29: 4873947889824674320
+      Sheepber_0_3: -8969168006281531154
+      Sheepber_0_30: 8150305144374048961
+      Sheepber_0_31: 4987760009014271247
+      Sheepber_0_32: 6465306121300626581
+      Sheepber_0_33: -3244112382355272927
+      Sheepber_0_34: -3367198898187888720
+      Sheepber_0_35: -1496285234675898440
+      Sheepber_0_36: -5426811288745277213
+      Sheepber_0_37: -3346779153793918598
+      Sheepber_0_38: 7954533312164388078
+      Sheepber_0_39: -111574522373825606
+      Sheepber_0_4: 1075242236812235783
+      Sheepber_0_40: 7987560368389591906
+      Sheepber_0_41: 6907899032356382945
+      Sheepber_0_42: 5056583860830132586
+      Sheepber_0_43: 6452381058493671873
+      Sheepber_0_44: -2075401676810546001
+      Sheepber_0_45: -1410050979825587835
+      Sheepber_0_46: -1082463051456644442
+      Sheepber_0_47: -4418269812030535174
+      Sheepber_0_48: 5994755848472322687
+      Sheepber_0_49: 8891110742615673962
+      Sheepber_0_5: -7669586191939810272
+      Sheepber_0_50: -4249522079318367787
+      Sheepber_0_51: 2849314048517143751
+      Sheepber_0_52: 184412984548959234
+      Sheepber_0_53: -2091857460462416101
+      Sheepber_0_54: -233944905411475311
+      Sheepber_0_55: -283863398337401938
+      Sheepber_0_56: -7986039617565134519
+      Sheepber_0_57: 3332472844739806416
+      Sheepber_0_58: 5734640148048873500
+      Sheepber_0_59: -3701741538437041413
+      Sheepber_0_6: -985764344926169586
+      Sheepber_0_60: -5534639680312964662
+      Sheepber_0_61: 20408412837125340
+      Sheepber_0_62: 4249494076878516328
+      Sheepber_0_63: 7264007782140615074
+      Sheepber_0_64: -7957285805498864251
+      Sheepber_0_65: 7089818700185557688
+      Sheepber_0_66: -2732566071924697589
+      Sheepber_0_67: -3886955178608367786
+      Sheepber_0_68: 3504138481675418745
+      Sheepber_0_69: -4698640557989933830
+      Sheepber_0_7: 3263160896538324012
+      Sheepber_0_70: -2781738069338907284
+      Sheepber_0_71: 2567177169074768098
+      Sheepber_0_72: 6676037493765031081
+      Sheepber_0_73: 2489767404009045500
+      Sheepber_0_74: 7954539496774820452
+      Sheepber_0_75: -1824784504185589860
+      Sheepber_0_76: -6075722374109208935
+      Sheepber_0_77: 5786486407793240616
+      Sheepber_0_78: 2581302278960687697
+      Sheepber_0_79: 8750602630973493062
+      Sheepber_0_8: 8294460296521375821
+      Sheepber_0_80: -6125691843986592781
+      Sheepber_0_81: -4514926800499133627
+      Sheepber_0_82: 5193440876912753245
+      Sheepber_0_83: 3898056285087528905
+      Sheepber_0_84: 1491578688842863836
+      Sheepber_0_85: 1007379751166805787
+      Sheepber_0_86: 4878017147750599743
+      Sheepber_0_87: 6564097753883806398
+      Sheepber_0_88: 1635143188119959464
+      Sheepber_0_9: -2638146254061827318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

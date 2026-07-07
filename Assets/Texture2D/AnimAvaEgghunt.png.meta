@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6941470e37c1aba4cbf81c753ba68db8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8297864446056726048
+    second: AnimAvaEgghunt_0
+  - first:
+      213: -9172729149047388147
+    second: AnimAvaEgghunt_1
+  - first:
+      213: 3297472945178695230
+    second: AnimAvaEgghunt_2
+  - first:
+      213: -4771866454730866345
+    second: AnimAvaEgghunt_3
+  - first:
+      213: 8395434815928684061
+    second: AnimAvaEgghunt_4
+  - first:
+      213: 1762645622147838208
+    second: AnimAvaEgghunt_5
+  - first:
+      213: -8812958720021359021
+    second: AnimAvaEgghunt_6
+  - first:
+      213: -7128896930253460314
+    second: AnimAvaEgghunt_7
+  - first:
+      213: -6290312431107265704
+    second: AnimAvaEgghunt_8
+  - first:
+      213: -5786313267406470813
+    second: AnimAvaEgghunt_9
+  - first:
+      213: -7700291751934794994
+    second: AnimAvaEgghunt_10
+  - first:
+      213: 8110533572990749079
+    second: AnimAvaEgghunt_11
+  - first:
+      213: -1899835650250434576
+    second: AnimAvaEgghunt_12
+  - first:
+      213: 2054120598952790551
+    second: AnimAvaEgghunt_13
+  - first:
+      213: -1741226226852181460
+    second: AnimAvaEgghunt_14
+  - first:
+      213: 3979921846996647870
+    second: AnimAvaEgghunt_15
+  - first:
+      213: 5231639175551563937
+    second: AnimAvaEgghunt_16
+  - first:
+      213: 6725979146386853151
+    second: AnimAvaEgghunt_17
+  - first:
+      213: -283604022751257535
+    second: AnimAvaEgghunt_18
+  - first:
+      213: 4195023973263850824
+    second: AnimAvaEgghunt_19
+  - first:
+      213: -2970844699084686280
+    second: AnimAvaEgghunt_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 829
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02efd8defbfe72370800000000000000
+      internalID: 8297864446056726048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 829
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08c82a207be3b080800000000000000
+      internalID: -9172729149047388147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 795
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3656d14c2af2cd20800000000000000
+      internalID: 3297472945178695230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7510a2aedbce6cdb0800000000000000
+      internalID: -4771866454730866345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 732
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e4062fb73928470800000000000000
+      internalID: 8395434815928684061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 622
+        width: 164
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f40dbadc267810800000000000000
+      internalID: 1762645622147838208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 711
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35612f8bcb412b580800000000000000
+      internalID: -8812958720021359021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 671
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acaedf2302111d90800000000000000
+      internalID: -7128896930253460314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 635
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba0a1eb2254b8a0800000000000000
+      internalID: -6290312431107265704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 598
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618b119db2e2bfa0800000000000000
+      internalID: -5786313267406470813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 549
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036e031371132590800000000000000
+      internalID: -7700291751934794994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 501
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7994efc20576e8070800000000000000
+      internalID: 8110533572990749079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 520
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f71337ba8d62a5e0800000000000000
+      internalID: -1899835650250434576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 433
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac4623dc3b18c10800000000000000
+      internalID: 2054120598952790551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 378
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ac1ead8fbe5d7e0800000000000000
+      internalID: -1741226226852181460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 399
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3d0455d58b3730800000000000000
+      internalID: 3979921846996647870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 170
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8b4cb9c148a9840800000000000000
+      internalID: 5231639175551563937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 323
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc21bd56a775d50800000000000000
+      internalID: 6725979146386853151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 272
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c1a07d4af601cf0800000000000000
+      internalID: -283604022751257535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 214
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84db3a6d318b73a30800000000000000
+      internalID: 4195023973263850824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimAvaEgghunt_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 211
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c74348c7075c6d0800000000000000
+      internalID: -2970844699084686280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnimAvaEgghunt_0: 8297864446056726048
+      AnimAvaEgghunt_1: -9172729149047388147
+      AnimAvaEgghunt_10: -7700291751934794994
+      AnimAvaEgghunt_11: 8110533572990749079
+      AnimAvaEgghunt_12: -1899835650250434576
+      AnimAvaEgghunt_13: 2054120598952790551
+      AnimAvaEgghunt_14: -1741226226852181460
+      AnimAvaEgghunt_15: 3979921846996647870
+      AnimAvaEgghunt_16: 5231639175551563937
+      AnimAvaEgghunt_17: 6725979146386853151
+      AnimAvaEgghunt_18: -283604022751257535
+      AnimAvaEgghunt_19: 4195023973263850824
+      AnimAvaEgghunt_2: 3297472945178695230
+      AnimAvaEgghunt_20: -2970844699084686280
+      AnimAvaEgghunt_3: -4771866454730866345
+      AnimAvaEgghunt_4: 8395434815928684061
+      AnimAvaEgghunt_5: 1762645622147838208
+      AnimAvaEgghunt_6: -8812958720021359021
+      AnimAvaEgghunt_7: -7128896930253460314
+      AnimAvaEgghunt_8: -6290312431107265704
+      AnimAvaEgghunt_9: -5786313267406470813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

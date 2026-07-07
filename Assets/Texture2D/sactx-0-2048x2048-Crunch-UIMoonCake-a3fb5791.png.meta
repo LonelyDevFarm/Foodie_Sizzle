@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 602c41bb7bd838c47b3f1434e70ace87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1345434487879363942
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_0
+  - first:
+      213: -8628602108345139092
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_1
+  - first:
+      213: -3469897817503925316
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_2
+  - first:
+      213: -8479581863350554431
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_3
+  - first:
+      213: 196689680505405226
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_4
+  - first:
+      213: 1163239359876148437
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_5
+  - first:
+      213: -8254049215787675116
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_6
+  - first:
+      213: -8198469697469650187
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_7
+  - first:
+      213: 2368102113116719431
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_8
+  - first:
+      213: -8442674233783121939
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_9
+  - first:
+      213: -4577178433082832235
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_10
+  - first:
+      213: -6078616010041938907
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_11
+  - first:
+      213: -3753475800007866412
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_12
+  - first:
+      213: -1636285204953592331
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_13
+  - first:
+      213: -8546420292016021067
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_14
+  - first:
+      213: 4296116528038063463
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_15
+  - first:
+      213: 121432681438921526
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_16
+  - first:
+      213: -5150651660574165459
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_17
+  - first:
+      213: -9211209181262384686
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_18
+  - first:
+      213: 4366337118413806759
+    second: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 665
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a921461367e045de0800000000000000
+      internalID: -1345434487879363942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1409
+        width: 121
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60c6e7491c014880800000000000000
+      internalID: -8628602108345139092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1545
+        width: 14
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb76ccb15278dfc0800000000000000
+      internalID: -3469897817503925316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1406
+        width: 175
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c03527d839725a80800000000000000
+      internalID: -8479581863350554431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 1212
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f7289e838cab200800000000000000
+      internalID: 196689680505405226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 671
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcab22e808a42010800000000000000
+      internalID: 1163239359876148437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1128
+        width: 214
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412526658f9b37d80800000000000000
+      internalID: -8254049215787675116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 911
+        width: 183
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa648c5f3f293e80800000000000000
+      internalID: -8198469697469650187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1113
+        width: 339
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7498c2c33503dd020800000000000000
+      internalID: 2368102113116719431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_9
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 452
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7830df38895da80800000000000000
+      internalID: -8442674233783121939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 630
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ac48e47789a70c0800000000000000
+      internalID: -4577178433082832235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 424
+        width: 508
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ca27bd1fa64aba0800000000000000
+      internalID: -6078616010041938907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 924
+        width: 246
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7818b85a9f8ebc0800000000000000
+      internalID: -3753475800007866412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_13
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 861
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8387864fba49e0800000000000000
+      internalID: -1636285204953592331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_14
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 851
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e1397604056980800000000000000
+      internalID: -8546420292016021067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_15
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 834
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76da46f683fde9b30800000000000000
+      internalID: 4296116528038063463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1010
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334a41616a6fa100800000000000000
+      internalID: 121432681438921526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_17
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 422
+        width: 271
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2673b1aa953588b0800000000000000
+      internalID: -5150651660574165459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_18
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 226
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f90f7d063b2080800000000000000
+      internalID: -9211209181262384686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_19
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 138
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac58a0b978589c30800000000000000
+      internalID: 4366337118413806759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_0: -1345434487879363942
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_1: -8628602108345139092
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_10: -4577178433082832235
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_11: -6078616010041938907
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_12: -3753475800007866412
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_13: -1636285204953592331
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_14: -8546420292016021067
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_15: 4296116528038063463
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_16: 121432681438921526
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_17: -5150651660574165459
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_18: -9211209181262384686
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_19: 4366337118413806759
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_2: -3469897817503925316
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_3: -8479581863350554431
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_4: 196689680505405226
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_5: 1163239359876148437
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_6: -8254049215787675116
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_7: -8198469697469650187
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_8: 2368102113116719431
+      sactx-0-2048x2048-Crunch-UIMoonCake-a3fb5791_9: -8442674233783121939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

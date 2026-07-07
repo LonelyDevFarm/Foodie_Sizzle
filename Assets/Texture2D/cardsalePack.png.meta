@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c742cb44cb699a744bcb67aeed29ec72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2543904389174374490
+    second: cardsalePack_0
+  - first:
+      213: -704095969397331573
+    second: cardsalePack_1
+  - first:
+      213: 848830040263920851
+    second: cardsalePack_2
+  - first:
+      213: -5356727948947752180
+    second: cardsalePack_3
+  - first:
+      213: 7398499597698252576
+    second: cardsalePack_4
+  - first:
+      213: -4143721760380949835
+    second: cardsalePack_5
+  - first:
+      213: 7601397195413054230
+    second: cardsalePack_6
+  - first:
+      213: -4894262659190046470
+    second: cardsalePack_7
+  - first:
+      213: 4572250588087892775
+    second: cardsalePack_8
+  - first:
+      213: 2169195314250862611
+    second: cardsalePack_9
+  - first:
+      213: 3662550127581552728
+    second: cardsalePack_10
+  - first:
+      213: -3878003894752976096
+    second: cardsalePack_11
+  - first:
+      213: 4484702362979449112
+    second: cardsalePack_12
+  - first:
+      213: 7698244850904553573
+    second: cardsalePack_13
+  - first:
+      213: 5927523166312467967
+    second: cardsalePack_14
+  - first:
+      213: 1243265792243992593
+    second: cardsalePack_15
+  - first:
+      213: -4246214657056489530
+    second: cardsalePack_16
+  - first:
+      213: -1555972730553526911
+    second: cardsalePack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardsalePack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 864
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50bb435093cd4320800000000000000
+      internalID: 2543904389174374490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 865
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a940427c8a36f0800000000000000
+      internalID: -704095969397331573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 828
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc8c90ac66a7cb00800000000000000
+      internalID: 848830040263920851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 933
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bff84cf4419a5b0800000000000000
+      internalID: -5356727948947752180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 863
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fbca76f20cca660800000000000000
+      internalID: 7398499597698252576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 672
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baef68630b8e76c0800000000000000
+      internalID: -4143721760380949835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 702
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ee3da9769d7960800000000000000
+      internalID: 7601397195413054230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 699
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c489da06141cb0800000000000000
+      internalID: -4894262659190046470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 783
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bbc0f5fa5e37f30800000000000000
+      internalID: 4572250588087892775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 702
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3105d5a35a78a1e10800000000000000
+      internalID: 2169195314250862611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 238
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506f8e9fedf3d230800000000000000
+      internalID: 3662550127581552728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 594
+        width: 220
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023eaa711009e2ac0800000000000000
+      internalID: -3878003894752976096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 593
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819beb4c90ddc3e30800000000000000
+      internalID: 4484702362979449112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 266
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685524a7e8a5da60800000000000000
+      internalID: 7698244850904553573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 351
+        width: 239
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd04f51aeac24250800000000000000
+      internalID: 5927523166312467967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 120
+        width: 258
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180914a6a7f04110800000000000000
+      internalID: 1243265792243992593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 274
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf371e444a6215c0800000000000000
+      internalID: -4246214657056489530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cardsalePack_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 258
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859923ab03186ae0800000000000000
+      internalID: -1555972730553526911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cardsalePack_0: 2543904389174374490
+      cardsalePack_1: -704095969397331573
+      cardsalePack_10: 3662550127581552728
+      cardsalePack_11: -3878003894752976096
+      cardsalePack_12: 4484702362979449112
+      cardsalePack_13: 7698244850904553573
+      cardsalePack_14: 5927523166312467967
+      cardsalePack_15: 1243265792243992593
+      cardsalePack_16: -4246214657056489530
+      cardsalePack_17: -1555972730553526911
+      cardsalePack_2: 848830040263920851
+      cardsalePack_3: -5356727948947752180
+      cardsalePack_4: 7398499597698252576
+      cardsalePack_5: -4143721760380949835
+      cardsalePack_6: 7601397195413054230
+      cardsalePack_7: -4894262659190046470
+      cardsalePack_8: 4572250588087892775
+      cardsalePack_9: 2169195314250862611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

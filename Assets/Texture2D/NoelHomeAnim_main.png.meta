@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: c3c368af8ce0fa746828919c42141924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1470393745037238239
+    second: NoelHomeAnim_main_0
+  - first:
+      213: -8426304785186913507
+    second: NoelHomeAnim_main_1
+  - first:
+      213: 5293277276225735950
+    second: NoelHomeAnim_main_2
+  - first:
+      213: -2705539894889205345
+    second: NoelHomeAnim_main_3
+  - first:
+      213: 489068083127302697
+    second: NoelHomeAnim_main_4
+  - first:
+      213: 1241608712913704224
+    second: NoelHomeAnim_main_5
+  - first:
+      213: 5718640672481578951
+    second: NoelHomeAnim_main_6
+  - first:
+      213: -8169103107380295063
+    second: NoelHomeAnim_main_7
+  - first:
+      213: 778441361522302198
+    second: NoelHomeAnim_main_8
+  - first:
+      213: 7308886070572115407
+    second: NoelHomeAnim_main_9
+  - first:
+      213: 158736024612749094
+    second: NoelHomeAnim_main_10
+  - first:
+      213: 4918619724047105675
+    second: NoelHomeAnim_main_11
+  - first:
+      213: -3162061271622503436
+    second: NoelHomeAnim_main_12
+  - first:
+      213: -4169451509020723694
+    second: NoelHomeAnim_main_13
+  - first:
+      213: 2629456469166740374
+    second: NoelHomeAnim_main_14
+  - first:
+      213: 7413155031658284960
+    second: NoelHomeAnim_main_15
+  - first:
+      213: -6118112355633746376
+    second: NoelHomeAnim_main_16
+  - first:
+      213: -8395435223499993689
+    second: NoelHomeAnim_main_17
+  - first:
+      213: 6098853365309035607
+    second: NoelHomeAnim_main_18
+  - first:
+      213: -9061237516196744242
+    second: NoelHomeAnim_main_19
+  - first:
+      213: 6495366636676725107
+    second: NoelHomeAnim_main_20
+  - first:
+      213: -3379017107283542930
+    second: NoelHomeAnim_main_21
+  - first:
+      213: 5704427124153299255
+    second: NoelHomeAnim_main_22
+  - first:
+      213: 8832094690912411348
+    second: NoelHomeAnim_main_23
+  - first:
+      213: 8282576201781643691
+    second: NoelHomeAnim_main_24
+  - first:
+      213: 4942866401940827741
+    second: NoelHomeAnim_main_25
+  - first:
+      213: -6730130295514453247
+    second: NoelHomeAnim_main_26
+  - first:
+      213: -6188566044735437761
+    second: NoelHomeAnim_main_27
+  - first:
+      213: 7144322401106828744
+    second: NoelHomeAnim_main_28
+  - first:
+      213: 3920822415509277923
+    second: NoelHomeAnim_main_29
+  - first:
+      213: 6579967768516157026
+    second: NoelHomeAnim_main_30
+  - first:
+      213: -8611626517851697783
+    second: NoelHomeAnim_main_31
+  - first:
+      213: 7411672718984859284
+    second: NoelHomeAnim_main_32
+  - first:
+      213: -8764573044457023233
+    second: NoelHomeAnim_main_33
+  - first:
+      213: 3442963531745988633
+    second: NoelHomeAnim_main_34
+  - first:
+      213: 8012532197203368828
+    second: NoelHomeAnim_main_35
+  - first:
+      213: 4363524202621463094
+    second: NoelHomeAnim_main_36
+  - first:
+      213: -1984405656658523436
+    second: NoelHomeAnim_main_37
+  - first:
+      213: 8749552244416518541
+    second: NoelHomeAnim_main_38
+  - first:
+      213: 104760535683903874
+    second: NoelHomeAnim_main_39
+  - first:
+      213: 8302412554740832282
+    second: NoelHomeAnim_main_40
+  - first:
+      213: -2988731095542532101
+    second: NoelHomeAnim_main_41
+  - first:
+      213: 1637683116635411167
+    second: NoelHomeAnim_main_42
+  - first:
+      213: -1425183223561497273
+    second: NoelHomeAnim_main_43
+  - first:
+      213: 5723375882975307648
+    second: NoelHomeAnim_main_44
+  - first:
+      213: -6223932285162720935
+    second: NoelHomeAnim_main_45
+  - first:
+      213: 2407787843065505541
+    second: NoelHomeAnim_main_46
+  - first:
+      213: -3201579111490592641
+    second: NoelHomeAnim_main_47
+  - first:
+      213: 8081252744508781823
+    second: NoelHomeAnim_main_48
+  - first:
+      213: -1180109003586546604
+    second: NoelHomeAnim_main_49
+  - first:
+      213: 2214752028390935305
+    second: NoelHomeAnim_main_50
+  - first:
+      213: 4247326969946624332
+    second: NoelHomeAnim_main_51
+  - first:
+      213: 6311127488769581694
+    second: NoelHomeAnim_main_52
+  - first:
+      213: -1965649326740924806
+    second: NoelHomeAnim_main_53
+  - first:
+      213: -5451929890582839869
+    second: NoelHomeAnim_main_54
+  - first:
+      213: -3377021088074896631
+    second: NoelHomeAnim_main_55
+  - first:
+      213: 4857508169431768030
+    second: NoelHomeAnim_main_56
+  - first:
+      213: 4596478077614423149
+    second: NoelHomeAnim_main_57
+  - first:
+      213: 5209868234604756175
+    second: NoelHomeAnim_main_58
+  - first:
+      213: 4674074311496939984
+    second: NoelHomeAnim_main_59
+  - first:
+      213: -6282667687834908227
+    second: NoelHomeAnim_main_60
+  - first:
+      213: 8708560736229487529
+    second: NoelHomeAnim_main_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf96e41253e76410800000000000000
+      internalID: 1470393745037238239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 382
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1382cd3170cf0b80800000000000000
+      internalID: -8426304785186913507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 375
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d051343af757940800000000000000
+      internalID: 5293277276225735950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 375
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f913b77dccdf37ad0800000000000000
+      internalID: -2705539894889205345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 354
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab8c594d489c600800000000000000
+      internalID: 489068083127302697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 353
+        width: 112
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025504bcb841b3110800000000000000
+      internalID: 1241608712913704224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 369
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf8d599461bc5f40800000000000000
+      internalID: 5718640672481578951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 209
+        width: 68
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ace0f610481ae80800000000000000
+      internalID: -8169103107380295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 381
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc12004b449dca00800000000000000
+      internalID: 778441361522302198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 232
+        width: 64
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5604438216e6560800000000000000
+      internalID: 7308886070572115407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_10
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 318
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fb918c291f33200800000000000000
+      internalID: 158736024612749094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 312
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ebe0d3492724440800000000000000
+      internalID: 4918619724047105675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 362
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bbead60a1e14d0800000000000000
+      internalID: -3162061271622503436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_13
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 380
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2167a9871f12326c0800000000000000
+      internalID: -4169451509020723694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_14
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 349
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693590d2ab4bd7420800000000000000
+      internalID: 2629456469166740374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_15
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 357
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a744e68931d0e660800000000000000
+      internalID: 7413155031658284960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 358
+        width: 172
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ea58a4a39181ba0800000000000000
+      internalID: -6118112355633746376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 358
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0b78252c6d7b80800000000000000
+      internalID: -8395435223499993689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 367
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754d07892da73a450800000000000000
+      internalID: 6098853365309035607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 358
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec376adcc74004280800000000000000
+      internalID: -9061237516196744242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 358
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793a09ca8d242a50800000000000000
+      internalID: 6495366636676725107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 358
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c756ef7d15b11d0800000000000000
+      internalID: -3379017107283542930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 358
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731b24efe323a2f40800000000000000
+      internalID: 5704427124153299255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 363
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9272b357e19a70800000000000000
+      internalID: 8832094690912411348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 353
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98c4c2c2f91f270800000000000000
+      internalID: 8282576201781643691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_25
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 354
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e65ebddc6989440800000000000000
+      internalID: 4942866401940827741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 233
+        width: 177
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b24cb6726c992a0800000000000000
+      internalID: -6730130295514453247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_27
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 362
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34008288fbcd1aa0800000000000000
+      internalID: -6188566044735437761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_28
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 315
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd96de1f5bb52360800000000000000
+      internalID: 7144322401106828744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 605
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc1d7a63f896630800000000000000
+      internalID: 3920822415509277923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_30
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 254
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edce3c2ddb05b50800000000000000
+      internalID: 6579967768516157026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_31
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 355
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d8d11fe4b5d7880800000000000000
+      internalID: -8611626517851697783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_32
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecb86b11d8bd660800000000000000
+      internalID: 7411672718984859284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_33
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 314
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8dc25b04bfd5680800000000000000
+      internalID: -8764573044457023233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_34
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 210
+        width: 203
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910185c271dd7cf20800000000000000
+      internalID: 3442963531745988633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_35
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 210
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bdfa5c49b323f60800000000000000
+      internalID: 8012532197203368828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_36
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 299
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a6212b42a5e8c30800000000000000
+      internalID: 4363524202621463094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_37
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 314
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dac790b199f574e0800000000000000
+      internalID: -1984405656658523436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_38
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 252
+        width: 103
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891b20c867ac6970800000000000000
+      internalID: 8749552244416518541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_39
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 253
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2813be3f62f247100800000000000000
+      internalID: 104760535683903874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_40
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 186
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1812100b38183370800000000000000
+      internalID: 8302412554740832282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_41
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 299
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f50157e4e586d0800000000000000
+      internalID: -2988731095542532101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_42
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 238
+        width: 137
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd255b52e183ab610800000000000000
+      internalID: 1637683116635411167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 101
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74555cbb86bb83ce0800000000000000
+      internalID: -1425183223561497273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_44
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 209
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e7c4ba048d6f40800000000000000
+      internalID: 5723375882975307648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_45
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 101
+        width: 189
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9517accff8620a9a0800000000000000
+      internalID: -6223932285162720935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_46
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 209
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5076c68494e2a6120800000000000000
+      internalID: 2407787843065505541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 124
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ea43c2c4b193d0800000000000000
+      internalID: -3201579111490592641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_48
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 135
+        width: 170
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b8980e80662070800000000000000
+      internalID: 8081252744508781823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_49
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 136
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454dbfc1d196f9fe0800000000000000
+      internalID: -1180109003586546604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_50
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 126
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b41dd4c316cbe10800000000000000
+      internalID: 2214752028390935305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_51
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 103
+        width: 93
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41da98306981fa30800000000000000
+      internalID: 4247326969946624332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 100
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7260546301a59750800000000000000
+      internalID: 6311127488769581694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_53
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 100
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a761f9e0a5c98b4e0800000000000000
+      internalID: -1965649326740924806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_54
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 100
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb97b66aad654b0800000000000000
+      internalID: -5451929890582839869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_55
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 34
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bea4e66396221d0800000000000000
+      internalID: -3377021088074896631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_56
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 61
+        width: 211
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd984a1f5596340800000000000000
+      internalID: 4857508169431768030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_57
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 60
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cf31a5578f9cf30800000000000000
+      internalID: 4596478077614423149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_58
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc353a6e8b2d4840800000000000000
+      internalID: 5209868234604756175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_59
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 510
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bd8e62d5add040800000000000000
+      internalID: 4674074311496939984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_60
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 608
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db986c0660b7fc8a0800000000000000
+      internalID: -6282667687834908227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoelHomeAnim_main_61
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2
+        width: 332
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a37fd389d50bd870800000000000000
+      internalID: 8708560736229487529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoelHomeAnim_main_0: 1470393745037238239
+      NoelHomeAnim_main_1: -8426304785186913507
+      NoelHomeAnim_main_10: 158736024612749094
+      NoelHomeAnim_main_11: 4918619724047105675
+      NoelHomeAnim_main_12: -3162061271622503436
+      NoelHomeAnim_main_13: -4169451509020723694
+      NoelHomeAnim_main_14: 2629456469166740374
+      NoelHomeAnim_main_15: 7413155031658284960
+      NoelHomeAnim_main_16: -6118112355633746376
+      NoelHomeAnim_main_17: -8395435223499993689
+      NoelHomeAnim_main_18: 6098853365309035607
+      NoelHomeAnim_main_19: -9061237516196744242
+      NoelHomeAnim_main_2: 5293277276225735950
+      NoelHomeAnim_main_20: 6495366636676725107
+      NoelHomeAnim_main_21: -3379017107283542930
+      NoelHomeAnim_main_22: 5704427124153299255
+      NoelHomeAnim_main_23: 8832094690912411348
+      NoelHomeAnim_main_24: 8282576201781643691
+      NoelHomeAnim_main_25: 4942866401940827741
+      NoelHomeAnim_main_26: -6730130295514453247
+      NoelHomeAnim_main_27: -6188566044735437761
+      NoelHomeAnim_main_28: 7144322401106828744
+      NoelHomeAnim_main_29: 3920822415509277923
+      NoelHomeAnim_main_3: -2705539894889205345
+      NoelHomeAnim_main_30: 6579967768516157026
+      NoelHomeAnim_main_31: -8611626517851697783
+      NoelHomeAnim_main_32: 7411672718984859284
+      NoelHomeAnim_main_33: -8764573044457023233
+      NoelHomeAnim_main_34: 3442963531745988633
+      NoelHomeAnim_main_35: 8012532197203368828
+      NoelHomeAnim_main_36: 4363524202621463094
+      NoelHomeAnim_main_37: -1984405656658523436
+      NoelHomeAnim_main_38: 8749552244416518541
+      NoelHomeAnim_main_39: 104760535683903874
+      NoelHomeAnim_main_4: 489068083127302697
+      NoelHomeAnim_main_40: 8302412554740832282
+      NoelHomeAnim_main_41: -2988731095542532101
+      NoelHomeAnim_main_42: 1637683116635411167
+      NoelHomeAnim_main_43: -1425183223561497273
+      NoelHomeAnim_main_44: 5723375882975307648
+      NoelHomeAnim_main_45: -6223932285162720935
+      NoelHomeAnim_main_46: 2407787843065505541
+      NoelHomeAnim_main_47: -3201579111490592641
+      NoelHomeAnim_main_48: 8081252744508781823
+      NoelHomeAnim_main_49: -1180109003586546604
+      NoelHomeAnim_main_5: 1241608712913704224
+      NoelHomeAnim_main_50: 2214752028390935305
+      NoelHomeAnim_main_51: 4247326969946624332
+      NoelHomeAnim_main_52: 6311127488769581694
+      NoelHomeAnim_main_53: -1965649326740924806
+      NoelHomeAnim_main_54: -5451929890582839869
+      NoelHomeAnim_main_55: -3377021088074896631
+      NoelHomeAnim_main_56: 4857508169431768030
+      NoelHomeAnim_main_57: 4596478077614423149
+      NoelHomeAnim_main_58: 5209868234604756175
+      NoelHomeAnim_main_59: 4674074311496939984
+      NoelHomeAnim_main_6: 5718640672481578951
+      NoelHomeAnim_main_60: -6282667687834908227
+      NoelHomeAnim_main_61: 8708560736229487529
+      NoelHomeAnim_main_7: -8169103107380295063
+      NoelHomeAnim_main_8: 778441361522302198
+      NoelHomeAnim_main_9: 7308886070572115407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
