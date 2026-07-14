@@ -8,8 +8,8 @@ namespace FoodieSizzle
         [Header("General Info")]
         public string itemId;
         public Sprite itemSprite;
-        
-        [Header("Gameplay Info")]
-        public int scoreValue = 10;
+
+        [Header("Display settings")]
+        public bool needStacking;
     }
 }
