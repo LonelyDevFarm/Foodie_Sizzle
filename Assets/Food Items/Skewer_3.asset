@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63a30b966ecb57b439e3136354014395, type: 3}
   m_Name: Skewer_3
   m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.FoodItemData
-  itemId: 2
-  itemSprite: {fileID: 0}
+  itemId: 3
+  itemSprite: {fileID: -4836485384328393096, guid: fcda9f708b4164c419caf3803356358f, type: 3}
+  needsStacking: 0

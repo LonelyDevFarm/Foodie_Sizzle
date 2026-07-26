@@ -7,7 +7,7 @@ namespace FoodieSizzle
     public class GameplayManager : MonoBehaviour
     {
         [Header("Grid Setup")]
-        public Grill[] grills = new Grill[9]; // Drag the 9 grills in hierarchy here
+        public Grill[] grills = new Grill[12]; // Drag the 12 grills in hierarchy here (3x4 grid)
         public List<FoodItemData> possibleFoodItems;
 
         [Header("Level Goals")]

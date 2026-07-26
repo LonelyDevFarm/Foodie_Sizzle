@@ -38,12 +38,12 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 13
+  m_BakeOnSceneLoad: 0
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -119,6 +119,152 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &93752006 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 442774633}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &93752008 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 442774633}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!1001 &248657698
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1001 &256817831
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!4 &303351280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 479609455}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &303351282 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 479609455}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -180,7 +326,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -248,14 +394,14 @@ MonoBehaviour:
   m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
-  m_Version: 2
   m_TaaSettings:
-    quality: 3
-    frameInfluence: 0.1
-    jitterScale: 1
-    mipBias: 0
-    varianceClampScale: 0.9
-    contrastAdaptiveSharpening: 0
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,14 +428,14 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   m_Enabled: 1
-  serializedVersion: 11
+  serializedVersion: 12
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
+  m_CookieSize2D: {x: 10, y: 10}
   m_Shadows:
     m_Type: 2
     m_Resolution: -1
@@ -336,6 +482,9 @@ Light:
   m_ForceVisible: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+  m_LightUnit: 1
+  m_LuxAtDistance: 1
+  m_EnableSpotReflector: 1
 --- !u!4 &410087041
 Transform:
   m_ObjectHideFlags: 0
@@ -363,17 +512,320 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Version: 3
   m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
-  m_LightLayerMask: 1
-  m_RenderingLayers: 1
   m_CustomShadowLayers: 0
-  m_ShadowLayerMask: 1
-  m_ShadowRenderingLayers: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
+--- !u!1001 &442774633
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1001 &479609455
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!114 &574267525 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 256817831}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!4 &574267526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 256817831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &630481417
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!4 &742942257 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 940923007}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &742942259 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 940923007}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!1001 &776228308
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!4 &776228309 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 776228308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &788334429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1883162971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &788334431 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1883162971}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!4 &823579516 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 248657698}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &823579518 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 248657698}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,6 +875,553 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &875696219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 875696221}
+  - component: {fileID: 875696220}
+  m_Layer: 0
+  m_Name: GameplayManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &875696220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 875696219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 251160c22e1dc3b489a09b581f60c3bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.GameplayManager
+  grills:
+  - {fileID: 823579518}
+  - {fileID: 303351282}
+  - {fileID: 93752008}
+  - {fileID: 2007221254}
+  - {fileID: 742942259}
+  - {fileID: 788334431}
+  - {fileID: 1570168858}
+  - {fileID: 2126862004}
+  - {fileID: 574267525}
+  - {fileID: 1670449167}
+  - {fileID: 1570056107}
+  - {fileID: 1980579999}
+  possibleFoodItems:
+  - {fileID: 11400000, guid: f325811707aa62d449fac1071e724a55, type: 2}
+  - {fileID: 11400000, guid: 57ada67485f293c40a15327fb455ec6e, type: 2}
+  - {fileID: 11400000, guid: 4b877950a97679a4a97a2fe9fe548f4f, type: 2}
+  - {fileID: 11400000, guid: 449a4c83684af034dbf6d0eb88a1c1e7, type: 2}
+  - {fileID: 11400000, guid: 8b8c0822cf56af643b278d39b19fac04, type: 2}
+  - {fileID: 11400000, guid: dc16dd9a09f804e448fb0987a59aaa1f, type: 2}
+  - {fileID: 11400000, guid: 7cc3fa7abb7268046a505b4627bacf76, type: 2}
+  - {fileID: 11400000, guid: 7a52f2c1abda9704bb71dd0ec001aa39, type: 2}
+  - {fileID: 11400000, guid: 7567129c4dd6e11449ff838a942bae4a, type: 2}
+  - {fileID: 11400000, guid: 4d3c8de66041cec4780d4641a101c385, type: 2}
+  skewersTarget: 18
+  timeRemaining: 300
+  liftOffset: 0.5
+--- !u!4 &875696221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 875696219}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &940923007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1001 &1041756510
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1001 &1148978544
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1 &1250842314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1250842315}
+  m_Layer: 0
+  m_Name: GrillGrid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1250842315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250842314}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 823579516}
+  - {fileID: 303351280}
+  - {fileID: 93752006}
+  - {fileID: 2007221252}
+  - {fileID: 742942257}
+  - {fileID: 788334429}
+  - {fileID: 1570168856}
+  - {fileID: 2126862002}
+  - {fileID: 574267526}
+  - {fileID: 776228309}
+  - {fileID: 1570056106}
+  - {fileID: 1980579998}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1570056105
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!4 &1570056106 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1570056105}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1570056107 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1570056105}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!4 &1570168856 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1148978544}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1570168858 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1148978544}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!114 &1670449167 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 776228308}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!1001 &1883162971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!1001 &1980579997
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1250842315}
+    m_Modifications:
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6991654006449259739, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+      propertyPath: m_Name
+      value: Grill (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+--- !u!4 &1980579998 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1980579997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1980579999 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1980579997}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!4 &2007221252 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1041756510}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2007221254 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 1041756510}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
+--- !u!4 &2126862002 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1219114324730668323, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 630481417}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2126862004 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4359219004374414407, guid: 09f93eb263f4eda4396a696559022d77, type: 3}
+  m_PrefabInstance: {fileID: 630481417}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35bed216739e4ea37af1e604f4d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.Grill
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -430,3 +1429,5 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
+  - {fileID: 1250842315}
+  - {fileID: 875696221}

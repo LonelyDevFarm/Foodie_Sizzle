@@ -49,41 +49,36 @@ namespace FoodieSizzle
         {
             GameObject skewerGo = new GameObject($"Skewer_{data.itemId}");
             skewerGo.transform.SetParent(transform);
-            
-            // Add SpriteRenderer and SkewerVisual components
+            skewerGo.transform.localScale = Vector3.one;
+
             SpriteRenderer sr = skewerGo.AddComponent<SpriteRenderer>();
-            sr.sortingOrder = 5; // Render above the grill background
-            
+            sr.sortingOrder = 5;
+
             SkewerVisual skewer = skewerGo.AddComponent<SkewerVisual>();
             skewer.SetData(data);
-            
+
             return skewer;
         }
 
-        // Check if a skewer can be added to this grill
         public bool CanPush(FoodItemData item)
         {
             if (isAnimating) return false;
             if (activeSkewers.Count >= 3) return false;
-
-            // Can push if empty or if the rightmost skewer is of the same type
             if (activeSkewers.Count == 0) return true;
 
             SkewerVisual topSkewer = activeSkewers[activeSkewers.Count - 1];
             return topSkewer.GetData().itemId == item.itemId;
         }
 
-        // Push a skewer onto the grill (animate to slot)
         public void Push(SkewerVisual skewer, float duration = 0.25f)
         {
             skewer.transform.SetParent(transform);
             activeSkewers.Add(skewer);
-            
+
             Vector3 targetPosition = activeSlots[activeSkewers.Count - 1].position;
             skewer.MoveTo(targetPosition, duration);
         }
 
-        // Remove and return the rightmost skewer from the grill
         public SkewerVisual Pop()
         {
             if (activeSkewers.Count == 0 || isAnimating) return null;
@@ -93,11 +88,10 @@ namespace FoodieSizzle
             return popped;
         }
 
-        // Hover effect helper: lift the rightmost skewer slightly when selected
-        public void LiftTopSkewer(bool lift, float offset = 0.4f)
+        public void LiftTopSkewer(bool lift, float offset = 0.3f)
         {
             if (activeSkewers.Count == 0) return;
-            
+
             SkewerVisual topSkewer = activeSkewers[activeSkewers.Count - 1];
             Vector3 targetPos = activeSlots[activeSkewers.Count - 1].position;
             if (lift)
@@ -107,14 +101,13 @@ namespace FoodieSizzle
             topSkewer.MoveTo(targetPos, 0.1f);
         }
 
-        // Check if the grill has 3 identical skewers and should clear them
         public void CheckAndClear()
         {
             if (activeSkewers.Count == 3)
             {
                 string firstId = activeSkewers[0].GetData().itemId;
                 bool isMatch = true;
-                
+
                 for (int i = 1; i < 3; i++)
                 {
                     if (activeSkewers[i].GetData().itemId != firstId)
@@ -136,25 +129,24 @@ namespace FoodieSizzle
             isAnimating = true;
             gameplayManager.SetBoardLocked(true);
 
-            // Pop all 3 skewers to clear
             List<SkewerVisual> toClear = new List<SkewerVisual>(activeSkewers);
             activeSkewers.Clear();
 
-            // Sizzle/shrink animation
+            // Thu nhỏ dần về 0 (dùng CalculatedScale thay vì Vector3.one)
             float elapsed = 0f;
             float duration = 0.3f;
             while (elapsed < duration)
             {
-                float scale = Mathf.Lerp(1f, 0f, elapsed / duration);
+                float t = elapsed / duration;
                 foreach (var skewer in toClear)
                 {
-                    if (skewer != null) skewer.transform.localScale = Vector3.one * scale;
+                    if (skewer != null)
+                        skewer.transform.localScale = Vector3.Lerp(skewer.CalculatedScale, Vector3.zero, t);
                 }
                 elapsed += Time.deltaTime;
                 yield return null;
             }
 
-            // Destroy objects and notify progress
             foreach (var skewer in toClear)
             {
                 if (skewer != null)
@@ -166,7 +158,6 @@ namespace FoodieSizzle
 
             yield return new WaitForSeconds(0.1f);
 
-            // If the grill is empty, slide waiting skewers up from the plate
             if (waitingSkewers.Count > 0)
             {
                 yield return StartCoroutine(SlideUpWaitingSkewersCoroutine());
@@ -174,18 +165,15 @@ namespace FoodieSizzle
 
             isAnimating = false;
             gameplayManager.SetBoardLocked(false);
-            
-            // Check if game has ended or needs further updates
+
             gameplayManager.CheckGameStatus();
         }
 
         private IEnumerator SlideUpWaitingSkewersCoroutine()
         {
-            // Move references from waiting list to active list
             activeSkewers = new List<SkewerVisual>(waitingSkewers);
             waitingSkewers.Clear();
 
-            // Animate each sliding up to its active slot
             float duration = 0.3f;
             for (int i = 0; i < activeSkewers.Count; i++)
             {
@@ -195,7 +183,6 @@ namespace FoodieSizzle
 
             yield return new WaitForSeconds(duration);
 
-            // Request new waiting skewers if possible
             List<FoodItemData> newWaitingData = gameplayManager.RequestReplacementWaitingSkewers();
             for (int i = 0; i < newWaitingData.Count && i < 3; i++)
             {
@@ -203,10 +190,9 @@ namespace FoodieSizzle
                 SkewerVisual skewer = SpawnSkewer(newWaitingData[i]);
                 skewer.transform.position = waitingSlots[i].position;
                 waitingSkewers.Add(skewer);
-                
-                // Pop effect: scale up
+
+                // Hiệu ứng phình to: từ 0 lên đúng CalculatedScale (không phải Vector3.one)
                 skewer.transform.localScale = Vector3.zero;
-                skewer.MoveTo(waitingSlots[i].position, 0.2f);
                 StartCoroutine(ScaleUpSkewerCoroutine(skewer, 0.2f));
             }
 
@@ -219,17 +205,18 @@ namespace FoodieSizzle
         private IEnumerator ScaleUpSkewerCoroutine(SkewerVisual skewer, float duration)
         {
             float elapsed = 0f;
+            // Phình to lên đúng CalculatedScale (tỉ lệ đã tính toán) thay vì Vector3.one
+            Vector3 targetScale = skewer.CalculatedScale;
             while (elapsed < duration)
             {
                 if (skewer == null) yield break;
-                skewer.transform.localScale = Vector3.Lerp(Vector3.zero, Vector3.one, elapsed / duration);
+                skewer.transform.localScale = Vector3.Lerp(Vector3.zero, targetScale, elapsed / duration);
                 elapsed += Time.deltaTime;
                 yield return null;
             }
-            if (skewer != null) skewer.transform.localScale = Vector3.one;
+            if (skewer != null) skewer.transform.localScale = targetScale;
         }
 
-        // On Mouse Down is called when the user clicks the collider of this grill
         private void OnMouseDown()
         {
             if (gameplayManager != null)

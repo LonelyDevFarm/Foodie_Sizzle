@@ -10,6 +10,6 @@ namespace FoodieSizzle
         public Sprite itemSprite;
 
         [Header("Display settings")]
-        public bool needStacking;
+        public bool needsStacking;
     }
 }
