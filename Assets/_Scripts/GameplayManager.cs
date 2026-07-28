@@ -1,14 +1,25 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace FoodieSizzle
 {
     public class GameplayManager : MonoBehaviour
     {
-        [Header("Grid Setup")]
-        public Grill[] grills = new Grill[12]; // Drag the 12 grills in hierarchy here (3x4 grid)
+        [Header("Bố cục bàn chơi")]
+        public Grill[] grills = new Grill[12];
+        [Min(1)] public int columnCount = 3;
+        public float horizontalSpacing = 1.45f;
+        public float verticalSpacing = 1.75f;
+        public Vector2 boardCenter = new Vector2(0f, 0.55f);
+
+        [Header("Danh sách món dùng để tạo màn thử nghiệm")]
         public List<FoodItemData> possibleFoodItems;
+
+        [Header("Dữ liệu màn chơi")]
+        [Tooltip("Có thể để trống để chạy Level 1 mẫu được tạo sẵn trong code.")]
+        public LevelData currentLevelData;
 
         [Header("Level Goals")]
         public int skewersTarget = 18; // Must clear 18 skewers (6 sets of 3)
@@ -19,21 +30,285 @@ namespace FoodieSizzle
 
         private Queue<FoodItemData> levelSkewersPool = new Queue<FoodItemData>();
         private Grill selectedGrill = null;
+        private SkewerVisual selectedSkewer = null;
         private bool isBoardLocked = false;
         private int skewersClearedCount = 0;
         private bool isGameActive = false;
+        private Grill pointerDownGrill;
+        private SkewerVisual draggedSkewer;
+        private Vector3 dragStartPosition;
+        private Vector2 pointerDownPosition;
+        private bool hasDragged;
+        private const float FallbackDragThreshold = 24f;
+        private GameUIManager gameUIManager;
+        private float levelDuration;
+        private bool isPaused;
+        private bool boardWasLockedBeforePause;
+        private bool isShufflingBoard;
 
         private void Start()
         {
+            gameUIManager = GetComponent<GameUIManager>();
+            if (gameUIManager == null)
+            {
+                gameUIManager = gameObject.AddComponent<GameUIManager>();
+            }
+            gameUIManager.Initialize(this);
+
+            ApplyBoardLayout();
             StartNewLevel();
+        }
+
+        /// <summary>
+        /// Tự xếp các bếp theo lưới từ trái sang phải, từ trên xuống dưới.
+        /// Dữ liệu level về sau chỉ cần quyết định bếp nào được bật hoặc khóa.
+        /// </summary>
+        private void ApplyBoardLayout()
+        {
+            if (grills == null || grills.Length == 0) return;
+
+            int columns = Mathf.Max(1, columnCount);
+            int rows = Mathf.CeilToInt(grills.Length / (float)columns);
+            float firstX = boardCenter.x - (columns - 1) * horizontalSpacing * 0.5f;
+            float firstY = boardCenter.y + (rows - 1) * verticalSpacing * 0.5f;
+
+            for (int i = 0; i < grills.Length; i++)
+            {
+                if (grills[i] == null) continue;
+
+                int column = i % columns;
+                int row = i / columns;
+                grills[i].transform.position = new Vector3(
+                    firstX + column * horizontalSpacing,
+                    firstY - row * verticalSpacing,
+                    0f);
+            }
         }
 
         private void Update()
         {
-            if (isGameActive)
+            if (isGameActive && !isPaused)
             {
                 UpdateTimer();
+                UpdatePointerInput();
             }
+        }
+
+        private void UpdatePointerInput()
+        {
+            Pointer pointer = Pointer.current;
+            if (pointer == null || Camera.main == null) return;
+
+            if (pointer.press.wasPressedThisFrame)
+            {
+                RecoverInterruptedInputIfNeeded();
+
+                pointerDownPosition = pointer.position.ReadValue();
+                pointerDownGrill = FindGrillAtScreenPosition(pointerDownPosition);
+                hasDragged = false;
+                draggedSkewer = null;
+
+                if (pointerDownGrill != null &&
+                    !isBoardLocked &&
+                    pointerDownGrill.activeSkewers.Count > 0)
+                {
+                    Vector3 pointerWorldPosition =
+                        Camera.main.ScreenToWorldPoint(pointerDownPosition);
+                    draggedSkewer =
+                        pointerDownGrill.GetSkewerAtWorldPosition(pointerWorldPosition);
+
+                    if (draggedSkewer != null)
+                    {
+                        pointerDownGrill.TryGetSkewerSlotPosition(
+                            draggedSkewer,
+                            out dragStartPosition);
+                        draggedSkewer.BeginDrag();
+                    }
+                }
+            }
+
+            Vector2 currentPointerPosition = pointer.position.ReadValue();
+            if (pointer.press.isPressed && draggedSkewer != null)
+            {
+                if (!hasDragged &&
+                    Vector2.Distance(
+                        pointerDownPosition,
+                        currentPointerPosition) >= GetDragThresholdPixels())
+                {
+                    hasDragged = true;
+                    ClearCurrentSelection();
+                }
+
+                if (hasDragged)
+                {
+                    Vector3 worldPosition =
+                        Camera.main.ScreenToWorldPoint(currentPointerPosition);
+                    worldPosition.z = dragStartPosition.z;
+                    draggedSkewer.SetDragPosition(worldPosition);
+                }
+            }
+
+            if (!pointer.press.wasReleasedThisFrame) return;
+
+            Grill pointerUpGrill =
+                FindGrillAtScreenPosition(currentPointerPosition, pointerDownGrill);
+
+            if (pointerDownGrill == null)
+            {
+                ClearCurrentSelection();
+                ResetPointerDrag();
+                return;
+            }
+
+            if (draggedSkewer != null && hasDragged)
+            {
+                draggedSkewer.EndDrag();
+                bool moved = TryCompleteDrag(
+                    pointerDownGrill, pointerUpGrill, draggedSkewer);
+                if (!moved)
+                {
+                    draggedSkewer.MoveTo(dragStartPosition, 0.15f);
+                }
+            }
+            else if (draggedSkewer != null)
+            {
+                // Chạm nhanh vẫn dùng được theo kiểu chọn nguồn rồi chọn đích.
+                draggedSkewer.EndDrag();
+                draggedSkewer.MoveTo(dragStartPosition, 0.05f);
+                Vector3 clickWorldPosition =
+                    Camera.main.ScreenToWorldPoint(currentPointerPosition);
+                OnGrillClicked(
+                    pointerDownGrill,
+                    draggedSkewer,
+                    clickWorldPosition);
+            }
+            else
+            {
+                Vector3 clickWorldPosition =
+                    Camera.main.ScreenToWorldPoint(currentPointerPosition);
+                OnGrillClicked(
+                    pointerDownGrill,
+                    null,
+                    clickWorldPosition);
+            }
+
+            ResetPointerDrag();
+        }
+
+        private static float GetDragThresholdPixels()
+        {
+            // Khoảng 0,08 inch: đủ bỏ qua rung tay khi tap nhưng vẫn bắt đầu
+            // kéo nhanh. Trong Editor Screen.dpi thường bằng 0 nên dùng 24 px.
+            if (Screen.dpi <= 0f)
+            {
+                return FallbackDragThreshold;
+            }
+
+            return Mathf.Clamp(Screen.dpi * 0.08f, 20f, 48f);
+        }
+
+        private static Grill FindGrillAtScreenPosition(
+            Vector2 screenPosition, Grill excludedGrill = null)
+        {
+            Vector3 worldPosition = Camera.main.ScreenToWorldPoint(screenPosition);
+            Collider2D[] hits = Physics2D.OverlapPointAll(worldPosition);
+            Grill fallback = null;
+
+            foreach (Collider2D hit in hits)
+            {
+                Grill grill = hit.GetComponentInParent<Grill>();
+                if (grill == null) continue;
+                if (grill != excludedGrill) return grill;
+                fallback = grill;
+            }
+
+            return fallback;
+        }
+
+        private bool TryCompleteDrag(
+            Grill source, Grill target, SkewerVisual skewer)
+        {
+            if (source == null || target == null) return false;
+            if (isBoardLocked || !isGameActive || source.activeSkewers.Count == 0)
+                return false;
+            if (!source.activeSkewers.Contains(skewer))
+                return false;
+
+            if (source == target)
+            {
+                return source.MoveSkewerWithinGrill(
+                    skewer, skewer.transform.position);
+            }
+
+            if (!target.CanPush(skewer.GetData())) return false;
+            if (!target.CanDropAtPosition(skewer.transform.position)) return false;
+
+            ClearCurrentSelection();
+            source.Pop(skewer);
+            // Giữ vị trí thả để bếp chọn ô trống gần con trỏ nhất.
+            target.Push(skewer, 0.25f, skewer.transform.position);
+
+            if (source.activeSkewers.Count == 0 && source.waitingSkewers.Count > 0)
+            {
+                source.CheckAndClear();
+            }
+
+            target.CheckAndClear();
+            return true;
+        }
+
+        private void ResetPointerDrag()
+        {
+            pointerDownGrill = null;
+            draggedSkewer = null;
+            hasDragged = false;
+        }
+
+        private void RecoverInterruptedInputIfNeeded()
+        {
+            // Nếu lần kéo trước bị ngắt bởi mất focus hoặc animation,
+            // bảo đảm xiên không giữ sorting/state kéo mãi mãi.
+            if (draggedSkewer != null)
+            {
+                draggedSkewer.EndDrag();
+                draggedSkewer.MoveTo(dragStartPosition, 0.1f);
+                ResetPointerDrag();
+            }
+
+            // Một coroutine bếp bị ngắt có thể để lại khóa bàn dù không còn
+            // animation nào chạy. Chỉ tự mở khi game vẫn hoạt động và
+            // GameplayManager cũng không trong quá trình xáo bàn.
+            if (isBoardLocked &&
+                isGameActive &&
+                !isPaused &&
+                !isShufflingBoard &&
+                !HasAnimatingGrill())
+            {
+                isBoardLocked = false;
+            }
+        }
+
+        private bool HasAnimatingGrill()
+        {
+            foreach (Grill grill in grills)
+            {
+                if (grill != null && grill.IsAnimating)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        private void ClearCurrentSelection()
+        {
+            if (selectedSkewer != null)
+            {
+                selectedSkewer.SetSelected(false);
+            }
+            selectedGrill = null;
+            selectedSkewer = null;
         }
 
         private void UpdateTimer()
@@ -63,13 +338,195 @@ namespace FoodieSizzle
         {
             isGameActive = true;
             isBoardLocked = false;
+            isPaused = false;
+            isShufflingBoard = false;
             skewersClearedCount = 0;
             selectedGrill = null;
+            selectedSkewer = null;
+            if (gameUIManager != null) gameUIManager.HideResult();
 
-            GenerateSkewersPool();
-            DistributeSkewersToGrills();
+            if (!LoadLevelData())
+            {
+                isGameActive = false;
+                Debug.LogError("Không thể khởi tạo level. Hãy gán ít nhất 3 FoodItemData.");
+                return;
+            }
             
             Debug.Log($"Foodie Sizzle level started! Target: {skewersTarget} skewers.");
+            levelDuration = Mathf.Max(1f, timeRemaining);
+        }
+
+        public void RestartLevel()
+        {
+            StopAllCoroutines();
+            isBoardLocked = false;
+            StartNewLevel();
+        }
+
+        public void SetPaused(bool paused)
+        {
+            if (!isGameActive) return;
+
+            if (paused)
+            {
+                boardWasLockedBeforePause = isBoardLocked;
+                isPaused = true;
+                isBoardLocked = true;
+                ClearCurrentSelection();
+                ResetPointerDrag();
+            }
+            else
+            {
+                isPaused = false;
+                isBoardLocked = boardWasLockedBeforePause;
+            }
+        }
+
+        private bool LoadLevelData()
+        {
+            if (possibleFoodItems == null || possibleFoodItems.Count < 3)
+            {
+                return false;
+            }
+
+            return currentLevelData != null
+                ? LoadConfiguredLevel(currentLevelData)
+                : LoadBuiltInLevelOne();
+        }
+
+        private bool LoadConfiguredLevel(LevelData levelData)
+        {
+            Dictionary<string, FoodItemData> itemLookup =
+                new Dictionary<string, FoodItemData>();
+
+            foreach (FoodItemData item in possibleFoodItems)
+            {
+                if (item != null && !string.IsNullOrWhiteSpace(item.itemId))
+                {
+                    itemLookup[item.itemId] = item;
+                }
+            }
+
+            int totalSkewers = 0;
+            timeRemaining = levelData.timeLimitSeconds;
+
+            for (int grillIndex = 0; grillIndex < grills.Length; grillIndex++)
+            {
+                List<FoodItemData> activeLayer = new List<FoodItemData>();
+                List<List<FoodItemData>> waitingLayers = new List<List<FoodItemData>>();
+
+                if (grillIndex < levelData.grills.Count &&
+                    levelData.grills[grillIndex] != null)
+                {
+                    List<FoodLayerData> sourceLayers =
+                        levelData.grills[grillIndex].layers;
+
+                    for (int layerIndex = 0; layerIndex < sourceLayers.Count; layerIndex++)
+                    {
+                        List<FoodItemData> resolvedLayer =
+                            ResolveLayer(sourceLayers[layerIndex], itemLookup);
+                        totalSkewers += resolvedLayer.Count;
+
+                        if (layerIndex == 0)
+                        {
+                            activeLayer = resolvedLayer;
+                        }
+                        else
+                        {
+                            waitingLayers.Add(resolvedLayer);
+                        }
+                    }
+                }
+
+                if (grills[grillIndex] != null)
+                {
+                    grills[grillIndex].Initialize(activeLayer, waitingLayers, this);
+                }
+            }
+
+            skewersTarget = totalSkewers;
+            if (skewersTarget % 3 != 0)
+            {
+                Debug.LogWarning(
+                    $"Level có {skewersTarget} xiên, không chia hết cho bộ ba.");
+            }
+            return totalSkewers > 0;
+        }
+
+        private static List<FoodItemData> ResolveLayer(
+            FoodLayerData layerData,
+            Dictionary<string, FoodItemData> itemLookup)
+        {
+            List<FoodItemData> result = new List<FoodItemData>();
+            if (layerData == null) return result;
+
+            foreach (string itemId in layerData.itemIds)
+            {
+                if (itemLookup.TryGetValue(itemId, out FoodItemData item))
+                {
+                    result.Add(item);
+                }
+                else
+                {
+                    Debug.LogWarning($"Không tìm thấy FoodItemData có itemId '{itemId}'.");
+                }
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Level 1 mẫu: ba loại món, ba lớp và nhiều bếp trống.
+        /// Mỗi cặp bếp tạo sẵn nhóm 2 + 1 nên luôn có nước giải rõ ràng.
+        /// </summary>
+        private bool LoadBuiltInLevelOne()
+        {
+            FoodItemData itemA = possibleFoodItems[0];
+            FoodItemData itemB = possibleFoodItems[1];
+            FoodItemData itemC = possibleFoodItems[2];
+            if (itemA == null || itemB == null || itemC == null) return false;
+
+            FoodItemData[] types = { itemA, itemB, itemC };
+            int totalSkewers = 0;
+            const int layerCount = 3;
+
+            for (int grillIndex = 0; grillIndex < grills.Length; grillIndex++)
+            {
+                List<FoodItemData> activeLayer = new List<FoodItemData>();
+                List<List<FoodItemData>> waitingLayers = new List<List<FoodItemData>>();
+
+                if (grillIndex < 6)
+                {
+                    FoodItemData type = types[grillIndex / 2];
+                    bool isPairGrill = grillIndex % 2 == 0;
+
+                    for (int layerIndex = 0; layerIndex < layerCount; layerIndex++)
+                    {
+                        List<FoodItemData> layer = isPairGrill
+                            ? new List<FoodItemData> { type, type }
+                            : new List<FoodItemData> { type };
+
+                        totalSkewers += layer.Count;
+                        if (layerIndex == 0)
+                        {
+                            activeLayer = layer;
+                        }
+                        else
+                        {
+                            waitingLayers.Add(layer);
+                        }
+                    }
+                }
+
+                if (grills[grillIndex] != null)
+                {
+                    grills[grillIndex].Initialize(activeLayer, waitingLayers, this);
+                }
+            }
+
+            timeRemaining = 300f;
+            skewersTarget = totalSkewers;
+            return true;
         }
 
         // Generate a pool of skewers that matches in sets of 3 to guarantee they can all be cleared
@@ -160,7 +617,83 @@ namespace FoodieSizzle
             return newWaiting;
         }
 
-        // Tap input handling
+        /// <summary>
+        /// Chạm lần đầu chỉ chọn đúng xiên. Chạm lần hai vào ô trống hợp lệ
+        /// mới di chuyển; mọi đích không hợp lệ đều hủy trạng thái chọn.
+        /// </summary>
+        public void OnGrillClicked(
+            Grill grill,
+            SkewerVisual clickedSkewer,
+            Vector3 clickedWorldPosition)
+        {
+            if (isBoardLocked || !isGameActive || grill == null) return;
+
+            if (selectedSkewer == null)
+            {
+                if (clickedSkewer != null &&
+                    grill.activeSkewers.Contains(clickedSkewer))
+                {
+                    selectedGrill = grill;
+                    selectedSkewer = clickedSkewer;
+                    selectedSkewer.SetSelected(true);
+                }
+                return;
+            }
+
+            // Bấm lại đúng xiên đang chọn thì hủy chọn.
+            // Bấm một xiên khác thì chuyển lựa chọn trực tiếp sang xiên đó,
+            // tránh cảm giác lần bấm thứ hai không được nhận.
+            if (clickedSkewer != null)
+            {
+                bool clickedCurrentSkewer =
+                    clickedSkewer == selectedSkewer;
+                ClearCurrentSelection();
+
+                if (!clickedCurrentSkewer &&
+                    grill.activeSkewers.Contains(clickedSkewer))
+                {
+                    selectedGrill = grill;
+                    selectedSkewer = clickedSkewer;
+                    selectedSkewer.SetSelected(true);
+                }
+                return;
+            }
+
+            if (grill == selectedGrill)
+            {
+                SkewerVisual movingSkewer = selectedSkewer;
+                grill.MoveSkewerWithinGrill(
+                    movingSkewer,
+                    clickedWorldPosition,
+                    0.2f);
+                ClearCurrentSelection();
+                return;
+            }
+
+            if (!grill.CanPush(selectedSkewer.GetData()) ||
+                !grill.CanDropAtPosition(clickedWorldPosition))
+            {
+                ClearCurrentSelection();
+                return;
+            }
+
+            Grill sourceGrill = selectedGrill;
+            SkewerVisual movingToTarget = selectedSkewer;
+            ClearCurrentSelection();
+
+            sourceGrill.Pop(movingToTarget);
+            grill.Push(movingToTarget, 0.25f, clickedWorldPosition);
+
+            if (sourceGrill.activeSkewers.Count == 0 &&
+                sourceGrill.waitingSkewers.Count > 0)
+            {
+                sourceGrill.CheckAndClear();
+            }
+
+            grill.CheckAndClear();
+        }
+
+        // Tap input handling cũ được giữ để tương thích với scene/prefab cũ.
         public void OnGrillClicked(Grill grill)
         {
             if (isBoardLocked || !isGameActive) return;
@@ -281,6 +814,7 @@ namespace FoodieSizzle
 
         private IEnumerator ShuffleAllGrillsCoroutine()
         {
+            isShufflingBoard = true;
             isBoardLocked = true;
             yield return new WaitForSeconds(0.5f);
 
@@ -346,12 +880,18 @@ namespace FoodieSizzle
             }
 
             isBoardLocked = false;
+            isShufflingBoard = false;
             Debug.Log($"Shuffled board successfully after {attempts} attempts.");
         }
 
         private void GameOver(bool isWin)
         {
             isGameActive = false;
+            isBoardLocked = true;
+            ClearCurrentSelection();
+            ResetPointerDrag();
+            if (gameUIManager != null) gameUIManager.ShowResult(isWin);
+
             if (isWin)
             {
                 Debug.Log("LEVEL COMPLETED! You won!");
@@ -366,12 +906,22 @@ namespace FoodieSizzle
         {
             int minutes = Mathf.FloorToInt(timeRemaining / 60f);
             int seconds = Mathf.FloorToInt(timeRemaining % 60f);
-            return string.Format("{0:00}:{1:00}", minutes, seconds);
+            return string.Format(
+                "<mspace=0.70em>{0:00}:{1:00}</mspace>", minutes, seconds);
         }
 
         public string GetProgressString()
         {
-            return $"{skewersClearedCount}/{skewersTarget}";
+            int completedSets = skewersClearedCount / 3;
+            int targetSets = skewersTarget / 3;
+            return $"{completedSets}/{targetSets}";
+        }
+
+        public float GetRemainingTimeRatio()
+        {
+            return levelDuration <= 0f
+                ? 0f
+                : Mathf.Clamp01(timeRemaining / levelDuration);
         }
     }
 }

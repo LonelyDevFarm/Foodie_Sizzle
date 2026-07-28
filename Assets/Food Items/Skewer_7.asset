@@ -15,3 +15,5 @@ MonoBehaviour:
   itemId: 7
   itemSprite: {fileID: -974707178685283896, guid: fcda9f708b4164c419caf3803356358f, type: 3}
   needsStacking: 0
+  visualScale: 1
+  visualOffset: {x: 0, y: 0}

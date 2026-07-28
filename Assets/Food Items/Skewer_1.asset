@@ -14,3 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.FoodItemData
   itemId: 1
   itemSprite: {fileID: 6298351786316084440, guid: fcda9f708b4164c419caf3803356358f, type: 3}
+  needsStacking: 0
+  visualScale: 1
+  visualOffset: {x: 0, y: 0}
