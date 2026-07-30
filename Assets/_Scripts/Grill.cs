@@ -24,6 +24,44 @@ namespace FoodieSizzle
         private GameplayManager gameplayManager;
         private bool isAnimating = false;
         public bool IsAnimating => isAnimating;
+        private bool isLocked;
+        private bool isSpecialLock;
+        private string unlockItemId;
+        private GameObject lockVisualRoot;
+        public bool IsLocked => isLocked;
+        public bool IsSpecialLock => isLocked && isSpecialLock;
+
+        [Header("Bếp bị khóa")]
+        [Tooltip("Ảnh nắp bếp đóng. Dùng IndicatedPack_12 trong bộ sprite gốc.")]
+        [SerializeField] private Sprite lockedCoverSprite;
+        [Tooltip("Tinh chỉnh mép trên của nắp sau khi tự động căn với thân bếp.")]
+        [SerializeField] private float lockedCoverTopOffset;
+        [Tooltip("Thời gian nắp bếp thu nhỏ rồi biến mất khi được mở.")]
+        [Min(0.05f)] [SerializeField] private float unlockDuration = 0.25f;
+
+        [Header("Thẻ mở bằng xiên")]
+        [Tooltip("Kích thước thẻ dọc chứa hình xiên cần ghép.")]
+        [SerializeField] private Vector2 foodUnlockTagSize =
+            new Vector2(0.34f, 0.56f);
+        [Tooltip("Vị trí thẻ dọc so với tâm bếp.")]
+        [SerializeField] private Vector2 foodUnlockTagPosition =
+            new Vector2(0f, 0.02f);
+        [Tooltip("Kích thước tối đa của hình xiên bên trong thẻ.")]
+        [SerializeField] private Vector2 foodUnlockIconSize =
+            new Vector2(0.23f, 0.30f);
+
+        [Header("Thẻ mở bằng vật phẩm đặc biệt")]
+        [Tooltip("Kích thước thẻ ngang. Sau này biểu tượng vật phẩm sẽ nằm trên thẻ này.")]
+        [SerializeField] private Vector2 specialUnlockTagSize =
+            new Vector2(0.72f, 0.38f);
+        [Tooltip("Vị trí thẻ ngang so với tâm bếp.")]
+        [SerializeField] private Vector2 specialUnlockTagPosition =
+            new Vector2(0f, 0.02f);
+        [Tooltip("Icon vật phẩm Plus hiển thị trên bếp khóa đặc biệt.")]
+        [SerializeField] private Sprite specialUnlockIconSprite;
+        [Tooltip("Kích thước icon Plus trên thẻ mở khóa đặc biệt.")]
+        [SerializeField] private Vector2 specialUnlockIconSize =
+            new Vector2(0.26f, 0.26f);
         private Transform waitingPlate;
         private Transform waitingPlateBack1;
         private Transform waitingPlateBack2;
@@ -39,7 +77,13 @@ namespace FoodieSizzle
 
         [Header("Hiệu ứng hoàn thành")]
         [Tooltip("Chờ xiên bay hẳn vào ô rồi mới làm cả bộ biến mất.")]
-        [Min(0f)] public float clearArrivalDelay = 0.28f;
+        [Min(0f)] public float clearArrivalDelay = 0.22f;
+        [Tooltip("Thời gian thu nhỏ bộ ba khi hoàn thành.")]
+        [Min(0.05f)] public float clearScaleDuration = 0.18f;
+        [Tooltip("Thời gian đẩy lớp xiên chờ tiếp theo lên bếp.")]
+        [Min(0.05f)] public float waitingSlideDuration = 0.2f;
+        [Tooltip("Thời gian làm xiên chờ mới xuất hiện.")]
+        [Min(0.05f)] public float waitingSpawnDuration = 0.14f;
 
         [Header("Phạm vi nhận thao tác thả")]
         [Tooltip("Nửa chiều rộng vùng nhận của mỗi ô so với khoảng cách giữa hai ô. Nên nhỏ hơn 0.5 để hai vùng không chồng nhau.")]
@@ -53,6 +97,16 @@ namespace FoodieSizzle
         {
             FindWaitingPlate();
             ResetWaitingPlateStack();
+        }
+
+        private void OnEnable()
+        {
+            // Khi Unity biên dịch lại script trong Play Mode, coroutine cũ bị mất.
+            // Không để cờ animation sót lại và khóa bếp vĩnh viễn.
+            if (Application.isPlaying)
+            {
+                isAnimating = false;
+            }
         }
 
         private void LateUpdate()
@@ -105,6 +159,192 @@ namespace FoodieSizzle
             }
         }
 
+        /// <summary>
+        /// Khóa bếp bằng loại món được chỉ định. Bếp khóa vẫn giữ dữ liệu bên dưới
+        /// nhưng không nhận chạm, kéo, thả hoặc gợi ý.
+        /// </summary>
+        public void ConfigureLock(FoodItemData unlockItem, int sourceLockId = 0)
+        {
+            unlockItemId = unlockItem != null ? unlockItem.itemId : string.Empty;
+            isSpecialLock = sourceLockId < 0;
+            isLocked = unlockItem != null || isSpecialLock;
+            BuildOrRefreshLockVisual(unlockItem);
+        }
+
+        public bool TryUnlockForItem(string clearedItemId)
+        {
+            if (!isLocked ||
+                string.IsNullOrWhiteSpace(clearedItemId) ||
+                clearedItemId != unlockItemId)
+            {
+                return false;
+            }
+
+            StartCoroutine(UnlockCoroutine());
+            return true;
+        }
+
+        /// <summary>
+        /// Điểm nối dành cho vật phẩm mở bếp đặc biệt sau này.
+        /// Chỉ trả về true và tiêu thụ tác dụng khi bếp thực sự đang khóa đặc biệt.
+        /// </summary>
+        public bool TryUnlockSpecial()
+        {
+            if (!IsSpecialLock) return false;
+
+            StartCoroutine(UnlockCoroutine());
+            return true;
+        }
+
+        private void BuildOrRefreshLockVisual(FoodItemData unlockItem)
+        {
+            if (lockVisualRoot != null)
+            {
+                Destroy(lockVisualRoot);
+                lockVisualRoot = null;
+            }
+
+            if (!isLocked || lockedCoverSprite == null) return;
+
+            lockVisualRoot = new GameObject("LockedGrillVisual");
+            lockVisualRoot.transform.SetParent(transform, false);
+
+            GameObject coverObject = new GameObject("ClosedCover");
+            coverObject.transform.SetParent(lockVisualRoot.transform, false);
+            SpriteRenderer cover = coverObject.AddComponent<SpriteRenderer>();
+            cover.sprite = lockedCoverSprite;
+            cover.sortingOrder = 30;
+
+            const float fallbackTargetWidth = 1.28f;
+            float targetWidth = fallbackTargetWidth;
+            float targetCenterX = 0f;
+            float targetTopY = 0.59f;
+
+            Transform grillBodyTransform = transform.Find("GrillBody");
+            SpriteRenderer grillBody = grillBodyTransform != null
+                ? grillBodyTransform.GetComponent<SpriteRenderer>()
+                : null;
+            if (grillBody != null && grillBody.sprite != null)
+            {
+                Vector3 bodyMinLocal =
+                    transform.InverseTransformPoint(grillBody.bounds.min);
+                Vector3 bodyMaxLocal =
+                    transform.InverseTransformPoint(grillBody.bounds.max);
+                targetWidth = Mathf.Abs(bodyMaxLocal.x - bodyMinLocal.x);
+                targetCenterX = (bodyMinLocal.x + bodyMaxLocal.x) * 0.5f;
+                targetTopY = bodyMaxLocal.y;
+            }
+
+            float coverScale = targetWidth / lockedCoverSprite.bounds.size.x;
+            coverObject.transform.localScale =
+                new Vector3(coverScale, coverScale, 1f);
+            Vector3 scaledCenter = Vector3.Scale(
+                lockedCoverSprite.bounds.center,
+                coverObject.transform.localScale);
+            float scaledTop =
+                lockedCoverSprite.bounds.max.y * coverScale;
+            coverObject.transform.localPosition =
+                new Vector3(
+                    targetCenterX - scaledCenter.x,
+                    targetTopY + lockedCoverTopOffset - scaledTop,
+                    0f);
+
+            SpriteRenderer plateSource = waitingPlate != null
+                ? waitingPlate.GetComponent<SpriteRenderer>()
+                : null;
+            if (plateSource == null || plateSource.sprite == null)
+            {
+                return;
+            }
+
+            GameObject tagObject = new GameObject("UnlockTag");
+            tagObject.transform.SetParent(lockVisualRoot.transform, false);
+            SpriteRenderer tag = tagObject.AddComponent<SpriteRenderer>();
+            tag.sprite = plateSource.sprite;
+            tag.color = new Color(1f, 0.91f, 0.68f, 1f);
+            tag.sortingOrder = 31;
+            Vector2 tagSize = isSpecialLock
+                ? specialUnlockTagSize
+                : foodUnlockTagSize;
+            Vector2 tagPosition = isSpecialLock
+                ? specialUnlockTagPosition
+                : foodUnlockTagPosition;
+            tagObject.transform.localScale =
+                new Vector3(
+                    tagSize.x /
+                        Mathf.Max(0.001f, tag.sprite.bounds.size.x),
+                    tagSize.y /
+                        Mathf.Max(0.001f, tag.sprite.bounds.size.y),
+                    1f);
+            tagObject.transform.localPosition =
+                new Vector3(tagPosition.x, tagPosition.y, 0f);
+
+            Sprite requiredIcon = isSpecialLock
+                ? specialUnlockIconSprite
+                : unlockItem != null ? unlockItem.itemSprite : null;
+            if (requiredIcon == null)
+            {
+                // Khóa đặc biệt chỉ hiện nắp và thẻ khóa. Biểu tượng vật phẩm
+                // sẽ được gắn vào đây khi thiết kế vật phẩm mở khóa hoàn tất.
+                return;
+            }
+
+            GameObject iconObject = new GameObject(
+                isSpecialLock ? "RequiredPlusIcon" : "RequiredFoodIcon");
+            iconObject.transform.SetParent(lockVisualRoot.transform, false);
+            SpriteRenderer icon = iconObject.AddComponent<SpriteRenderer>();
+            icon.sprite = requiredIcon;
+            icon.sortingOrder = 32;
+            Vector2 iconSize = isSpecialLock
+                ? specialUnlockIconSize
+                : foodUnlockIconSize;
+            float iconScale = Mathf.Min(
+                iconSize.x /
+                    Mathf.Max(0.001f, icon.sprite.bounds.size.x),
+                iconSize.y /
+                    Mathf.Max(0.001f, icon.sprite.bounds.size.y));
+            iconObject.transform.localScale =
+                new Vector3(iconScale, iconScale, 1f);
+            iconObject.transform.localPosition =
+                new Vector3(tagPosition.x, tagPosition.y, 0f);
+        }
+
+        private IEnumerator UnlockCoroutine()
+        {
+            isAnimating = true;
+            Transform visual = lockVisualRoot != null
+                ? lockVisualRoot.transform
+                : null;
+            Vector3 startScale = visual != null
+                ? visual.localScale
+                : Vector3.one;
+            float elapsed = 0f;
+
+            while (visual != null && elapsed < unlockDuration)
+            {
+                elapsed += Time.deltaTime;
+                float t = Mathf.Clamp01(elapsed / unlockDuration);
+                visual.localScale = Vector3.Lerp(
+                    startScale,
+                    Vector3.zero,
+                    t * t);
+                yield return null;
+            }
+
+            if (lockVisualRoot != null)
+            {
+                Destroy(lockVisualRoot);
+                lockVisualRoot = null;
+            }
+
+            isLocked = false;
+            isSpecialLock = false;
+            unlockItemId = string.Empty;
+            isAnimating = false;
+            CheckAndClear();
+            gameplayManager?.CheckGameStatus();
+        }
+
         public void Initialize(
             List<FoodItemData> initialActive,
             List<FoodItemData> initialWaiting,
@@ -132,6 +372,11 @@ namespace FoodieSizzle
 
             foreach (GameObject oldSkewer in oldSkewers)
             {
+                foreach (Renderer renderer in
+                         oldSkewer.GetComponentsInChildren<Renderer>())
+                {
+                    renderer.enabled = false;
+                }
                 Destroy(oldSkewer);
             }
         }
@@ -189,8 +434,252 @@ namespace FoodieSizzle
 
         public bool CanPush(FoodItemData item)
         {
-            if (isAnimating) return false;
+            if (isAnimating || isLocked) return false;
             return activeSkewers.Count < activeSlots.Length;
+        }
+
+        public int CountActiveItem(string itemId)
+        {
+            if (isLocked || string.IsNullOrWhiteSpace(itemId)) return 0;
+
+            int count = 0;
+            foreach (SkewerVisual skewer in activeSkewers)
+            {
+                if (skewer != null && skewer.GetData() != null &&
+                    skewer.GetData().itemId == itemId)
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        public int CountAllItem(string itemId)
+        {
+            if (isLocked || string.IsNullOrWhiteSpace(itemId)) return 0;
+
+            int count = CountActiveItem(itemId);
+            foreach (SkewerVisual skewer in waitingSkewers)
+            {
+                if (skewer != null && skewer.GetData() != null &&
+                    skewer.GetData().itemId == itemId)
+                {
+                    count++;
+                }
+            }
+
+            foreach (List<FoodItemData> layer in waitingLayerQueue)
+            {
+                if (layer == null) continue;
+                foreach (FoodItemData item in layer)
+                {
+                    if (item != null && item.itemId == itemId)
+                    {
+                        count++;
+                    }
+                }
+            }
+            return count;
+        }
+
+        public void AppendAllFoodData(List<FoodItemData> output)
+        {
+            if (isLocked || output == null) return;
+
+            foreach (SkewerVisual skewer in activeSkewers)
+            {
+                if (skewer != null && skewer.GetData() != null)
+                    output.Add(skewer.GetData());
+            }
+            foreach (SkewerVisual skewer in waitingSkewers)
+            {
+                if (skewer != null && skewer.GetData() != null)
+                    output.Add(skewer.GetData());
+            }
+            foreach (List<FoodItemData> layer in waitingLayerQueue)
+            {
+                if (layer == null) continue;
+                foreach (FoodItemData item in layer)
+                {
+                    if (item != null) output.Add(item);
+                }
+            }
+        }
+
+        /// <summary>
+        /// Lấy các món đủ gần để Order có thể yêu cầu một cách công bằng.
+        /// waitingDepth = 0 chỉ xét món đang trên bếp; 1 tính thêm đĩa chờ
+        /// hiện tại; các mức lớn hơn mới đi sâu dần vào hàng chờ.
+        /// </summary>
+        public void AppendOrderCandidateData(
+            List<FoodItemData> output,
+            int waitingDepth)
+        {
+            if (isLocked || output == null) return;
+
+            foreach (SkewerVisual skewer in activeSkewers)
+            {
+                FoodItemData data =
+                    skewer != null ? skewer.GetData() : null;
+                if (data != null) output.Add(data);
+            }
+
+            if (waitingDepth <= 0) return;
+
+            foreach (SkewerVisual skewer in waitingSkewers)
+            {
+                FoodItemData data =
+                    skewer != null ? skewer.GetData() : null;
+                if (data != null) output.Add(data);
+            }
+
+            int remainingQueuedLayers = waitingDepth - 1;
+            foreach (List<FoodItemData> layer in waitingLayerQueue)
+            {
+                if (remainingQueuedLayers-- <= 0) break;
+                if (layer == null) continue;
+                foreach (FoodItemData item in layer)
+                {
+                    if (item != null) output.Add(item);
+                }
+            }
+        }
+
+        /// <summary>
+        /// Thay loại món theo đúng số ô hiện có. Vị trí bếp, số lớp và số đĩa
+        /// được giữ nguyên; chỉ FoodItemData bên trong bị xáo.
+        /// </summary>
+        public int ReplaceAllFoodData(
+            IList<FoodItemData> shuffledItems,
+            int startIndex)
+        {
+            if (isLocked || shuffledItems == null) return startIndex;
+
+            foreach (SkewerVisual skewer in activeSkewers)
+            {
+                if (skewer == null || startIndex >= shuffledItems.Count)
+                    continue;
+                skewer.SetData(shuffledItems[startIndex++]);
+                skewer.SetDisplayScale(1f);
+                skewer.transform.localRotation = Quaternion.identity;
+            }
+            for (int waitingIndex = 0;
+                 waitingIndex < waitingSkewers.Count;
+                 waitingIndex++)
+            {
+                SkewerVisual skewer = waitingSkewers[waitingIndex];
+                if (skewer == null || startIndex >= shuffledItems.Count)
+                    continue;
+                skewer.SetData(shuffledItems[startIndex++]);
+                ConfigureWaitingSkewer(skewer, waitingIndex);
+            }
+            foreach (List<FoodItemData> layer in waitingLayerQueue)
+            {
+                if (layer == null) continue;
+                for (int i = 0; i < layer.Count; i++)
+                {
+                    if (layer[i] == null || startIndex >= shuffledItems.Count)
+                        continue;
+                    layer[i] = shuffledItems[startIndex++];
+                }
+            }
+            return startIndex;
+        }
+
+        /// <summary>
+        /// Loại tối đa amount xiên đúng loại khỏi cả bếp và các lớp chờ.
+        /// Sau đó dựng lại riêng bếp này để lớp/đĩa rỗng được thu gọn chính xác.
+        /// </summary>
+        public int RemoveItemsForBox(
+            FoodItemData targetItem,
+            int amount,
+            List<FoodItemData> removedItems)
+        {
+            if (isLocked || isAnimating || targetItem == null || amount <= 0)
+                return 0;
+
+            List<List<FoodItemData>> layers = ExportCurrentLayers();
+            int removed = 0;
+            for (int layerIndex = 0;
+                 layerIndex < layers.Count && removed < amount;
+                 layerIndex++)
+            {
+                List<FoodItemData> layer = layers[layerIndex];
+                for (int itemIndex = layer.Count - 1;
+                     itemIndex >= 0 && removed < amount;
+                    itemIndex--)
+                {
+                    FoodItemData item = layer[itemIndex];
+                    if (!FoodItemData.AreMatching(item, targetItem)) continue;
+
+                    layer.RemoveAt(itemIndex);
+                    removedItems?.Add(item);
+                    removed++;
+                }
+            }
+
+            if (removed == 0) return 0;
+
+            for (int i = layers.Count - 1; i >= 0; i--)
+            {
+                if (layers[i].Count == 0)
+                {
+                    layers.RemoveAt(i);
+                }
+            }
+
+            List<FoodItemData> active = layers.Count > 0
+                ? layers[0]
+                : new List<FoodItemData>();
+            List<List<FoodItemData>> waiting =
+                layers.Count > 1
+                    ? layers.GetRange(1, layers.Count - 1)
+                    : new List<List<FoodItemData>>();
+            Initialize(active, waiting, gameplayManager);
+            return removed;
+        }
+
+        private List<List<FoodItemData>> ExportCurrentLayers()
+        {
+            List<List<FoodItemData>> layers =
+                new List<List<FoodItemData>>();
+
+            List<SkewerVisual> orderedActive =
+                new List<SkewerVisual>(activeSkewers);
+            orderedActive.Sort((a, b) =>
+            {
+                int aIndex = activeSlotIndices.TryGetValue(a, out int ai)
+                    ? ai : int.MaxValue;
+                int bIndex = activeSlotIndices.TryGetValue(b, out int bi)
+                    ? bi : int.MaxValue;
+                return aIndex.CompareTo(bIndex);
+            });
+
+            List<FoodItemData> active = new List<FoodItemData>();
+            foreach (SkewerVisual skewer in orderedActive)
+            {
+                if (skewer != null && skewer.GetData() != null)
+                    active.Add(skewer.GetData());
+            }
+            layers.Add(active);
+
+            if (waitingSkewers.Count > 0)
+            {
+                List<FoodItemData> waiting = new List<FoodItemData>();
+                foreach (SkewerVisual skewer in waitingSkewers)
+                {
+                    if (skewer != null && skewer.GetData() != null)
+                        waiting.Add(skewer.GetData());
+                }
+                layers.Add(waiting);
+            }
+
+            foreach (List<FoodItemData> queuedLayer in waitingLayerQueue)
+            {
+                if (queuedLayer != null)
+                    layers.Add(new List<FoodItemData>(queuedLayer));
+            }
+            return layers;
         }
 
         /// <summary>
@@ -198,6 +687,7 @@ namespace FoodieSizzle
         /// </summary>
         public SkewerVisual GetSkewerAtWorldPosition(Vector3 worldPosition)
         {
+            if (isLocked) return null;
             SkewerVisual nearestSkewer = null;
             float nearestDistance = float.MaxValue;
 
@@ -270,6 +760,7 @@ namespace FoodieSizzle
             float duration = 0.25f,
             Vector3? preferredWorldPosition = null)
         {
+            if (isLocked) return;
             int slotIndex = FindNearestEmptySlot(
                 preferredWorldPosition ?? transform.position);
             if (slotIndex < 0) return;
@@ -403,7 +894,7 @@ namespace FoodieSizzle
         public bool CanDropAtPosition(
             Vector3 worldPosition, SkewerVisual ignoredSkewer = null)
         {
-            if (isAnimating) return false;
+            if (isAnimating || isLocked) return false;
 
             int intendedSlot = FindNearestSlot(worldPosition);
             return intendedSlot >= 0 &&
@@ -416,7 +907,7 @@ namespace FoodieSizzle
         public bool MoveSkewerWithinGrill(
             SkewerVisual skewer, Vector3 dropWorldPosition, float duration = 0.15f)
         {
-            if (isAnimating || skewer == null ||
+            if (isAnimating || isLocked || skewer == null ||
                 !activeSlotIndices.ContainsKey(skewer))
                 return false;
 
@@ -433,14 +924,15 @@ namespace FoodieSizzle
 
         public SkewerVisual Pop()
         {
-            if (activeSkewers.Count == 0 || isAnimating) return null;
+            if (activeSkewers.Count == 0 || isAnimating || isLocked) return null;
 
             return Pop(activeSkewers[activeSkewers.Count - 1]);
         }
 
         public SkewerVisual Pop(SkewerVisual skewer)
         {
-            if (isAnimating || skewer == null || !activeSkewers.Contains(skewer))
+            if (isAnimating || isLocked || skewer == null ||
+                !activeSkewers.Contains(skewer))
                 return null;
 
             SkewerVisual popped = skewer;
@@ -467,6 +959,7 @@ namespace FoodieSizzle
 
         public void CheckAndClear()
         {
+            if (isLocked) return;
             if (activeSkewers.Count == 0 && waitingSkewers.Count > 0 && !isAnimating)
             {
                 StartCoroutine(RevealWaitingLayerCoroutine());
@@ -475,12 +968,14 @@ namespace FoodieSizzle
 
             if (activeSkewers.Count == 3)
             {
-                string firstId = activeSkewers[0].GetData().itemId;
+                FoodItemData firstItem = activeSkewers[0].GetData();
                 bool isMatch = true;
 
                 for (int i = 1; i < 3; i++)
                 {
-                    if (activeSkewers[i].GetData().itemId != firstId)
+                    if (!FoodItemData.AreMatching(
+                            firstItem,
+                            activeSkewers[i].GetData()))
                     {
                         isMatch = false;
                         break;
@@ -497,18 +992,23 @@ namespace FoodieSizzle
         private IEnumerator ClearGrillCoroutine()
         {
             isAnimating = true;
-            gameplayManager.SetBoardLocked(true);
 
-            // Chờ xiên vừa thả bay vào đúng vị trí rồi mới bắt đầu hiệu ứng xóa.
+            // Chỉ khóa bếp này. Các bếp khác vẫn nhận thao tác để nhịp chơi
+            // không bị ngắt khi nhiều bộ ba được hoàn thành liên tiếp.
             yield return new WaitForSeconds(clearArrivalDelay);
 
             List<SkewerVisual> toClear = new List<SkewerVisual>(activeSkewers);
             activeSkewers.Clear();
             activeSlotIndices.Clear();
 
+            foreach (SkewerVisual skewer in toClear)
+            {
+                skewer?.ClearSelectionEffectImmediately();
+            }
+
             // Thu nhỏ dần về 0 (dùng CalculatedScale thay vì Vector3.one)
             float elapsed = 0f;
-            float duration = 0.3f;
+            float duration = clearScaleDuration;
             while (elapsed < duration)
             {
                 float t = elapsed / duration;
@@ -530,7 +1030,12 @@ namespace FoodieSizzle
                 }
             }
 
-            yield return new WaitForSeconds(0.1f);
+            if (toClear.Count > 0 && toClear[0] != null)
+            {
+                gameplayManager.OnMatchingSetCleared(toClear[0].GetData());
+            }
+
+            yield return new WaitForSeconds(0.03f);
 
             if (waitingSkewers.Count > 0)
             {
@@ -538,7 +1043,6 @@ namespace FoodieSizzle
             }
 
             isAnimating = false;
-            gameplayManager.SetBoardLocked(false);
 
             gameplayManager.CheckGameStatus();
         }
@@ -549,7 +1053,7 @@ namespace FoodieSizzle
             activeSlotIndices.Clear();
             waitingSkewers.Clear();
 
-            float duration = 0.3f;
+            float duration = waitingSlideDuration;
             for (int i = 0; i < activeSkewers.Count; i++)
             {
                 Vector3 targetPos = activeSlots[i].position;
@@ -576,12 +1080,14 @@ namespace FoodieSizzle
 
                 // Hiệu ứng phình to: từ 0 lên đúng CalculatedScale (không phải Vector3.one)
                 skewer.transform.localScale = Vector3.zero;
-                StartCoroutine(ScaleUpSkewerCoroutine(skewer, 0.2f));
+                StartCoroutine(ScaleUpSkewerCoroutine(
+                    skewer,
+                    waitingSpawnDuration));
             }
 
             if (newWaitingData.Count > 0)
             {
-                yield return new WaitForSeconds(0.2f);
+                yield return new WaitForSeconds(waitingSpawnDuration);
             }
         }
 
@@ -628,12 +1134,10 @@ namespace FoodieSizzle
         private IEnumerator RevealWaitingLayerCoroutine()
         {
             isAnimating = true;
-            gameplayManager.SetBoardLocked(true);
 
             yield return StartCoroutine(SlideUpWaitingSkewersCoroutine());
 
             isAnimating = false;
-            gameplayManager.SetBoardLocked(false);
             gameplayManager.CheckGameStatus();
         }
 

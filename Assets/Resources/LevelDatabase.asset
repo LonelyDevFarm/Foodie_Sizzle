@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccce1ef09a43435fa09dfa71f1502bd7, type: 3}
+  m_Name: LevelDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.LevelDatabase
+  schemaVersion: 1
+  sourceName: 2.3.0_BaseCohortFix.json
+  sourceMinimumClientVersion: 1.0.0
+  levels:
+  - {fileID: 11400000, guid: 744b3f4fee3e16e4a97f6d4a8f7e1308, type: 2}
+  - {fileID: 11400000, guid: a869c1662ab8333409ff45bfb1ad0203, type: 2}
+  - {fileID: 11400000, guid: 6f2ac5847ad706746b1fcd1dcb1a37f5, type: 2}
+  - {fileID: 11400000, guid: 14cb32a43ea689c4783e4befd29f34b0, type: 2}
+  - {fileID: 11400000, guid: c2d7c9a38c135d348a350a506fe38d93, type: 2}
+  - {fileID: 11400000, guid: 7cf64d2ddb8201040a0b64865e2d178a, type: 2}
+  - {fileID: 11400000, guid: b1824c3d815523a4b998bfd64a0eafc7, type: 2}
+  - {fileID: 11400000, guid: 77adf4d52929e424fb1ee72055ea57cb, type: 2}
+  - {fileID: 11400000, guid: 5af48eba4b56eb345a75b1b2445d76cd, type: 2}
+  - {fileID: 11400000, guid: 188f4a23bc8e7e74ca1176d67501addc, type: 2}

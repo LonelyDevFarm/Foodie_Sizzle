@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca7140bcbbaa924eb9c64a77dc273d9, type: 3}
+  m_Name: Level_008
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.LevelData
+  schemaVersion: 4
+  levelNumber: 8
+  sourceLevelId: Level 8_New
+  rows: 4
+  columns: 3
+  timeLimitSeconds: 470
+  useDda: 1
+  shuffleIcons: 1
+  difficulty: 0
+  sourceGrillConveyorSpeed: 1
+  sourceGrillConveyorStart: -1
+  sourceVisualSimilarity: -1
+  sourceUseSmartIconSelection: 0
+  sourceOrderCount: 2
+  sourceConveyorRowCount: 0
+  grills:
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 9
+      - 0
+      - 35
+    - itemIds:
+      - 36
+      - 14
+    - itemIds:
+      - 1
+      - 36
+    - itemIds:
+      - 24
+      - 8
+    - itemIds:
+      - 1
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 1
+      - 23
+    - itemIds:
+      - 7
+      - 25
+      - 31
+    - itemIds:
+      - 3
+      - 22
+    - itemIds:
+      - 26
+    - itemIds:
+      - 12
+      - 12
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 36
+      - 4
+    - itemIds:
+      - 22
+      - 1
+    - itemIds:
+      - 22
+      - 12
+    - itemIds:
+      - 24
+      - 24
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 9
+      - 31
+    - itemIds:
+      - 12
+      - 24
+      - 24
+    - itemIds:
+      - 16
+      - 9
+    - itemIds:
+      - 26
+      - 1
+    - itemIds:
+      - 7
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 9
+      - 26
+    - itemIds:
+      - 2
+      - 20
+      - 20
+    - itemIds:
+      - 26
+    - itemIds:
+      - 20
+      - 30
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 4
+      - 24
+    - itemIds:
+      - 22
+    - itemIds:
+      - 31
+      - 11
+    - itemIds:
+      - 1
+      - 7
+    - itemIds:
+      - 29
+      - 29
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 33
+      - 33
+      - 22
+    - itemIds:
+      - 26
+      - 3
+      - 33
+    - itemIds:
+      - 30
+      - 30
+    - itemIds:
+      - 9
+      - 9
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 8
+      - 0
+      - 8
+    - itemIds:
+      - 3
+      - 32
+      - 32
+    - itemIds:
+      - 8
+      - 8
+    - itemIds:
+      - 8
+      - 31
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 23
+      - 14
+      - 23
+    - itemIds:
+      - 0
+      - 14
+    - itemIds:
+      - 25
+      - 7
+      - 8
+    - itemIds:
+      - 0
+      - 12
+    - itemIds:
+      - 0
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 32
+      - 4
+    - itemIds:
+      - 8
+      - 16
+    - itemIds:
+      - 7
+      - 16
+    - itemIds:
+      - 6
+      - 31
+    - itemIds:
+      - 29
+      - 0
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 8
+      - 6
+    - itemIds:
+      - 35
+      - 35
+      - 11
+    - itemIds:
+      - 11
+      - 7
+    - itemIds:
+      - 22
+      - 31
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 6
+      - 6
+      - 25
+    - itemIds:
+      - 2
+      - 2
+    - itemIds:
+      - 6
+      - 12
+    - itemIds:
+      - 6
+      - 26
+  orders:
+  - timeLimitSeconds: 60
+    numberOfFood: 1
+    preferredLayers: 00000000
+    isSpicy: 000000
+    matchesToTrigger: 10
+  - timeLimitSeconds: 130
+    numberOfFood: 2
+    preferredLayers: 0000000001000000
+    isSpicy: 000000
+    matchesToTrigger: 20

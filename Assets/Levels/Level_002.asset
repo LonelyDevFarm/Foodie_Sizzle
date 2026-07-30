@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca7140bcbbaa924eb9c64a77dc273d9, type: 3}
+  m_Name: Level_002
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.LevelData
+  schemaVersion: 4
+  levelNumber: 2
+  sourceLevelId: Level 2_New
+  rows: 3
+  columns: 3
+  timeLimitSeconds: 240
+  useDda: 0
+  shuffleIcons: 1
+  difficulty: 0
+  sourceGrillConveyorSpeed: 1
+  sourceGrillConveyorStart: -1
+  sourceVisualSimilarity: -1
+  sourceUseSmartIconSelection: 0
+  sourceOrderCount: 0
+  sourceConveyorRowCount: 0
+  grills:
+  - sourceLockId: 5
+    unlockItemId: 4
+    layers:
+    - itemIds:
+      - 8
+      - 9
+    - itemIds:
+      - 14
+      - 14
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 3
+      - 3
+    - itemIds:
+      - 13
+      - 16
+    - itemIds:
+      - 13
+      - 16
+  - sourceLockId: 5
+    unlockItemId: 4
+    layers:
+    - itemIds:
+      - 0
+      - 13
+      - 0
+    - itemIds:
+      - 11
+      - 12
+      - 12
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 6
+      - 7
+    - itemIds:
+      - 19
+      - 19
+    - itemIds:
+      - 18
+      - 9
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 4
+      - 4
+    - itemIds:
+      - 14
+      - 9
+    - itemIds:
+      - 16
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 3
+      - 4
+    - itemIds:
+      - 1
+      - 1
+    - itemIds:
+      - 10
+      - 17
+      - 18
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 6
+      - 6
+    - itemIds:
+      - 10
+      - 2
+      - 2
+    - itemIds:
+      - 10
+      - 18
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 0
+      - 1
+      - 2
+    - itemIds:
+      - 7
+      - 12
+    - itemIds:
+      - 17
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 8
+      - 8
+    - itemIds:
+      - 17
+      - 11
+      - 11
+    - itemIds:
+      - 7
+      - 19
+  orders: []

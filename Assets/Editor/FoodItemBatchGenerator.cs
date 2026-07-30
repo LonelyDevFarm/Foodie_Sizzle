@@ -18,6 +18,13 @@ public static class FoodItemBatchGenerator
         "Assets/BaseGame/UsedSprites/sactx-0-2048x2048-Crunch-Skewer-467c83a6_0.png";
     private const string OutputFolder = "Assets/Food Items";
     private const float StackingHeightThreshold = 120f;
+    private static readonly Dictionary<int, int> DuplicateFoodAliases =
+        new Dictionary<int, int>
+        {
+            // Hai cặp sprite đơn bị lặp lại trong atlas nguồn.
+            { 61, 58 },
+            { 62, 59 }
+        };
 
     private static readonly Regex SpriteIndexPattern =
         new Regex(@"_(\d+)$", RegexOptions.Compiled);
@@ -64,6 +71,18 @@ public static class FoodItemBatchGenerator
 
         foreach ((int index, Sprite sprite) in sprites)
         {
+            if (DuplicateFoodAliases.ContainsKey(index))
+            {
+                string duplicatePath =
+                    $"{OutputFolder}/Skewer_{index}.asset";
+                if (AssetDatabase.LoadAssetAtPath<FoodItemData>(
+                        duplicatePath) != null)
+                {
+                    AssetDatabase.DeleteAsset(duplicatePath);
+                }
+                continue;
+            }
+
             string assetPath = $"{OutputFolder}/Skewer_{index}.asset";
             FoodItemData foodItem =
                 AssetDatabase.LoadAssetAtPath<FoodItemData>(assetPath);

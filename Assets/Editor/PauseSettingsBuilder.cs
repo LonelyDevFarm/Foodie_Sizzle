@@ -14,7 +14,7 @@ namespace FoodieSizzle.EditorTools
     [InitializeOnLoad]
     public static class PauseSettingsBuilder
     {
-        private const string ScenePath = "Assets/Scenes/SampleScene.unity";
+        private const string ScenePath = "Assets/Scenes/GameplayScene.unity";
         private const string MarkerName = "_PauseSettings_v1";
         private const string OnPath =
             "Assets/BaseGame/UsedSprites/pause_toggle_on.png";

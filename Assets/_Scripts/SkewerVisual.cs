@@ -15,9 +15,16 @@ namespace FoodieSizzle
         private const float TARGET_WIDTH = 0.3f;
         private const float STACK_HEIGHT_MULTIPLIER = 2.1f;
 
+        [Header("Hiệu ứng khi chọn")]
+        [SerializeField] [Range(1f, 1.25f)]
+        private float selectedScaleMultiplier = 1.1f;
+        [SerializeField] [Min(0.01f)]
+        private float selectionScaleDuration = 0.08f;
+
         private FoodItemData itemData;
         private SpriteRenderer mainRenderer;
         private Coroutine moveRoutine;
+        private Coroutine selectionScaleRoutine;
         private bool isDragging;
         private bool isSelected;
         private Vector3 scaleBeforeSelection;
@@ -35,11 +42,23 @@ namespace FoodieSizzle
 
         public void SetData(FoodItemData data)
         {
+            if (selectionScaleRoutine != null)
+            {
+                StopCoroutine(selectionScaleRoutine);
+                selectionScaleRoutine = null;
+            }
+            isSelected = false;
             itemData = data;
 
             // Dọn dẹp các nguyên liệu con cũ
             foreach (Transform child in transform)
             {
+                SpriteRenderer oldRenderer =
+                    child.GetComponent<SpriteRenderer>();
+                if (oldRenderer != null)
+                {
+                    oldRenderer.enabled = false;
+                }
                 Destroy(child.gameObject);
             }
 
@@ -161,7 +180,6 @@ namespace FoodieSizzle
             if (selected)
             {
                 scaleBeforeSelection = transform.localScale;
-                transform.localScale = scaleBeforeSelection * 1.06f;
                 OffsetSortingOrder(10);
 
                 foreach (SpriteRenderer renderer in
@@ -171,11 +189,12 @@ namespace FoodieSizzle
                 }
 
                 SetSelectionOutlineVisible(true);
+                AnimateSelectionScale(
+                    scaleBeforeSelection * selectedScaleMultiplier);
             }
             else
             {
                 SetSelectionOutlineVisible(false);
-                transform.localScale = scaleBeforeSelection;
                 OffsetSortingOrder(-10);
 
                 foreach (SpriteRenderer renderer in
@@ -183,7 +202,64 @@ namespace FoodieSizzle
                 {
                     renderer.color = Color.white;
                 }
+
+                AnimateSelectionScale(scaleBeforeSelection);
             }
+        }
+
+        private void AnimateSelectionScale(Vector3 targetScale)
+        {
+            if (selectionScaleRoutine != null)
+            {
+                StopCoroutine(selectionScaleRoutine);
+            }
+
+            selectionScaleRoutine = StartCoroutine(
+                AnimateSelectionScaleCoroutine(targetScale));
+        }
+
+        private IEnumerator AnimateSelectionScaleCoroutine(
+            Vector3 targetScale)
+        {
+            Vector3 startScale = transform.localScale;
+            float elapsed = 0f;
+
+            while (elapsed < selectionScaleDuration)
+            {
+                elapsed += Time.deltaTime;
+                float t = Mathf.Clamp01(
+                    elapsed / selectionScaleDuration);
+                // Ease-out nhẹ để phản hồi nhanh nhưng không bị giật.
+                float easedT = 1f - (1f - t) * (1f - t);
+                transform.localScale = Vector3.Lerp(
+                    startScale,
+                    targetScale,
+                    easedT);
+                yield return null;
+            }
+
+            transform.localScale = targetScale;
+            selectionScaleRoutine = null;
+        }
+
+        /// <summary>
+        /// Bỏ hiệu ứng chọn ngay trước khi xiên bị xóa hoặc được dựng lại.
+        /// Nhờ vậy coroutine trả scale không đè lên animation biến mất.
+        /// </summary>
+        public void ClearSelectionEffectImmediately()
+        {
+            if (selectionScaleRoutine != null)
+            {
+                StopCoroutine(selectionScaleRoutine);
+                selectionScaleRoutine = null;
+            }
+
+            if (!isSelected) return;
+
+            isSelected = false;
+            SetSelectionOutlineVisible(false);
+            OffsetSortingOrder(-10);
+            transform.localScale = scaleBeforeSelection;
         }
 
         private void SetSelectionOutlineVisible(bool visible)

@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca7140bcbbaa924eb9c64a77dc273d9, type: 3}
+  m_Name: Level_006
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.LevelData
+  schemaVersion: 4
+  levelNumber: 6
+  sourceLevelId: Level 6_New
+  rows: 4
+  columns: 3
+  timeLimitSeconds: 240
+  useDda: 1
+  shuffleIcons: 1
+  difficulty: 0
+  sourceGrillConveyorSpeed: 1
+  sourceGrillConveyorStart: -1
+  sourceVisualSimilarity: -1
+  sourceUseSmartIconSelection: 0
+  sourceOrderCount: 5
+  sourceConveyorRowCount: 0
+  grills:
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 41
+      - 47
+    - itemIds:
+      - 37
+      - 37
+      - 18
+    - itemIds:
+      - 11
+      - 36
+      - 59
+    - itemIds:
+      - 33
+      - 27
+      - 27
+    - itemIds:
+      - 1
+      - 1
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 56
+      - 63
+      - 56
+    - itemIds:
+      - 35
+      - 58
+      - 30
+    - itemIds:
+      - 36
+      - 58
+    - itemIds:
+      - 43
+      - 43
+    - itemIds:
+      - 44
+      - 29
+      - 44
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 39
+      - 39
+    - itemIds:
+      - 40
+      - 23
+      - 23
+    - itemIds:
+      - 38
+      - 38
+    - itemIds:
+      - 52
+      - 8
+      - 43
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 35
+      - 35
+    - itemIds:
+      - 20
+      - 20
+    - itemIds:
+      - 22
+      - 37
+    - itemIds:
+      - 9
+      - 6
+      - 9
+    - itemIds:
+      - 29
+      - 1
+      - 0
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 57
+      - 35
+    - itemIds:
+      - 58
+      - 53
+      - 58
+    - itemIds:
+      - 30
+      - 30
+    - itemIds:
+      - 52
+      - 8
+    - itemIds:
+      - 29
+      - 0
+      - 46
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 47
+      - 47
+    - itemIds:
+      - 41
+      - 39
+      - 41
+    - itemIds:
+      - 22
+      - 11
+      - 22
+    - itemIds:
+      - 52
+      - 8
+    - itemIds:
+      - 0
+      - 44
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 40
+      - 20
+      - 40
+    - itemIds:
+      - 18
+      - 23
+      - 18
+    - itemIds:
+      - 38
+      - 59
+    - itemIds:
+      - 9
+      - 6
+    - itemIds:
+      - 19
+      - 46
+      - 46
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 4
+      - 63
+      - 63
+    - itemIds:
+      - 58
+      - 58
+    - itemIds:
+      - 2
+      - 2
+    - itemIds:
+      - 45
+      - 45
+    - itemIds:
+      - 19
+      - 16
+      - 19
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 4
+      - 4
+    - itemIds:
+      - 53
+      - 53
+    - itemIds:
+      - 35
+      - 35
+    - itemIds:
+      - 59
+      - 6
+      - 59
+    - itemIds:
+      - 16
+      - 27
+      - 16
+  - sourceLockId: -1
+    unlockItemId: 
+    layers: []
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 57
+      - 56
+      - 57
+    - itemIds:
+      - 59
+      - 2
+      - 59
+    - itemIds:
+      - 36
+      - 11
+      - 45
+    - itemIds:
+      - 33
+      - 33
+  - sourceLockId: -2
+    unlockItemId: 
+    layers: []
+  orders:
+  - timeLimitSeconds: 90
+    numberOfFood: 1
+    preferredLayers: 00000000
+    isSpicy: 000000
+    matchesToTrigger: 1
+  - timeLimitSeconds: 130
+    numberOfFood: 2
+    preferredLayers: 0000000000000000
+    isSpicy: 000000
+    matchesToTrigger: 6
+  - timeLimitSeconds: 90
+    numberOfFood: 1
+    preferredLayers: 00000000
+    isSpicy: 000000
+    matchesToTrigger: 10
+  - timeLimitSeconds: 130
+    numberOfFood: 2
+    preferredLayers: 0000000000000000
+    isSpicy: 000000
+    matchesToTrigger: 15
+  - timeLimitSeconds: 90
+    numberOfFood: 1
+    preferredLayers: 00000000
+    isSpicy: 000000
+    matchesToTrigger: 21

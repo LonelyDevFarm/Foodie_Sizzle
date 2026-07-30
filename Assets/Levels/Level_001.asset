@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca7140bcbbaa924eb9c64a77dc273d9, type: 3}
+  m_Name: Level_001
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.LevelData
+  schemaVersion: 4
+  levelNumber: 1
+  sourceLevelId: Level 1_New
+  rows: 2
+  columns: 3
+  timeLimitSeconds: 600
+  useDda: 0
+  shuffleIcons: 0
+  difficulty: 0
+  sourceGrillConveyorSpeed: 1
+  sourceGrillConveyorStart: -1
+  sourceVisualSimilarity: -1
+  sourceUseSmartIconSelection: 0
+  sourceOrderCount: 0
+  sourceConveyorRowCount: 0
+  grills:
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 2
+      - 37
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 2
+      - 2
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 12
+    - itemIds:
+      - 37
+      - 20
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 37
+      - 25
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 12
+      - 12
+    - itemIds:
+      - 20
+      - 20
+  - sourceLockId: 0
+    unlockItemId: 
+    layers:
+    - itemIds:
+      - 25
+      - 25
+  orders: []

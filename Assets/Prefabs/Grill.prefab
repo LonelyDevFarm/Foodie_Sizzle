@@ -661,5 +661,22 @@ MonoBehaviour:
   - {fileID: 1653765076523909962}
   activeSkewers: []
   waitingSkewers: []
+  lockedCoverSprite: {fileID: -4826664624199459284, guid: 75014bc5cb68501438b9e9e4219d693b, type: 3}
+  lockedCoverTopOffset: 0
+  unlockDuration: 0.25
+  foodUnlockTagSize: {x: 0.34, y: 0.56}
+  foodUnlockTagPosition: {x: 0, y: 0.02}
+  foodUnlockIconSize: {x: 0.23, y: 0.3}
+  specialUnlockTagSize: {x: 0.5, y: 0.5}
+  specialUnlockTagPosition: {x: 0, y: 0.02}
+  specialUnlockIconSprite: {fileID: 6155184837740117102, guid: 55c7c901372ea2e41a7d204df5b31968, type: 3}
+  specialUnlockIconSize: {x: 0.26, y: 0.26}
   initialPlateCount: 5
   plateLayerSpacing: 0.05
+  clearArrivalDelay: 0.22
+  clearScaleDuration: 0.18
+  waitingSlideDuration: 0.2
+  waitingSpawnDuration: 0.14
+  horizontalDropRangeRatio: 0.48
+  verticalDropRangeRatio: 0.8
+  skewerTapPadding: 0.12

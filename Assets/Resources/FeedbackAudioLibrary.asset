@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 517431c623826e847a4f98f84d762b28, type: 3}
+  m_Name: FeedbackAudioLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.FeedbackAudioLibrary
+  gameplayMusic: {fileID: 8300000, guid: 628d65711a16bc949af9ad879d0a0889, type: 3}
+  uiButton: {fileID: 8300000, guid: d1ac5901f97d6bc4186f43d0be4aa28b, type: 3}
+  selectSkewer: {fileID: 8300000, guid: 82d54da5dc25f1140af8f70b09b30dd0, type: 3}
+  validDrop: {fileID: 8300000, guid: 9c745dc27a123cd40b2f6a9857c6ff93, type: 3}
+  invalidDrop: {fileID: 8300000, guid: 12ae812ff7f3f824d901a9bcec7ba572, type: 3}
+  matchingSets:
+  - {fileID: 8300000, guid: a44b45b0a5e7e4849bb0594a737c6a1b, type: 3}
+  - {fileID: 8300000, guid: ab666c58e075345429ab8939a6a34533, type: 3}
+  - {fileID: 8300000, guid: 8a4837a89d7112e4daffd357956b21f5, type: 3}
+  - {fileID: 8300000, guid: b00b9b3293b0cbc4a8366dd664d72f90, type: 3}
+  orderAppears: {fileID: 8300000, guid: a7c2d4f2ec9a3cd4fa5c3d3545dccbab, type: 3}
+  orderCompleted: {fileID: 8300000, guid: ff2807f751f847449961aec3ded0ab09, type: 3}
+  orderWarning: {fileID: 8300000, guid: 8740860a9a734b548abaa9db0c1e6a9e, type: 3}
+  orderFailed: {fileID: 8300000, guid: 0cf27ac6d5c9b3c43842528a34c125a4, type: 3}
+  boxBooster: {fileID: 8300000, guid: f4f4506a73863794ea1c2e98d93e410d, type: 3}
+  refreshBooster: {fileID: 8300000, guid: 59b3956aed226aa4c8d2e25af108b85c, type: 3}
+  timeBooster: {fileID: 8300000, guid: dd7ca6b2fbda34b4c962d33c2fe97304, type: 3}
+  plusBooster: {fileID: 8300000, guid: f6bbfabe5a5a1954e8bbef50ea2481de, type: 3}
+  win: {fileID: 8300000, guid: 5fc2d4f1a6f5a7d48adea14528d5b8e5, type: 3}
+  lose: {fileID: 8300000, guid: cb5a4e9b28e96274fa05d18ba5262741, type: 3}

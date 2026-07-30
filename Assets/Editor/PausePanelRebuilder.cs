@@ -15,7 +15,7 @@ namespace FoodieSizzle.EditorTools
     [InitializeOnLoad]
     public static class PausePanelRebuilder
     {
-        private const string ScenePath = "Assets/Scenes/SampleScene.unity";
+        private const string ScenePath = "Assets/Scenes/GameplayScene.unity";
         private const string MarkerName = "_PausePanel_v27";
         private const string TitleMaterialPath =
             "Assets/Generated/PauseTitle_V25.mat";
@@ -102,8 +102,6 @@ namespace FoodieSizzle.EditorTools
                 GetReference<TextMeshProUGUI>(managerData, "timerText");
             TextMeshProUGUI progressText =
                 GetReference<TextMeshProUGUI>(managerData, "progressText");
-            Image timeBar =
-                GetReference<Image>(managerData, "timeBarFill");
             GameObject resultPopup =
                 GetReference<GameObject>(managerData, "resultPopup");
             TextMeshProUGUI resultTitle =
@@ -183,7 +181,7 @@ namespace FoodieSizzle.EditorTools
             marker.hideFlags = HideFlags.HideInHierarchy;
 
             uiManager.Configure(
-                levelText, timerText, progressText, timeBar,
+                levelText, timerText, progressText, null,
                 resultPopup, resultTitle, resultMessage, pausePopup,
                 pauseButton, closeButton, restartButton, resultRestart);
 

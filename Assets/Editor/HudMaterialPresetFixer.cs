@@ -14,7 +14,7 @@ namespace FoodieSizzle.EditorTools
     [InitializeOnLoad]
     public static class HudMaterialPresetFixer
     {
-        private const string ScenePath = "Assets/Scenes/SampleScene.unity";
+        private const string ScenePath = "Assets/Scenes/GameplayScene.unity";
         private const string MarkerName = "_HudMaterialPresets_v23";
         private const string SmallTextMaterialPath =
             "Assets/Generated/HUD_LevelTarget_V23.mat";

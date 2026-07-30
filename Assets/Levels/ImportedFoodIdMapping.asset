@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7631925806b023046aa21d3add668c1d, type: 3}
+  m_Name: ImportedFoodIdMapping
+  m_EditorClassIdentifier: Assembly-CSharp::FoodieSizzle.FoodIdMappingData
+  sourceName: Grill Empire - 2.3.0 Base Cohort
+  entries:
+  - sourceId: 1
+    foodItem: {fileID: 11400000, guid: f325811707aa62d449fac1071e724a55, type: 2}
+  - sourceId: 2
+    foodItem: {fileID: 11400000, guid: 57ada67485f293c40a15327fb455ec6e, type: 2}
+  - sourceId: 3
+    foodItem: {fileID: 11400000, guid: 4b877950a97679a4a97a2fe9fe548f4f, type: 2}
+  - sourceId: 4
+    foodItem: {fileID: 11400000, guid: 449a4c83684af034dbf6d0eb88a1c1e7, type: 2}
+  - sourceId: 5
+    foodItem: {fileID: 11400000, guid: 8b8c0822cf56af643b278d39b19fac04, type: 2}
+  - sourceId: 6
+    foodItem: {fileID: 11400000, guid: dc16dd9a09f804e448fb0987a59aaa1f, type: 2}
+  - sourceId: 7
+    foodItem: {fileID: 11400000, guid: 7cc3fa7abb7268046a505b4627bacf76, type: 2}
+  - sourceId: 8
+    foodItem: {fileID: 11400000, guid: 7a52f2c1abda9704bb71dd0ec001aa39, type: 2}
+  - sourceId: 9
+    foodItem: {fileID: 11400000, guid: 7567129c4dd6e11449ff838a942bae4a, type: 2}
+  - sourceId: 10
+    foodItem: {fileID: 11400000, guid: 4d3c8de66041cec4780d4641a101c385, type: 2}
+  - sourceId: 11
+    foodItem: {fileID: 11400000, guid: 63e1ceba4008a04469ceecd47e68d681, type: 2}
+  - sourceId: 12
+    foodItem: {fileID: 11400000, guid: b8a227f39c0dea44c9100841ca347817, type: 2}
+  - sourceId: 13
+    foodItem: {fileID: 11400000, guid: 5a8694be7405f7f4faef1169476cab7f, type: 2}
+  - sourceId: 14
+    foodItem: {fileID: 11400000, guid: a80b95e6a569d06489bfa4cc362fb7f6, type: 2}
+  - sourceId: 15
+    foodItem: {fileID: 11400000, guid: cf30108ddb4f60043b9b2b2147eeefda, type: 2}
+  - sourceId: 16
+    foodItem: {fileID: 11400000, guid: b5c5a8ae7eab59f4a99149945e732267, type: 2}
+  - sourceId: 17
+    foodItem: {fileID: 11400000, guid: a8fa685f9e790cb4983d31134cfda50b, type: 2}
+  - sourceId: 18
+    foodItem: {fileID: 11400000, guid: 753642ffee49c864aaa7f0431d5ca6f6, type: 2}
+  - sourceId: 19
+    foodItem: {fileID: 11400000, guid: 17c23e6da04456b43929ca67e08108b9, type: 2}
+  - sourceId: 20
+    foodItem: {fileID: 11400000, guid: 414aaeef3c65b9e4c98af892691f720d, type: 2}
+  - sourceId: 21
+    foodItem: {fileID: 11400000, guid: 6cd3a80d9bccd9d408a1e9a908fa00b1, type: 2}
+  - sourceId: 22
+    foodItem: {fileID: 11400000, guid: 678d7a7f9fbd24140b6ee62937703fa9, type: 2}
+  - sourceId: 23
+    foodItem: {fileID: 11400000, guid: bf975ca6dd29f614abf5d1da76f547a9, type: 2}
+  - sourceId: 24
+    foodItem: {fileID: 11400000, guid: 3e4b0b338d868d04eb0c5835f4ef867d, type: 2}
+  - sourceId: 25
+    foodItem: {fileID: 11400000, guid: cbc358d9df2f901448782e63872fff25, type: 2}
+  - sourceId: 26
+    foodItem: {fileID: 11400000, guid: ae4ed609a63da3d4ebb22db3b6c5355c, type: 2}
+  - sourceId: 27
+    foodItem: {fileID: 11400000, guid: 00cda05a97b5ff743bb40d5d1694c7fb, type: 2}
+  - sourceId: 28
+    foodItem: {fileID: 11400000, guid: 3e90ce8de7ecf8a4593f80c2fee9c05a, type: 2}
+  - sourceId: 29
+    foodItem: {fileID: 11400000, guid: 9255a3278b6436942942b8b2815aa7c2, type: 2}
+  - sourceId: 30
+    foodItem: {fileID: 11400000, guid: e64c6db33253e7d4ea66c833bd3cd6a6, type: 2}
+  - sourceId: 31
+    foodItem: {fileID: 11400000, guid: b805a4aceb9e53540bd1d75cd7a72835, type: 2}
+  - sourceId: 32
+    foodItem: {fileID: 11400000, guid: 5ff8c470a077c154b877cacf5beec3bb, type: 2}
+  - sourceId: 33
+    foodItem: {fileID: 11400000, guid: 41cbca6d330e76a4a9de51be007ae710, type: 2}
+  - sourceId: 34
+    foodItem: {fileID: 11400000, guid: 7af616d2da13be144ae9a633754ebe69, type: 2}
+  - sourceId: 35
+    foodItem: {fileID: 11400000, guid: ab2c39b27ba549d4bab1577005694271, type: 2}
+  - sourceId: 36
+    foodItem: {fileID: 11400000, guid: 823789ecbd7e68c41979bf502252f1ca, type: 2}
+  - sourceId: 37
+    foodItem: {fileID: 11400000, guid: 8502a0651b081cc46818d8299fb1a7d3, type: 2}
+  - sourceId: 38
+    foodItem: {fileID: 11400000, guid: 52c8df404d340e1479c55f9f07e9bc05, type: 2}
+  - sourceId: 39
+    foodItem: {fileID: 11400000, guid: 15fd33854ea77374a92b36eaa691a458, type: 2}
+  - sourceId: 40
+    foodItem: {fileID: 11400000, guid: eaad126502c7d51449c8db46e1b20a29, type: 2}
+  - sourceId: 41
+    foodItem: {fileID: 11400000, guid: 6b69ace0cf20d1540908ed22f9fe1ee0, type: 2}
+  - sourceId: 42
+    foodItem: {fileID: 11400000, guid: e36ee390ca83f2f4db9c7c8e581c9ff8, type: 2}
+  - sourceId: 43
+    foodItem: {fileID: 11400000, guid: 79bae01a8b4fe0543811be848e6f9afc, type: 2}
+  - sourceId: 44
+    foodItem: {fileID: 11400000, guid: 8f365a9beeb80b24f89634497687f7d6, type: 2}
+  - sourceId: 45
+    foodItem: {fileID: 11400000, guid: 5411a70f239c0f143a163ef04ddf1ce8, type: 2}
+  - sourceId: 46
+    foodItem: {fileID: 11400000, guid: 7e1b8f160829713438e3e00fb9e2f874, type: 2}
+  - sourceId: 47
+    foodItem: {fileID: 11400000, guid: 08eb49711fb928c4082b52457eba6a60, type: 2}
+  - sourceId: 48
+    foodItem: {fileID: 11400000, guid: ad8f68c12a038324e975e37c75ffd01e, type: 2}
+  - sourceId: 49
+    foodItem: {fileID: 11400000, guid: f2f54c003d98c2e4f9369dc9eb60c251, type: 2}
+  - sourceId: 50
+    foodItem: {fileID: 11400000, guid: 214f8b594cfb5a54c94f4a8cf9b2690a, type: 2}
+  - sourceId: 51
+    foodItem: {fileID: 11400000, guid: a6b5f7dabbbaf0944a7ffa46775d36ed, type: 2}
+  - sourceId: 52
+    foodItem: {fileID: 11400000, guid: fddd0423ebd780c418095687980046db, type: 2}
+  - sourceId: 53
+    foodItem: {fileID: 11400000, guid: f367ef201652306428851755951aebae, type: 2}
+  - sourceId: 54
+    foodItem: {fileID: 11400000, guid: 738b4502fdc1d834cbb5d286e74602d1, type: 2}
+  - sourceId: 55
+    foodItem: {fileID: 11400000, guid: 02e8b2a95b3f4834ab80a6b37f252a02, type: 2}
+  - sourceId: 56
+    foodItem: {fileID: 11400000, guid: 916f3fea642969243a462b70912c1147, type: 2}
+  - sourceId: 57
+    foodItem: {fileID: 11400000, guid: 4e90051319fdda94592b6e02d857afea, type: 2}
+  - sourceId: 58
+    foodItem: {fileID: 11400000, guid: b583bf6129bcd2240bf942e8419d247f, type: 2}
+  - sourceId: 59
+    foodItem: {fileID: 11400000, guid: 916f3fea642969243a462b70912c1147, type: 2}
+  - sourceId: 60
+    foodItem: {fileID: 11400000, guid: 4e90051319fdda94592b6e02d857afea, type: 2}
+  - sourceId: 61
+    foodItem: {fileID: 11400000, guid: 8e58d0d368e6c33418c1ce82a36d9d67, type: 2}
+  - sourceId: 62
+    foodItem: {fileID: 11400000, guid: 4b4dfc5be5977804abc7169c0cc2a354, type: 2}
+  - sourceId: 63
+    foodItem: {fileID: 11400000, guid: 039350c7abcb6024094bd84317efb481, type: 2}
+  - sourceId: 64
+    foodItem: {fileID: 11400000, guid: c1b18925ff71c10449ce559996a867f2, type: 2}
+  - sourceId: 65
+    foodItem: {fileID: 11400000, guid: aec41105047976344af4c0fced594725, type: 2}
+  - sourceId: 66
+    foodItem: {fileID: 11400000, guid: 570ff10a3f4b63148be826060b35900d, type: 2}
+  - sourceId: 67
+    foodItem: {fileID: 11400000, guid: d92debbd8ae7ba24b9b08211112d2366, type: 2}
+  - sourceId: 68
+    foodItem: {fileID: 11400000, guid: 9bd9240f6d25ca343a7b837fc09e3f8a, type: 2}
+  - sourceId: 69
+    foodItem: {fileID: 11400000, guid: b8d35fd8acff46e448d4e1f50bc11dc5, type: 2}
+  - sourceId: 70
+    foodItem: {fileID: 11400000, guid: a7ce6f79354cc1941aeb526ff4d964ad, type: 2}
+  - sourceId: 71
+    foodItem: {fileID: 11400000, guid: 41c1942e77bd7bd42aab2f5dd29d06ef, type: 2}
+  - sourceId: 72
+    foodItem: {fileID: 11400000, guid: fa506d908597bd240bb1c41350e095e5, type: 2}
+  - sourceId: 73
+    foodItem: {fileID: 11400000, guid: 8090cf6c64097d247a7a1551aeaade70, type: 2}
+  - sourceId: 74
+    foodItem: {fileID: 11400000, guid: 94197ab6d09b31b4eb2a7d655a6ffd5c, type: 2}
+  - sourceId: 77
+    foodItem: {fileID: 11400000, guid: 22826a0fd0fb20745bd54ddcbb81349b, type: 2}
+  - sourceId: 78
+    foodItem: {fileID: 11400000, guid: 5ef5f70c869a4e64abfca30a7b1c5403, type: 2}
+  - sourceId: 81
+    foodItem: {fileID: 11400000, guid: 8caa602f36a784146a5e82f6b5d9fd49, type: 2}
+  - sourceId: 95
+    foodItem: {fileID: 11400000, guid: 7e33ac9492b056f4e98914762b93c524, type: 2}
+  - sourceId: 96
+    foodItem: {fileID: 11400000, guid: 3daa56cbc9e955c4f90408539d4b4377, type: 2}
+  - sourceId: 97
+    foodItem: {fileID: 11400000, guid: 1086045fd49bf3b459629478f9f6c001, type: 2}
+  - sourceId: 98
+    foodItem: {fileID: 11400000, guid: 2c14916131bd32741b7195d2bdb49bd3, type: 2}
+  - sourceId: 99
+    foodItem: {fileID: 11400000, guid: fc55b7779aea9dc44ae695421c39bea5, type: 2}
+  - sourceId: 100
+    foodItem: {fileID: 11400000, guid: 506c3c3db6ae1ab41a6b4679885bceec, type: 2}
+  - sourceId: 101
+    foodItem: {fileID: 11400000, guid: 7e06ca683a5fe824f85edf9f47f8058f, type: 2}
+  - sourceId: 102
+    foodItem: {fileID: 11400000, guid: 93ac51d0223fd0e46b03bb8422c07459, type: 2}
+  - sourceId: 103
+    foodItem: {fileID: 11400000, guid: a53d934e23437934a8616ad4696d67ff, type: 2}
+  - sourceId: 104
+    foodItem: {fileID: 11400000, guid: 73bb99ac5dfcce1478a70990f4852c13, type: 2}
+  - sourceId: 105
+    foodItem: {fileID: 11400000, guid: c8e288d0d80684d448fc044f3ceecfc5, type: 2}

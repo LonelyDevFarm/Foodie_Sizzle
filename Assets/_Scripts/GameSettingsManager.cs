@@ -38,12 +38,65 @@ namespace FoodieSizzle
             vibrationToggle = vibration;
         }
 
-        public static void Vibrate()
+        public static void Vibrate(int durationMilliseconds = 25)
         {
-            if (VibrationEnabled)
+            if (!VibrationEnabled) return;
+
+#if UNITY_ANDROID && !UNITY_EDITOR
+            try
             {
-                Handheld.Vibrate();
+                using (AndroidJavaClass unityPlayer =
+                       new AndroidJavaClass(
+                           "com.unity3d.player.UnityPlayer"))
+                using (AndroidJavaObject activity =
+                       unityPlayer.GetStatic<AndroidJavaObject>(
+                           "currentActivity"))
+                using (AndroidJavaObject vibrator =
+                       activity.Call<AndroidJavaObject>(
+                           "getSystemService",
+                           "vibrator"))
+                {
+                    int duration = Mathf.Clamp(
+                        durationMilliseconds,
+                        10,
+                        100);
+                    using (AndroidJavaClass version =
+                           new AndroidJavaClass(
+                               "android.os.Build$VERSION"))
+                    {
+                        int sdk = version.GetStatic<int>("SDK_INT");
+                        if (sdk >= 26)
+                        {
+                            using (AndroidJavaClass effectClass =
+                                   new AndroidJavaClass(
+                                       "android.os.VibrationEffect"))
+                            using (AndroidJavaObject effect =
+                                   effectClass.CallStatic<
+                                       AndroidJavaObject>(
+                                       "createOneShot",
+                                       (long)duration,
+                                       -1))
+                            {
+                                vibrator.Call("vibrate", effect);
+                            }
+                        }
+                        else
+                        {
+                            vibrator.Call(
+                                "vibrate",
+                                (long)duration);
+                        }
+                    }
+                }
             }
+            catch (System.Exception exception)
+            {
+                Debug.LogWarning(
+                    $"Không thể rung thiết bị: {exception.Message}");
+            }
+#elif UNITY_IOS && !UNITY_EDITOR
+            Handheld.Vibrate();
+#endif
         }
 
         private void LoadSettings()
