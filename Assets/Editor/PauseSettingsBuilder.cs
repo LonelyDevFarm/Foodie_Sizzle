@@ -97,7 +97,7 @@ namespace FoodieSizzle.EditorTools
                 Button homeButton = homeTransform.GetComponent<Button>();
                 if (homeButton != null)
                 {
-                    homeButton.interactable = false;
+                    homeButton.interactable = true;
                 }
 
                 Image[] homeImages =
@@ -105,7 +105,7 @@ namespace FoodieSizzle.EditorTools
                 foreach (Image image in homeImages)
                 {
                     Color color = image.color;
-                    color.a *= 0.52f;
+                    color.a = 1f;
                     image.color = color;
                 }
             }

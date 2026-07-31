@@ -174,6 +174,7 @@ namespace FoodieSizzle
         public bool TryUnlockForItem(string clearedItemId)
         {
             if (!isLocked ||
+                isAnimating ||
                 string.IsNullOrWhiteSpace(clearedItemId) ||
                 clearedItemId != unlockItemId)
             {
@@ -190,7 +191,7 @@ namespace FoodieSizzle
         /// </summary>
         public bool TryUnlockSpecial()
         {
-            if (!IsSpecialLock) return false;
+            if (!IsSpecialLock || isAnimating) return false;
 
             StartCoroutine(UnlockCoroutine());
             return true;
@@ -966,27 +967,38 @@ namespace FoodieSizzle
                 return;
             }
 
-            if (activeSkewers.Count == 3)
+            if (HasCompletedActiveMatch())
             {
-                FoodItemData firstItem = activeSkewers[0].GetData();
-                bool isMatch = true;
+                StartCoroutine(ClearGrillCoroutine());
+            }
+        }
 
-                for (int i = 1; i < 3; i++)
-                {
-                    if (!FoodItemData.AreMatching(
-                            firstItem,
-                            activeSkewers[i].GetData()))
-                    {
-                        isMatch = false;
-                        break;
-                    }
-                }
+        /// <summary>
+        /// Dùng sau khi Refresh thay FoodItemData trực tiếp. Chỉ kiểm tra
+        /// bộ ba trên bếp, không tự đẩy lớp chờ lên.
+        /// </summary>
+        public bool HasCompletedActiveMatch()
+        {
+            if (isLocked || isAnimating || activeSkewers.Count != 3)
+                return false;
 
-                if (isMatch)
+            FoodItemData firstItem = activeSkewers[0] != null
+                ? activeSkewers[0].GetData()
+                : null;
+            if (firstItem == null) return false;
+
+            for (int index = 1; index < activeSkewers.Count; index++)
+            {
+                FoodItemData item = activeSkewers[index] != null
+                    ? activeSkewers[index].GetData()
+                    : null;
+                if (!FoodItemData.AreMatching(firstItem, item))
                 {
-                    StartCoroutine(ClearGrillCoroutine());
+                    return false;
                 }
             }
+
+            return true;
         }
 
         private IEnumerator ClearGrillCoroutine()

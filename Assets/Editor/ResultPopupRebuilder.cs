@@ -14,7 +14,7 @@ public static class ResultPopupRebuilder
     private const string LoseRibbonPath =
         "Assets/BaseGame/Sprite/_NewUI2/WinLose/Ribbon2.png";
     private const string ContinueButtonPath =
-        "Assets/BaseGame/UsedSprites/btn.png";
+        "Assets/Texture2D/Green Button.png";
     private const string RetryButtonPath =
         "Assets/BaseGame/UsedSprites/pause_button_restart.png";
     private const string HomeButtonPath =

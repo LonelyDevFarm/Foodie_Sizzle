@@ -120,6 +120,13 @@ namespace FoodieSizzle
 
         private void StartBackgroundMusic()
         {
+            // Khi đi từ Boot, AppRoot đã giữ nhạc xuyên scene.
+            // Chỉ tự phát nhạc ở đây nếu mở thẳng GameplayScene để test.
+            if (AppMusicPlayer.IsAvailable)
+            {
+                return;
+            }
+
             if (audioLibrary == null ||
                 audioLibrary.gameplayMusic == null)
             {

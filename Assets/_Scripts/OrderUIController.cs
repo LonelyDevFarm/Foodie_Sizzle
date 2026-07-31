@@ -12,6 +12,7 @@ namespace FoodieSizzle
     public class OrderUIController : MonoBehaviour
     {
         [SerializeField] private GameObject orderCard;
+        [SerializeField] private RectTransform foodSlotsRoot;
         [SerializeField] private GameObject[] foodSlots = new GameObject[3];
         [SerializeField] private Image[] foodIcons = new Image[3];
         [SerializeField] private Slider timeSlider;
@@ -20,9 +21,25 @@ namespace FoodieSizzle
 
         private GameplayManager gameplayManager;
         private int displayedRevision = -1;
+        private bool isSuppressed;
+
+        /// <summary>
+        /// Tạm ẩn toàn bộ Order khi một popup quan trọng (Pause/Kết quả) đang mở.
+        /// Order vẫn tiếp tục giữ nguyên dữ liệu và thời gian vì GameplayManager
+        /// mới là nơi quyết định trạng thái tạm dừng.
+        /// </summary>
+        public void SetSuppressed(bool suppressed)
+        {
+            isSuppressed = suppressed;
+            if (suppressed && orderCard != null)
+            {
+                orderCard.SetActive(false);
+            }
+        }
 
         public void Configure(
             GameObject card,
+            RectTransform slotsRoot,
             GameObject[] slots,
             Image[] icons,
             Slider slider,
@@ -30,6 +47,7 @@ namespace FoodieSizzle
             Button skip)
         {
             orderCard = card;
+            foodSlotsRoot = slotsRoot;
             foodSlots = slots;
             foodIcons = icons;
             timeSlider = slider;
@@ -65,7 +83,9 @@ namespace FoodieSizzle
                 if (gameplayManager == null) return;
             }
 
-            bool visible = gameplayManager.HasActiveOrder();
+            bool visible =
+                !isSuppressed &&
+                gameplayManager.HasActiveOrder();
             if (orderCard != null && orderCard.activeSelf != visible)
             {
                 orderCard.SetActive(visible);
@@ -116,31 +136,12 @@ namespace FoodieSizzle
                 Mathf.Min(foodSlots.Length, foodIcons.Length));
 
             // Chỉ hiện đúng số ô cần dùng và luôn căn cả nhóm vào giữa.
-            const float slotWidth = 0.175f;
-            const float gap = 0.022f;
-            const float contentCenterX = 0.69f;
-            float totalWidth =
-                visibleCount * slotWidth +
-                Mathf.Max(0, visibleCount - 1) * gap;
-            float startX = contentCenterX - totalWidth * 0.5f;
-
             for (int index = 0; index < foodIcons.Length; index++)
             {
                 bool showSlot = index < visibleCount;
                 if (index < foodSlots.Length && foodSlots[index] != null)
                 {
                     foodSlots[index].SetActive(showSlot);
-                    if (showSlot)
-                    {
-                        RectTransform slotRect =
-                            foodSlots[index].GetComponent<RectTransform>();
-                        float minX = startX + index * (slotWidth + gap);
-                        slotRect.anchorMin = new Vector2(minX, 0.395f);
-                        slotRect.anchorMax =
-                            new Vector2(minX + slotWidth, 0.855f);
-                        slotRect.anchoredPosition = Vector2.zero;
-                        slotRect.sizeDelta = Vector2.zero;
-                    }
                 }
 
                 Image icon = foodIcons[index];
@@ -160,6 +161,11 @@ namespace FoodieSizzle
                 icon.color = gameplayManager.IsOrderItemCompleted(index)
                     ? new Color(1f, 1f, 1f, 0.28f)
                     : Color.white;
+            }
+
+            if (foodSlotsRoot != null)
+            {
+                LayoutRebuilder.ForceRebuildLayoutImmediate(foodSlotsRoot);
             }
         }
     }

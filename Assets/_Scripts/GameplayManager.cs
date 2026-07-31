@@ -59,6 +59,15 @@ namespace FoodieSizzle
         private const string Booster999MigrationKey =
             "FoodieSizzle.Booster.Count999.v1";
         private float timeBoosterRemaining;
+        private FoodItemData lastBoxBoosterTarget;
+        private readonly List<Vector3> lastBoxBoosterOrigins =
+            new List<Vector3>();
+        private Vector3 lastPlusBoosterTarget;
+        private bool hasLastPlusBoosterTarget;
+        private bool isBoosterSequenceActive;
+        private float boosterSequenceElapsed;
+        private FoodItemData pendingBoxBoosterTarget;
+        private Grill pendingPlusBoosterGrill;
 
         private Queue<FoodItemData> levelSkewersPool = new Queue<FoodItemData>();
         private Grill selectedGrill = null;
@@ -107,7 +116,7 @@ namespace FoodieSizzle
             // Phục hồi input sau khi Unity hot reload trong lúc đang Play.
             // GameOver vẫn an toàn vì isGameActive lúc đó bằng false.
             isShufflingBoard = false;
-            if (isGameActive && !isPaused)
+            if (isGameActive && !isPaused && !isBoosterSequenceActive)
             {
                 isBoardLocked = false;
             }
@@ -331,7 +340,10 @@ namespace FoodieSizzle
             if (isGameActive && !isPaused)
             {
                 UpdateTimer();
+                if (!isGameActive) return;
                 UpdateOrderTimer();
+                if (!isGameActive) return;
+                UpdatePendingBoosterSequence();
                 UpdatePointerInput();
                 UpdateHintTimer();
             }
@@ -448,6 +460,18 @@ namespace FoodieSizzle
             }
 
             ResetPointerDrag();
+        }
+
+        private void UpdatePendingBoosterSequence()
+        {
+            if (!isBoosterSequenceActive) return;
+
+            boosterSequenceElapsed += Time.deltaTime;
+            if (boosterSequenceElapsed <= 2.5f) return;
+
+            Debug.LogWarning(
+                "Chuỗi hiệu ứng vật phẩm bị gián đoạn, đã tự mở khóa bàn chơi.");
+            CancelPendingBoosterSequence();
         }
 
         private static float GetDragThresholdPixels()
@@ -577,6 +601,7 @@ namespace FoodieSizzle
                 isGameActive &&
                 !isPaused &&
                 !isShufflingBoard &&
+                !isBoosterSequenceActive &&
                 !HasAnimatingGrill())
             {
                 isBoardLocked = false;
@@ -672,9 +697,21 @@ namespace FoodieSizzle
             return isBoardLocked;
         }
 
+        public bool IsGameActive()
+        {
+            return isGameActive;
+        }
+
+        public bool IsPaused()
+        {
+            return isPaused;
+        }
+
         public void StartNewLevel()
         {
             CancelHint();
+            CancelPendingBoosterSequence();
+            Time.timeScale = 1f;
             isGameActive = true;
             isBoardLocked = false;
             isPaused = false;
@@ -721,6 +758,7 @@ namespace FoodieSizzle
             CancelPointerInteraction();
             StopAllCoroutines();
             ResetOrders();
+            CancelPendingBoosterSequence();
 
             isGameActive = false;
             isPaused = false;
@@ -729,6 +767,7 @@ namespace FoodieSizzle
             isShufflingBoard = false;
             timeBoosterRemaining = 0f;
             hintIdleTime = 0f;
+            Time.timeScale = 1f;
         }
 
         /// <summary>
@@ -805,11 +844,13 @@ namespace FoodieSizzle
                 CancelPointerInteraction();
                 isPaused = true;
                 isBoardLocked = true;
+                Time.timeScale = 0f;
             }
             else
             {
                 isPaused = false;
                 isBoardLocked = boardWasLockedBeforePause;
+                Time.timeScale = 1f;
             }
         }
 
@@ -1587,7 +1628,9 @@ namespace FoodieSizzle
 
         private void TryActivateNextOrder()
         {
-            if (hasActiveOrder ||
+            if (!isGameActive ||
+                isPaused ||
+                hasActiveOrder ||
                 nextOrderIndex < 0 ||
                 nextOrderIndex >= runtimeOrders.Count)
             {
@@ -1828,6 +1871,8 @@ namespace FoodieSizzle
             {
                 if (grill != null && grill.TryUnlockSpecial())
                 {
+                    lastPlusBoosterTarget = grill.transform.position;
+                    hasLastPlusBoosterTarget = true;
                     RegisterPlayerActivity();
                     return true;
                 }
@@ -1867,7 +1912,7 @@ namespace FoodieSizzle
             }
         }
 
-        public bool TryUseBoxBooster()
+        public bool TryBeginBoxBooster()
         {
             if (!CanUseBooster(BoxBoosterId)) return false;
 
@@ -1876,6 +1921,22 @@ namespace FoodieSizzle
 
             CancelPointerInteraction();
             RegisterPlayerActivity();
+            CaptureBoxBoosterVisuals(target);
+            pendingBoxBoosterTarget = target;
+            isBoosterSequenceActive = true;
+            boosterSequenceElapsed = 0f;
+            isBoardLocked = true;
+            return true;
+        }
+
+        public bool CompleteBoxBooster()
+        {
+            FoodItemData target = pendingBoxBoosterTarget;
+            if (!isBoosterSequenceActive || target == null || !isGameActive)
+            {
+                CancelPendingBoosterSequence();
+                return false;
+            }
 
             List<FoodItemData> removedItems = new List<FoodItemData>();
             int remaining = 3;
@@ -1894,6 +1955,7 @@ namespace FoodieSizzle
             {
                 Debug.LogWarning(
                     "Box không tìm đủ ba xiên nên không tiêu hao vật phẩm.");
+                CancelPendingBoosterSequence();
                 return false;
             }
 
@@ -1904,8 +1966,91 @@ namespace FoodieSizzle
             OnMatchingSetCleared(target, false);
             ConsumeBooster(BoxBoosterId);
             PlayFeedback(FeedbackCue.BoxBooster);
+            FinishPendingBoosterSequence();
             CheckGameStatus();
             return true;
+        }
+
+        // Giữ API cũ để các prefab/script ngoài dự án không bị gãy.
+        public bool TryUseBoxBooster()
+        {
+            return TryBeginBoxBooster() && CompleteBoxBooster();
+        }
+
+        public FoodItemData GetLastBoxBoosterTarget()
+        {
+            return lastBoxBoosterTarget;
+        }
+
+        public IReadOnlyList<Vector3> GetLastBoxBoosterOrigins()
+        {
+            return lastBoxBoosterOrigins;
+        }
+
+        public bool TryGetLastPlusBoosterTarget(out Vector3 worldPosition)
+        {
+            worldPosition = lastPlusBoosterTarget;
+            return hasLastPlusBoosterTarget;
+        }
+
+        private void CaptureBoxBoosterVisuals(FoodItemData target)
+        {
+            lastBoxBoosterTarget = target;
+            lastBoxBoosterOrigins.Clear();
+
+            foreach (Grill grill in grills)
+            {
+                if (grill == null || grill.IsLocked) continue;
+
+                CaptureMatchingPositions(
+                    grill.activeSkewers,
+                    target,
+                    lastBoxBoosterOrigins);
+                CaptureMatchingPositions(
+                    grill.waitingSkewers,
+                    target,
+                    lastBoxBoosterOrigins);
+                if (lastBoxBoosterOrigins.Count >= 3) break;
+            }
+
+            // Món có thể nằm ở lớp chờ sâu chưa có GameObject. Khi đó dùng tâm
+            // bếp làm điểm xuất phát tượng trưng để hiệu ứng vẫn đủ ba xiên.
+            while (lastBoxBoosterOrigins.Count < 3)
+            {
+                Grill fallback = null;
+                foreach (Grill grill in grills)
+                {
+                    if (grill != null && !grill.IsLocked)
+                    {
+                        fallback = grill;
+                        break;
+                    }
+                }
+                lastBoxBoosterOrigins.Add(
+                    fallback != null
+                        ? fallback.transform.position
+                        : Vector3.zero);
+            }
+        }
+
+        private static void CaptureMatchingPositions(
+            IEnumerable<SkewerVisual> skewers,
+            FoodItemData target,
+            List<Vector3> output)
+        {
+            if (skewers == null || target == null || output == null) return;
+
+            foreach (SkewerVisual skewer in skewers)
+            {
+                if (output.Count >= 3) return;
+                FoodItemData data = skewer != null
+                    ? skewer.GetData()
+                    : null;
+                if (FoodItemData.AreMatching(data, target))
+                {
+                    output.Add(skewer.transform.position);
+                }
+            }
         }
 
         public bool TryUseRefreshBooster()
@@ -1931,14 +2076,77 @@ namespace FoodieSizzle
             return true;
         }
 
-        public bool TryUsePlusBooster()
+        public bool TryBeginPlusBooster(out Vector3 targetWorldPosition)
         {
+            targetWorldPosition = Vector3.zero;
             if (!CanUseBooster(PlusBoosterId)) return false;
-            if (!TryUseSpecialGrillUnlock()) return false;
+
+            hasLastPlusBoosterTarget = false;
+            foreach (Grill grill in grills)
+            {
+                if (grill == null || !grill.IsSpecialLock || grill.IsAnimating)
+                    continue;
+
+                pendingPlusBoosterGrill = grill;
+                lastPlusBoosterTarget = grill.transform.position;
+                hasLastPlusBoosterTarget = true;
+                targetWorldPosition = lastPlusBoosterTarget;
+                CancelPointerInteraction();
+                RegisterPlayerActivity();
+                isBoosterSequenceActive = true;
+                boosterSequenceElapsed = 0f;
+                isBoardLocked = true;
+                return true;
+            }
+
+            return false;
+        }
+
+        public bool CompletePlusBooster()
+        {
+            Grill grill = pendingPlusBoosterGrill;
+            if (!isBoosterSequenceActive || grill == null || !isGameActive)
+            {
+                CancelPendingBoosterSequence();
+                return false;
+            }
+
+            if (!grill.TryUnlockSpecial())
+            {
+                CancelPendingBoosterSequence();
+                return false;
+            }
 
             ConsumeBooster(PlusBoosterId);
             PlayFeedback(FeedbackCue.PlusBooster);
+            FinishPendingBoosterSequence();
             return true;
+        }
+
+        public bool TryUsePlusBooster()
+        {
+            return TryBeginPlusBooster(out _) && CompletePlusBooster();
+        }
+
+        public void CancelPendingBoosterSequence()
+        {
+            pendingBoxBoosterTarget = null;
+            pendingPlusBoosterGrill = null;
+            isBoosterSequenceActive = false;
+            boosterSequenceElapsed = 0f;
+            if (isGameActive)
+            {
+                isBoardLocked = isPaused || isShufflingBoard;
+            }
+        }
+
+        private void FinishPendingBoosterSequence()
+        {
+            pendingBoxBoosterTarget = null;
+            pendingPlusBoosterGrill = null;
+            isBoosterSequenceActive = false;
+            boosterSequenceElapsed = 0f;
+            isBoardLocked = isPaused || isShufflingBoard || !isGameActive;
         }
 
         /// <summary>
@@ -1962,6 +2170,7 @@ namespace FoodieSizzle
             return isGameActive &&
                 !isPaused &&
                 !isBoardLocked &&
+                !isBoosterSequenceActive &&
                 !isShufflingBoard &&
                 !HasAnimatingGrill();
         }
@@ -2075,6 +2284,12 @@ namespace FoodieSizzle
 
         public void CheckGameStatus()
         {
+            if (!isGameActive || isPaused || isShufflingBoard ||
+                isBoosterSequenceActive)
+            {
+                return;
+            }
+
             if (skewersClearedCount >= skewersTarget)
             {
                 GameOver(true); // Win
@@ -2135,21 +2350,26 @@ namespace FoodieSizzle
 
         private IEnumerator ShuffleAllGrillsCoroutine()
         {
+            if (!isGameActive || isShufflingBoard)
+            {
+                yield break;
+            }
+
             CancelHint();
             isShufflingBoard = true;
             isBoardLocked = true;
-            yield return new WaitForSeconds(0.15f);
+            yield return new WaitForSeconds(0.08f);
             
             bool hasValidMove = false;
             int attempts = 0;
+            const int visualShufflePasses = 6;
             List<FoodItemData> allFoodData = new List<FoodItemData>();
             foreach (Grill grill in grills)
             {
                 grill?.AppendAllFoodData(allFoodData);
             }
 
-            while (!hasValidMove &&
-                   attempts < 50 &&
+            while (attempts < visualShufflePasses &&
                    allFoodData.Count > 1)
             {
                 attempts++;
@@ -2170,28 +2390,237 @@ namespace FoodieSizzle
                     idx = grill.ReplaceAllFoodData(allFoodData, idx);
                 }
 
-                yield return new WaitForSeconds(0.12f);
+                yield return new WaitForSeconds(0.07f);
 
-                hasValidMove =
-                    FindHintTriplet().Count == 3 || !IsDeadlock();
+                // Chưa kiểm tra/dừng sớm: số nhịp xáo phải luôn cố định
+                // để hiệu ứng không lúc quá ngắn, lúc lại quá dài.
             }
 
-            isBoardLocked = false;
+            if (allFoodData.Count > 1)
+            {
+                // Nhịp cuối luôn chủ động xếp một bộ ba có thể gom;
+                // nếu mọi bếp đều đầy thì bộ ba được ăn ngay để giải phóng chỗ.
+                hasValidMove = TryForceGuaranteedTriplet(allFoodData);
+            }
+
+            if (!hasValidMove)
+            {
+                hasValidMove =
+                    TriggerMatchesCreatedByShuffle() ||
+                    FindHintTriplet().Count == 3;
+            }
+
             isShufflingBoard = false;
+            isBoardLocked = isPaused || !isGameActive;
             RegisterPlayerActivity();
-            Debug.Log($"Shuffled board successfully after {attempts} attempts.");
+            if (hasValidMove)
+            {
+                Debug.Log(
+                    $"Đã xáo bàn thành công sau {attempts} lần thử.");
+            }
+            else
+            {
+                Debug.LogError(
+                    "Không thể tạo nước đi sau khi xáo. LevelData có thể không hợp lệ.");
+            }
+        }
+
+        private bool TriggerMatchesCreatedByShuffle()
+        {
+            bool triggered = false;
+            foreach (Grill grill in grills)
+            {
+                if (grill == null ||
+                    !grill.HasCompletedActiveMatch())
+                {
+                    continue;
+                }
+
+                grill.CheckAndClear();
+                triggered = true;
+            }
+            return triggered;
+        }
+
+        private bool TryForceGuaranteedTriplet(
+            List<FoodItemData> allFoodData)
+        {
+            List<int> visibleIndices = new List<int>();
+            List<int> targetIndices = new List<int>();
+            int flattenedIndex = 0;
+            Grill targetGrill = null;
+            int targetActiveCount = 0;
+
+            foreach (Grill grill in grills)
+            {
+                if (grill == null) continue;
+
+                List<FoodItemData> grillItems =
+                    new List<FoodItemData>();
+                grill.AppendAllFoodData(grillItems);
+                if (!grill.IsLocked)
+                {
+                    for (int index = 0;
+                         index < grill.activeSkewers.Count;
+                         index++)
+                    {
+                        visibleIndices.Add(flattenedIndex + index);
+                    }
+
+                    // Ưu tiên bếp còn chỗ trống: ba xiên giống nhau sẽ hiện rõ
+                    // thành một gợi ý mà người chơi có thể gom ngay.
+                    if (targetGrill == null &&
+                        grill.activeSkewers.Count < 3)
+                    {
+                        targetGrill = grill;
+                        targetActiveCount = grill.activeSkewers.Count;
+                        for (int index = 0;
+                             index < targetActiveCount;
+                             index++)
+                        {
+                            targetIndices.Add(flattenedIndex + index);
+                        }
+                    }
+                }
+                flattenedIndex += grillItems.Count;
+            }
+
+            if (visibleIndices.Count < 3)
+                return false;
+
+            // Nếu mọi bếp đều đầy, tạo thẳng một bộ ba trên bếp đầu tiên để
+            // bộ ba được ăn ngay, giải phóng chỗ thay vì chỉ đảo hình vô ích.
+            if (targetGrill == null)
+            {
+                flattenedIndex = 0;
+                foreach (Grill grill in grills)
+                {
+                    if (grill == null) continue;
+                    List<FoodItemData> grillItems =
+                        new List<FoodItemData>();
+                    grill.AppendAllFoodData(grillItems);
+                    if (!grill.IsLocked &&
+                        grill.activeSkewers.Count == 3)
+                    {
+                        targetGrill = grill;
+                        targetActiveCount = 3;
+                        targetIndices.Add(flattenedIndex);
+                        targetIndices.Add(flattenedIndex + 1);
+                        targetIndices.Add(flattenedIndex + 2);
+                        break;
+                    }
+                    flattenedIndex += grillItems.Count;
+                }
+            }
+
+            if (targetGrill == null) return false;
+
+            Dictionary<string, List<int>> indicesByMatchKey =
+                new Dictionary<string, List<int>>();
+            for (int index = 0; index < allFoodData.Count; index++)
+            {
+                FoodItemData item = allFoodData[index];
+                if (item == null) continue;
+
+                string key = item.GetMatchKey();
+                if (!indicesByMatchKey.TryGetValue(
+                        key,
+                        out List<int> indices))
+                {
+                    indices = new List<int>();
+                    indicesByMatchKey[key] = indices;
+                }
+                indices.Add(index);
+            }
+
+            List<int> chosenIndices = null;
+            foreach (List<int> indices in indicesByMatchKey.Values)
+            {
+                if (indices.Count >= 3)
+                {
+                    chosenIndices = indices;
+                    break;
+                }
+            }
+            if (chosenIndices == null) return false;
+
+            // Với bếp chưa đầy, đặt các xiên còn thiếu ở những bếp khác nhưng
+            // vẫn trong vùng đang nhìn thấy. FindHintTriplet sẽ chỉ đúng bộ ba
+            // mà người chơi có thể gom vào bếp đích.
+            foreach (int visibleIndex in visibleIndices)
+            {
+                if (targetIndices.Count >= 3) break;
+                if (!targetIndices.Contains(visibleIndex))
+                {
+                    targetIndices.Add(visibleIndex);
+                }
+            }
+            if (targetIndices.Count < 3) return false;
+
+            HashSet<int> chosenSet = new HashSet<int>
+            {
+                chosenIndices[0],
+                chosenIndices[1],
+                chosenIndices[2]
+            };
+            List<FoodItemData> remaining = new List<FoodItemData>();
+            for (int index = 0; index < allFoodData.Count; index++)
+            {
+                if (!chosenSet.Contains(index))
+                    remaining.Add(allFoodData[index]);
+            }
+
+            List<FoodItemData> forced =
+                new List<FoodItemData>(allFoodData.Count);
+            int remainingIndex = 0;
+            for (int index = 0; index < allFoodData.Count; index++)
+            {
+                int targetOffset = targetIndices.IndexOf(index);
+                if (targetOffset >= 0)
+                {
+                    forced.Add(allFoodData[
+                        chosenIndices[targetOffset]]);
+                }
+                else
+                {
+                    forced.Add(remaining[remainingIndex++]);
+                }
+            }
+
+            int replaceIndex = 0;
+            foreach (Grill grill in grills)
+            {
+                if (grill == null) continue;
+                replaceIndex =
+                    grill.ReplaceAllFoodData(forced, replaceIndex);
+            }
+
+            if (targetActiveCount == 3 &&
+                targetGrill.HasCompletedActiveMatch())
+            {
+                targetGrill.CheckAndClear();
+                return true;
+            }
+
+            return FindHintTriplet().Count == 3;
         }
 
         private void GameOver(bool isWin)
         {
+            if (!isGameActive) return;
+
             CancelHint();
             // Thời gian/order có thể kết thúc đúng lúc người chơi đang kéo.
             // Trả xiên và sorting về trạng thái chuẩn trước khi hiện popup.
             CancelPointerInteraction();
+            StopAllCoroutines();
+            CancelPendingBoosterSequence();
             isGameActive = false;
             isBoardLocked = true;
+            isShufflingBoard = false;
             hasActiveOrder = false;
             orderRevision++;
+            Time.timeScale = 0f;
             if (gameUIManager != null) gameUIManager.ShowResult(isWin);
             PlayFeedback(isWin ? FeedbackCue.Win : FeedbackCue.Lose);
 

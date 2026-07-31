@@ -30,6 +30,11 @@ namespace FoodieSizzle
             Load(GameplaySceneName);
         }
 
+        public static AsyncOperation LoadGameplayAsync()
+        {
+            return LoadAsync(GameplaySceneName);
+        }
+
         private static void Load(string sceneName)
         {
             if (!Application.CanStreamedLevelBeLoaded(sceneName))
@@ -41,6 +46,21 @@ namespace FoodieSizzle
 
             Time.timeScale = 1f;
             SceneManager.LoadScene(sceneName, LoadSceneMode.Single);
+        }
+
+        private static AsyncOperation LoadAsync(string sceneName)
+        {
+            if (!Application.CanStreamedLevelBeLoaded(sceneName))
+            {
+                Debug.LogError(
+                    $"Scene '{sceneName}' chưa có trong Build Settings.");
+                return null;
+            }
+
+            Time.timeScale = 1f;
+            return SceneManager.LoadSceneAsync(
+                sceneName,
+                LoadSceneMode.Single);
         }
     }
 }

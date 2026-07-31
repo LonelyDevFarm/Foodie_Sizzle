@@ -19,13 +19,62 @@ namespace FoodieSizzle
         public static bool MusicEnabled { get; private set; } = true;
         public static bool SoundEnabled { get; private set; } = true;
         public static bool VibrationEnabled { get; private set; } = true;
+        private static bool settingsLoaded;
+        private static GameSettingsManager instance;
+
+        [RuntimeInitializeOnLoadMethod(
+            RuntimeInitializeLoadType.BeforeSceneLoad)]
+        private static void ResetRuntimeState()
+        {
+            // Hỗ trợ Editor tắt Domain Reload: mỗi lần bấm Play vẫn phải
+            // đọc lại PlayerPrefs như một lần mở ứng dụng mới.
+            settingsLoaded = false;
+        }
 
         private void Awake()
         {
-            LoadSettings();
+            if (instance != null && instance != this)
+            {
+                // GameplayScene giữ các reference Toggle trong Inspector.
+                // Chuyển chúng sang manager bền vững ở AppRoot rồi bỏ component
+                // tạm, vì vậy runtime chỉ còn đúng một manager.
+                instance.Configure(
+                    musicToggle,
+                    soundToggle,
+                    vibrationToggle);
+                musicToggle = null;
+                soundToggle = null;
+                vibrationToggle = null;
+                Destroy(this);
+                return;
+            }
+
+            instance = this;
+            // AppRoot nạp dữ liệu một lần. Component trong GameplayScene chỉ
+            // nối các Toggle với cùng trạng thái, không đọc/ghi đè lần nữa.
+            if (!settingsLoaded)
+            {
+                LoadSettings();
+                settingsLoaded = true;
+            }
             RefreshToggles();
             WireToggles();
             ApplyMusicState();
+        }
+
+        private void OnDestroy()
+        {
+            if (musicToggle != null)
+                musicToggle.onValueChanged.RemoveListener(SetMusicEnabled);
+            if (soundToggle != null)
+                soundToggle.onValueChanged.RemoveListener(SetSoundEnabled);
+            if (vibrationToggle != null)
+            {
+                vibrationToggle.onValueChanged.RemoveListener(
+                    SetVibrationEnabled);
+            }
+
+            if (instance == this) instance = null;
         }
 
         public void Configure(
@@ -33,9 +82,29 @@ namespace FoodieSizzle
             Toggle sound,
             Toggle vibration)
         {
+            UnwireToggles();
             musicToggle = music;
             soundToggle = sound;
             vibrationToggle = vibration;
+            if (Application.isPlaying)
+            {
+                RefreshToggles();
+                WireToggles();
+                ApplyMusicState();
+            }
+        }
+
+        private void UnwireToggles()
+        {
+            if (musicToggle != null)
+                musicToggle.onValueChanged.RemoveListener(SetMusicEnabled);
+            if (soundToggle != null)
+                soundToggle.onValueChanged.RemoveListener(SetSoundEnabled);
+            if (vibrationToggle != null)
+            {
+                vibrationToggle.onValueChanged.RemoveListener(
+                    SetVibrationEnabled);
+            }
         }
 
         public static void Vibrate(int durationMilliseconds = 25)

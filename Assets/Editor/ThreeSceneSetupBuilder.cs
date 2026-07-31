@@ -274,7 +274,10 @@ namespace FoodieSizzle.EditorTools
         private static void CreateCamera(Color background)
         {
             GameObject cameraObject =
-                new GameObject("Main Camera", typeof(Camera));
+                new GameObject(
+                    "Main Camera",
+                    typeof(Camera),
+                    typeof(AudioListener));
             cameraObject.tag = "MainCamera";
             Camera camera = cameraObject.GetComponent<Camera>();
             camera.clearFlags = CameraClearFlags.SolidColor;

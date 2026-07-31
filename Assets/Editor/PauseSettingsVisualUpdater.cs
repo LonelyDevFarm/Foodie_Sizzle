@@ -280,14 +280,14 @@ namespace FoodieSizzle.EditorTools
             Button homeButton = homeTransform.GetComponent<Button>();
             if (homeButton != null)
             {
-                homeButton.interactable = false;
+                homeButton.interactable = true;
             }
 
             foreach (Image image in
                      homeTransform.GetComponentsInChildren<Image>(true))
             {
                 Color color = image.color;
-                color.a = 0.65f;
+                color.a = 1f;
                 image.color = color;
                 EditorUtility.SetDirty(image);
             }

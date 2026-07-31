@@ -25,6 +25,10 @@ Cập nhật gần nhất: 31/07/2026
 - Hàng chờ nhiều lớp và chồng đĩa thay đổi theo lớp.
 - Gợi ý rung bộ ba sau một thời gian không thao tác.
 - Phát hiện deadlock và xáo bàn tự động.
+- Refresh/xáo tự kích hoạt bộ ba vừa được tạo; sau 50 lần random thất bại,
+  game cưỡng chế một bộ ba hợp lệ để không mắc bàn đầy.
+- GameOver dừng coroutine manager, đóng băng bàn và không cho Order kích hoạt
+  lại phía sau popup kết quả.
 
 ### Level và dữ liệu
 
@@ -60,8 +64,17 @@ Cập nhật gần nhất: 31/07/2026
 - Pause: Nhạc, Âm thanh, Rung; lưu PlayerPrefs.
 - Màn thắng/thua, chơi lại và tiếp tục level.
 - Nền tối, nút và nhân vật kết quả.
-- Home cùng scene gameplay; timer chưa chạy trước khi bấm Play.
+- Home đã tách riêng; timer chỉ bắt đầu sau khi tải GameplayScene.
 - Nút Home trong Pause và màn kết quả quay lại Home, giữ level hiện tại.
+- Đã tách luồng thành `BootScene → HomeScene → GameplayScene`.
+- Gameplay hỗ trợ Back/Escape để mở/đóng Pause và tự Pause khi ứng dụng
+  di chuyển xuống nền trên Android/iOS.
+- Cài đặt được AppRoot nạp một lần; component trong Gameplay chỉ liên kết
+  các công tắc Pause với trạng thái dùng chung.
+- Nhạc nền nằm trên AppRoot và không khởi động lại khi chuyển Home/Gameplay;
+  mở thẳng GameplayScene trong Editor vẫn có nhạc dự phòng.
+- Pause đóng băng `Time.timeScale`; Restart, Resume và chuyển scene luôn trả
+  tốc độ game về bình thường.
 
 ### Âm thanh và rung
 

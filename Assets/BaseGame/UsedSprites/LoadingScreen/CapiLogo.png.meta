@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a7f8080f046c9ae418373fdb3e1bad79
+guid: 14796c82423e0284f9225e78c1ff1bb2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4574212078531657959
-    second: Green Button_0
+      213: -8547917570596579799
+    second: CapiLogo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 50, y: 50, z: 50, w: 50}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Green Button_0
+      name: CapiLogo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 143
-        height: 186
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 50, y: 50, z: 50, w: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91fb1db89522580c0800000000000000
-      internalID: -4574212078531657959
+      spriteID: 92655432242bf5980800000000000000
+      internalID: -8547917570596579799
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Green Button_0: -4574212078531657959
+      CapiLogo_0: -8547917570596579799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

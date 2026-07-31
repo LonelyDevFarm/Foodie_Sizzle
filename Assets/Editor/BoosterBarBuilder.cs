@@ -18,7 +18,7 @@ namespace FoodieSizzle.EditorTools
         private const string SolidButtonMaterialPath =
             "Assets/Generated/BoosterButtonSolidAlpha.mat";
         private const string BoxPath =
-            "Assets/BaseGame/UsedSprites/box.png";
+            "Assets/BaseGame/UsedSprites/bag.png";
         private const string RefreshPath =
             "Assets/BaseGame/UsedSprites/refresh.png";
         private const string TimePath =
