@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +7,8 @@ namespace FoodieSizzle
     /// <summary>
     /// Lưu và áp dụng các thiết lập cơ bản của người chơi.
     /// </summary>
+    [DefaultExecutionOrder(-9500)]
+    [DisallowMultipleComponent]
     public class GameSettingsManager : MonoBehaviour
     {
         private const string MusicKey = "Settings_Music";
@@ -19,6 +22,7 @@ namespace FoodieSizzle
         public static bool MusicEnabled { get; private set; } = true;
         public static bool SoundEnabled { get; private set; } = true;
         public static bool VibrationEnabled { get; private set; } = true;
+        public static event Action<bool> MusicEnabledChanged;
         private static bool settingsLoaded;
         private static GameSettingsManager instance;
 
@@ -29,6 +33,7 @@ namespace FoodieSizzle
             // Hỗ trợ Editor tắt Domain Reload: mỗi lần bấm Play vẫn phải
             // đọc lại PlayerPrefs như một lần mở ứng dụng mới.
             settingsLoaded = false;
+            MusicEnabledChanged = null;
         }
 
         private void Awake()
@@ -59,7 +64,6 @@ namespace FoodieSizzle
             }
             RefreshToggles();
             WireToggles();
-            ApplyMusicState();
         }
 
         private void OnDestroy()
@@ -90,7 +94,6 @@ namespace FoodieSizzle
             {
                 RefreshToggles();
                 WireToggles();
-                ApplyMusicState();
             }
         }
 
@@ -210,7 +213,7 @@ namespace FoodieSizzle
         {
             MusicEnabled = enabled;
             SaveSetting(MusicKey, enabled);
-            ApplyMusicState();
+            MusicEnabledChanged?.Invoke(enabled);
         }
 
         private void SetSoundEnabled(bool enabled)
@@ -231,21 +234,5 @@ namespace FoodieSizzle
             PlayerPrefs.Save();
         }
 
-        private static void ApplyMusicState()
-        {
-            // Hiện dự án chưa có AudioManager riêng. Các AudioSource chạy lặp
-            // được xem là nhạc nền; SFX sau này kiểm tra SoundEnabled trước khi phát.
-            AudioSource[] sources =
-                Object.FindObjectsByType<AudioSource>(
-                    FindObjectsInactive.Include,
-                    FindObjectsSortMode.None);
-            foreach (AudioSource source in sources)
-            {
-                if (source != null && source.loop)
-                {
-                    source.mute = !MusicEnabled;
-                }
-            }
-        }
     }
 }

@@ -5658,7 +5658,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5af48eba4b56eb345a75b1b2445d76cd, type: 2}
   - {fileID: 11400000, guid: 188f4a23bc8e7e74ca1176d67501addc, type: 2}
   loadSavedLevelOnStart: 1
-  editorStartLevelOverride: 0
+  editorStartLevelOverride: 6
   skewersTarget: 18
   timeRemaining: 300
   liftOffset: 0.5
@@ -7167,6 +7167,14 @@ PrefabInstance:
     - target: {fileID: 6151515813999928046, guid: 864f5f3ec5077584d8fbba9ce6d514ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7872526039324097053, guid: 864f5f3ec5077584d8fbba9ce6d514ff, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7872526039324097053, guid: 864f5f3ec5077584d8fbba9ce6d514ff, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 124
       objectReference: {fileID: 0}
     - target: {fileID: 8629302190640967213, guid: 864f5f3ec5077584d8fbba9ce6d514ff, type: 3}
       propertyPath: m_Name

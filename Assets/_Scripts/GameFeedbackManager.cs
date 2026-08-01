@@ -62,6 +62,16 @@ namespace FoodieSizzle
         private float lastMatchingSetTime = -10f;
         private int matchingComboIndex;
 
+        private void OnEnable()
+        {
+            GameSettingsManager.MusicEnabledChanged += HandleMusicEnabled;
+        }
+
+        private void OnDisable()
+        {
+            GameSettingsManager.MusicEnabledChanged -= HandleMusicEnabled;
+        }
+
         private void Awake()
         {
             if (audioLibrary == null)
@@ -144,6 +154,14 @@ namespace FoodieSizzle
             musicSource.volume = 0.45f;
             musicSource.mute = !GameSettingsManager.MusicEnabled;
             musicSource.Play();
+        }
+
+        private void HandleMusicEnabled(bool enabled)
+        {
+            if (musicSource != null)
+            {
+                musicSource.mute = !enabled;
+            }
         }
 
         private AudioClip GetClip(FeedbackCue cue, int comboIndex)

@@ -6,11 +6,14 @@ namespace FoodieSizzle
     /// Phát một nguồn nhạc xuyên suốt Boot, Home và Gameplay.
     /// SFX vẫn thuộc GameplayScene vì chỉ cần tồn tại trong phiên chơi.
     /// </summary>
+    [DefaultExecutionOrder(-8000)]
     [DisallowMultipleComponent]
-    public class AppMusicPlayer : MonoBehaviour
+    public sealed class AppMusicPlayer : MonoBehaviour
     {
         private static AppMusicPlayer instance;
-        private AudioSource musicSource;
+
+        [SerializeField] private FeedbackAudioLibrary audioLibrary;
+        [SerializeField] private AudioSource musicSource;
 
         public static bool IsAvailable =>
             instance != null && instance.musicSource != null;
@@ -24,27 +27,39 @@ namespace FoodieSizzle
             }
 
             instance = this;
-            FeedbackAudioLibrary library =
-                Resources.Load<FeedbackAudioLibrary>(
-                    "FeedbackAudioLibrary");
-            if (library == null || library.gameplayMusic == null)
+            if (audioLibrary == null || musicSource == null)
             {
+                Debug.LogError(
+                    "AppMusicPlayer thiếu AudioLibrary hoặc AudioSource.",
+                    this);
                 return;
             }
 
-            musicSource = gameObject.AddComponent<AudioSource>();
-            musicSource.clip = library.gameplayMusic;
+            GameSettingsManager.MusicEnabledChanged += HandleMusicEnabled;
+            musicSource.clip = audioLibrary.gameplayMusic;
             musicSource.loop = true;
             musicSource.playOnAwake = false;
             musicSource.spatialBlend = 0f;
             musicSource.volume = 0.45f;
-            musicSource.mute = !GameSettingsManager.MusicEnabled;
-            musicSource.Play();
+            HandleMusicEnabled(GameSettingsManager.MusicEnabled);
+            if (musicSource.clip != null)
+            {
+                musicSource.Play();
+            }
         }
 
         private void OnDestroy()
         {
+            GameSettingsManager.MusicEnabledChanged -= HandleMusicEnabled;
             if (instance == this) instance = null;
+        }
+
+        private void HandleMusicEnabled(bool enabled)
+        {
+            if (musicSource != null)
+            {
+                musicSource.mute = !enabled;
+            }
         }
     }
 }
